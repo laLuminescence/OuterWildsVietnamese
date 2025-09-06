@@ -5,6 +5,8 @@
 
 configBackups/
 
+BaseTranslation.xml
+
 # User-specific files
 *.rsuser
 *.suo
