@@ -90,7 +90,7 @@
 		</key>
 		<value>
 			CASSAVA: Nếu Poke và tôi như dầu với nước, thì Clary là chất nhũ hóa giữa chúng tôi. Nhờ có cô ấy gắn kết, chúng tôi mới hợp tác hài hòa thành một đội được, dễ hơn nhiều so với việc phải trộn nước và dầu lại với nhau bằng cách lắc mạnh (mặc dù cũng nhiều lúc tôi muốn lắc cho Poke một trận!).
-		</value> 
+		</value>
 	</entry>
 	<entry>
 		<key>
@@ -149,12 +149,20 @@
 		</value>
 	</entry>
 	<entry>
-		<key>SOLANUM: Formation Of This Universe</key>
-		<value>SOLANUM: Sự Kiến Tạo Của Vũ Trụ</value>
+		<key>
+			SOLANUM: Formation Of This Universe
+		</key>
+		<value>
+			SOLANUM: Formation Of This Universe
+		</value>
 	</entry>
 	<entry>
-		<key>SOLANUM: No one knows how this universe was made, but one thing we do know is everything used to be very hot and very dense (tightly packed together).</key>
-		<value>SOLANUM: Chẳng ai biết rõ vũ trụ này được sinh ra như thế nào, nhưng chúng ta biết được rằng vạn vật đã từng rất nóng và rất đặc (nằm sát khít lại với nhau).</value>
+		<key>
+			SOLANUM: No one knows how this universe was made, but one thing we do know is everything used to be very hot and very dense (tightly packed together).
+		</key>
+		<value>
+			SOLANUM: No one knows how this universe was made, but one thing we do know is everything used to be very hot and very dense (tightly packed together).
+		</value>
 	</entry>
 	<entry>
 		<key>
@@ -480,10 +488,10 @@
 	</entry>
 	<entry>
 		<key>
-			FILIX: I’ve also heard the same signal this shard produces calling out from &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;, &lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;, and the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt;. Suppose there are other shards like this one!
+			FILIX: I’ve also heard the same signal this shard produces calling out from &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;,&lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;, and the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt;. Suppose there are other shards like this one!
 		</key>
 		<value>
-			FILIX: Tôi cũng nghe được tín hiệu tương tự phát ra từ &lt;color=lightblue&gt;Đại Dương Khổng Lồ&lt;/color&gt;,&lt;color=lightblue&gt;Rừng Thông Tổ Ấm&lt;/color&gt;, và cả &lt;color=lightblue&gt;Song Tinh Đồng Hồ Cát&lt;/color&gt;. Có lẽ tại đó cũng tồn tại những mảnh đá tương tự thứ này!
+			FILIX: I’ve also heard the same signal this shard produces calling out from &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;,&lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;, and the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt;. Suppose there are other shards like this one!
 		</value>
 	</entry>
 	<entry>
@@ -2592,7 +2600,7 @@
 	</entry>
 	<entry>
 		<key>Recording...Huh. Everything looks a-okay, ground control. No dust or scratches on the lens, and no evidence of sparking or violent explosions. Guess that rules out an equipment malfunction, after all.</key>
-		<value>...Ủa. Mọi thứ trông hoàn toàn ổn mà trạm kiểm soát. Các ống kính đều không bám bụi hay xước xát gì, cũng chẳng có dấu vết cháy chập gì luôn. Vậy nghĩa là không có trục trặc thiết bị gì hết.</value>
+		<value>...Ủa. Mọi thứ trông hoàn toàn ổn, báo cáo trạm kiểm soát. Các ống kính đều không bám bụi hay xước xát gì, cũng chẳng có dấu vết cháy chập gì luôn. Vậy nghĩa là không có trục trặc thiết bị gì hết.</value>
 	</entry>
 	<entry>
 		<key>RecordingHear that, pal? You’re in great shape. Keep up the good work out here!</key>
@@ -3992,26 +4000,26 @@
 	</entry>
 	<entry>
 		<key>
-			Melorae: If you’ve come here to look for Coleus, this is where we were when he vanished. He’s been missing for two days now!
+			MELORAE: If you’ve come here to look for Coleus, this is where we were when he vanished. He’s been missing for two days now!
 		</key>
 		<value>
-			Melorae: Nếu anh tới để tìm Coleus, thì đây là nơi nhóc ấy biến mất. Thằng bé mất tích được hai ngày rồi!
+			MELORAE: If you’ve come here to look for Coleus, this is where we were when he vanished. He’s been missing for two days now!
 		</value>
 	</entry>
 	<entry>
 		<key>
-			Annona: Your strange, wandering rock friend is here, though Coleus isn’t.
+			ANNONA: Your strange, wandering rock friend is here, though Coleus isn’t.
 		</key>
 		<value>
-			Annona: Hòn đá lảng vảng của anh cũng ở đây nè, mặc dù Coleus vẫn không thấy tăm hơi đâu.
+			ANNONA: Your strange, wandering rock friend is here, though Coleus isn’t.
 		</value>
 	</entry>
 	<entry>
 		<key>
-			Melorae: Coleus and I observed this unusual-looking rock shard (and several smaller rocks) in at least two other caverns. I’m unsure if this is relevant.
+			MELORAE: Coleus and I observed this unusual-looking rock shard (and several smaller rocks) in at least two other caverns. I’m unsure if this is relevant.
 		</key>
 		<value>
-			Melorae: Nhóc Coleus và tôi đã quan sát thấy mảnh đá kỳ lạ này (và nhiều mảnh đá nhỏ hơn nữa) tại ít nhất hai hang động khác rồi. Không biết chuyện này liệu có liên quan đến vụ mất tích không.
+			MELORAE: Coleus and I observed this unusual-looking rock shard (and several smaller rocks) in at least two other caverns. I’m unsure if this is relevant.
 		</value>
 	</entry>
 	<entry>
@@ -4024,18 +4032,18 @@
 	</entry>
 	<entry>
 		<key>
-			Melorae: We were examining the different rocks. I recall Coleus standing on the largest one (the wandering rock). I was taking notes, and then my lantern died.
+			MELORAE: We were examining the different rocks. I recall Coleus standing on the largest one (the wandering rock). I was taking notes, and then my lantern died.
 		</key>
 		<value>
-			Melorae: Chúng tôi đang khảo sát mấy hòn đá. Tôi còn nhớ lúc đó Coleus đang đứng trên tảng đá to nhất (chính là hòn đá lảng vảng luôn). Tôi đang mải ghi chép, thì lồng đèn của tôi đột ngột tắt.
+			MELORAE: We were examining the different rocks. I recall Coleus standing on the largest one (the wandering rock). I was taking notes, and then my lantern died.
 		</value>
 	</entry>
 	<entry>
 		<key>
-			Melorae: When I lit it again, Coleus and the rock were both gone.
+			MELORAE: When I lit it again, Coleus and the rock were both gone.
 		</key>
 		<value>
-			Melorae: Khi tôi thắp lại lồng đèn, thì cả Coleus lẫn hòn đá đều đã mất tích.
+			MELORAE: When I lit it again, Coleus and the rock were both gone.
 		</value>
 	</entry>
 	<entry>
@@ -5570,10 +5578,9 @@
 	</entry>
 	<entry>
 		<key>
-			Melorae: Coleus is missing! He vanished from the &lt;color=orange&gt;Lakebed Cave&lt;/color&gt; (the one at the bottom of the dry lakebed at the north pole) several days ago, and we’re unable to find any trace of him. I don’t know how much air he had when he disappeared. I beg any friend reading this, help us recover Coleus!
-		</key>
+			MELORAE: Coleus is missing! He vanished from the &lt;color=orange&gt;Lakebed Cave&lt;/color&gt; (the one at the bottom of the dry lakebed at the north pole) several days ago, and we’re unable to find any trace of him. I don’t know how much air he had when he disappeared. I beg any friend reading this, help us recover Coleus!</key>
 		<value>
-			Melorae: Nhóc Coleus mất tích rồi! Thằng nhóc biến mất khỏi &lt;color=orange&gt;Hang Đáy Hồ&lt;/color&gt; (cái hang ở dưới bề mặt hồ cạn tại cực bắc ấy) cách đây vài ngày, mà giờ chúng tôi vẫn chưa tìm được dấu vết nào của nó. Tôi cũng chẳng biết thằng nhóc còn bao nhiêu dưỡng khí lúc nó biến mất nữa. Tôi cầu xin bất cứ ai đọc được, hãy giúp chúng tôi tìm kiếm Coleus!
+			MELORAE: Coleus is missing! He vanished from the &lt;color=orange&gt;Lakebed Cave&lt;/color&gt; (the one at the bottom of the dry lakebed at the north pole) several days ago, and we’re unable to find any trace of him. I don’t know how much air he had when he disappeared. I beg any friend reading this, help us recover Coleus!
 		</value>
 	</entry>
 	<entry>
@@ -5951,7 +5958,7 @@
 	<entry>
 		<key>
 			Star has reached end of natural life cycle. Now approaching red giant stage. WARNING: Evacuate &lt;color=orange&gt;Sun Station&lt;/color&gt;.
-		</key>  
+		</key>
 		<value>
 			Vì sao này đã đến cuối vòng đời tự nhiên. Hiện đang chuyển sang giai đoạn sao khổng lồ đỏ. CẢNH BÁO: Hãy sơ tán khỏi &lt;color=orange&gt;Trạm Mặt Trời&lt;/color&gt;.
 		</value>
@@ -7882,7 +7889,7 @@
 	</entry>
 	<entry>
 		<key>Questions</key>
-		<value />
+		<value/>
 	</entry>
 	<entry>
 		<key>RiebeckQuestionsI learned something!</key>
@@ -10844,7 +10851,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Zero-G CaveA cave at the very center of Timber Hearth used by Outer Wilds Ventures to train new astronauts.</key>
-			<value>A cave at the very center of Rừng Thông Tổ Ấm used by Outer Wilds Ventures to train new astronauts.</value>
+			<value>A cave at the very center of Timber Hearth used by Outer Wilds Ventures to train new astronauts.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Zero-G CaveI successfully repaired another "satellite" for Gossan.</key>
@@ -10852,7 +10859,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Dark Bramble Seed</key>
-			<value>Hạt giống Rừng Gai Hắc Ám</value>
+			<value>Dark Bramble Seed</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Harmonica Signal</key>
@@ -10860,11 +10867,11 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Dark Bramble SeedEsker's signalscope log reports harmonica music coming from somewhere on Timber Hearth. They claim it sounds just like Feldspar's harmonica, but Feldspar disappeared in space ages ago.</key>
-			<value>Esker's signalscope log reports harmonica music coming from somewhere on Rừng Thông Tổ Ấm. They claim it sounds just like Feldspar's harmonica, but Feldspar disappeared in space ages ago.</value>
+			<value>Esker's signalscope log reports harmonica music coming from somewhere on Timber Hearth. They claim it sounds just like Feldspar's harmonica, but Feldspar disappeared in space ages ago.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Dark Bramble SeedA seed from Dark Bramble crashed here and has already taken root. Tektite wants to use a scout launcher to get a look at what's inside.</key>
-			<value>A seed from Rừng Gai Hắc Ám crashed here and has already taken root. Tektite wants to use a scout launcher to get a look at what's inside.</value>
+			<value>A seed from Dark Bramble crashed here and has already taken root. Tektite wants to use a scout launcher to get a look at what's inside.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Dark Bramble SeedMy signalscope picks up harmonica music when I aim it at the seed.</key>
@@ -10880,11 +10887,11 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai MinesThe Nomai were mining ore somewhere on Timber Hearth.</key>
-			<value>The Nomai were mining ore somewhere on Rừng Thông Tổ Ấm.</value>
+			<value>The Nomai were mining ore somewhere on Timber Hearth.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai MinesThe Nomai mined ore from this site to craft a protective shell designed to physically seal off the central chamber inside Ash Twin.</key>
-			<value>The Nomai mined ore from this site to craft a protective shell designed to physically seal off the central chamber inside Song Tinh Tro Tàn.</value>
+			<value>The Nomai mined ore from this site to craft a protective shell designed to physically seal off the central chamber inside Ash Twin.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai MinesOnce the shell was finished, the Nomai checked to ensure there were no longer any physical entrances or cracks.</key>
@@ -10904,11 +10911,11 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum GroveChert detected a strange signal coming from the crater at Timber Hearth's south pole. It's very similar to the signal emitted by the Quantum Moon.</key>
-			<value>Chert detected a strange signal coming from the crater at Rừng Thông Tổ Ấm's south pole. It's very similar to the signal emitted by the Quantum Moon.</value>
+			<value>Chert detected a strange signal coming from the crater at Timber Hearth's south pole. It's very similar to the signal emitted by the Quantum Moon.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum GroveThe Nomai detected a quantum signal coming from somewhere on Timber Hearth.</key>
-			<value>The Nomai detected a quantum signal coming from somewhere on Rừng Thông Tổ Ấm.</value>
+			<value>The Nomai detected a quantum signal coming from somewhere on Timber Hearth.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum GroveThere is a strange rock shard in this grove that moves when I’m not watching. It emits a signal on the Quantum Fluctuations frequency.</key>
@@ -10936,7 +10943,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Riebeck’s CampRiebeck headed to Brittle Hollow to investigate something the Nomai were doing at the south pole.</key>
-			<value>Riebeck headed to Vỏ Rỗng Rạn Nứt to investigate something the Nomai were doing at the south pole.</value>
+			<value>Riebeck headed to Brittle Hollow to investigate something the Nomai were doing at the south pole.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Riebeck’s CampRiebeck landed their ship near the big dome at the south pole. The door leading inside was broken, so they decided to head north to the ruins on the equator in search of a way beneath the surface.</key>
@@ -10956,7 +10963,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Riebeck’s CampRiebeck is Timber Hearth's only archaeologist. They overcame their fear of space to explore Brittle Hollow's treasure trove of Nomai culture.</key>
-			<value>Riebeck is Rừng Thông Tổ Ấm's only archaeologist. They overcame their fear of space to explore Vỏ Rỗng Rạn Nứt's treasure trove of Nomai culture.</value>
+			<value>Riebeck is Timber Hearth's only archaeologist. They overcame their fear of space to explore Brittle Hollow's treasure trove of Nomai culture.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gravity Cannon</key>
@@ -10976,11 +10983,11 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum KnowledgeThis tower (located on Brittle Hollow's equator) held useful knowledge for Nomai embarking on their first pilgrimage to the Quantum Moon.</key>
-			<value>This tower (located on Vỏ Rỗng Rạn Nứt's equator) held useful knowledge for Nomai embarking on their first pilgrimage to the Quantum Moon.</value>
+			<value>This tower (located on Brittle Hollow's equator) held useful knowledge for Nomai embarking on their first pilgrimage to the Quantum Moon.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum KnowledgeA Nomai named Solanum was told to visit the Tower of Quantum Knowledge (on Brittle Hollow's equator) to learn one final rule before embarking on her pilgrimage to the Quantum Moon.</key>
-			<value>A Nomai named Solanum was told to visit the Tower of Quantum Knowledge (on Vỏ Rỗng Rạn Nứt's equator) to learn one final rule before embarking on her pilgrimage to the Quantum Moon.</value>
+			<value>A Nomai named Solanum was told to visit the Tower of Quantum Knowledge (on Brittle Hollow's equator) to learn one final rule before embarking on her pilgrimage to the Quantum Moon.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum KnowledgeThe Nomai built a shrine on the Quantum Moon to aid in the pilgrimage to its sixth location. "Remember this final rule: To explore the sixth location, the shrine must be on the moon’s north pole."</key>
@@ -10992,7 +10999,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum KnowledgeAfter the two groups of Nomai stranded on Ember Twin and Brittle Hollow were reunited, it became their united goal to find and visit the Quantum Moon.</key>
-			<value>After the two groups of Nomai stranded on Song Tinh Than Hồng and Vỏ Rỗng Rạn Nứt were reunited, it became their united goal to find and visit the Quantum Moon.</value>
+			<value>After the two groups of Nomai stranded on Ember Twin and Brittle Hollow were reunited, it became their united goal to find and visit the Quantum Moon.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum Shard</key>
@@ -11020,7 +11027,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Northern GlacierThe north pole of Brittle Hollow is covered in snow and ice. There is a uniquely shaped Nomai ruin on the surface.</key>
-			<value>The north pole of Vỏ Rỗng Rạn Nứt is covered in snow and ice. There is a uniquely shaped Nomai ruin on the surface.</value>
+			<value>The north pole of Brittle Hollow is covered in snow and ice. There is a uniquely shaped Nomai ruin on the surface.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Northern GlacierThe Nomai were able to warp here from the White Hole Station. This is where they first recreated warp technology.</key>
@@ -11032,7 +11039,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 1One of the three Nomai escape pods landed somewhere on Brittle Hollow.</key>
-			<value>One of the three Nomai escape pods landed somewhere on Vỏ Rỗng Rạn Nứt.</value>
+			<value>One of the three Nomai escape pods landed somewhere on Brittle Hollow.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 1One of three Nomai escape pods that crashed in our solar system.</key>
@@ -11052,7 +11059,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Old SettlementThe Nomai survivors who crashed on Brittle Hollow climbed down the cliff to a shelter site below the surface.</key>
-			<value>The Nomai survivors who crashed on Vỏ Rỗng Rạn Nứt climbed down the cliff to a shelter site below the surface.</value>
+			<value>The Nomai survivors who crashed on Brittle Hollow climbed down the cliff to a shelter site below the surface.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Old SettlementThe Nomai constructed a temporary settlement beneath their crashed escape pod.</key>
@@ -11084,7 +11091,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Mural (Panel 2)A mural of Dark Bramble ensnaring the Nomai vessel.</key>
-			<value>A mural of Rừng Gai Hắc Ám ensnaring the Nomai vessel.</value>
+			<value>A mural of Dark Bramble ensnaring the Nomai vessel.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Mural (Panel 1)</key>
@@ -11112,7 +11119,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Hanging CityA Nomai city suspended beneath Brittle Hollow's northern glacier. The city is divided vertically into four districts.</key>
-			<value>A Nomai city suspended beneath Vỏ Rỗng Rạn Nứt's northern glacier. The city is divided vertically into four districts.</value>
+			<value>A Nomai city suspended beneath Brittle Hollow's northern glacier. The city is divided vertically into four districts.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Hanging CityI found a switch in the Meltwater District that raises and lowers the Black Hole Forge.</key>
@@ -11120,7 +11127,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Hanging CityThe Nomai debated how to obtain the powerful, highly advanced warp core required for the Ash Twin Project.</key>
-			<value>The Nomai debated how to obtain the powerful, highly advanced warp core required for the Dự Án Song Tinh Tro Tàn.</value>
+			<value>The Nomai debated how to obtain the powerful, highly advanced warp core required for the Ash Twin Project.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Hanging CityThe Nomai traveled to this solar system in pursuit of a signal from something older than the universe itself. They named the source of this signal the "Eye of the universe."</key>
@@ -11144,7 +11151,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeThe Nomai crafted warp cores at the Black Hole Forge before delivering them to Ash Twin.</key>
-			<value>The Nomai crafted warp cores at the Black Hole Forge before delivering them to Song Tinh Tro Tàn.</value>
+			<value>The Nomai crafted warp cores at the Black Hole Forge before delivering them to Ash Twin.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeA warp tower's alignment point is not its warp receiver. Rather, a warp tower always aligns with the center of its corresponding astral body.</key>
@@ -11156,15 +11163,15 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeThe Hourglass Twins are so close together they function as a single astral body, with a shared alignment point in between them.</key>
-			<value>The Song Tinh Đồng Hồ Cát are so close together they function as a single astral body, with a shared alignment point in between them.</value>
+			<value>The Hourglass Twins are so close together they function as a single astral body, with a shared alignment point in between them.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeAll of the warp towers were being constructed on Ash Twin, while the six warp receivers were being constructed at different locations.</key>
-			<value>All of the warp towers were being constructed on Song Tinh Tro Tàn, while the six warp receivers were being constructed at different locations.</value>
+			<value>All of the warp towers were being constructed on Ash Twin, while the six warp receivers were being constructed at different locations.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeA Nomai named Poke successfully forged an advanced warp core for the Ash Twin Project.</key>
-			<value>A Nomai named Poke successfully forged an advanced warp core for the Dự Án Song Tinh Tro Tàn.</value>
+			<value>A Nomai named Poke successfully forged an advanced warp core for the Ash Twin Project.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Alignment Angle Diagram</key>
@@ -11192,11 +11199,11 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Southern ObservatoryThe Nomai decided to build a larger, more sophisticated Eye signal locator on Brittle Hollow's south pole.</key>
-			<value>The Nomai decided to build a larger, more sophisticated Eye signal locator on Vỏ Rỗng Rạn Nứt's south pole.</value>
+			<value>The Nomai decided to build a larger, more sophisticated Eye signal locator on Brittle Hollow's south pole.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Southern ObservatoryThere are two paths beneath Brittle Hollow's surface that lead to the observatory. One starts at the gravity cannon, and the other starts at the Tower of Quantum Knowledge.</key>
-			<value>There are two paths beneath Vỏ Rỗng Rạn Nứt's surface that lead to the observatory. One starts at the gravity cannon, and the other starts at the Tower of Quantum Knowledge.</value>
+			<value>There are two paths beneath Brittle Hollow's surface that lead to the observatory. One starts at the gravity cannon, and the other starts at the Tower of Quantum Knowledge.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Southern ObservatoryRiebeck says you can't get into the observatory from the surface (they tried), but there's probably a path to it beneath the crust somewhere.</key>
@@ -11232,11 +11239,11 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tornado SimulationThe Nomai at the Southern Observatory constructed a model of Giant's Deep that revealed how an object might sink below the strong ocean current.</key>
-			<value>The Nomai at the Southern Observatory constructed a model of Đại Dương Khổng Lồ that revealed how an object might sink below the strong ocean current.</value>
+			<value>The Nomai at the Southern Observatory constructed a model of Giant's Deep that revealed how an object might sink below the strong ocean current.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tornado SimulationMost cyclones on Giant's Deep rotate clockwise. These are the cyclones the Nomai used to send components into orbit.</key>
-			<value>Most cyclones on Đại Dương Khổng Lồ rotate clockwise. These are the cyclones the Nomai used to send components into orbit.</value>
+			<value>Most cyclones on Giant's Deep rotate clockwise. These are the cyclones the Nomai used to send components into orbit.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tornado SimulationThere also exists a rarer type of cyclone that spins the opposite direction and pushes objects beneath the waters and below the current.</key>
@@ -11252,7 +11259,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Feldspar’s CampFeldspar headed off to Dark Bramble after reaching the core of Giant's Deep.</key>
-			<value>Feldspar headed off to Rừng Gai Hắc Ám after reaching the core of Đại Dương Khổng Lồ.</value>
+			<value>Feldspar headed off to Dark Bramble after reaching the core of Giant's Deep.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Inside the Seed</key>
@@ -11260,7 +11267,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Feldspar’s CampWhen I launch my scout into the seed that crashed on Timber Hearth, it ends up in a much bigger space filled with fog and thorny vines.</key>
-			<value>When I launch my scout into the seed that crashed on Rừng Thông Tổ Ấm, it ends up in a much bigger space filled with fog and thorny vines.</value>
+			<value>When I launch my scout into the seed that crashed on Timber Hearth, it ends up in a much bigger space filled with fog and thorny vines.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Feldspar’s CampFeldspar is alive! They crashed their ship and is now camping inside a huge anglerfish skeleton.</key>
@@ -11268,7 +11275,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Feldspar’s CampFeldspar doesn't think my scout tracker is wrong when it says my scout is in two places at once. They have a theory that space doesn’t work the same inside Dark Bramble.</key>
-			<value>Feldspar doesn't think my scout tracker is wrong when it says my scout is in two places at once. They have a theory that space doesn’t work the same inside Rừng Gai Hắc Ám.</value>
+			<value>Feldspar doesn't think my scout tracker is wrong when it says my scout is in two places at once. They have a theory that space doesn’t work the same inside Dark Bramble.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Feldspar’s CampFeldspar doesn't sound overly eager to return to civilization. They've been enjoying the (relative) peace and quiet.</key>
@@ -11284,7 +11291,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen JellyfishFeldspar hinted that a secret to reaching the core of Giant's Deep lies at the end of the hollow vine they crashed their ship into. To find Feldspar's ship, I'll want to go to the tail end of the anglerfish skeleton and look for a flickering light in the fog.</key>
-			<value>Feldspar hinted that a secret to reaching the core of Đại Dương Khổng Lồ lies at the end of the hollow vine they crashed their ship into. To find Feldspar's ship, I'll want to go to the tail end of the anglerfish skeleton and look for a flickering light in the fog.</value>
+			<value>Feldspar hinted that a secret to reaching the core of Giant's Deep lies at the end of the hollow vine they crashed their ship into. To find Feldspar's ship, I'll want to go to the tail end of the anglerfish skeleton and look for a flickering light in the fog.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen JellyfishFeldspar documented their attempts to eat this enormous jellyfish frozen in the ice. The outside was all rubbery and tough, possibly because it insulates the jellyfish’s insides from getting zapped by electricity.</key>
@@ -11304,7 +11311,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 3One of the three Nomai escape pods never made it out of Dark Bramble.</key>
-			<value>One of the three Nomai escape pods never made it out of Rừng Gai Hắc Ám.</value>
+			<value>One of the three Nomai escape pods never made it out of Dark Bramble.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 3One of three Nomai escape pods that crashed in our solar system.</key>
@@ -11336,7 +11343,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai GraveThe survivors from Escape Pod 3 followed one of the two Vessel beacons to a small Dark Bramble seed, where they could go no further.</key>
-			<value>The survivors from Escape Pod 3 followed one of the two Vessel beacons to a small Rừng Gai Hắc Ám seed, where they could go no further.</value>
+			<value>The survivors from Escape Pod 3 followed one of the two Vessel beacons to a small Dark Bramble seed, where they could go no further.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai GraveThe Nomai could faintly hear the Vessel's beacon from within the seed, but the opening was too small for a single Nomai to fit through, much less an escape pod.</key>
@@ -11360,11 +11367,11 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselThe Vessel crashed somewhere in Dark Bramble.</key>
-			<value>The Vessel crashed somewhere in Rừng Gai Hắc Ám.</value>
+			<value>The Vessel crashed somewhere in Dark Bramble.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselThe Vessel's warp core broke when the ship crashed in Dark Bramble.</key>
-			<value>The Vessel's warp core broke when the ship crashed in Rừng Gai Hắc Ám.</value>
+			<value>The Vessel's warp core broke when the ship crashed in Dark Bramble.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselI launched my scout into the seed at the Nomai Grave and took photos of an enormous derelict Nomai ship.</key>
@@ -11372,7 +11379,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselI found the derelict Nomai Vessel deep within Dark Bramble.</key>
-			<value>I found the derelict Nomai Vessel deep within Rừng Gai Hắc Ám.</value>
+			<value>I found the derelict Nomai Vessel deep within Dark Bramble.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselThe Vessel's warp core is long dead.</key>
@@ -11400,15 +11407,15 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Probe CannonThe Nomai finished building the final module for the Orbital Probe Cannon and sent it into orbit around Giant’s Deep.</key>
-			<value>The Nomai finished building the final module for the Orbital Probe Cannon and sent it into orbit around Đại Dương Khổng Lồ.</value>
+			<value>The Nomai finished building the final module for the Orbital Probe Cannon and sent it into orbit around Giant’s Deep.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Probe CannonI used a Nomai projection pool and saw the interior of a space station in orbit around Giant's Deep.</key>
-			<value>I used a Nomai projection pool and saw the interior of a space station in orbit around Đại Dương Khổng Lồ.</value>
+			<value>I used a Nomai projection pool and saw the interior of a space station in orbit around Giant's Deep.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Probe CannonThe Nomai decided to construct a probe cannon in orbit around Giant’s Deep.</key>
-			<value>The Nomai decided to construct a probe cannon in orbit around Đại Dương Khổng Lồ.</value>
+			<value>The Nomai decided to construct a probe cannon in orbit around Giant’s Deep.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Flash</key>
@@ -11416,11 +11423,11 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Probe CannonGabbro sees a bright flash in the sky at the start of every loop. Something must be happening in orbit around Giant’s Deep.</key>
-			<value>Gabbro sees a bright flash in the sky at the start of every loop. Something must be happening in orbit around Đại Dương Khổng Lồ.</value>
+			<value>Gabbro sees a bright flash in the sky at the start of every loop. Something must be happening in orbit around Giant’s Deep.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Probe CannonThe broken remains of a Nomai space station in orbit around Giant's Deep. There are three accessways branching off from the central hub area.</key>
-			<value>The broken remains of a Nomai space station in orbit around Đại Dương Khổng Lồ. There are three accessways branching off from the central hub area.</value>
+			<value>The broken remains of a Nomai space station in orbit around Giant's Deep. There are three accessways branching off from the central hub area.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Probe CannonThe Orbital Probe Cannon was created to find the precise location of the Eye of the universe.</key>
@@ -11464,7 +11471,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleThe statue in the Probe Tracking Module automatically records each probe's trajectory and transmits the data to the Ash Twin Project.</key>
-			<value>The statue in the Probe Tracking Module automatically records each probe's trajectory and transmits the data to the Dự Án Song Tinh Tro Tàn.</value>
+			<value>The statue in the Probe Tracking Module automatically records each probe's trajectory and transmits the data to the Ash Twin Project.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleI found Nomai coordinates marking the location of the Eye of the universe.</key>
@@ -11508,7 +11515,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Control ModuleThe Control Module (recently) received a request from the Ash Twin Project to launch the probe. The cannon was aligned with a randomly selected probe trajectory.</key>
-			<value>The Control Module (recently) received a request from the Dự Án Song Tinh Tro Tàn to launch the probe. The cannon was aligned with a randomly selected probe trajectory.</value>
+			<value>The Control Module (recently) received a request from the Ash Twin Project to launch the probe. The cannon was aligned with a randomly selected probe trajectory.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Control ModuleThe probe was successfully launched, but the cannon's structural integrity was compromised in the process. Damage is detected in multiple modules.</key>
@@ -11516,7 +11523,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Stranger</key>
-			<value>Kẻ Lạ Mặt</value>
+			<value>The Stranger</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The StrangerA massive artificial ring world hidden within some sort of cloaking field. It does not appear to be Hearthian or Nomaian in origin.</key>
@@ -11528,7 +11535,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>River LowlandsA low-lying region near the entrance to the Stranger. There are wooden buildings along the banks of the river.</key>
-			<value>A low-lying region near the entrance to Kẻ Lạ Mặt. There are wooden buildings along the banks of the river.</value>
+			<value>A low-lying region near the entrance to the Stranger. There are wooden buildings along the banks of the river.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>River LowlandsI found several ornate metal artifacts inside a workshop surrounded by ghost matter.</key>
@@ -11540,7 +11547,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Burned Slide ReelA slide reel that shows the origin of the Stranger and its inhabitants.</key>
-			<value>A slide reel that shows the origin of Kẻ Lạ Mặt and its inhabitants.</value>
+			<value>A slide reel that shows the origin of the Stranger and its inhabitants.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Burned Slide ReelSeveral slides have been burned and cannot be viewed.</key>
@@ -11556,7 +11563,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Slide Burning RoomA map I found in the Abandoned Temple reveals a secret location somewhere within the Stranger.</key>
-			<value>A map I found in the Abandoned Temple reveals a secret location somewhere within Kẻ Lạ Mặt.</value>
+			<value>A map I found in the Abandoned Temple reveals a secret location somewhere within the Stranger.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Slide Burning RoomA room full of burned slide reels piled next to a strange device.</key>
@@ -11584,11 +11591,11 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Burned Slide ReelA slide reel that shows the Stranger's inhabitants analyzing an anomaly that closely resembles the Nomai symbol for the Eye of the universe.</key>
-			<value>A slide reel that shows Kẻ Lạ Mặt's inhabitants analyzing an anomaly that closely resembles the Nomai symbol for the Eye of the universe.</value>
+			<value>A slide reel that shows the Stranger's inhabitants analyzing an anomaly that closely resembles the Nomai symbol for the Eye of the universe.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Burned Slide ReelA slide reel that shows the Stranger's inhabitants analyzing the Eye of the universe.</key>
-			<value>A slide reel that shows Kẻ Lạ Mặt's inhabitants analyzing the Eye of the universe.</value>
+			<value>A slide reel that shows the Stranger's inhabitants analyzing the Eye of the universe.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Slide Burning RoomI found a hidden slide reel that shows a container marked with a glowing symbol being handed to a shadowy figure. The lights are extinguished, and the figure carries the container down into a dark well.</key>
@@ -11612,19 +11619,27 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Island TowerI found a slide reel that shows the Stranger's inhabitants opening a secret passage in a round room filled with lanterns and murals. The inhabitants are shown filing into three of these rooms throughout the Stranger.</key>
-			<value>I found a slide reel that shows Kẻ Lạ Mặt's inhabitants opening a secret passage in a round room filled with lanterns and murals. The inhabitants are shown filing into three of these rooms throughout Kẻ Lạ Mặt.</value>
+			<value>I found a slide reel that shows the Stranger's inhabitants opening a secret passage in a round room filled with lanterns and murals. The inhabitants are shown filing into three of these rooms throughout the Stranger.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Symbol Room</key>
 			<value>Symbol Room</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
+			<key>Hidden Vault Seals</key>
+			<value>Hidden Vault Seals</value>
+		</TranslationTableEntry>
+		<TranslationTableEntry>
 			<key>Secret Passage</key>
 			<value>Secret Passage</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
-			<key>Symbol RoomThe light coming out of the vault gave me a vision of climbing a spiral staircase to a room near the top of a tower. One of the Stranger's inhabitants pointed at a mural of an identical tower beneath a ringed planet, then picked up an artifact and carried it downstairs to a room with a green fire. Some time later, several lamps in the mural room turned on while others turned off, plunging the mural into darkness and revealing a secret passage.</key>
-			<value>The light coming out of the vault gave me a vision of climbing a spiral staircase to a room near the top of a tower. One of Kẻ Lạ Mặt's inhabitants pointed at a mural of an identical tower beneath a ringed planet, then picked up an artifact and carried it downstairs to a room with a green fire. Some time later, several lamps in the mural room turned on while others turned off, plunging the mural into darkness and revealing a secret passage.</value>
+			<key>Symbol RoomThe light coming out of the vault gave me a vision of climbing a spiral staircase to a room near the top of a tower. One of the Stranger's inhabitants pointed at a mural of an identical tower beneath a ringed planet, then picked up an artifact and carried it downstairs to a room with a green fire. Some time later, two of the lamps in the mural room turned off, plunging the mural into darkness and revealing a secret passage.</key>
+			<value>The light coming out of the vault gave me a vision of climbing a spiral staircase to a room near the top of a tower. One of the Stranger's inhabitants pointed at a mural of an identical tower beneath a ringed planet, then picked up an artifact and carried it downstairs to a room with a green fire. Some time later, two of the lamps in the mural room turned off, plunging the mural into darkness and revealing a secret passage.</value>
+		</TranslationTableEntry>
+		<TranslationTableEntry>
+			<key>Symbol RoomThe passage lead to three wooden containers, each marked with a glowing vault seal.</key>
+			<value>The passage led to three wooden containers, each marked with a glowing vault seal.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Symbol RoomA secret room filled with wooden containers marked with different symbols.</key>
@@ -11652,7 +11667,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Burned Slide ReelA slide reel that shows the Stranger's inhabitants congregating around a strange green fire.</key>
-			<value>A slide reel that shows Kẻ Lạ Mặt's inhabitants congregating around a strange green fire.</value>
+			<value>A slide reel that shows the Stranger's inhabitants congregating around a strange green fire.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Damaged Laboratory</key>
@@ -11664,11 +11679,11 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Damaged LaboratoryI found a slide reel in the Hidden Gorge that shows an explosion blowing a hole in the side of the Stranger.</key>
-			<value>I found a slide reel in the Hidden Gorge that shows an explosion blowing a hole in the side of Kẻ Lạ Mặt.</value>
+			<value>I found a slide reel in the Hidden Gorge that shows an explosion blowing a hole in the side of the Stranger.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Damaged LaboratoryA laboratory with three test chambers. The second chamber is badly damaged and can be entered through a hull breach in the side of the Stranger.</key>
-			<value>A laboratory with three test chambers. The second chamber is badly damaged and can be entered through a hull breach in the side of Kẻ Lạ Mặt.</value>
+			<value>A laboratory with three test chambers. The second chamber is badly damaged and can be entered through a hull breach in the side of the Stranger.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Damaged LaboratoryI saw a vision-like recording of someone picking up an artifact and going to sleep in front of a green fire. The rest of the vision was distorted and difficult to make out, but a flame seemed to appear inside the artifact.</key>
@@ -11704,7 +11719,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Abandoned TempleI found a slide reel that shows the Stranger's inhabitants removing all of the slide reels from their shelves, scanning each reel with a device, and incinerating specific slides as well as entire reels.</key>
-			<value>I found a slide reel that shows Kẻ Lạ Mặt's inhabitants removing all of the slide reels from their shelves, scanning each reel with a device, and incinerating specific slides as well as entire reels.</value>
+			<value>I found a slide reel that shows the Stranger's inhabitants removing all of the slide reels from their shelves, scanning each reel with a device, and incinerating specific slides as well as entire reels.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Map Projection 1</key>
@@ -11712,7 +11727,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Map Projection 1A projection that seems to reveal a secret location somewhere within the Stranger.</key>
-			<value>A projection that seems to reveal a secret location somewhere within Kẻ Lạ Mặt.</value>
+			<value>A projection that seems to reveal a secret location somewhere within the Stranger.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Map Projection 2</key>
@@ -11720,7 +11735,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Map Projection 2A projection that seems to reveal a secret location somewhere within the Stranger.</key>
-			<value>A projection that seems to reveal a secret location somewhere within Kẻ Lạ Mặt.</value>
+			<value>A projection that seems to reveal a secret location somewhere within the Stranger.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Map Projection 3</key>
@@ -11728,7 +11743,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Map Projection 3A projection that seems to reveal a secret location somewhere within the Stranger.</key>
-			<value>A projection that seems to reveal a secret location somewhere within Kẻ Lạ Mặt.</value>
+			<value>A projection that seems to reveal a secret location somewhere within the Stranger.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Reservoir</key>
@@ -11740,11 +11755,11 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>ReservoirI found a room with a burned control interface and a projection that seems to indicate a broken connection between the Stranger and another craft.</key>
-			<value>I found a room with a burned control interface and a projection that seems to indicate a broken connection between Kẻ Lạ Mặt and another craft.</value>
+			<value>I found a room with a burned control interface and a projection that seems to indicate a broken connection between the Stranger and another craft.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>ReservoirI found a projection showing the Stranger's current trajectory and the sun's predicted supernova radius.</key>
-			<value>I found a projection showing Kẻ Lạ Mặt's current trajectory and the sun's predicted supernova radius.</value>
+			<value>I found a projection showing the Stranger's current trajectory and the sun's predicted supernova radius.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Burned Slide ReelA slide reel that shows a strange vault being encased in a large metal structure and lowered underwater.</key>
@@ -11783,20 +11798,36 @@
 			<value>Subterranean Lake</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
+			<key>Enclosed Fire</key>
+			<value>Enclosed Fire</value>
+		</TranslationTableEntry>
+		<TranslationTableEntry>
 			<key>Fire Chamber</key>
 			<value>Fire Chamber</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
-			<key>Subterranean LakeI looked through a peephole in the side of a large metal structure suspended by chains and saw a green fire burning inside.</key>
-			<value>I looked through a peephole in the side of a large metal structure suspended by chains and saw a green fire burning inside.</value>
+			<key>Subterranean LakeI looked through a peephole in the side of a large metal structure suspended by chains. Inside is another green fire and a staircase leading farther below.</key>
+			<value>I looked through a peephole in the side of a large metal structure suspended by chains. Inside is another green fire and a staircase leading farther below.</value>
+		</TranslationTableEntry>
+		<TranslationTableEntry>
+			<key>Subterranean LakeI looked through a peephole in the side of a large metal structure suspended by chains like the one in the Reservoir. Inside is another green fire and a staircase leading farther below.</key>
+			<value>I looked through a peephole in the side of a large metal structure suspended by chains like the one in the Reservoir. Inside is another green fire and a staircase leading farther below.</value>
+		</TranslationTableEntry>
+		<TranslationTableEntry>
+			<key>Vault Room Fire</key>
+			<value>Vault Room Fire</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Missing Vault</key>
 			<value>Missing Vault</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
-			<key>Subterranean LakeI saw a vision-like recording of two figures taking artifacts into a large metal structure suspended by chains and going to sleep at the green fire in front of the sealed vault. Upon waking up with lit artifacts, the two figures picked up the vault and carried it down a staircase and out of sight.</key>
-			<value>I saw a vision-like recording of two figures taking artifacts into a large metal structure suspended by chains and going to sleep at the green fire in front of the sealed vault. Upon waking up with lit artifacts, the two figures picked up the vault and carried it down a staircase and out of sight.</value>
+			<key>Subterranean LakeI saw a vision-like recording of two figures taking artifacts into a large metal structure suspended by chains and going to sleep at the green fire in front of the sealed vault. Upon waking up with lit artifacts, the two figures picked up the vault and carried it down a staircase to somewhere farther below.</key>
+			<value>I saw a vision-like recording of two figures taking artifacts into a large metal structure suspended by chains and going to sleep at the green fire in front of the sealed vault. Upon waking up with lit artifacts, the two figures picked up the vault and carried it down a staircase to somewhere farther below.</value>
+		</TranslationTableEntry>
+		<TranslationTableEntry>
+			<key>Subterranean LakeI saw a vision-like recording of two figures taking artifacts into the Reservoir's submerged structure and going to sleep at the green fire in front of the sealed vault. Upon waking up with lit artifacts, the two figures picked up the vault and carried it down a staircase to somewhere farther below.</key>
+			<value>I saw a vision-like recording of two figures taking artifacts into the Reservoir's submerged structure and going to sleep at the green fire in front of the sealed vault. Upon waking up with lit artifacts, the two figures picked up the vault and carried it down a staircase to somewhere farther below.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Subterranean LakeI discovered a vast subterranean lake beneath the submerged structure. The sealed vault is resting on the shore of the lake. There are three interfaces, each marked with one of the three symbols from the vault.</key>
@@ -11828,7 +11859,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sealed VaultI met one of the Stranger's inhabitants who was imprisoned within the vault!</key>
-			<value>I met one of Kẻ Lạ Mặt's inhabitants who was imprisoned within the vault!</value>
+			<value>I met one of the Stranger's inhabitants who was imprisoned within the vault!</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sealed VaultThe Prisoner showed me a vision revealing the actions they took that resulted in their eternal confinement.</key>
@@ -11837,6 +11868,10 @@
 		<TranslationTableEntry>
 			<key>Sealed VaultI used the vision torch to share my knowledge of the solar system's history with the Prisoner.</key>
 			<value>I used the vision torch to share my knowledge of the solar system's history with the Prisoner.</value>
+		</TranslationTableEntry>
+		<TranslationTableEntry>
+			<key>Sealed VaultThe Prisoner left one final vision for me by the water's edge as a farewell.</key>
+			<value>The Prisoner left one final vision for me by the water's edge as a farewell.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Shrouded Woodlands</key>
@@ -11880,15 +11915,15 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a slide reel that shows the origin of the Stranger and its inhabitants.</key>
-			<value>I found a slide reel that shows the origin of Kẻ Lạ Mặt and its inhabitants.</value>
+			<value>I found a slide reel that shows the origin of the Stranger and its inhabitants.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveIntact slides reveal the sacrifice that was made to build the Stranger.</key>
-			<value>Intact slides reveal the sacrifice that was made to build Kẻ Lạ Mặt.</value>
+			<value>Intact slides reveal the sacrifice that was made to build the Stranger.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a slide reel that appears to be some sort of error report. It shows one of the Stranger's inhabitants jumping off a raft during a transition between areas and falling below the world.</key>
-			<value>I found a slide reel that appears to be some sort of error report. It shows one of Kẻ Lạ Mặt's inhabitants jumping off a raft during a transition between areas and falling below the world.</value>
+			<value>I found a slide reel that appears to be some sort of error report. It shows one of the Stranger's inhabitants jumping off a raft during a transition between areas and falling below the world.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Starlit Cove</key>
@@ -11928,11 +11963,11 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a slide reel that shows the Stranger's inhabitants analyzing an anomaly that closely resembles the Nomai symbol for the Eye of the universe.</key>
-			<value>I found a slide reel that shows Kẻ Lạ Mặt's inhabitants analyzing an anomaly that closely resembles the Nomai symbol for the Eye of the universe.</value>
+			<value>I found a slide reel that shows the Stranger's inhabitants analyzing an anomaly that closely resembles the Nomai symbol for the Eye of the universe.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a slide reel that shows the Stranger's inhabitants analyzing the Eye of the universe.</key>
-			<value>I found a slide reel that shows Kẻ Lạ Mặt's inhabitants analyzing the Eye of the universe.</value>
+			<value>I found a slide reel that shows the Stranger's inhabitants analyzing the Eye of the universe.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveIntact slides reveal the construction and launch of a spacecraft designed to block the Eye's signal.</key>
@@ -11944,7 +11979,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a slide reel that appears to be some sort of error report. It shows an alarm bell failing to wake up one of the Stranger's inhabitants.</key>
-			<value>I found a slide reel that appears to be some sort of error report. It shows an alarm bell failing to wake up one of Kẻ Lạ Mặt's inhabitants.</value>
+			<value>I found a slide reel that appears to be some sort of error report. It shows an alarm bell failing to wake up one of the Stranger's inhabitants.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Endless Canyon</key>
@@ -11972,7 +12007,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a slide reel that shows the Stranger's inhabitants congregating around a strange green fire.</key>
-			<value>I found a slide reel that shows Kẻ Lạ Mặt's inhabitants congregating around a strange green fire.</value>
+			<value>I found a slide reel that shows the Stranger's inhabitants congregating around a strange green fire.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveIntact slides reveal the creation of a simulated reality modeled after their home moon.</key>
@@ -11980,7 +12015,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a slide reel that appears to be some sort of error report. It shows one of the Stranger's inhabitants dropping their artifact on the ground and walking beyond its projection radius.</key>
-			<value>I found a slide reel that appears to be some sort of error report. It shows one of Kẻ Lạ Mặt's inhabitants dropping their artifact on the ground and walking beyond its projection radius.</value>
+			<value>I found a slide reel that appears to be some sort of error report. It shows one of the Stranger's inhabitants dropping their artifact on the ground and walking beyond its projection radius.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Chert’s Camp</key>
@@ -11988,7 +12023,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Chert’s CampChert has set up their astronomy gear on the north pole of Ember Twin.</key>
-			<value>Chert has set up their astronomy gear on the north pole of Song Tinh Than Hồng.</value>
+			<value>Chert has set up their astronomy gear on the north pole of Ember Twin.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Chert’s CampChert has spotted an unusually high number of supernovae recently.</key>
@@ -12024,11 +12059,11 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gravity CannonThe Nomai shuttle that's frozen on the Interloper can be called home to the gravity cannon on Ember Twin.</key>
-			<value>The Nomai shuttle that's frozen on Sao Chổi Tọc Mạch can be called home to the gravity cannon on Song Tinh Than Hồng.</value>
+			<value>The Nomai shuttle that's frozen on the Interloper can be called home to the gravity cannon on Ember Twin.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gravity CannonI recalled a Nomai shuttle from the Interloper.</key>
-			<value>I recalled a Nomai shuttle from Sao Chổi Tọc Mạch.</value>
+			<value>I recalled a Nomai shuttle from the Interloper.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 2</key>
@@ -12040,7 +12075,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 2One of the three Nomai escape pods landed somewhere on the Hourglass Twins.</key>
-			<value>One of the three Nomai escape pods landed somewhere on the Song Tinh Đồng Hồ Cát.</value>
+			<value>One of the three Nomai escape pods landed somewhere on the Hourglass Twins.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai Shipwreck</key>
@@ -12048,7 +12083,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 2Chert saw a Nomai shipwreck shooting a beam of light into the sky somewhere on Ember Twin's southern hemisphere.</key>
-			<value>Chert saw a Nomai shipwreck shooting a beam of light into the sky somewhere on Song Tinh Than Hồng's southern hemisphere.</value>
+			<value>Chert saw a Nomai shipwreck shooting a beam of light into the sky somewhere on Ember Twin's southern hemisphere.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 2One of three Nomai escape pods that crashed in our solar system.</key>
@@ -12064,11 +12099,11 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>High Energy LabThe negative time interval measured at the White Hole Station was further investigated at the High Energy Lab (in the canyon at Ember Twin’s equator).</key>
-			<value>The negative time interval measured at the White Hole Station was further investigated at the High Energy Lab (in the canyon at Song Tinh Than Hồng’s equator).</value>
+			<value>The negative time interval measured at the White Hole Station was further investigated at the High Energy Lab (in the canyon at Ember Twin’s equator).</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>High Energy LabThe Ash Twin Project was planned at the High Energy Lab, a building with large solar panels on Ember Twin’s equator.</key>
-			<value>The Dự Án Song Tinh Tro Tàn was planned at the High Energy Lab, a building with large solar panels on Song Tinh Than Hồng’s equator.</value>
+			<value>The Ash Twin Project was planned at the High Energy Lab, a building with large solar panels on Ember Twin’s equator.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>High Energy LabThe High Energy Lab can only be accessed by a path from the Sunless City.</key>
@@ -12084,11 +12119,11 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>High Energy LabThe Nomai wanted to know if a 22-minute negative time interval was possible. They concluded it would require new technology to produce the necessary energy as well an advanced warp core to handle those energies. Ash Twin was proposed as a location for the project.</key>
-			<value>The Nomai wanted to know if a 22-minute negative time interval was possible. They concluded it would require new technology to produce the necessary energy as well as an advanced warp core to handle those energies. Song Tinh Tro Tàn was proposed as a location for the project.</value>
+			<value>The Nomai wanted to know if a 22-minute negative time interval was possible. They concluded it would require new technology to produce the necessary energy as well as an advanced warp core to handle those energies. Ash Twin was proposed as a location for the project.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin Tower Designs</key>
-			<value>Song Tinh Tro Tàn Tower Designs</value>
+			<value>Ash Twin Tower Designs</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin Tower DesignsThere are tower designs in the High Energy Lab that reveal each warp receiver's location.</key>
@@ -12096,7 +12131,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin Tower DesignsDesigns for each of the towers on Ash Twin's equator.</key>
-			<value>Designs for each of the towers on Song Tinh Tro Tàn's equator.</value>
+			<value>Designs for each of the towers on Ash Twin's equator.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin Tower DesignsEach tower warps to a different planet (although many Nomai were quick to note that the sun is not actually a planet).</key>
@@ -12108,7 +12143,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin Tower DesignsThe towers allowed the Nomai to quickly travel between Ash Twin and all other locations crucial to the Ash Twin Project.</key>
-			<value>The towers allowed the Nomai to quickly travel between Song Tinh Tro Tàn and all other locations crucial to the Dự Án Song Tinh Tro Tàn.</value>
+			<value>The towers allowed the Nomai to quickly travel between Ash Twin and all other locations crucial to the Ash Twin Project.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Sunless City</key>
@@ -12116,7 +12151,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Sunless CityThe Nomai survivors who crashed on Ember Twin decided to seek shelter in the caves beneath their crashed escape pod.</key>
-			<value>The Nomai survivors who crashed on Song Tinh Than Hồng decided to seek shelter in the caves beneath their crashed escape pod.</value>
+			<value>The Nomai survivors who crashed on Ember Twin decided to seek shelter in the caves beneath their crashed escape pod.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Sunless CityThe Nomai discovered a promising long-term shelter site at the end of one of the passages beneath the escape pod.</key>
@@ -12144,7 +12179,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Sunless CityThe Nomai debated building a Sun Station in order to power the Ash Twin Project. Several Nomai opposed its construction, arguing that failure could result in the destruction of the solar system.</key>
-			<value>The Nomai debated building a Sun Station in order to power the Dự Án Song Tinh Tro Tàn. Several Nomai opposed its construction, arguing that failure could result in the destruction of the solar system.</value>
+			<value>The Nomai debated building a Sun Station in order to power the Ash Twin Project. Several Nomai opposed its construction, arguing that failure could result in the destruction of the solar system.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Sunless CityThe Nomai traveled to this solar system in pursuit of a signal from something older than the universe itself. They named the source of this signal the "Eye of the universe."</key>
@@ -12160,7 +12195,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Anglerfish FossilThe Nomai learned how to evade anglerfish (theoretically, at least) by studying an anglerfish fossil they found on Ember Twin.</key>
-			<value>The Nomai learned how to evade anglerfish (theoretically, at least) by studying an anglerfish fossil they found on Song Tinh Than Hồng.</value>
+			<value>The Nomai learned how to evade anglerfish (theoretically, at least) by studying an anglerfish fossil they found on Ember Twin.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Fossil Fish Cave</key>
@@ -12192,11 +12227,11 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum CavesThe Nomai detected a quantum signal coming from somewhere on the Hourglass Twins.</key>
-			<value>The Nomai detected a quantum signal coming from somewhere on the Song Tinh Đồng Hồ Cát.</value>
+			<value>The Nomai detected a quantum signal coming from somewhere on the Hourglass Twins.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum CavesThe Nomai noticed a strange wandering rock that appeared in multiple caves on Ember Twin’s northern hemisphere.</key>
-			<value>The Nomai noticed a strange wandering rock that appeared in multiple caves on Song Tinh Than Hồng’s northern hemisphere.</value>
+			<value>The Nomai noticed a strange wandering rock that appeared in multiple caves on Ember Twin’s northern hemisphere.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum CavesI found a strange rock shard that moves when I’m not watching. It emits a signal on the Quantum Fluctuations frequency.</key>
@@ -12208,11 +12243,11 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Lakebed CaveThe wandering rock was first spotted in a cave at the bottom of the dry lakebed at Ember Twin’s north pole.</key>
-			<value>The wandering rock was first spotted in a cave at the bottom of the dry lakebed at Song Tinh Than Hồng’s north pole.</value>
+			<value>The wandering rock was first spotted in a cave at the bottom of the dry lakebed at Ember Twin’s north pole.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Lakebed CaveA Nomai named Coleus mysteriously vanished from a cave at the bottom of the dry lakebed at Ember Twin’s north pole.</key>
-			<value>A Nomai named Coleus mysteriously vanished from a cave at the bottom of the dry lakebed at Song Tinh Than Hồng’s north pole.</value>
+			<value>A Nomai named Coleus mysteriously vanished from a cave at the bottom of the dry lakebed at Ember Twin’s north pole.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Lakebed CaveA Nomai named Coleus was standing on the wandering rock when another Nomai's lantern died. When they relit the lantern, Coleus and the rock were both gone.</key>
@@ -12236,15 +12271,15 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen Nomai ShuttleThe Nomai landed on the Interloper not long after its arrival in the solar system. The shuttle's equipment heard strange energy readings coming from somewhere beneath the surface.</key>
-			<value>The Nomai landed on Sao Chổi Tọc Mạch not long after its arrival in the solar system. The shuttle's equipment heard strange energy readings coming from somewhere beneath the surface.</value>
+			<value>The Nomai landed on the Interloper not long after its arrival in the solar system. The shuttle's equipment heard strange energy readings coming from somewhere beneath the surface.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen Nomai ShuttleThere were three Nomai aboard the shuttle. One of them stayed behind to keep the shuttle warm while the other two explored the Interloper.</key>
-			<value>There were three Nomai aboard the shuttle. One of them stayed behind to keep the shuttle warm while the other two explored Sao Chổi Tọc Mạch.</value>
+			<value>There were three Nomai aboard the shuttle. One of them stayed behind to keep the shuttle warm while the other two explored the Interloper.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen Nomai ShuttleClary, the Nomai who stayed behind, lost contact with the other two after they descended below the Interloper's surface.</key>
-			<value>Clary, the Nomai who stayed behind, lost contact with the other two after they descended below Sao Chổi Tọc Mạch's surface.</value>
+			<value>Clary, the Nomai who stayed behind, lost contact with the other two after they descended below the Interloper's surface.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ruptured Core</key>
@@ -12260,7 +12295,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ruptured CoreTwo of the Nomai located a fissure in the ice on the Interloper’s sunward side. They descended inside to investigate.</key>
-			<value>Two of the Nomai located a fissure in the ice on Sao Chổi Tọc Mạch’s sunward side. They descended inside to investigate.</value>
+			<value>Two of the Nomai located a fissure in the ice on the Interloper’s sunward side. They descended inside to investigate.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ruptured CoreI found the two missing members of the Nomai shuttle crew near a large ruptured stone that looks like it exploded from the inside.</key>
@@ -12292,7 +12327,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ocean DepthsFeldspar found a way to reach the core of Giant’s Deep.</key>
-			<value>Feldspar found a way to reach the core of Đại Dương Khổng Lồ.</value>
+			<value>Feldspar found a way to reach the core of Giant’s Deep.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ocean DepthsThe ocean is surprisingly calm beneath the current. Some sort of electrical field surrounds the planet's core.</key>
@@ -12312,7 +12347,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gabbro’s IslandHal says Gabbro went back to Giant’s Deep to try to learn more about the Nomai statue in the observatory.</key>
-			<value>Hal says Gabbro went back to Đại Dương Khổng Lồ to try to learn more about the Nomai statue in the observatory.</value>
+			<value>Hal says Gabbro went back to Giant’s Deep to try to learn more about the Nomai statue in the observatory.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gabbro’s IslandGabbro is lounging in a hammock near the island’s shore.</key>
@@ -12336,7 +12371,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Construction YardThe Nomai built the Orbital Probe Cannon at a Construction Yard on Giant’s Deep.</key>
-			<value>The Nomai built the Orbital Probe Cannon at a Construction Yard on Đại Dương Khổng Lồ.</value>
+			<value>The Nomai built the Orbital Probe Cannon at a Construction Yard on Giant’s Deep.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Construction YardThis island is where the Nomai built the Orbital Probe Cannon.</key>
@@ -12356,7 +12391,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Bramble IslandAn island of thorny vines and what appears to be a frozen jellyfish. It looks like Feldspar camped here before heading off to Dark Bramble.</key>
-			<value>An island of thorny vines and what appears to be a frozen jellyfish. It looks like Feldspar camped here before heading off to Rừng Gai Hắc Ám.</value>
+			<value>An island of thorny vines and what appears to be a frozen jellyfish. It looks like Feldspar camped here before heading off to Dark Bramble.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue Island</key>
@@ -12364,7 +12399,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue IslandOne of the islands on Giant’s Deep has a Nomai statue on the beach just like the one Gabbro brought back to Timber Hearth.</key>
-			<value>One of the islands on Đại Dương Khổng Lồ has a Nomai statue on the beach just like the one Gabbro brought back to Rừng Thông Tổ Ấm.</value>
+			<value>One of the islands on Giant’s Deep has a Nomai statue on the beach just like the one Gabbro brought back to Timber Hearth.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue IslandStatue Island (as Gabbro calls it) is the one with two islands connected by a natural rock arch.</key>
@@ -12400,15 +12435,15 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue WorkshopNomai statues were designed to pair with a single user, record their memories, and send those memories to a storage unit within the Ash Twin Project.</key>
-			<value>Nomai statues were designed to pair with a single user, record their memories, and send those memories to a storage unit within the Dự Án Song Tinh Tro Tàn.</value>
+			<value>Nomai statues were designed to pair with a single user, record their memories, and send those memories to a storage unit within the Ash Twin Project.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue WorkshopEach storage unit inside the Ash Twin Project was equipped with a mask (the statue’s counterpart), which could then send those stored memories back to the corresponding user.</key>
-			<value>Each storage unit inside the Dự Án Song Tinh Tro Tàn was equipped with a mask (the statue’s counterpart), which could then send those stored memories back to the corresponding user.</value>
+			<value>Each storage unit inside the Ash Twin Project was equipped with a mask (the statue’s counterpart), which could then send those stored memories back to the corresponding user.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue WorkshopThe statues were designed to only activate once the Ash Twin Project succeeded, or in the event that it failed.</key>
-			<value>The statues were designed to only activate once the Dự Án Song Tinh Tro Tàn succeeded, or in the event that it failed.</value>
+			<value>The statues were designed to only activate once the Ash Twin Project succeeded, or in the event that it failed.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum Trials</key>
@@ -12416,7 +12451,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum TrialsThe Nomai detected a Quantum signal coming from somewhere on Giant’s Deep.</key>
-			<value>The Nomai detected a Quantum signal coming from somewhere on Đại Dương Khổng Lồ.</value>
+			<value>The Nomai detected a Quantum signal coming from somewhere on Giant’s Deep.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum TrialsThis tower held knowledge a Nomai needed to make his or her first quantum journey.</key>
@@ -12440,11 +12475,11 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum MoonThe Nomai on Brittle Hollow observed a phantom moon that would sometimes appear in the sky.</key>
-			<value>The Nomai on Vỏ Rỗng Rạn Nứt observed a phantom moon that would sometimes appear in the sky.</value>
+			<value>The Nomai on Brittle Hollow observed a phantom moon that would sometimes appear in the sky.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum MoonThe Nomai on Ember Twin observed a moon that would disappear when no one was watching.</key>
-			<value>The Nomai on Song Tinh Than Hồng observed a moon that would disappear when no one was watching.</value>
+			<value>The Nomai on Ember Twin observed a moon that would disappear when no one was watching.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum MoonA Nomai named Solanum landed a shuttle on the Quantum Moon.</key>
@@ -12544,11 +12579,11 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sun StationThere is a way to safely travel to the Sun Station from Ash Twin.</key>
-			<value>There is a way to safely travel to the Sun Station from Song Tinh Tro Tàn.</value>
+			<value>There is a way to safely travel to the Sun Station from Ash Twin.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sun StationThe Nomai debated building a Sun Station in order to power the Ash Twin Project.</key>
-			<value>The Nomai debated building a Sun Station in order to power the Dự Án Song Tinh Tro Tàn.</value>
+			<value>The Nomai debated building a Sun Station in order to power the Ash Twin Project.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sun StationThe Nomai built something called the Sun Station, but not everyone supported its construction.</key>
@@ -12620,55 +12655,55 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin Towers</key>
-			<value>Song Tinh Tro Tàn Towers</value>
+			<value>Ash Twin Towers</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin TowersSeveral large Nomai towers form a ring around Ash Twin's equator.</key>
-			<value>Several large Nomai towers form a ring around Song Tinh Tro Tàn's equator.</value>
+			<value>Several large Nomai towers form a ring around Ash Twin's equator.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin TowersThe White Hole Station was used as a model for these towers, which were built for the Ash Twin Project.</key>
-			<value>The White Hole Station was used as a model for these towers, which were built for the Dự Án Song Tinh Tro Tàn.</value>
+			<value>The White Hole Station was used as a model for these towers, which were built for the Ash Twin Project.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin Project</key>
-			<value>Dự Án Song Tinh Tro Tàn</value>
+			<value>Ash Twin Project</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin ProjectThe central chamber inside Ash Twin was physically sealed off by an immensely thick protective shell.</key>
-			<value>The central chamber inside Song Tinh Tro Tàn was physically sealed off by an immensely thick protective shell.</value>
+			<value>The central chamber inside Ash Twin was physically sealed off by an immensely thick protective shell.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin ProjectThe Nomai planned to construct technology capable of producing a 22-minute negative time interval on Ash Twin.</key>
-			<value>The Nomai planned to construct technology capable of producing a 22-minute negative time interval on Song Tinh Tro Tàn.</value>
+			<value>The Nomai planned to construct technology capable of producing a 22-minute negative time interval on Ash Twin.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin ProjectEvery memory recorded by a Nomai statue is transmitted to a corresponding storage unit within Ash Twin.</key>
-			<value>Every memory recorded by a Nomai statue is transmitted to a corresponding storage unit within Song Tinh Tro Tàn.</value>
+			<value>Every memory recorded by a Nomai statue is transmitted to a corresponding storage unit within Ash Twin.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin ProjectAn advanced warp core was approved for installation in the central chamber of Ash Twin.</key>
-			<value>An advanced warp core was approved for installation in the central chamber of Song Tinh Tro Tàn.</value>
+			<value>An advanced warp core was approved for installation in the central chamber of Ash Twin.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin ProjectA hollowed-out chamber inside Ash Twin. The energy cables from the surface are plugged into a protective casing at the center of the planet.</key>
-			<value>A hollowed-out chamber inside Song Tinh Tro Tàn. The energy cables from the surface are plugged into a protective casing at the center of the planet.</value>
+			<value>A hollowed-out chamber inside Ash Twin. The energy cables from the surface are plugged into a protective casing at the center of the planet.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin ProjectThere are eight monoliths with Nomai masks attached. Three of the masks are actively receiving data from the Probe Tracking Module, Giant's Deep, and Timber Hearth respectively.</key>
-			<value>There are eight monoliths with Nomai masks attached. Three of the masks are actively receiving data from the Probe Tracking Module, Đại Dương Khổng Lồ, and Rừng Thông Tổ Ấm respectively.</value>
+			<value>There are eight monoliths with Nomai masks attached. Three of the masks are actively receiving data from the Probe Tracking Module, Giant's Deep, and Timber Hearth respectively.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin ProjectThe Ash Twin Project was designed to use the energy from a supernova (triggered by the Sun Station) to send probe data from the Orbital Probe Cannon 22 minutes into the past.</key>
-			<value>The Dự Án Song Tinh Tro Tàn was designed to use the energy from a supernova (triggered by the Sun Station) to send probe data from the Orbital Probe Cannon 22 minutes into the past.</value>
+			<value>The Ash Twin Project was designed to use the energy from a supernova (triggered by the Sun Station) to send probe data from the Orbital Probe Cannon 22 minutes into the past.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin ProjectThe Sun Station did not work. Although the Ash Twin Project was theoretically sound, the Nomai were unable to power it.</key>
-			<value>The Sun Station did not work. Although the Dự Án Song Tinh Tro Tàn was theoretically sound, the Nomai were unable to power it.</value>
+			<value>The Sun Station did not work. Although the Ash Twin Project was theoretically sound, the Nomai were unable to power it.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin ProjectThere is an advanced warp core inside the protective casing at the center of the planet. Removing the core will disable the Ash Twin Project.</key>
-			<value>There is an advanced warp core inside the protective casing at the center of the planet. Removing the core will disable the Dự Án Song Tinh Tro Tàn.</value>
+			<value>There is an advanced warp core inside the protective casing at the center of the planet. Removing the core will disable the Ash Twin Project.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Volcanic Testing Site</key>
@@ -12676,11 +12711,11 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Volcanic Testing SiteOre samples from the Nomai Mines on Timber Hearth were sent to this volcano for durability testing.</key>
-			<value>Ore samples from the Nomai Mines on Rừng Thông Tổ Ấm were sent to this volcano for durability testing.</value>
+			<value>Ore samples from the Nomai Mines on Timber Hearth were sent to this volcano for durability testing.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Volcanic Testing SiteThe Nomai were trying to craft a (briefly) supernova-proof shell to encase the Ash Twin Project.</key>
-			<value>The Nomai were trying to craft a (briefly) supernova-proof shell to encase the Dự Án Song Tinh Tro Tàn.</value>
+			<value>The Nomai were trying to craft a (briefly) supernova-proof shell to encase the Ash Twin Project.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Volcanic Testing SiteEven the smallest crack or opening in the protective shell would destroy everything.</key>
@@ -12692,7 +12727,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>White Hole StationThere is a White Hole Station on the other side of Brittle Hollow's black hole.</key>
-			<value>There is a White Hole Station on the other side of Vỏ Rỗng Rạn Nứt's black hole.</value>
+			<value>There is a White Hole Station on the other side of Brittle Hollow's black hole.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>White Hole StationSeveral Nomai returned to the station to investigate an equipment reading that appeared to violate causality.</key>
@@ -12704,7 +12739,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>White Hole StationThe towers on Ash Twin were modeled after the White Hole Station.</key>
-			<value>The towers on Song Tinh Tro Tàn were modeled after the White Hole Station.</value>
+			<value>The towers on Ash Twin were modeled after the White Hole Station.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>White Hole StationEvery Nomai warp tower is tuned to a specific astral body.</key>
@@ -12716,7 +12751,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>White Hole StationThe Nomai noticed something strange: Warped objects appeared to arrive at the receiver on Brittle Hollow slightly before they departed the White Hole Station.</key>
-			<value>The Nomai noticed something strange: Warped objects appeared to arrive at the receiver on Vỏ Rỗng Rạn Nứt slightly before they departed the White Hole Station.</value>
+			<value>The Nomai noticed something strange: Warped objects appeared to arrive at the receiver on Brittle Hollow slightly before they departed the White Hole Station.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>White Hole StationThis negative time interval between an object arriving and departing was incredibly miniscule (roughly one hundred-thousandth of a second). The Nomai were skeptical if their equipment could even measure time to such a small degree.</key>
@@ -12726,167 +12761,167 @@
 	<table_ui>
 		<TranslationTableEntryUI>
 			<key>100</key>
-			<value>TIẾP TỤC THÁM HIỂM</value>
+			<value>RESUME EXPEDITION</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>101</key>
-			<value>BẮT ĐẦU THÁM HIỂM</value>
+			<value>NEW EXPEDITION</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>102</key>
-			<value>THOÁT</value>
+			<value>QUIT</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>103</key>
-			<value>HỒ SƠ NGƯỜI CHƠI</value>
+			<value>PLAYER PROFILE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>104</key>
-			<value>CÀI ĐẶT</value>
+			<value>OPTIONS</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>105</key>
-			<value>CREDITS</value>
+			<value>VIEW CREDITS</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>106</key>
-			<value>CÓ</value>
+			<value>YES</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>107</key>
-			<value>KHÔNG</value>
+			<value>NO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>108</key>
-			<value>THIẾT LẬP SẴN CÓ</value>
+			<value>PRESET</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>109</key>
-			<value>Xác nhận thay đổi?</value>
+			<value>Confirm changes?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>110</key>
-			<value>HỒ SƠ HIỆN TẠI:</value>
+			<value>CURRENT PROFILE:</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>111</key>
-			<value>TẠO HỒ SƠ MỚI</value>
+			<value>CREATE NEW PROFILE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>112</key>
-			<value>XÓA HỒ SƠ</value>
+			<value>DELETE PROFILE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>113</key>
-			<value>CHUYỂN SANG</value>
+			<value>SWITCH TO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>114</key>
-			<value>THIẾT LẬP LẠI TRÒ CHƠI</value>
+			<value>RESET GAME</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>115</key>
-			<value>Bạn có chắc muốn tiếp tục? Toàn bộ tiến trình sẽ bị xóa.</value>
+			<value>Are you sure? This will delete all progress.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>116</key>
-			<value>Bạn có chắc muốn tiếp tục?</value>
+			<value>Are you sure?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>117</key>
-			<value>QUAY LẠI</value>
+			<value>BACK</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>118</key>
-			<value>Đã kích hoạt</value>
+			<value>Enabled</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>119</key>
-			<value>Đã vô hiệu</value>
+			<value>Disabled</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>120</key>
-			<value>TRÒ CHƠI</value>
+			<value>GAMEPLAY</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>121</key>
-			<value>ĐIỀU KHIỂN</value>
+			<value>INPUT</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>122</key>
-			<value>ĐỒ HỌA</value>
+			<value>GRAPHICS</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>123</key>
-			<value>CHỮ/ÂM THANH</value>
+			<value>TEXT/AUDIO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>124</key>
-			<value>Tự động</value>
+			<value>Auto</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>125</key>
-			<value>Thủ công</value>
+			<value>Manual</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>126</key>
-			<value>Hiện</value>
+			<value>Show</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>127</key>
-			<value>Ẩn</value>
+			<value>Hide</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>128</key>
-			<value>Cài đặt</value>
+			<value>Settings</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>129</key>
-			<value>Thiết lập Mặc định</value>
+			<value>Default Settings</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>130</key>
-			<value>Chế độ Toàn màn hình</value>
+			<value>Full Screen Mode</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>131</key>
-			<value>Màn hình</value>
+			<value>Monitor</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>132</key>
-			<value>Tỉ lệ Màn hình</value>
+			<value>Aspect Ratio</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>133</key>
-			<value>Độ phân giải</value>
+			<value>Resolution</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>134</key>
-			<value>Khử răng cưa</value>
+			<value>Anti Aliasing</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>135</key>
-			<value>Chất lượng Khử răng cưa</value>
+			<value>Anti Alias Quality</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>136</key>
-			<value>Chất lượng Đồ họa</value>
+			<value>Texture Quality</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>137</key>
-			<value>Chất lượng Biển nước</value>
+			<value>Ocean Quality</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>138</key>
-			<value>Chất lượng Lá cây</value>
+			<value>Foliage Quality</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>139</key>
-			<value>Chất lượng Đổ bóng</value>
+			<value>Shadow Quality</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>140</key>
-			<value>Chất lượng SSAO</value>
+			<value>SSAO Quality</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>141</key>
@@ -12894,455 +12929,459 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>142</key>
-			<value>Đồng bộ dọc</value>
+			<value>VSync</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>143</key>
-			<value>Màn hình</value>
+			<value>Monitor</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>144</key>
-			<value>Phối màu</value>
+			<value>Dithering</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>145</key>
-			<value>Kích thước Khung nhìn</value>
+			<value>Field of View</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>146</key>
-			<value>Thiết lập Đồ họa sẵn có</value>
+			<value>Graphics Preset</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>147</key>
-			<value>BẠN CÓ MUỐN ÁP DỤNG THAY ĐỔI?</value>
+			<value>DO YOU WISH TO APPLY YOUR CHANGES?</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>148</key>
+			<value>Render Mode</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>150</key>
-			<value>Tự động Sử dụng Phản lực tăng cường</value>
+			<value>Use Auto Boost</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>151</key>
-			<value>Độ nhạy Điều khiển Nhìn</value>
+			<value>Look Sensitivity</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>152</key>
-			<value>Độ nhạy Điều khiển Bay</value>
+			<value>Flight Sensitivity</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>153</key>
-			<value>Tốc độ Chữ</value>
+			<value>Text Speed</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>154</key>
-			<value>Thiền tới Vòng lặp sau</value>
+			<value>Meditate Until Next Loop</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>155</key>
-			<value>Thoát về Menu chính</value>
+			<value>Exit to Main Menu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>156</key>
-			<value>ÁP DỤNG</value>
+			<value>APPLY</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>157</key>
-			<value>LOẠI BỎ</value>
+			<value>DISCARD</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>160</key>
-			<value>Chế độ Phản lực tăng cường</value>
+			<value>Jetpack Boost Mode</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>161</key>
-			<value>Chế độ Máy phiên dịch</value>
+			<value>Translator Equip Mode</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>162</key>
-			<value>Chế độ Manh mối của Nhật trình Phi thuyền</value>
+			<value>Ship Log Rumor Mode</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>163</key>
-			<value>Thông báo Nhật trình Phi thuyền</value>
+			<value>Ship Log Notifications</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>164</key>
-			<value>Tự động lái</value>
+			<value>Autopilot</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>165</key>
-			<value>Lời nhắc Điều khiển</value>
+			<value>Button Prompts</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>170</key>
-			<value>Tốc độ Chữ</value>
+			<value>Text Speed</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>171</key>
-			<value>Dừng thời gian trong khi Đọc</value>
+			<value>Freeze Time While Reading</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>172</key>
-			<value>Máy phiên dịch</value>
+			<value>Translator</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>173</key>
-			<value>Nhật trình Phi thuyền</value>
+			<value>Ship Log</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>174</key>
-			<value>Hội thoại</value>
+			<value>Conversations</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>175</key>
-			<value>Âm lượng Tổng</value>
+			<value>Master Volume</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>176</key>
-			<value>Ngôn ngữ</value>
+			<value>Language</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>180</key>
-			<value>Bạn có muốn giữ lại thiết lập này?\\nTự động quay về thiết lập trước trong </value>
+			<value>Do you want to keep these settings?\\nReverting to previous settings in </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>181</key>
-			<value> giây...</value>
+			<value> seconds...</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>182</key>
-			<value> giây...</value>
+			<value> second...</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>183</key>
-			<value>Lỗi: Tên hồ sơ có giới hạn </value>
+			<value>Error: Profile names have a limit of </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>184</key>
-			<value> ký tự và không thể trùng với tên hồ sơ đã tồn tại</value>
+			<value> characters and cannot be a duplicate of an existing profile</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>185</key>
-			<value>Nhập Tên Hồ Sơ</value>
+			<value>Enter Profile Name</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>186</key>
-			<value>TẠO HỒ SƠ MỚI</value>
+			<value>CREATE NEW PROFILE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>187</key>
-			<value>Xóa</value>
+			<value>Delete</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>188</key>
-			<value>Bạn có chắc muốn tiếp tục?</value>
+			<value>Are You Sure?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>190</key>
-			<value>Đảo ngược Điều khiển Nhìn của Nhân vật</value>
+			<value>Invert Player Look</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>191</key>
-			<value>Đảo ngược Điều khiển Nhìn của Phi thuyền</value>
+			<value>Invert Ship Look</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>192</key>
-			<value>Độ nhạy Điều khiển Nhìn</value>
+			<value>Look Sensitivity</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>193</key>
-			<value>Độ nhạy Điều khiển Nhìn khi bay</value>
+			<value>Flight Look Sensitivity</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>194</key>
-			<value>Dead Zone Trong</value>
+			<value>Inner Dead Zone</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>195</key>
-			<value>Dead Zone Ngoài</value>
+			<value>Outer Dead Zone</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>196</key>
-			<value>Đảo ngược</value>
+			<value>Inverted</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>197</key>
-			<value>Bình thường</value>
+			<value>Normal</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>198</key>
-			<value>Đặt lại Điều khiển</value>
+			<value>Remap Controls</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>200</key>
-			<value>&lt;color=orange&gt;(Giữ)&lt;/color&gt;</value>
+			<value>&lt;color=orange&gt;(Hold)&lt;/color&gt;</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>201</key>
-			<value>&lt;color=orange&gt;(Nhấn)&lt;/color&gt;</value>
+			<value>&lt;color=orange&gt;(Press)&lt;/color&gt;</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>202</key>
-			<value>Khớp Vận tốc</value>
+			<value>Match Velocity</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>203</key>
-			<value>Kích hoạt Tự động lái</value>
+			<value>Engage Autopilot</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>204</key>
-			<value>Khóa mục tiêu</value>
+			<value>Lock On</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>205</key>
-			<value>Đèn pha</value>
+			<value>Flashlight</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>206</key>
-			<value>Thiết bị trinh sát</value>
+			<value>Equip Scout Launcher</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>207</key>
-			<value>Xem Bản đồ</value>
+			<value>View Map</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>208</key>
-			<value>Nhìn Tự do</value>
+			<value>Free Look</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>209</key>
-			<value>Ống thu tín hiệu</value>
+			<value>Equip Signalscope</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>210</key>
-			<value>Tháo Dây an toàn</value>
+			<value>Unbuckle</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>211</key>
-			<value>Máy phiên dịch</value>
+			<value>Equip Translator</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>212</key>
-			<value>Sử dụng Phản lực tăng cường</value>
+			<value>Fire Jetpack Booster</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>213</key>
-			<value>Lộn</value>
+			<value>Roll</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>214</key>
-			<value>Nhảy</value>
+			<value>Jump</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>215</key>
-			<value>   Tỉnh Dậy</value>
+			<value>   Wake Up</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>216</key>
-			<value>(Nhấn giữ rồi Thả)</value>
+			<value>(Hold and Release)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>217</key>
-			<value>Nhìn quanh</value>
+			<value>Look Around</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>218</key>
-			<value>Di chuyển</value>
+			<value>Move</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>220</key>
-			<value>Đẩy lên trên</value>
+			<value>Up Thrust</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>221</key>
-			<value>Đẩy xuống dưới</value>
+			<value>Down Thrust</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>222</key>
-			<value>Đẩy xuống dưới / lên trên</value>
+			<value>Down / Up Thrust</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>223</key>
-			<value>Đẩy ngang</value>
+			<value>Horizontal Thrust</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>224</key>
-			<value>Sử dụng Phản lực tăng cường   </value>
+			<value>Use Jetpack Booster   </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>225</key>
-			<value>Thiết lập lại</value>
+			<value>Reset</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>226</key>
-			<value>Đẩy xoay</value>
+			<value>Rotational Thrust</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>230</key>
-			<value>Cất đi</value>
+			<value>Put Away</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>231</key>
-			<value>Ngắm Thiết bị phóng</value>
+			<value>Aim Launcher</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>232</key>
-			<value>Phóng Thiết bị trinh sát</value>
+			<value>Launch Scout</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>233</key>
-			<value>Thu hồi Thiết bị trinh sát</value>
+			<value>Retrieve Scout</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>234</key>
-			<value>Chế độ Chụp ảnh</value>
+			<value>Photo Mode</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>235</key>
-			<value>Chế độ Phóng</value>
+			<value>Launch Mode</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>236</key>
-			<value>Chụp Phía trước</value>
+			<value>Forward Snapshot</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>237</key>
-			<value>Chụp ảnh</value>
+			<value>Take Snapshot</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>238</key>
-			<value>Chụp Phía sau</value>
+			<value>Rearview Snapshot</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>239</key>
-			<value>Xoay Camera</value>
+			<value>Rotate Camera</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>240</key>
-			<value>Ngắm Camera</value>
+			<value>Aim Camera</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>241</key>
-			<value>Hủy Ảnh chụp</value>
+			<value>Remove Snapshot</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>250</key>
-			<value>Cất cánh</value>
+			<value>Liftoff</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>251</key>
-			<value>Kích hoạt Tự động lái</value>
+			<value>Engage Autopilot</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>252</key>
-			<value>Hủy Tự động lái</value>
+			<value>Abort Autopilot</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>253</key>
-			<value>Cất cánh / Camera Hạ cánh</value>
+			<value>Liftoff / Landing Camera</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>254</key>
-			<value>Chế độ Hạ cánh</value>
+			<value>Landing Mode</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>255</key>
-			<value>Góc nhìn Khoang lái</value>
+			<value>Cockpit View</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>256</key>
-			<value>Sửa chữa</value>
+			<value>Repair</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>257</key>
-			<value>Cài Dây an toàn </value>
+			<value>Buckle Up</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>258</key>
-			<value>Mở Tấm bảo vệ Thoát khẩn cấp</value>
+			<value>Raise Eject Cover</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>259</key>
-			<value>Mở Cửa</value>
+			<value>Open Hatch</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>260</key>
-			<value>Xem Nhật trình Phi thuyền</value>
+			<value>View Ship Log</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>261</key>
-			<value>Thoát khẩn cấp</value>
+			<value>Eject</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>269</key>
-			<value>ÁO BẢO HỘ: </value>
+			<value>SUIT: </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>270</key>
-			<value>Rời đi</value>
+			<value>Leave</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>271</key>
-			<value>Nướng Kẹo dẻo</value>
+			<value>Roast Marshmallow</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>272</key>
-			<value>Nói chuyện</value>
+			<value>Talk</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>273</key>
-			<value>Nói chuyện với</value>
+			<value>Talk to</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>274</key>
-			<value> Kích hoạt Thang máy</value>
+			<value> Activate Lift</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>275</key>
-			<value>Mặc Áo bảo hộ</value>
+			<value>Suit Up</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>276</key>
-			<value>Sử dụng Camera</value>
+			<value>Use Camera</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>277</key>
-			<value>Sử dụng Thiết bị trinh sát</value>
+			<value>Use Scout Launcher</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>278</key>
-			<value>Lái Phi thuyền mô hình</value>
+			<value>Fly Model Ship</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>279</key>
-			<value>Sử dụng Camera Vệ tinh</value>
+			<value>Use Satellite Camera</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>280</key>
-			<value>Nhập Mật mã Khởi động</value>
+			<value>Enter Launch Codes</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>281</key>
-			<value>Cần có Mật mã Khởi động</value>
+			<value>Requires Launch Codes</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>282</key>
-			<value>Thắp Lửa trại</value>
+			<value>Light Campfire</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>283</key>
-			<value>Trả Áo bảo hộ</value>
+			<value>Return Suit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>284</key>
-			<value>Đọc</value>
+			<value>Read</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>285</key>
-			<value>Nghe Băng ghi âm</value>
+			<value>Play Recording</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>286</key>
-			<value>Sửa chữa</value>
+			<value>Repair</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>287</key>
@@ -13350,547 +13389,547 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>288</key>
-			<value>Thu thập</value>
+			<value>Gather</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>289</key>
-			<value>Vá lại Vết thủng trên Áo bảo hộ</value>
+			<value>Patch Suit Puncture</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>290</key>
-			<value>Sơ cứu và Nạp lại Nhiên liệu</value>
+			<value>Use Medkit and Refuel Jetpack</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>291</key>
-			<value>Sơ cứu, Nạp lại Nhiên liệu, và Làm sạch Kính</value>
+			<value>Use Medkit, Refuel Jetpack, and Clean Visor</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>292</key>
-			<value>Sơ cứu</value>
+			<value>Use Medkit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>293</key>
-			<value>Sơ cứu và Làm sạch Kính</value>
+			<value>Use Medkit and Clean Visor</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>294</key>
-			<value>Nạp lại Nhiên liệu</value>
+			<value>Refuel Jetpack</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>295</key>
-			<value>Nạp lại Nhiên liệu và Làm sạch Kính</value>
+			<value>Refuel Jetpack and Clean Visor</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>296</key>
-			<value>Làm sạch Kính</value>
+			<value>Clean Visor</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>297</key>
-			<value>Máu và Nhiên liệu đã đầy</value>
+			<value>Health and Fuel Full</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>298</key>
-			<value>Nhiên liệu đầy</value>
+			<value>Jetpack Fuel Full</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>299</key>
-			<value>Máu đầy</value>
+			<value>Health Full</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>300</key>
-			<value>Đóng Bản đồ</value>
+			<value>Close Map</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>301</key>
-			<value>Di chuyển Góc nhìn</value>
+			<value>Pan View</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>302</key>
-			<value>Xoay Góc nhìn</value>
+			<value>Rotate View</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>303</key>
-			<value>Thu phóng Góc nhìn</value>
+			<value>Zoom View</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>304</key>
-			<value>Quan sát</value>
+			<value>Observe</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>310</key>
-			<value>Nhặt lấy </value>
+			<value>Pick Up </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>311</key>
-			<value>Đặt lại </value>
+			<value>Drop </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>312</key>
-			<value>Loại bỏ </value>
+			<value>Remove </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>313</key>
-			<value>Nhét vào </value>
+			<value>Insert </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>314</key>
-			<value> Không khớp</value>
+			<value> Does Not Fit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>315</key>
-			<value>Đang cầm </value>
+			<value>Already Holding </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>316</key>
-			<value>Đá 'Giải thích'</value>
+			<value>'Explain' Stone</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>317</key>
-			<value>Đá 'Con Mắt Vũ Trụ'</value>
+			<value>'Eye of the universe' Stone</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>318</key>
-			<value>Đá 'Nhận định'</value>
+			<value>'Identify' Stone</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>319</key>
-			<value>Đá 'Tôi'</value>
+			<value>'Me' Stone</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>320</key>
-			<value>Đá 'Mặt Trăng Lượng Tử'</value>
+			<value>'Quantum Moon' Stone</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>321</key>
-			<value>Đá 'Bạn'</value>
+			<value>'You' Stone</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>322</key>
-			<value>Cuộn</value>
+			<value>Scroll</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>323</key>
-			<value>Đá Soi Chiếu</value>
+			<value>Projection Stone</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>324</key>
-			<value>Lõi Dịch Chuyển</value>
+			<value>Warp Core</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>330</key>
-			<value>Di chuyển Que</value>
+			<value>Move Stick</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>331</key>
-			<value>Xoay Que</value>
+			<value>Rotate Stick</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>332</key>
-			<value>Đưa Que ra xa</value>
+			<value>Extend Stick</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>333</key>
-			<value>Ăn</value>
+			<value>Eat</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>334</key>
-			<value>Ném bỏ</value>
+			<value>Toss</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>335</key>
-			<value>Cất đi</value>
+			<value>Put Away</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>336</key>
-			<value>Dập lửa</value>
+			<value>Extinguish</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>337</key>
-			<value>Thay thế</value>
+			<value>Replace</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>340</key>
-			<value>Ngắm Máy phiên dịch</value>
+			<value>Aim Translator</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>341</key>
-			<value>Cất đi</value>
+			<value>Put Away</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>342</key>
-			<value>Phiên dịch</value>
+			<value>Translate</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>343</key>
-			<value>Cuộn chữ</value>
+			<value>Scroll Text</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>344</key>
-			<value>Chuyển trang</value>
+			<value>Page Text</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>345</key>
-			<value>&lt;!&gt; Quá gần mục tiêu &lt;!&gt;</value>
+			<value>&lt;!&gt; Too close to target text &lt;!&gt;</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>346</key>
-			<value>&lt;!&gt; Ghi âm tiếng Nomai chưa được phiên dịch &lt;!&gt;</value>
+			<value>&lt;!&gt; Untranslated Nomai recording &lt;!&gt;</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>347</key>
-			<value>&lt;!&gt; Ghi chép tiếng Nomai chưa được phiên dịch &lt;!&gt;</value>
+			<value>&lt;!&gt; Untranslated Nomai writing &lt;!&gt;</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>350</key>
-			<value>Cất đi</value>
+			<value>Put Away</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>351</key>
-			<value>Phóng to</value>
+			<value>Zoom In</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>352</key>
-			<value>Mức thu phóng</value>
+			<value>Zoom Level</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>353</key>
-			<value>Đổi Tần số</value>
+			<value>Change Frequency</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>360</key>
-			<value>Rời khỏi Nhật trình</value>
+			<value>Leave Ship Log</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>361</key>
-			<value>Thu phóng Khung nhìn</value>
+			<value>Zoom View</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>362</key>
-			<value>Chế độ Bản đồ</value>
+			<value>Map Mode</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>363</key>
-			<value>Tìm trong Chế độ Bản đồ</value>
+			<value>Find in Map Mode</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>364</key>
-			<value>Xem Ghi chép</value>
+			<value>View Entry</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>365</key>
-			<value>Bỏ qua</value>
+			<value>Skip</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>366</key>
-			<value>Loại bỏ Đánh dấu HUD</value>
+			<value>Remove HUD Marker</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>367</key>
-			<value>Đánh dấu Địa điểm trên HUD</value>
+			<value>Mark Location On HUD</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>368</key>
-			<value>Xem Ghi chép Manh mối</value>
+			<value>View Rumored Entry</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>369</key>
-			<value>Xem Manh mối</value>
+			<value>View Rumor</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>370</key>
-			<value>Quay lại Bản đồ</value>
+			<value>Back to Map</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>371</key>
-			<value>Xem Ghi chép</value>
+			<value>View Entries</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>372</key>
-			<value>Chế độ Manh mối</value>
+			<value>Rumor Mode</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>373</key>
-			<value>Tìm trong Chế độ Manh mối</value>
+			<value>Find In Rumor Mode</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>374</key>
-			<value>Chưa khám phá ra.</value>
+			<value>No discoveries yet.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>375</key>
-			<value>Cuộn chữ</value>
+			<value>Scroll Text</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>380</key>
-			<value>Rời Menu</value>
+			<value>Leave Menu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>381</key>
-			<value>Chuyển Cửa sổ</value>
+			<value>Swap Tab</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>382</key>
-			<value>BẤM A ĐỂ BẮT ĐẦU</value>
+			<value>PRESS A TO START</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>383</key>
-			<value>BẤM </value>
+			<value>PRESS </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>384</key>
-			<value> ĐỂ BẮT ĐẦU</value>
+			<value> TO START</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>400</key>
-			<value>ĐỘ ỔN ĐỊNH CẤU TRÚC: </value>
+			<value>SURFACE INTEGRITY: </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>401</key>
-			<value>NHIÊN LIỆU Ở MỨC BÁO ĐỘNG</value>
+			<value>FUEL LEVEL CRITICAL</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>402</key>
-			<value>% NHIÊN LIỆU CÒN LẠI</value>
+			<value>% FUEL REMAINING</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>403</key>
-			<value>SỨC KHỎE Ở MỨC CHÍ TỬ</value>
+			<value>VITALS CRITICAL</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>404</key>
-			<value>SỨC KHỎE Ở MỨC YẾU</value>
+			<value>VITALS LOW</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>405</key>
-			<value> GIÂY DƯỠNG KHÍ CÒN LẠI</value>
+			<value> SECONDS OXYGEN REMAINING</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>406</key>
-			<value> PHÚT DƯỠNG KHÍ CÒN LẠI</value>
+			<value> MINUTES OXYGEN REMAINING</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>410</key>
-			<value>TẦN SỐ:</value>
+			<value>FREQUENCY:</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>411</key>
-			<value>RỜI PHI THUYỀN ĐỂ SỬA CHỮA</value>
+			<value>EXIT SHIP TO REPAIR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>412</key>
-			<value>NGUY HIỂM</value>
+			<value>HAZARD</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>413</key>
-			<value>LỖI: TÍN HIỆU TRÙNG LẶP</value>
+			<value>ERROR: DUPLICATE SIGNAL</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>414</key>
-			<value>NHIỀU ĐÁNH DẤU</value>
+			<value>MULTIPLE MARKERS</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>415</key>
-			<value>NHẬT TRÌNH PHI THUYỀN ĐÃ ĐƯỢC CẬP NHẬT</value>
+			<value>SHIP LOG UPDATED</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>416</key>
-			<value> (MỚI)</value>
+			<value> (NEW)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>420</key>
-			<value>Mã Khởi động: --|-..|-.</value>
+			<value>Launch Codes: --|-..|-.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>421</key>
-			<value>Tọa độ Con Mắt: </value>
+			<value>Eye Coordinates: </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>430</key>
-			<value>CẢNH BÁO: NHIÊN LIỆU ĐÃ CẠN\\nSỬ DỤNG DƯỠNG KHÍ LÀM CHẤT ĐẨY</value>
+			<value>WARNING: FUEL DEPLETED\\nUSING OXYGEN AS PROPELLANT</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>431</key>
-			<value>ĐANG NẠP LẠI NHIÊN LIỆU</value>
+			<value>REFUELING</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>432</key>
-			<value>ĐANG THỰC HIỆN SƠ CỨU</value>
+			<value>HEALING</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>433</key>
-			<value>ĐANG THỰC HIỆN SƠ CỨU VÀ NẠP LẠI NHIÊN LIỆU</value>
+			<value>HEALING AND REFUELING</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>434</key>
-			<value>PHÁT HIỆN CÂY XANH — BÌNH DƯỠNG KHÍ ĐÃ ĐƯỢC NẠP ĐẦY</value>
+			<value>TREES DETECTED — OXYGEN TANK REFILLED</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>435</key>
-			<value>BÌNH DƯỠNG KHÍ ĐÃ ĐƯỢC NẠP ĐẦY</value>
+			<value>OXYGEN TANK REFILLED</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>436</key>
-			<value>PHÁT HIỆN VẾT THỦNG TRÊN ÁO BẢO HỘ</value>
+			<value>SUIT PUNCTURE DETECTED</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>440</key>
-			<value>PHÁT HIỆN TẦN SỐ:</value>
+			<value>FREQUENCY DISCOVERED:</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>441</key>
-			<value>ĐÃ ĐỊNH DANH TÍN HIỆU:</value>
+			<value>SIGNAL IDENTIFIED:</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>442</key>
-			<value>KHÔNG THỂ XÁC ĐỊNH VỊ TRÍ</value>
+			<value>UNABLE TO PINPOINT LOCATION</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>443</key>
-			<value>MẤT KẾT NỐI VỚI THIẾT BỊ TRINH SÁT</value>
+			<value>CONNECTION WITH SCOUT IS LOST</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>444</key>
-			<value>ĐANG QUAY VỀ HỆ MẶT TRỜI</value>
+			<value>RETURNING TO SOLAR SYSTEM</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>445</key>
-			<value>ĐÈN PHA ĐÃ BẬT</value>
+			<value>HEADLIGHTS ON</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>446</key>
-			<value>ĐÈN PHA ĐÃ TẮT</value>
+			<value>HEADLIGHTS OFF</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>447</key>
-			<value>CHỨC NĂNG PHÓNG THIẾT BỊ TRINH SÁT BỊ CHẶN</value>
+			<value>SCOUT LAUNCH OBSTRUCTED</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>450</key>
-			<value>NÚT VỆ TINH</value>
+			<value>SATELLITE NODE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>451</key>
-			<value>THÂN TÀU TRÊN</value>
+			<value>UPPER HULL</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>452</key>
-			<value>BUỒNG LÁI</value>
+			<value>COCKPIT</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>453</key>
-			<value>THÂN TÀU TRÁI</value>
+			<value>PORT HULL</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>454</key>
-			<value>BỘ PHẬN TIẾP ĐẤT</value>
+			<value>LANDING GEAR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>455</key>
-			<value>THÂN TÀU PHẢI</value>
+			<value>STARBOARD HULL</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>456</key>
-			<value>TỰ ĐỘNG LÁI</value>
+			<value>AUTOPILOT</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>457</key>
-			<value>BÌNH NHIÊN LIỆU</value>
+			<value>FUEL TANK</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>458</key>
-			<value>TRỌNG LỰC NHÂN TẠO</value>
+			<value>ARTIFICIAL GRAVITY</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>459</key>
-			<value>ĐÈN PHA</value>
+			<value>HEADLIGHTS</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>460</key>
-			<value>CAMERA HẠ CÁNH</value>
+			<value>LANDING CAMERA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>461</key>
-			<value>CỤM PHẢN LỰC TRÁI</value>
+			<value>PORT THRUSTER BANK</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>462</key>
-			<value>HỆ THỐNG ĐIỆN</value>
+			<value>ELECTRICAL SYSTEMS</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>463</key>
-			<value>BÌNH DƯỠNG KHÍ</value>
+			<value>OXYGEN TANK</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>464</key>
-			<value>LÒ PHẢN ỨNG</value>
+			<value>REACTOR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>465</key>
-			<value>CỤM PHẢN LỰC PHẢI</value>
+			<value>STARBOARD THRUSTER BANK</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>466</key>
-			<value>KHÔNG RÕ</value>
+			<value>UNKNOWN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>480</key>
-			<value>BƯỚC 1: CĂN CHỈNH QUỸ ĐẠO BAY</value>
+			<value>STAGE 1: ALIGNING FLIGHT TRAJECTORY</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>481</key>
-			<value>BƯỚC 2: TĂNG TỐC TỚI ĐIỂM ĐẾN</value>
+			<value>STAGE 2: ACCELERATING TOWARD DESTINATION</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>482</key>
-			<value>BƯỚC 3: KÍCH HOẠT TÊN LỬA ĐẨY</value>
+			<value>STAGE 3: FIRING RETRO-ROCKETS</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>483</key>
-			<value>ĐANG KHỚP VẬN TỐC</value>
+			<value>MATCHING VELOCITY</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>484</key>
-			<value>ĐÃ KHỚP VẬN TỐC</value>
+			<value>VELOCITY MATCHED</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>485</key>
-			<value>ĐÃ HỦY TỰ ĐỘNG LÁI</value>
+			<value>AUTOPILOT ABORTED</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>486</key>
-			<value>ĐÃ HỦY KHỚP VẬN TỐC</value>
+			<value>VELOCITY MATCH ABORTED</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>487</key>
-			<value>ĐÃ HỦY TỰ ĐỘNG LÁI: QUÁ GẦN VỚI MỤC TIÊU</value>
+			<value>AUTOPILOT ABORTED: TOO CLOSE TO TARGET</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>488</key>
-			<value>HOÀN THÀNH TỰ ĐỘNG LÁI: ĐÃ TIẾP CẬN TRƯỢT MỤC TIÊU</value>
+			<value>AUTOPILOT COMPLETE: UNDERSHOT TARGET</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>489</key>
-			<value>HOÀN THÀNH TỰ ĐỘNG LÁI</value>
+			<value>AUTOPILOT COMPLETE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>500</key>
-			<value>TIẾP TỤC</value>
+			<value>RESUME</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>501</key>
-			<value>THOÁT</value>
+			<value>QUIT</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>502</key>
-			<value>THOÁT VỀ MENU CHÍNH\\n\\n(MẤT TOÀN BỘ TIẾN TRÌNH)</value>
+			<value>QUIT TO MAIN MENU\\n\\n(ALL PROGRESS WILL BE LOST)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>503</key>
-			<value>ĐẶT LẠI VÒNG LẶP VÀ THOÁT VỀ MENU CHÍNH</value>
+			<value>RESET LOOP AND QUIT TO MAIN MENU</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>504</key>
-			<value>THIỀN TỚI VÒNG LẶP SAU</value>
+			<value>MEDITATE UNTIL NEXT LOOP</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>505</key>
@@ -13902,51 +13941,55 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>510</key>
-			<value>TẠM DỪNG</value>
+			<value>PAUSED</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>511</key>
-			<value>&lt;color=orange&gt;Outer Wilds&lt;/color&gt; được trải nghiệm tốt nhất với một chiếc tay cầm chơi games...</value>
+			<value>&lt;color=orange&gt;Outer Wilds&lt;/color&gt; is best experienced with a game pad...</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>520</key>
-			<value>Mất kết nối với tay cầm.\\nXin hãy kiểm tra kết nối tay cầm.</value>
+			<value>Controller disconnected.\\nPlease reconnect your controller.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>521</key>
-			<value>Người dùng hiện tại đã đăng xuất.\\nXin hãy đăng nhập lại để tiếp tục.</value>
+			<value>Current user signed out.\\nPlease sign in again to continue.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>522</key>
-			<value>Nhập chữ...</value>
+			<value>Enter text...</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>523</key>
-			<value>NGƯỜI DÙNG:</value>
+			<value>USER:</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>524</key>
-			<value>Quản lý Hồ sơ</value>
+			<value>Profile Management</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>525</key>
-			<value />
+			<value>Controller disconnected.\\nPlease reconnect your controller.</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>526</key>
+			<value>Wireless controller disconnected.\\nPlease reconnect your wireless controller.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>550</key>
-			<value>Tương tác</value>
+			<value>Interact</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>551</key>
-			<value>Nhảy</value>
+			<value>Jump</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>552</key>
-			<value>Khớp vận tốc</value>
+			<value>Match Velocity</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>553</key>
-			<value>Đánh dấu Ghi chép</value>
+			<value>Mark Entry</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>554</key>
@@ -13954,231 +13997,231 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>555</key>
-			<value>Ống thu tín hiệu</value>
+			<value>Signalscope</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>556</key>
-			<value>Chế độ Nhật trình Phi thuyền</value>
+			<value>Ship Log Mode</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>557</key>
-			<value>Khóa mục tiêu</value>
+			<value>Lock On</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>558</key>
-			<value>Đèn pha</value>
+			<value>Flashlight</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>559</key>
-			<value>Lộn</value>
+			<value>Roll</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>560</key>
-			<value>Đi bộ</value>
+			<value>Walk</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>561</key>
-			<value>Chụp Phía sau</value>
+			<value>Rearview Snapshot</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>562</key>
-			<value>Thiết bị Trinh sát</value>
+			<value>Scout</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>563</key>
-			<value>Góc nhìn Ống thu</value>
+			<value>Scope View</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>564</key>
-			<value>Phiên dịch</value>
+			<value>Translate</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>565</key>
-			<value>Bản đồ</value>
+			<value>Map</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>566</key>
-			<value>Tạm dừng</value>
+			<value>Pause</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>567</key>
-			<value>Nhìn / Di chuyển</value>
+			<value>Look / Move</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>568</key>
-			<value>Mặc định</value>
+			<value>Default</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>569</key>
-			<value>Thuận tay trái</value>
+			<value>Southpaw</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>570</key>
-			<value>Lên / Xuống / Thu phóng</value>
+			<value>Up / Down / Zoom</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>571</key>
-			<value>Tiến</value>
+			<value>Forward</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>572</key>
-			<value>Lùi</value>
+			<value>Backward</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>573</key>
-			<value>Trái</value>
+			<value>Left</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>574</key>
-			<value>Phải</value>
+			<value>Right</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>575</key>
-			<value>Đẩy Lên</value>
+			<value>Thrust Up</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>576</key>
-			<value>Đẩy Xuống</value>
+			<value>Thrust Down</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>577</key>
-			<value>Thu hồi Thiết bị Trinh sát</value>
+			<value>Retrieve Scout</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>578</key>
-			<value>Đổi Tần số</value>
+			<value>Change Frequency</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>579</key>
-			<value>Thu phóng Ống thu tín hiệu</value>
+			<value>Signalscope Zoom</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>580</key>
-			<value>Thu phóng Bản đồ</value>
+			<value>Map Zoom</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>581</key>
-			<value>Thu phóng Nhật trình Phi thuyền</value>
+			<value>Ship Log Zoom</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>582</key>
-			<value>Điều khiển Camera Trinh sát Lên / Xuống</value>
+			<value>Scout Camera Up / Down</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>583</key>
-			<value>Điều khiển Camera Trinh sát Trái / Phải</value>
+			<value>Scout Camera Left / Right</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>584</key>
-			<value>Cuộn chữ Máy phiên dịch</value>
+			<value>Translator Scroll</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>585</key>
-			<value>Chuyển trang Máy phiên dịch</value>
+			<value>Translator Page</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>586</key>
-			<value>Tự động lái</value>
+			<value>Autopilot</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>587</key>
-			<value>Cuộn chữ Nhật trình Phi thuyền</value>
+			<value>Ship Log Scroll</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>588</key>
-			<value>Nhìn Tự do</value>
+			<value>Free Look</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>589</key>
-			<value>Chế độ Trinh sát</value>
+			<value>Scout Mode</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>600</key>
-			<value>Trạm Mặt Trời</value>
+			<value>Sun Station</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>601</key>
-			<value>Song Tinh Tro Tàn</value>
+			<value>Ash Twin</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>602</key>
-			<value>Song Tinh Than Hồng</value>
+			<value>Ember Twin</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>603</key>
-			<value>Song Tinh Đồng Hồ Cát</value>
+			<value>Hourglass Twins</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>604</key>
-			<value>Rừng Thông Tổ Ấm</value>
+			<value>Timber Hearth</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>605</key>
-			<value>Vỏ Rỗng Rạn Nứt</value>
+			<value>Brittle Hollow</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>606</key>
-			<value>Lồng Đèn Lơ Lửng</value>
+			<value>Hollow's Lantern</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>607</key>
-			<value>Đại Dương Khổng Lồ</value>
+			<value>Giant's Deep</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>608</key>
-			<value>Đại Pháo Vệ Tinh Do Thám</value>
+			<value>Orbital Probe Cannon</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>609</key>
-			<value>Bộ Phận Điều Khiển</value>
+			<value>Control Module</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>610</key>
-			<value>Bộ Phận Phóng</value>
+			<value>Launch Module</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>611</key>
-			<value>Bộ Phận Định Vị</value>
+			<value>Probe Tracking Module</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>612</key>
-			<value>Rừng Gai Hắc Ám</value>
+			<value>Dark Bramble</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>613</key>
-			<value>Sao Chổi Tọc Mạch</value>
+			<value>The Interloper</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>614</key>
-			<value>Hố Trắng</value>
+			<value>White Hole</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>615</key>
-			<value>Mặt Trăng Lượng Tử</value>
+			<value>Quantum Moon</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>616</key>
-			<value>Mặt Trời</value>
+			<value>Sun</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>617</key>
-			<value>Mặt Trăng Đất</value>
+			<value>The Attlerock</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>618</key>
-			<value>Con Mắt Vũ Trụ</value>
+			<value>The Eye of the universe</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>650</key>
-			<value>KÉN THOÁT HIỂM 1</value>
+			<value>ESCAPE POD 1</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>651</key>
-			<value>KÉN THOÁT HIỂM 2</value>
+			<value>ESCAPE POD 2</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>652</key>
-			<value>KÉN THOÁT HIỂM 3</value>
+			<value>ESCAPE POD 3</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>653</key>
@@ -14194,27 +14237,27 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>656</key>
-			<value>MẢNH TRONG RỪNG</value>
+			<value>GROVE SHARD</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>657</key>
-			<value>MẢNH TRONG BẢO TÀNG</value>
+			<value>MUSEUM SHARD</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>658</key>
-			<value>MẢNH TRÊN THÁP</value>
+			<value>TOWER SHARD</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>659</key>
-			<value>MẢNH TRONG HANG</value>
+			<value>CAVE SHARD</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>660</key>
-			<value>MẢNH TRÊN ĐẢO</value>
+			<value>ISLAND SHARD</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>661</key>
-			<value>MẶT TRĂNG LƯỢNG TỬ</value>
+			<value>QUANTUM MOON</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>662</key>
@@ -14242,15 +14285,15 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>668</key>
-			<value>HỐ TRẮNG</value>
+			<value>WHITE HOLE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>669</key>
-			<value>LÕI HỐ TRẮNG</value>
+			<value>WHITE HOLE CORE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>680</key>
-			<value>CHƯA XÁC ĐỊNH</value>
+			<value>UNIDENTIFIED</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>681</key>
@@ -14258,107 +14301,107 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>682</key>
-			<value>DAO ĐỘNG LƯỢNG TỬ</value>
+			<value>QUANTUM FLUCTUATIONS</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>683</key>
-			<value>TÍN HIỆU CẦU CỨU</value>
+			<value>DISTRESS BEACON</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>684</key>
-			<value>HỐ TRẮNG</value>
+			<value>WHITE HOLE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>685</key>
-			<value>TRỐN TÌM</value>
+			<value>HIDE AND SEEK</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>700</key>
-			<value>TRẠM MẶT TRỜI</value>
+			<value>SUN STATION</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>701</key>
-			<value>SONG TINH TRO TÀN</value>
+			<value>ASH TWIN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>702</key>
-			<value>SONG TINH THAN HỒNG</value>
+			<value>EMBER TWIN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>703</key>
-			<value>SONG TINH ĐỒNG HỒ CÁT</value>
+			<value>THE HOURGLASS TWINS</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>704</key>
-			<value>RỪNG THÔNG TỔ ẤM</value>
+			<value>TIMBER HEARTH</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>705</key>
-			<value>VỎ RỖNG RẠN NỨT</value>
+			<value>BRITTLE HOLLOW</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>706</key>
-			<value>LỒNG ĐÈN LƠ LỬNG</value>
+			<value>HOLLOW'S LANTERN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>707</key>
-			<value>ĐẠI DƯƠNG KHỔNG LỒ</value>
+			<value>GIANT'S DEEP</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>708</key>
-			<value>BỘ PHẬN ĐIỀU KHIỂN</value>
+			<value>CONTROL MODULE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>709</key>
-			<value>BỘ PHẬN PHÓNG</value>
+			<value>LAUNCH MODULE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>710</key>
-			<value>BỘ PHẬN ĐỊNH VỊ</value>
+			<value>PROBE TRACKING MODULE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>711</key>
-			<value>RỪNG GAI HẮC ÁM</value>
+			<value>DARK BRAMBLE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>712</key>
-			<value>SAO CHỔI TỌC MẠCH</value>
+			<value>THE INTERLOPER</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>713</key>
-			<value>HỐ TRẮNG</value>
+			<value>WHITE HOLE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>714</key>
-			<value>MẶT TRĂNG LƯỢNG TỬ</value>
+			<value>QUANTUM MOON</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>715</key>
-			<value>MẶT TRỜI</value>
+			<value>SUN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>716</key>
-			<value>MẶT TRĂNG ĐẤT</value>
+			<value>THE ATTLEROCK</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>717</key>
-			<value>CON MẮT VŨ TRỤ</value>
+			<value>THE EYE OF THE UNIVERSE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>718</key>
-			<value>THIẾT BỊ TRINH SÁT</value>
+			<value>SCOUT</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>719</key>
-			<value>BẠN ĐANG Ở ĐÂY</value>
+			<value>YOU ARE HERE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>720</key>
-			<value>PHI THUYỀN</value>
+			<value>SHIP</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>730</key>
-			<value>LƯỢC ĐỒ THIÊN VĂN của OUTER WILDS</value>
+			<value>PLANETARY CHART of the OUTER WILDS</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>731</key>
@@ -14366,15 +14409,15 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>732</key>
-			<value>THIẾT BỊ TRINH SÁT</value>
+			<value>LITTLE SCOUT</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>733</key>
-			<value>PHÁT HIỆN NGUY HIỂM</value>
+			<value>DETECT HAZARDS</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>734</key>
-			<value>THẮP SÁNG KHU VỰC TỐI</value>
+			<value>ILLUMINATE DARK AREAS</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>735</key>
@@ -14390,127 +14433,127 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>738</key>
-			<value>BƯU THIẾP TỪ KHÔNG GIAN</value>
+			<value>POSTCARDS FROM ORBIT</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>739</key>
-			<value>Máy chiếu này được kết nối với vệ tinh "Cửa chớp Bầu trời", hiện đang bay trên quỹ đạo của Rừng Thông Tổ Ấm.</value>
+			<value>This projector is linked to our "Sky Shutter" satellite, which is currently orbiting Timber Hearth.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>740</key>
-			<value>Vệ tinh được trang bị hai camera. Hãy thử chụp hình làng của chúng ta xem!</value>
+			<value>The satellite is equipped with two onboard cameras. See if you can take a snapshot of our village!</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>800</key>
-			<value>Thời gian rời đi: </value>
+			<value>Departure Time: </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>801</key>
-			<value>Thời gian tới nơi: </value>
+			<value>Arrival Time: </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>802</key>
-			<value>Cổng dịch chuyển khứ hồi: ĐÃ KÍCH HOẠT. Hãy bước lên bệ dịch chuyển khi đã sẵn sàng.</value>
+			<value>Return warp status: CHARGED. Step onto warp platform when ready.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>810</key>
-			<value>BẠN ĐÃ CHẾT</value>
+			<value>YOU ARE DEAD</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>811</key>
-			<value>BẠN ĐÃ PHÁ HỎNG QUY LUẬT KHÔNG-THỜI GIAN</value>
+			<value>YOU DESTROYED THE FABRIC OF SPACETIME</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>812</key>
-			<value>THOÁT ĐƯỢC KHỎI TẦM ẢNH HƯỞNG CỦA VỤ NỔ SIÊU TÂN TINH,\\nBẠN CỨ THẾ TRÔI DẠT TRONG KHÔNG GIAN KHI TÀI NGUYÊN CỦA PHI THUYỀN DẦN CẠN KIỆT</value>
+			<value>NOW BEYOND THE REACH OF THE SUPERNOVA,\\nYOU DRIFT THROUGH SPACE UNTIL YOUR SHIP'S RESOURCES ARE FINALLY DEPLETED</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>813</key>
-			<value>BẠN ĐÃ Ở NƠI ĐÂY ĐƯỢC BAO LÂU RỒI? BAO NHIÊU PHÚT? HAY BAO NHIÊU NĂM?\\nBẠN CHẲNG THỂ BIẾT ĐƯỢC, NHƯNG DƯỜNG NHƯ HÀNH TRÌNH CỦA BẠN ĐÃ KẾT THÚC RỒI.</value>
+			<value>HOW LONG HAVE YOU BEEN HERE? MINUTES? YEARS?\\nYOU ARE UNSURE BUT IT SEEMS YOUR JOURNEY HAS REACHED ITS END.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>814</key>
-			<value>THOÁT ĐƯỢC KHỎI TẦM ẢNH HƯỞNG CỦA VỤ NỔ SIÊU TÂN TINH, BẠN TRỞ THÀNH CƯ DÂN DUY NHẤT CỦA MỘT THẾ GIỚI BỎ HOANG.\\nCHẮC HẲN PHẢI CÓ &lt;i&gt;THỨ GÌ ĐÓ&lt;/i&gt; Ở ĐÂY ĂN ĐƯỢC NHỈ?</value>
+			<value>NOW BEYOND THE REACH OF THE SUPERNOVA, YOU FIND YOURSELF THE ONLY INHABITANT OF AN ABANDONED WORLD.\\nSURELY &lt;i&gt;SOMETHING&lt;/i&gt; HERE MUST BE EDIBLE?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>815</key>
-			<value>BAO LÂU ĐÃ TRÔI QUA RỒI?\\nHỌ CÒN CHẲNG THÈM SĂN ĐUỔI BẠN NỮA.\\nTHỜI GIAN CỨ THẾ TRÔI ĐI, CHO ĐẾN KHI CUỘC ĐỜI TRƯỚC ĐÂY CỦA BẠN CHỈ CÒN NHƯ MỘT GIẤC MƠ MẬP MỜ.\\nGIÁ NHƯ BẠN CÓ THỂ THỨC DẬY ĐƯỢC.</value>
+			<value>HOW MUCH TIME HAS PASSED?\\nTHEY DON’T EVEN BOTHER TO HUNT YOU ANYMORE.\\nTIME PASSES, AND PASSES, UNTIL YOUR LIFE BEFORE IS SOME HALF-REMEMBERED DREAM.\\nIF ONLY YOU COULD WAKE UP.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>900</key>
-			<value>Tâm Màn hình</value>
+			<value>Middle Screen Reticle</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>901</key>
-			<value>HUD</value>
+			<value>Heads Up Display</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>902</key>
-			<value>Rung</value>
+			<value>Vibration</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>903</key>
-			<value>Đặt lại Điều khiển</value>
+			<value>Button Remapping</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>904</key>
-			<value>Gia tốc Chuột</value>
+			<value>Mouse Smoothing</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>905</key>
-			<value>Thông báo HUD</value>
+			<value>HUD Notifications</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>906</key>
-			<value>Chế độ Chụp ảnh</value>
+			<value>Photo Mode</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>907</key>
-			<value>Âm lượng Nhạc</value>
+			<value>Music Volume</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>908</key>
-			<value>Âm lượng SFX</value>
+			<value>SFX Volume</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>909</key>
-			<value>Tốc độ Khung hình Mục tiêu</value>
+			<value>Target Frame Rate</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>910</key>
-			<value>Kích thước Khung nhìn</value>
+			<value>Field of View</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>911</key>
-			<value>Tốc độ Cập nhật Vật lý</value>
+			<value>Physics Update Rate</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>912</key>
-			<value>Tự động Xoay Phi thuyền</value>
+			<value>Ship Auto Orientation</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>913</key>
-			<value>Trọng tâm Phi thuyền</value>
+			<value>Ship Center of Mass</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>914</key>
-			<value>Độ khó</value>
+			<value>Difficulty Modes</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>915</key>
-			<value>Dễ</value>
+			<value>Easy</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>916</key>
-			<value>Thường</value>
+			<value>Medium</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>917</key>
-			<value>Khó</value>
+			<value>Hard</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>918</key>
-			<value>Lắc lư khi Va chạm</value>
+			<value>Impact Wobble</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>919</key>
@@ -14546,59 +14589,59 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>927</key>
-			<value>ĐÈN PHA</value>
+			<value>FLASHLIGHT</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>928</key>
-			<value>ĐÈN PHA</value>
+			<value>FLASHLIGHT</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>929</key>
-			<value> CAMERA HẠ CÁNH</value>
+			<value> LANDING CAM</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>930</key>
-			<value>MÁY TÍNH</value>
+			<value>COMPUTER</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>931</key>
-			<value>ỐNG THU TÍN HIỆU</value>
+			<value>SIGNALSCOPE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>932</key>
-			<value>TRỌNG LỰC</value>
+			<value>GRAVITY</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>933</key>
-			<value>Tháp Bệ Phóng</value>
+			<value>Launch Tower</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>934</key>
-			<value>Xưởng Gỗ</value>
+			<value>Lumber Mill</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>935</key>
-			<value>Động Không Trọng Lực</value>
+			<value>Zero-G Cave</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>936</key>
-			<value>Đài Thiên Văn</value>
+			<value>Observatory</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>937</key>
-			<value>Bóng râm tĩnh lặng</value>
+			<value>The quiet shade</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>938</key>
-			<value>Giữa khu rừng già</value>
+			<value>Across old bark</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>939</key>
-			<value>Trong khoảng cây thưa</value>
+			<value>In the ancient glade</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>940</key>
-			<value>Lúc nào cũng tối</value>
+			<value>It's always dark</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>941</key>
@@ -14618,15 +14661,15 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>945</key>
-			<value>BÁO ĐỘNG\\nTỔNG</value>
+			<value>MASTER\\nALARM</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>946</key>
-			<value>THOÁT KHẨN CẤP</value>
+			<value>EJECT</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>947</key>
-			<value>CẢNH BÁO:\\nCHỈ DÙNG\\nKHI KHẨN CẤP</value>
+			<value>WARNING:\\nUSE ONLY IN\\nEMERGENCY</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>948</key>
@@ -14634,71 +14677,71 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>949</key>
-			<value>BẬT</value>
+			<value>ON</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>950</key>
-			<value>TẮT</value>
+			<value>OFF</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>951</key>
-			<value>THẬN TRỌNG</value>
+			<value>CAUTION</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>952</key>
-			<value>CẢNH BÁO</value>
+			<value>WARNING</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>953</key>
-			<value>THIỆT HẠI</value>
+			<value>DAMAGE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>954</key>
-			<value>ĐỘ CAO</value>
+			<value>ALTIMETER</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>955</key>
-			<value>KHỚP VẬN TỐC</value>
+			<value>MATCH VELOCITY</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>956</key>
-			<value>CÁCH NẠP LẠI DƯỠNG KHÍ:</value>
+			<value>OXYGEN REFILL:</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>957</key>
-			<value>THẤY MỘT CÁI CÂY</value>
+			<value>SPOT A TREE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>958</key>
-			<value>LẠI GẦN ĐÓ</value>
+			<value>WALK TOWARDS IT</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>959</key>
-			<value>TẬN HƯỞNG KHÔNG KHÍ!</value>
+			<value>ENJOY!</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>960</key>
-			<value>Đang tải... </value>
+			<value>Loading... </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>961</key>
-			<value>TÍN HIỆU CHƯA XÁC ĐỊNH Ở GẦN</value>
+			<value>UNIDENTIFIED SIGNAL NEARBY</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>962</key>
-			<value>KHÔNG RÕ</value>
+			<value>UNKNOWN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>963</key>
-			<value>NGUY HIỂM: PHÁT HIỆN VẬT CHẤT MA Ở GẦN</value>
+			<value>DANGER: GHOST MATTER DETECTED NEARBY</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>964</key>
-			<value>TẢI LẠI BẢN LƯU TRƯỚC ĐÓ</value>
+			<value>LOAD PREVIOUS SAVE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>965</key>
-			<value> đã đăng xuất.\\nXin hãy đăng nhập lại để tiếp tục.</value>
+			<value> signed out.\\nPlease sign in again to continue.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>966</key>
@@ -14706,111 +14749,131 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>967</key>
-			<value>PHÁT HIỆN VẾT RÒ TRÊN THÂN TÀU</value>
+			<value>SHIP HULL BREACH DETECTED</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>968</key>
-			<value>KHÔNG THỂ THU HỒI THIẾT BỊ TRINH SÁT; CÓ QUÁ NHIỀU MỤC TIÊU</value>
+			<value>UNABLE TO RETRIEVE SCOUT; TOO MANY TARGETS</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>969</key>
-			<value>THU HỒI THIẾT BỊ TRINH SÁT KHẨN CẤP</value>
+			<value>EMERGENCY SCOUT RECALL ACTIVATED</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>970</key>
-			<value> ĐÃ HƯ HẠI</value>
+			<value> DAMAGED</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>971</key>
-			<value> TRÊN 3 ĐÃ SỬA</value>
+			<value> OF 3 REPAIRED</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>972</key>
-			<value>3 TRÊN 3 ĐÃ ĐƯỢC SỬA\\nHOÀN THÀNH BÀI HUẤN LUYỆN MÔ PHỎNG</value>
+			<value>3 OF 3 REPAIRED\\nTRAINING SIMULATION COMPLETE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>973</key>
-			<value>&lt;color=orange&gt;Vẫn còn điều chưa khám phá ở đây.&lt;/color&gt;</value>
+			<value>&lt;color=orange&gt;There's more to explore here.&lt;/color&gt;</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>974</key>
-			<value>VẪN CÒN GHI CHÉP CHƯA ĐƯỢC PHIÊN DỊCH</value>
+			<value>UNTRANSLATED TEXT REMAINING</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>975</key>
-			<value>THÂN TÀU SAU</value>
+			<value>AFT HULL</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>980</key>
-			<value>Thấp</value>
+			<value>Low</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>981</key>
-			<value>Trung bình</value>
+			<value>Medium</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>982</key>
-			<value>Cao</value>
+			<value>High</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>983</key>
-			<value>Rất cao</value>
+			<value>Very High</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>984</key>
-			<value>Đầy đủ</value>
+			<value>Full</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>985</key>
-			<value>Nửa</value>
+			<value>Half</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>986</key>
-			<value>Một phần tư</value>
+			<value>Quarter</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>987</key>
-			<value>Một phần tám</value>
+			<value>Eighth</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>988</key>
-			<value>Không hợp lệ</value>
+			<value>Invalid</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>989</key>
-			<value>Chậm</value>
+			<value>Slow</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>990</key>
-			<value>Bình thường</value>
+			<value>Normal</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>991</key>
-			<value>Nhanh</value>
+			<value>Fast</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>992</key>
-			<value>Ngay lập tức</value>
+			<value>Instant</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>995</key>
+			<value>1440p/60fps</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>996</key>
+			<value>2160p/30fps</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>997</key>
+			<value>Dynamic/60fps</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>998</key>
+			<value>1080p/60fps</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>999</key>
+			<value>1440p/30fps</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1000</key>
-			<value>Tạo Hồ sơ</value>
+			<value>Create Profile</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1001</key>
-			<value>Nhập Tên Hồ sơ...</value>
+			<value>Enter Profile Name...</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1002</key>
-			<value>Tạo</value>
+			<value>Create</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1003</key>
-			<value>Hủy bỏ và Thoát Trò chơi</value>
+			<value>Cancel And Exit Game</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1004</key>
-			<value>Xóa Hồ sơ </value>
+			<value>Delete the profile </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1005</key>
@@ -14818,7 +14881,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1006</key>
-			<value>Đổi Hồ sơ </value>
+			<value>Switch to profile </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1007</key>
@@ -14826,123 +14889,123 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1008</key>
-			<value>Đổi</value>
+			<value>Switch</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1009</key>
-			<value>Lưu lại lần cuối: </value>
+			<value>Last Saved: </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1010</key>
-			<value>Hãy đảm bảo rằng \\n- Outer Wilds được cấp quyền ghi lên đĩa \\n- Ổ cứng chưa đầy</value>
+			<value>Please ensure that \\n- Outer Wilds has permissions to write to the disk \\n- The hard drive is not full</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1011</key>
-			<value>Đặt lại Điều khiển</value>
+			<value>Rebind Controls</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1012</key>
-			<value>Đặt lại Điều khiển</value>
+			<value>Control Rebinding</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1013</key>
-			<value>Tay cầm</value>
+			<value>Gamepad</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1014</key>
-			<value>Bàn phím &amp; Chuột</value>
+			<value>Keyboard &amp; Mouse</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1015</key>
-			<value>Loại bỏ và Thoát ra</value>
+			<value>Discard and Exit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1016</key>
-			<value>Lưu lại và Thoát ra</value>
+			<value>Save and Exit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1017</key>
-			<value>Hủy Đặt lại</value>
+			<value>Cancel Rebinding</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1018</key>
-			<value>Chấp nhận</value>
+			<value>Confirm</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1019</key>
-			<value>Phóng to Bản đồ</value>
+			<value>Map Zoom In</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1020</key>
-			<value>Thu nhỏ Bản đồ</value>
+			<value>Map Zoom Out</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1021</key>
-			<value>Di chuyển Trục X</value>
+			<value>Move X-Axis</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1022</key>
-			<value>Di chuyển Trục Y</value>
+			<value>Move Y-Axis</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1023</key>
-			<value>Nhìn Trục X</value>
+			<value>Look X-Axis</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1024</key>
-			<value>Nhìn Trục Y</value>
+			<value>Look Y-Axis</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1025</key>
-			<value>Phóng Thiết bị trinh sát / Chụp Phía trước</value>
+			<value>Launch Scout / Forward Snapshot</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1026</key>
-			<value>Chụp Phía sau</value>
+			<value>Scout Rearview Snapshot</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1027</key>
-			<value>Công cụ Trục X</value>
+			<value>Tool X-Axis</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1028</key>
-			<value>Công cụ Trục Y</value>
+			<value>Tool Y-Axis</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1029</key>
-			<value>Chế độ Lộn</value>
+			<value>Roll Mode</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1030</key>
-			<value>Phản lực tăng cường</value>
+			<value>Jetpack Boost</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1031</key>
-			<value>Camera Hạ cánh</value>
+			<value>Landing Camera</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1032</key>
-			<value>Nhìn tự do trong Khoang lái</value>
+			<value>Cockpit Free Look</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1033</key>
-			<value>Đổi Chế độ trong Nhật trình</value>
+			<value>Change Ship Log Mode</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1034</key>
-			<value>Đánh dấu Bản ghi trên HUD</value>
+			<value>Mark Entry on HUD</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1035</key>
-			<value>Cuộn chữ trong Nhật trình</value>
+			<value>Scroll Ship Log Text</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1036</key>
-			<value>Đi ngủ</value>
+			<value>Doze Off</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1037</key>
-			<value>Đi ngủ</value>
+			<value>Fall Asleep</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1038</key>
@@ -15345,8 +15408,28 @@
 			<value>In the ship log, scrolls through long log entries</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
+			<key>1189</key>
+			<value>Enables wireless controller vibration function (wireless controller only).</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1190</key>
+			<value>Enables controller vibration (controller only).</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1191</key>
+			<value>Determines how far (from center) the left/right stick must be tilted before any input is detected. Consider increasing this dead zone if your character moves or looks around when you're not touching the left/right stick.</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1192</key>
+			<value>Determines how far (from full tilt) the left/right stick must be released before maximum input is no longer detected. Consider increasing this dead zone if you are unable to move or look at maximum speed.</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1193</key>
+			<value>Selects the resolution and framerate to render at.\\nDynamic resolution is ideal for displays with Variable Refresh Rate (VRR) support.</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
 			<key>1200</key>
-			<value>Kẻ Lạ Mặt</value>
+			<value>The Stranger</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1201</key>
@@ -15625,6 +15708,10 @@
 			<value>Preflight Checklist</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
+			<key>1409</key>
+			<value>(unsupported)</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
 			<key>1410</key>
 			<value>Reduced Frights</value>
 		</TranslationTableEntryUI>
@@ -15835,6 +15922,98 @@
 		<TranslationTableEntryUI>
 			<key>1545</key>
 			<value>Change volume for sound effects.</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1550</key>
+			<value>Would you like to reset your input settings?</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1551</key>
+			<value>Yes</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1552</key>
+			<value>No</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1553</key>
+			<value>Fullscreen</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1554</key>
+			<value>Windowed</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1555</key>
+			<value>Borderless Window</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1556</key>
+			<value>Keyboard Layout</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1557</key>
+			<value>Sets key bindings according to the selected keyboard layout. (Changing this setting resets Keyboard &amp; Mouse bindings to defaults)</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1558</key>
+			<value>Switch Pro Controller (unsupported)</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1559</key>
+			<value>Switch Slideshow</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1560</key>
+			<value>Resume Expedition</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1561</key>
+			<value>Adjust the slider until the image is barely visable.</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1562</key>
+			<value>Apply</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1563</key>
+			<value>Cancel</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1564</key>
+			<value>Gamma</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1565</key>
+			<value>Next</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1566</key>
+			<value>Previous</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1570</key>
+			<value>Vibration Function</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>177</key>
+			<value>UI Size</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1053</key>
+			<value>Auto</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1054</key>
+			<value>Regular</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1055</key>
+			<value>Large</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1194</key>
+			<value>Auto: Size is automatically determined by Language and Platform.\\nRegular/Large: Size is manually locked to the selected option.</value>
 		</TranslationTableEntryUI>
 	</table_ui>
 </TranslationTable_XML>
