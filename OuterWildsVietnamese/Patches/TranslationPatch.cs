@@ -77,6 +77,7 @@ namespace OuterWildsVietnamese
                 //Luminescence020723: Maybe the real problem lies in SliderPatch, or TextTranslation.Language enum. I'll leave the investigation for tomorrow.
                 //Luminescence020723: Just realized I've been commenting like what the Nomai usually do. Nice.
                 //Luminescence240723: Finally quit my job to get back to this. The "leave the investigation for tomorrow" part turned out to be 3 weeks later.
+                //Luminescence090526: And 3 years later... Aight let me finish this for real this time (while getting railed by the new job).
                 var onLanguageChanged = (MulticastDelegate)__instance.GetType().GetField("OnLanguageChanged", BindingFlags.Instance | BindingFlags.NonPublic).GetValue(__instance);
                 if (onLanguageChanged != null)
                 {
