@@ -8893,11 +8893,11 @@
 	</entry>
 	<entry>
 		<key>Chert1Right now I’m documenting stars. Hornfels noticed our star charts are out of date, so they asked me to update them.</key>
-		<value>Giờ tôi đang chép lại thông tin các vì sao. Bác Hornfels thấy bản đồ sao của chúng ta đã lỗi thời rồi, nên nhờ tôi cập nhật nó.</value>
+		<value>Giờ tôi đang ghi lại thông tin của các vì sao. Bác Hornfels thấy bản đồ sao của chúng ta đã lỗi thời rồi, nên nhờ tôi cập nhật nó.</value>
 	</entry>
 	<entry>
 		<key>Chert1Please don’t tell the others I said this, but sometimes I think I’m the only traveler out here interested in doing any science at all.</key>
-		<value>Đừng có bảo ai nhé, những nhiều lúc tôi nghĩ bụng, có mỗi mình tôi là đam mê nghiên cứu khoa học thôi.</value>
+		<value>Đừng có bảo ai nhé, nhưng nhiều lúc tôi cũng nghĩ bụng, cả Dự Án có mỗi mình tôi là đam mê nghiên cứu khoa học thôi.</value>
 	</entry>
 	<entry>
 		<key>Chert1...Er, maybe don’t tell Hornfels, either. I think they’re pretty deep in denial.</key>
@@ -10951,107 +10951,107 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Riebeck’s CampRiebeck discovered an old Nomai path near their campsite on the equator. The path starts inside the ruined building with trees growing out of it.</key>
-			<value>Riebeck discovered an old Nomai path near their campsite on the equator. The path starts inside the ruined building with trees growing out of it.</value>
+			<value>Riebeck đã phát hiện lối đi cũ của người Nomai ở gần khu trại của cậu ta trên đường xích đạo. Đường vào lối đi ấy nằm trong một tòa nhà đổ nát, cây cối mọc um tùm.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Riebeck’s CampRiebeck reached the Crossroads and continued downward in search of oxygen.</key>
-			<value>Riebeck reached the Crossroads and continued downward in search of oxygen.</value>
+			<value>Riebeck đã tới Giao Lộ và tiếp tục đi xuống dưới để tìm nguồn oxy.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Riebeck’s CampRiebeck has set up camp at the bottom of the Crossroads. Their excitement at being surrounded by so much Nomai history is matched only by their terror of the black hole.</key>
-			<value>Riebeck has set up camp at the bottom of the Crossroads. Their excitement at being surrounded by so much Nomai history is matched only by their terror of the black hole.</value>
+			<value>Riebeck đã dựng trại ở dưới đáy của Giao Lộ. Sự phấn khích tột độ của cậu ta khi được đắm mình trong lịch sử của người Nomai chỉ có thể bị lay chuyển bởi duy nhất nỗi sợ cái hố đen phía dưới.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Riebeck’s CampRiebeck is Timber Hearth's only archaeologist. They overcame their fear of space to explore Brittle Hollow's treasure trove of Nomai culture.</key>
-			<value>Riebeck is Rừng Thông Tổ Ấm's only archaeologist. They overcame their fear of space to explore Vỏ Rỗng Rạn Nứt's treasure trove of Nomai culture.</value>
+			<value>Riebeck là nhà khảo cổ học duy nhất của Rừng Thông Tổ Ấm. Cậu đã vượt qua nỗi sợ không gian của bản thân để tới khám phá trung tâm văn hóa của người Nomai trên Vỏ Rỗng Rạn Nứt.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gravity Cannon</key>
-			<value>Gravity Cannon</value>
+			<value>Pháo Trọng Lực</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gravity CannonA huge cylindrical structure that generates a strong upward gravity field.</key>
-			<value>A huge cylindrical structure that generates a strong upward gravity field.</value>
+			<value>Một công trình hình trụ khổng lồ với khả năng phóng lên một lực đẩy rất lớn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gravity CannonI recalled a Nomai shuttle from the Quantum Moon.</key>
-			<value>I recalled a Nomai shuttle from the Quantum Moon.</value>
+			<value>Tôi đã triệu hồi một phi thuyền của người Nomai từ Mặt Trăng Lượng Tử.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum Knowledge</key>
-			<value>Tower of Quantum Knowledge</value>
+			<value>Tháp Tri Thức Lượng Tử</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum KnowledgeThis tower (located on Brittle Hollow's equator) held useful knowledge for Nomai embarking on their first pilgrimage to the Quantum Moon.</key>
-			<value>This tower (located on Vỏ Rỗng Rạn Nứt's equator) held useful knowledge for Nomai embarking on their first pilgrimage to the Quantum Moon.</value>
+			<value>Tòa tháp này (nằm trên xích đạo của Vỏ Rỗng Rạn Nứt) lưu giữ những tri thức hữu ích cho những người Nomai chuẩn bị chuyến thăm đầu tiên của mình tới Mặt Trăng Lượng Tử.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum KnowledgeA Nomai named Solanum was told to visit the Tower of Quantum Knowledge (on Brittle Hollow's equator) to learn one final rule before embarking on her pilgrimage to the Quantum Moon.</key>
-			<value>A Nomai named Solanum was told to visit the Tower of Quantum Knowledge (on Vỏ Rỗng Rạn Nứt's equator) to learn one final rule before embarking on her pilgrimage to the Quantum Moon.</value>
+			<value>Một người Nomai có tên Solanum đã được hướng dẫn tìm tới Tháp Tri Thức Lượng Tử (nằm trên xích đạo của Vỏ Rỗng Rạn Nứt) để học về quy tắc cuối cùng trước khi khởi hành tới Mặt Trăng Lượng Tử.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum KnowledgeThe Nomai built a shrine on the Quantum Moon to aid in the pilgrimage to its sixth location. "Remember this final rule: To explore the sixth location, the shrine must be on the moon’s north pole."</key>
-			<value>The Nomai built a shrine on the Quantum Moon to aid in the pilgrimage to its sixth location. "Remember this final rule: To explore the sixth location, the shrine must be on the moon’s north pole."</value>
+			<value>Người Nomai đã xây dựng một điện thờ trên Mặt Trăng Lượng Tử để hỗ trợ cho chuyến thăm tới vị trí thứ sau của hành tinh này. "Hãy nhớ lấy quy tắc cuối cùng: Để tới được vị trí thứ sáu, điện thờ này phải nằm tại cực bắc của mặt trăng."</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum KnowledgeThe pilgrimage to the Quantum Moon was a deeply significant journey for the Nomai.</key>
-			<value>The pilgrimage to the Quantum Moon was a deeply significant journey for the Nomai.</value>
+			<value>Chuyến thăm tới Mặt Trăng Lượng Tử là một hành trình có ý nghĩa quan trọng đối với người Nomai.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum KnowledgeAfter the two groups of Nomai stranded on Ember Twin and Brittle Hollow were reunited, it became their united goal to find and visit the Quantum Moon.</key>
-			<value>After the two groups of Nomai stranded on Song Tinh Than Hồng and Vỏ Rỗng Rạn Nứt were reunited, it became their united goal to find and visit the Quantum Moon.</value>
+			<value>Sau khi hai nhóm người Nomai lưu lạc trên Song Tinh Than Hồng và Vỏ Rỗng Rạn Nứt đoàn tụ với nhau, việc tìm kiếm và đi tới Mặt Trăng Lượng Tử đã trở thành sứ mệnh chung của họ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum Shard</key>
-			<value>Quantum Shard</value>
+			<value>Mảnh Đá Lượng Tử</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum ShardThe Nomai noticed a strange rock shard that appeared to wander when no one was watching.</key>
-			<value>The Nomai noticed a strange rock shard that appeared to wander when no one was watching.</value>
+			<value>Người Nomai đã phát hiện một mảnh đá kỳ lạ có hành vi thay đổi vị trí khi không ai quan sát.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum ShardA strange rock shard that wanders when no one is watching. The Nomai determined this shard is the reason objects in this grove behave in a quantum manner.</key>
-			<value>A strange rock shard that wanders when no one is watching. The Nomai determined this shard is the reason objects in this grove behave in a quantum manner.</value>
+			<value>Một mảnh đá kỳ lạ có hành vi thay đổi vị trí khi không ai quan sát. Người Nomai đã xác định rằng mảnh đá này chính là nguyên nhân khiến các vật thể xung quanh biểu hiện tính chất lượng tử.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum ShardThe Nomai hypothesized that this shard is actually a piece of the Quantum Moon.</key>
-			<value>The Nomai hypothesized that this shard is actually a piece of the Quantum Moon.</value>
+			<value>Người Nomai đã đưa ra giả thuyết rằng mảnh đá này chính là một mảnh của Mặt Trăng Lượng Tử.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum ShardThis shard emits the same signal as the Quantum Moon.</key>
-			<value>This shard emits the same signal as the Quantum Moon.</value>
+			<value>Mảnh đá này phát ra tín hiệu trùng khớp với tín hiệu của Mặt Trăng Lượng Tử.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Northern Glacier</key>
-			<value>Northern Glacier</value>
+			<value>Sông Băng Cực Bắc</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Northern GlacierThe north pole of Brittle Hollow is covered in snow and ice. There is a uniquely shaped Nomai ruin on the surface.</key>
-			<value>The north pole of Vỏ Rỗng Rạn Nứt is covered in snow and ice. There is a uniquely shaped Nomai ruin on the surface.</value>
+			<value>Cực bắc của Vỏ Rỗng Rạn Nứt được bao phủ bởi băng tuyết. Có một tàn tích của người Nomai với hình thù độc đáo được xây dựng trên bề mặt.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Northern GlacierThe Nomai were able to warp here from the White Hole Station. This is where they first recreated warp technology.</key>
-			<value>The Nomai were able to warp here from the White Hole Station. This is where they first recreated warp technology.</value>
+			<value>Người Nomai có thể dịch chuyển tới đây từ Trạm Hố Trắng. Đây là nơi đầu tiên họ tái tạo được công nghệ dịch chuyển.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 1</key>
-			<value>Escape Pod 1</value>
+			<value>Kén Thoát Hiểm 1</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 1One of the three Nomai escape pods landed somewhere on Brittle Hollow.</key>
-			<value>One of the three Nomai escape pods landed somewhere on Vỏ Rỗng Rạn Nứt.</value>
+			<value>Một trong ba kén thoát hiểm của người Nomai đã rơi xuống đâu đó trên Vỏ Rỗng Rạn Nứt.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 1One of three Nomai escape pods that crashed in our solar system.</key>
-			<value>One of three Nomai escape pods that crashed in our solar system.</value>
+			<value>Một trong ba kén thoát hiểm của người Nomai đã rơi xuống hệ mặt trời này.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 1All three escape pods were launched from something called the Vessel, which was badly damaged.</key>
-			<value>All three escape pods were launched from something called the Vessel, which was badly damaged.</value>
+			<value>Cả ba kén thoát hiểm đều được phóng ra từ Phi Thuyền Mẹ, vốn đã bị hư hại nặng.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Old Settlement</key>
-			<value>Old Settlement</value>
+			<value>Khu Tạm Trú</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Shelter Site</key>
