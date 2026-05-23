@@ -3440,11 +3440,11 @@
 	</entry>
 	<entry>
 		<key>FoundSomething1I found that bit out by accident, but let’s keep that between you and me, hey? Hornfels would have my very handsome head if they knew I’d been riding the cyclones again.</key>
-		<value>Ta cũng vô tình mà phát hiện được ra thôi, nhưng mà đừng kể cho ai khác biết nhé? Hornfels sẽ lấy cái đầu xinh đẹp này của ta nếu cụ ấy biết ta lại lái phi thuyền chui vào lốc xoáy đấy.</value>
+		<value>Ta cũng vô tình mà phát hiện được ra thôi, nhưng mà đừng kể cho ai khác biết nhé? Hornfels sẽ tịch thu cái đầu xinh đẹp này của ta nếu cụ ấy biết ta lại lái phi thuyền chui vào lốc xoáy mất.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething1“The ship is fragile! It can break! You can’t subject it to extreme conditions!” Not like I was flying the thing into the sun, now, was I?</key>
-		<value>"Phi thuyền dễ hỏng lắm! Nó có thể vỡ thành nhiều mảnh thật đấy! Cậu không được đưa nó vào môi trường cực đoan như vậy!" Cứ như thể ta đang lái thứ đó tông vào mặt trời vậy?</value>
+		<value>"Phi thuyền dễ hỏng lắm! Nó có thể vỡ tung thành nhiều mảnh thật đấy! Cậu không thể đưa nó vào những môi trường cực đoan như vậy!" Cứ như thể ta đang lái thứ đó tông vào mặt trời vậy?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething1And the jellyfish, you figured those out, too? Hatchling, I tell you what, you’ve done real well for yourself! You’re a fine astronaut, sure, but you might just become a pilot yet!</key>
@@ -4648,7 +4648,7 @@
 	</entry>
 	<entry>
 		<key>PYE: Friends visiting from the &lt;color=orange&gt;Hanging City&lt;/color&gt;, we are planning the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; at the &lt;color=orange&gt;High Energy Lab&lt;/color&gt; on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;’s equator.</key>
-		<value>PYE: Gửi những người bạn tới thăm từ &lt;color=orange&gt;Thành Phố Treo Ngược&lt;/color&gt;, chúng tôi đang lên kế hoạch cho &lt;color=orange&gt;Dự Án Song Tinh Tro Tàn&lt;/color&gt; tại &lt;color=orange&gt;Phòng Thí Nghiệm Năng Lượng Cao&lt;/color&gt; nằm trên đường xích đạo của &lt;color=lightblue&gt;Song Tinh Than Hồng&lt;/color&gt;.</value>
+		<value>PYE: Gửi những người bạn tới thăm từ &lt;color=orange&gt;Thành Phố Treo&lt;/color&gt;, chúng tôi đang lên kế hoạch cho &lt;color=orange&gt;Dự Án Song Tinh Tro Tàn&lt;/color&gt; tại &lt;color=orange&gt;Phòng Thí Nghiệm Năng Lượng Cao&lt;/color&gt; nằm trên đường xích đạo của &lt;color=lightblue&gt;Song Tinh Than Hồng&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>CONOY: I became lost on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; (my gratitude that Ramie found me!), but the &lt;color=orange&gt;High Energy Lab&lt;/color&gt; is the building with the large solar panels. I’m suprised I didn’t see it!</key>
@@ -5772,7 +5772,7 @@
 			&lt;color=orange&gt;Launch Module&lt;/color&gt;: Viewport window fractured. Module exposed to vacuum of space.
 		</key>
 		<value>
-			&lt;color=orange&gt;Bộ Phận Phóng&lt;/color&gt;: Cửa sổ ngắm đã vỡ. Bộ phận đã bị rò rỉ chân không.
+			&lt;color=orange&gt;Bộ Phận Nòng Pháo&lt;/color&gt;: Cửa sổ ngắm đã vỡ. Bộ phận đã bị rò rỉ chân không.
 		</value>
 	</entry>
 	<entry>
@@ -6829,7 +6829,7 @@
 	</entry>
 	<entry>
 		<key>RiebecksJournalBut wow, this place sure is something! Looks like the Hanging City is north from here. And east is a gravity cannon! I &lt;i&gt;definitely&lt;/i&gt; want to see that.</key>
-		<value>Nhưng mà wow, nơi này xịn thật đấy! Có vẻ như Thành Phố Treo Ngược nằm ở phía bắc từ đây. Và phía đông là bệ pháo trọng lực! Mình &lt;i&gt;muốn&lt;/i&gt; được thấy thứ đó quá.</value>
+		<value>Nhưng mà wow, nơi này xịn thật đấy! Có vẻ như Thành Phố Treo nằm ở phía bắc từ đây. Và phía đông là bệ pháo trọng lực! Mình &lt;i&gt;muốn&lt;/i&gt; được thấy thứ đó quá.</value>
 	</entry>
 	<entry>
 		<key>RiebecksJournalAnd another thing - I’m detecting oxygen from somewhere below. Which is good, since I, uh, used up a lot of my supply screaming during the trip down from the surface.</key>
@@ -7853,7 +7853,7 @@
 	</entry>
 	<entry>
 		<key>RiebeckIntroI’m here to see the Hanging City. It’s always been my dream to see it with my own four eyes, ever since I was a hatchling.</key>
-		<value>Tôi tới để tham quan Thành Phố Treo Ngược. Từ khi bé xíu tôi đã luôn mong sẽ được nhìn thấy nơi ấy tận mắt.</value>
+		<value>Tôi tới để tham quan Thành Phố Treo. Từ khi bé xíu tôi đã luôn mong sẽ được nhìn thấy nơi ấy tận mắt.</value>
 	</entry>
 	<entry>
 		<key>RiebeckIntroAn alien race lived in this solar system long before our species even existed! How could I &lt;i&gt;not&lt;/i&gt; want to see what their civilization was like?</key>
@@ -7929,7 +7929,7 @@
 	</entry>
 	<entry>
 		<key>RiebeckExploreWhich is unfortunate, because uh, the most exciting stuff is all below the crust. Including the &lt;color=orange&gt;Hanging City&lt;/color&gt; — that’s just to the north. You can kinda see it from here.</key>
-		<value>Nhưng thế cũng lại dở, bởi vì, ờ, những điều thú vị nhất lại nằm bên dưới tầng vỏ của hành tinh. Bao gồm cả &lt;color=orange&gt;Thành Phố Treo Ngược&lt;/color&gt; — nằm ở phía bắc. Từ đây cậu cũng nhìn thấp thoáng được đấy.</value>
+		<value>Nhưng thế cũng lại dở, bởi vì, ờ, những điều thú vị nhất lại nằm bên dưới tầng vỏ của hành tinh. Bao gồm cả &lt;color=orange&gt;Thành Phố Treo&lt;/color&gt; — nằm ở phía bắc. Từ đây cậu cũng nhìn thấp thoáng được đấy.</value>
 	</entry>
 	<entry>
 		<key>RiebeckExploreThere’s also this big dome on the south pole called the &lt;color=orange&gt;Southern Observatory&lt;/color&gt;. You can’t get inside from the surface — trust me, I tried — but if it’s like the rest of the Nomai structures here, there’s probably a path to it beneath the crust somewhere.</key>
@@ -7957,7 +7957,7 @@
 	</entry>
 	<entry>
 		<key>RiebeckRiebeckLearnedI saw the Hanging City on Brittle Hollow.</key>
-		<value>Em đã tới Thành Phố Treo Ngược trên Vỏ Rỗng Rạn Nứt.</value>
+		<value>Em đã tới Thành Phố Treo trên Vỏ Rỗng Rạn Nứt.</value>
 	</entry>
 	<entry>
 		<key>RiebeckRiebeckLearnedI saw the Sunless City on Ember Twin.</key>
@@ -8021,11 +8021,11 @@
 	</entry>
 	<entry>
 		<key>RiebeckLearned_4You visited the Hanging City? Oh gosh, how was it? Was it amazing? Was it beautiful? ...Was it scary?</key>
-		<value>Cậu đã ghé qua Thành Phố Treo Ngược ư? Trời ơi, ở đó thế nào? Có tuyệt không? Có đẹp không? ...Có đáng sợ không?</value>
+		<value>Cậu đã ghé qua Thành Phố Treo ư? Trời ơi, ở đó thế nào? Có tuyệt không? Có đẹp không? ...Có đáng sợ không?</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_4The Hanging City is where the Nomai settled permanently on Brittle Hollow. It was their most advanced settlement here!</key>
-		<value>Thành Phố Treo Ngược là nơi định cư lâu dài của người Nomai trên Vỏ Rỗng Rạn Nứt. Đó là thành phố tân tiến nhất ở đây!</value>
+		<value>Thành Phố Treo là nơi định cư lâu dài của người Nomai trên Vỏ Rỗng Rạn Nứt. Đó là thành phố tân tiến nhất ở đây!</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_4Why they chose to build their most advanced settlement so close to a &lt;i&gt;you-know-what&lt;/i&gt; is beyond me. Maybe that kind of thing makes sense to a Nomai, though. ...Maybe they needed the &lt;size=20&gt;black hole&lt;/size&gt; for something?</key>
@@ -8294,7 +8294,7 @@
 			The &lt;color=orange&gt;Hanging City&lt;/color&gt;\\n(north 250m)
 		</key>
 		<value>
-			&lt;color=orange&gt;Thành Phố Treo Ngược&lt;/color&gt;\\n(phía bắc 250m)
+			&lt;color=orange&gt;Thành Phố Treo&lt;/color&gt;\\n(phía bắc 250m)
 		</value>
 	</entry>
 	<entry>
@@ -8318,7 +8318,7 @@
 			The &lt;color=orange&gt;Hanging City&lt;/color&gt;\\n(below 50m)
 		</key>
 		<value>
-			&lt;color=orange&gt;Thành Phố Treo Ngược&lt;/color&gt;\\n(phía dưới 50m)
+			&lt;color=orange&gt;Thành Phố Treo&lt;/color&gt;\\n(phía dưới 50m)
 		</value>
 	</entry>
 	<entry>
@@ -8549,7 +8549,7 @@
 	</entry>
 	<entry>
 		<key>Launch Module</key>
-		<value>&lt;color=orange&gt;Bộ Phận Phóng&lt;/color&gt;</value>
+		<value>&lt;color=orange&gt;Bộ Phận Nòng Pháo&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>
@@ -11043,11 +11043,11 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 1One of three Nomai escape pods that crashed in our solar system.</key>
-			<value>Một trong ba kén thoát hiểm của người Nomai đã rơi xuống hệ mặt trời này.</value>
+			<value>Một trong ba kén thoát hiểm của người Nomai kẹt lại trong hệ mặt trời này.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 1All three escape pods were launched from something called the Vessel, which was badly damaged.</key>
-			<value>Cả ba kén thoát hiểm đều được phóng ra từ Phi Thuyền Mẹ, vốn đã bị hư hại nặng.</value>
+			<value>Cả ba kén thoát hiểm đều được phóng ra từ Phi Thuyền Mẹ, vốn đã bị hư hỏng nặng.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Old Settlement</key>
@@ -11103,7 +11103,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Hanging City</key>
-			<value>Thành Phố Treo Ngược</value>
+			<value>Thành Phố Treo</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Northern Settlement</key>
@@ -11139,387 +11139,387 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeThe Black Hole Forge is suspended below the Hanging City. I found a switch in the Meltwater District that raises and lowers the forge.</key>
-			<value>The Black Hole Forge is suspended below the Hanging City. I found a switch in the Meltwater District that raises and lowers the forge.</value>
+			<value>Lò Luyện Hố Đen được treo bên dưới Thành Phố Treo. Tôi đã tìm thấy một bảng điều khiển tại Khu Băng Tan dùng để nâng hạ lò luyện.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeThe Black Hole Forge District is the highest district in the Hanging City.</key>
-			<value>The Black Hole Forge District is the highest district in the Hanging City.</value>
+			<value>Khu Lò Luyện là phân khu ở tầng trên cùng của Thành Phố Treo.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeA Nomai named Poke planned to create a new advanced warp core in the Black Hole Forge.</key>
-			<value>A Nomai named Poke planned to create a new advanced warp core in the Black Hole Forge.</value>
+			<value>Một người Nomai mang tên Poke đã dự định chế tạo một lõi dịch chuyển cao cấp bên trong Lò Luyện Hố Đen.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeThe Nomai crafted warp cores at the Black Hole Forge before delivering them to Ash Twin.</key>
-			<value>The Nomai crafted warp cores at the Black Hole Forge before delivering them to Song Tinh Tro Tàn.</value>
+			<value>Người Nomai đã chế tạo lõi dịch chuyển tại Lò Luyện Hố Đen rồi vận chuyển tới Song Tinh Tro Tàn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeA warp tower's alignment point is not its warp receiver. Rather, a warp tower always aligns with the center of its corresponding astral body.</key>
-			<value>A warp tower's alignment point is not its warp receiver. Rather, a warp tower always aligns with the center of its corresponding astral body.</value>
+			<value>Đích ngắm của tháp dịch chuyển không nằm ở cổng dịch chuyển đích. Thay vì thế, tháp dịch chuyển sẽ luôn ngắm tới tâm của thiên thể đích đến.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeThe warp receiver must be located on (or in close orbit around) the relevant astral body.</key>
-			<value>The warp receiver must be located on (or in close orbit around) the relevant astral body.</value>
+			<value>Cổng dịch chuyển đích phải được đặt trên (hoặc di chuyển trong quỹ đạo gần) thiên thể đích đến.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeThe Hourglass Twins are so close together they function as a single astral body, with a shared alignment point in between them.</key>
-			<value>The Song Tinh Đồng Hồ Cát are so close together they function as a single astral body, with a shared alignment point in between them.</value>
+			<value>Do Song Tinh Đồng Hồ Cát nằm sát gần nhau nên chúng được coi là một thiên thể đơn nhất, và sử dụng chung một đích ngắm ở giữa.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeAll of the warp towers were being constructed on Ash Twin, while the six warp receivers were being constructed at different locations.</key>
-			<value>All of the warp towers were being constructed on Song Tinh Tro Tàn, while the six warp receivers were being constructed at different locations.</value>
+			<value>Tất cả tháp dịch chuyển đều được xây dựng trên Song Tinh Tro Tàn, trong khi sáu cổng dịch chuyển đích được xây dựng ở các địa điểm khác nhau.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeA Nomai named Poke successfully forged an advanced warp core for the Ash Twin Project.</key>
-			<value>A Nomai named Poke successfully forged an advanced warp core for the Dự Án Song Tinh Tro Tàn.</value>
+			<value>Một người Nomai mang tên Poke đã chế tạo thành công chiếc lõi dịch chuyển cao cấp được sử dụng cho Dự Án Song Tinh Tro Tàn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Alignment Angle Diagram</key>
-			<value>Alignment Angle Diagram</value>
+			<value>Sơ Đồ Góc Ngắm</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Alignment Angle DiagramA diagram depicting the alignment angle between a warp tower and its corresponding astral body.</key>
-			<value>A diagram depicting the alignment angle between a warp tower and its corresponding astral body.</value>
+			<value>Một sơ đồ mô tả góc ngắm thẳng giữa một tháp dịch chuyển và thiên thể đích của nó.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Alignment Angle DiagramWarp tower alignment angles are not exact. They only need to be within five degrees of the astral body's center.</key>
-			<value>Warp tower alignment angles are not exact. They only need to be within five degrees of the astral body's center.</value>
+			<value>Đường ngắm của tháp dịch chuyển không cần phải chính xác, chỉ cần góc chênh lệch so với tâm của thiên thể đích nhỏ hơn năm độ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Alignment Angle DiagramThis results in slightly longer warp windows that last roughly several seconds.</key>
-			<value>This results in slightly longer warp windows that last roughly several seconds.</value>
+			<value>Thiết kế này giúp kéo dài khoảng thời gian cơ hội để dịch chuyển lên tới vài giây.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Alignment Angle DiagramAnyone stepping onto the warp platform during the active window will be immediately warped.</key>
-			<value>Anyone stepping onto the warp platform during the active window will be immediately warped.</value>
+			<value>Bất cứ ai bước lên bệ dịch chuyển trong khoảng thời gian kích hoạt sẽ được lập tức chuyển đi.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Southern Observatory</key>
-			<value>Southern Observatory</value>
+			<value>Đài Thiên Văn Nam Cực</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Southern ObservatoryThe Nomai decided to build a larger, more sophisticated Eye signal locator on Brittle Hollow's south pole.</key>
-			<value>The Nomai decided to build a larger, more sophisticated Eye signal locator on Vỏ Rỗng Rạn Nứt's south pole.</value>
+			<value>Người Nomai đã xây dựng một thiết bị đồ sộ hơn, phức tạp hơn để định vị tín hiệu của Con Mắt trên cực nam của Vỏ Rỗng Rạn Nứt.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Southern ObservatoryThere are two paths beneath Brittle Hollow's surface that lead to the observatory. One starts at the gravity cannon, and the other starts at the Tower of Quantum Knowledge.</key>
-			<value>There are two paths beneath Vỏ Rỗng Rạn Nứt's surface that lead to the observatory. One starts at the gravity cannon, and the other starts at the Tower of Quantum Knowledge.</value>
+			<value>Có hai lối đi phía dưới lớp bề mặt của Vỏ Rỗng Rạn Nứt dẫn vào bên trong đài thiên văn. Một lối đi xuất phát từ pháo trọng lực, và lối còn lại xuất phát từ Tháp Tri Thức Lượng Tử.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Southern ObservatoryRiebeck says you can't get into the observatory from the surface (they tried), but there's probably a path to it beneath the crust somewhere.</key>
-			<value>Riebeck says you can't get into the observatory from the surface (they tried), but there's probably a path to it beneath the crust somewhere.</value>
+			<value>Riebeck nói rằng tôi sẽ không thể vào trong đài thiên văn từ lối vào trên bề mặt (vì người ta thử rồi), nhưng chắc sẽ có lối vào đâu đó phía dưới lớp vỏ bề mặt.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Southern ObservatoryThere's a door to the observatory on the surface, but it's broken.</key>
-			<value>There's a door to the observatory on the surface, but it's broken.</value>
+			<value>Có một cánh cửa dẫn vào bên trong đài thiên văn trên bề mặt, nhưng nó đã bị hỏng.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Southern ObservatoryThe new, more sensitive locator the Nomai built in this observatory was unable to detect any trace of the Eye's signal.</key>
-			<value>The new, more sensitive locator the Nomai built in this observatory was unable to detect any trace of the Eye's signal.</value>
+			<value>Thiết bị định vị mới được người Nomai xây dựng bên trong đài thiên văn vẫn không thể nhận được bất cứ tín hiệu nào của Con Mắt.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Southern ObservatoryBased on their knowledge of the Quantum Moon, the Nomai believed the Eye was in a distant orbit around the sun.</key>
-			<value>Based on their knowledge of the Quantum Moon, the Nomai believed the Eye was in a distant orbit around the sun.</value>
+			<value>Dựa vào kiến thức xây dựng được về Mặt Trăng Lượng Tử, người Nomai tin rằng Con Mắt đang di chuyển theo một quỹ đạo xa xung quanh mặt trời.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Southern ObservatoryThe Nomai decided to stop searching for the Eye's signal and instead look for it visually by sending out a deep space probe.</key>
-			<value>The Nomai decided to stop searching for the Eye's signal and instead look for it visually by sending out a deep space probe.</value>
+			<value>Người Nomai đã quyết định dừng việc tìm kiếm tín hiệu của Con Mắt và bắt đầu phóng ra vệ tinh do thám để tìm kiếm trực tiếp.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Southern ObservatoryThere were concerns that the probability of launching a probe in the correct direction would be absurdly small.</key>
-			<value>There were concerns that the probability of launching a probe in the correct direction would be absurdly small.</value>
+			<value>Có một vài lo ngại rằng xác suất phóng được vệ tinh do thám theo đúng hướng là vô cùng nhỏ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tornado Simulation</key>
-			<value>Tornado Simulation</value>
+			<value>Mô Phỏng Lốc Xoáy</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ocean Current Discovery</key>
-			<value>Ocean Current Discovery</value>
+			<value>Phát Hiện Về Dòng Biển</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tornado SimulationThe Nomai at the Southern Observatory constructed a model of Giant's Deep that revealed how an object might sink below the strong ocean current.</key>
-			<value>The Nomai at the Southern Observatory constructed a model of Đại Dương Khổng Lồ that revealed how an object might sink below the strong ocean current.</value>
+			<value>Tại Đài Thiên Văn Nam Cực, người Nomai đã chế tạo một mô hình Đại Dương Khổng Lồ cho thấy cách một vật thể có thể chìm qua dòng biển xiết.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tornado SimulationMost cyclones on Giant's Deep rotate clockwise. These are the cyclones the Nomai used to send components into orbit.</key>
-			<value>Most cyclones on Đại Dương Khổng Lồ rotate clockwise. These are the cyclones the Nomai used to send components into orbit.</value>
+			<value>Đa số lốc xoáy trên Đại Dương Khổng Lồ quay theo chiều kim đồng hồ. Chúng là những lốc xoáy mà người Nomai đã tận dụng để đưa các công trình lên trên quỹ đạo.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tornado SimulationThere also exists a rarer type of cyclone that spins the opposite direction and pushes objects beneath the waters and below the current.</key>
-			<value>There also exists a rarer type of cyclone that spins the opposite direction and pushes objects beneath the waters and below the current.</value>
+			<value>Nhưng cũng tồn tại một loại lốc xoáy xoay theo chiều ngược lại và nhấn chìm vật thể xuống dưới dòng biển.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Feldspar’s Camp</key>
-			<value>Feldspar’s Camp</value>
+			<value>Trại Của Bác Feldspar</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Feldspar</key>
-			<value>Feldspar</value>
+			<value>Bác Feldspar</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Feldspar’s CampFeldspar headed off to Dark Bramble after reaching the core of Giant's Deep.</key>
-			<value>Feldspar headed off to Rừng Gai Hắc Ám after reaching the core of Đại Dương Khổng Lồ.</value>
+			<value>Bác Feldspar đã tới Rừng Gai Hắc Ám sau khi chạm tới vùng lõi của Đại Dương Khổng Lồ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Inside the Seed</key>
-			<value>Inside the Seed</value>
+			<value>Bên Trong Hạt Giống</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Feldspar’s CampWhen I launch my scout into the seed that crashed on Timber Hearth, it ends up in a much bigger space filled with fog and thorny vines.</key>
-			<value>When I launch my scout into the seed that crashed on Rừng Thông Tổ Ấm, it ends up in a much bigger space filled with fog and thorny vines.</value>
+			<value>Khi tôi phóng thiết bị trinh sát của mình vào trong hạt giống khổng lồ rơi xuống Rừng Thông Tổ Ấm, thiết bị chui vào trong một không gian rộng lớn hơn rất nhiều, phủ kín trong sương mù và dây gai.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Feldspar’s CampFeldspar is alive! They crashed their ship and is now camping inside a huge anglerfish skeleton.</key>
-			<value>Feldspar is alive! They crashed their ship and is now camping inside a huge anglerfish skeleton.</value>
+			<value>Bác Feldspar vẫn còn sống! Bác ấy đã làm hỏng phi thuyền của mình và đang cắm trại bên trong một chiếc đầu lâu của một con cá cần câu khổng lồ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Feldspar’s CampFeldspar doesn't think my scout tracker is wrong when it says my scout is in two places at once. They have a theory that space doesn’t work the same inside Dark Bramble.</key>
-			<value>Feldspar doesn't think my scout tracker is wrong when it says my scout is in two places at once. They have a theory that space doesn’t work the same inside Rừng Gai Hắc Ám.</value>
+			<value>Bác Feldspar không nghĩ rằng bộ định vị của tôi trả về kết quả sai khi phát hiện thiết bị trinh sát ở hai vị trí khác nhau tại một thời điểm. Bác ấy đưa ra giả thuyết rằng không gian không hoạt động bình thường bên trong Rừng Gai Hắc Ám.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Feldspar’s CampFeldspar doesn't sound overly eager to return to civilization. They've been enjoying the (relative) peace and quiet.</key>
-			<value>Feldspar doesn't sound overly eager to return to civilization. They've been enjoying the (relative) peace and quiet.</value>
+			<value>Bác Feldspar có vẻ không quá hào hứng với việc tái hòa nhập xã hội. Bác ấy thích sự yên bình và tĩnh lặng (cũng cũng) ở đây hơn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen Jellyfish</key>
-			<value>Frozen Jellyfish</value>
+			<value>Sứa Đóng Băng</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Hollow Vine</key>
-			<value>Hollow Vine</value>
+			<value>Dây Gai Rỗng</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen JellyfishFeldspar hinted that a secret to reaching the core of Giant's Deep lies at the end of the hollow vine they crashed their ship into. To find Feldspar's ship, I'll want to go to the tail end of the anglerfish skeleton and look for a flickering light in the fog.</key>
-			<value>Feldspar hinted that a secret to reaching the core of Đại Dương Khổng Lồ lies at the end of the hollow vine they crashed their ship into. To find Feldspar's ship, I'll want to go to the tail end of the anglerfish skeleton and look for a flickering light in the fog.</value>
+			<value>Bác Feldspar đã gợi ý rằng bí quyết để chạm tới được lõi của Đại Dương Khổng Lồ nằm ở cuối một sợi dây gai rỗng mà bác ấy đã tông phi thuyền của mình vào. Để tìm được phi thuyền của bác Feldspar, tôi cần đi về phía đuôi của bộ xương cá cần câu và tìm tia lửa điện nhấp nháy trong màn sương.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen JellyfishFeldspar documented their attempts to eat this enormous jellyfish frozen in the ice. The outside was all rubbery and tough, possibly because it insulates the jellyfish’s insides from getting zapped by electricity.</key>
-			<value>Feldspar documented their attempts to eat this enormous jellyfish frozen in the ice. The outside was all rubbery and tough, possibly because it insulates the jellyfish’s insides from getting zapped by electricity.</value>
+			<value>Bác Feldspar đã ghi lại những lần ăn thử con sứa khổng lồ bị đóng băng. Phần thịt bên ngoài dai như cao su, có thể là để bảo vệ nội tạng của sứa khỏi bị giật điện.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen JellyfishFeldspar decided to venture into the jellyfish’s interior cavity to see if it tasted any better on the inside.</key>
-			<value>Feldspar decided to venture into the jellyfish’s interior cavity to see if it tasted any better on the inside.</value>
+			<value>Bác Feldspar đã quyết định chui vào lỗ bên trong con sứa để xem phần thịt ở đó có ngon hơn không.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen JellyfishAfter tasting the inside of the jellyfish, Feldspar concluded that these jellyfish are only useful for insulation from electricity.</key>
-			<value>After tasting the inside of the jellyfish, Feldspar concluded that these jellyfish are only useful for insulation from electricity.</value>
+			<value>Sau khi nếm thử phần thịt bên trong con sứa, bác Feldspar đã kết luận rằng những con sứa này chỉ có tác dụng làm vật liệu cách điện.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 3</key>
-			<value>Escape Pod 3</value>
+			<value>Kén Thoát Hiểm 3</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 3One of the three Nomai escape pods never made it out of Dark Bramble.</key>
-			<value>One of the three Nomai escape pods never made it out of Rừng Gai Hắc Ám.</value>
+			<value>Một trong ba kén thoát hiểm của người Nomai đã không bao giờ thoát ra khỏi Rừng Gai Hắc Ám.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 3One of three Nomai escape pods that crashed in our solar system.</key>
-			<value>One of three Nomai escape pods that crashed in our solar system.</value>
+			<value>Một trong ba kén thoát hiểm của người Nomai kẹt lại trong hệ mặt trời này.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 3All three escape pods were launched from something called the Vessel, which was badly damaged.</key>
-			<value>All three escape pods were launched from something called the Vessel, which was badly damaged.</value>
+			<value>Cả ba kén thoát hiểm đều được phóng ra từ Phi Thuyền Mẹ, vốn đã bị hư hỏng nặng.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 3The survivors from Escape Pod 3 detected two distinct beacons from the Vessel, as if it was in two locations at once.</key>
-			<value>The survivors from Escape Pod 3 detected two distinct beacons from the Vessel, as if it was in two locations at once.</value>
+			<value>Những người sống sót trong Kén Thoát Hiểm 3 đã dò được hai tín hiệu khác nhau từ Phi Thuyền Mẹ, như thể nó đang nằm ở hai vị trí tại cùng một thời điểm.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai Grave</key>
-			<value>Nomai Grave</value>
+			<value>Tử Địa Của Người Nomai</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 3 Survivors</key>
-			<value>Escape Pod 3 Survivors</value>
+			<value>Những Người Sống Sót Trong Kén Thoát Hiểm 3</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai GraveThe survivors from Escape Pod 3 abandoned the wreckage and attempted to return to the Vessel.</key>
-			<value>The survivors from Escape Pod 3 abandoned the wreckage and attempted to return to the Vessel.</value>
+			<value>Những người sống sót sau vụ va chạm của Kén Thoát Hiểm 3 đã cố gắng tìm đường trở lại Phi Thuyền Mẹ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai GraveThe survivors decided to follow the closer of the two Vessel beacons due to their limited air supply. They planned to leave a trail of lights behind them in case someone heard their distress signal.</key>
-			<value>The survivors decided to follow the closer of the two Vessel beacons due to their limited air supply. They planned to leave a trail of lights behind them in case someone heard their distress signal.</value>
+			<value>Họ đã chọn đi theo tín hiệu Phi Thuyền Mẹ ở gần hơn do dưỡng khí không còn nhiều. Họ đã để lại dấu vết trên đường để phòng trường hợp có ai đó nhận được tín hiệu cầu cứu.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai GraveThe survivors from Escape Pod 3 followed one of the two Vessel beacons to a small Dark Bramble seed, where they could go no further.</key>
-			<value>The survivors from Escape Pod 3 followed one of the two Vessel beacons to a small Rừng Gai Hắc Ám seed, where they could go no further.</value>
+			<value>Những người sống sót từ Kén Thoát Hiểm 3 đã lần theo tín hiệu của Phi Thuyền Mẹ tới một hạt giống nhỏ của Rừng Gai Hắc Ám, và kẹt lại ở đó.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai GraveThe Nomai could faintly hear the Vessel's beacon from within the seed, but the opening was too small for a single Nomai to fit through, much less an escape pod.</key>
-			<value>The Nomai could faintly hear the Vessel's beacon from within the seed, but the opening was too small for a single Nomai to fit through, much less an escape pod.</value>
+			<value>Họ có thể bắt được tín hiệu yếu ớt của Phi Thuyền Mẹ phát ra từ bên trong hạt giống, nhưng khe hở trên hạt giống lại quá nhỏ để một người Nomai chui qua được, huống chi một chiếc kén thoát hiểm cỡ lớn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai GraveThe Vessel's beacon was dying, and would soon be gone completely.</key>
-			<value>The Vessel's beacon was dying, and would soon be gone completely.</value>
+			<value>Tín hiệu của Phi Thuyền Mẹ khi đó cũng đang yếu đi, và chẳng mấy chốc sẽ tắt hẳn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai GraveIf I launch my scout into the seed, I can take photos of an enormous derelict Nomai ship.</key>
-			<value>If I launch my scout into the seed, I can take photos of an enormous derelict Nomai ship.</value>
+			<value>Khi phóng thiết bị trinh sát vào bên trong hạt giống, tôi có thể chụp được ảnh của một xác phi thuyền Nomai khổng lồ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Vessel</key>
-			<value>The Vessel</value>
+			<value>Phi Thuyền Mẹ</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselThe Nomai warped to this solar system in a spaceship called the Vessel. They were attempting to follow a signal from the Eye of the universe.</key>
-			<value>The Nomai warped to this solar system in a spaceship called the Vessel. They were attempting to follow a signal from the Eye of the universe.</value>
+			<value>Người Nomai đã dịch chuyển tới hệ mặt trời này bên trong một chiếc phi thuyền không gian mang tên Phi Thuyền Mẹ. Họ đã cố đuổi theo tín hiệu phát ra từ Con Mắt Vũ Trụ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselThe Vessel crashed somewhere in Dark Bramble.</key>
-			<value>The Vessel crashed somewhere in Rừng Gai Hắc Ám.</value>
+			<value>Phi Thuyền Mẹ đã va chạm đâu đó bên trong Rừng Gai Hắc Ám.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselThe Vessel's warp core broke when the ship crashed in Dark Bramble.</key>
-			<value>The Vessel's warp core broke when the ship crashed in Rừng Gai Hắc Ám.</value>
+			<value>Lõi dịch chuyển của Phi Thuyền Mẹ đã bị hỏng sau vụ va chạm bên trong Rừng Gai Hắc Ám.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselI launched my scout into the seed at the Nomai Grave and took photos of an enormous derelict Nomai ship.</key>
-			<value>I launched my scout into the seed at the Nomai Grave and took photos of an enormous derelict Nomai ship.</value>
+			<value>Tôi đã phóng thiết bị trinh sát vào bên trong hạt giống tại Tử Địa Nomai và chụp được ảnh của một xác phi thuyền Nomai khổng lồ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselI found the derelict Nomai Vessel deep within Dark Bramble.</key>
-			<value>I found the derelict Nomai Vessel deep within Rừng Gai Hắc Ám.</value>
+			<value>Tôi đã tìm thấy xác Phi Thuyền Mẹ của người Nomai kẹt lại sâu bên trong Rừng Gai Hắc Ám.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselThe Vessel's warp core is long dead.</key>
-			<value>The Vessel's warp core is long dead.</value>
+			<value>Lõi dịch chuyển của Phi Thuyền Mẹ đã vô hiệu từ lâu.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselI activated a three-sided pillar on the Vessel's bridge that appears to be some sort of input device.</key>
-			<value>I activated a three-sided pillar on the Vessel's bridge that appears to be some sort of input device.</value>
+			<value>Tôi đã kích hoạt một chiếc cột tam diện trên Phi Thuyền Mẹ, thứ trông giống như một thiết bị nhập dữ liệu.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselThe Nomai tried to call for help, but the Vessel's outgoing message system broke during the crash.</key>
-			<value>The Nomai tried to call for help, but the Vessel's outgoing message system broke during the crash.</value>
+			<value>Người Nomai đã cố gắng gửi đi tín hiệu cầu cứu, nhưng hệ thống truyền tin của Phi Thuyền Mẹ cũng đã hư hại sau vụ va chạm.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselThe Vessel can still hear incoming messages from other Nomai vessels. The remaining Nomai clans are regrouping in response to the impending death of the universe.</key>
-			<value>The Vessel can still hear incoming messages from other Nomai vessels. The remaining Nomai clans are regrouping in response to the impending death of the universe.</value>
+			<value>Phi Thuyền Mẹ vẫn có thể nhận tin nhắn từ những đại phi thuyền khác của tộc Nomai. Các bộ tộc Nomai còn lại đang tụ họp để đối phó với cái chết cận kề của vũ trụ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselI found a recording of the original signal the Nomai encountered from the Eye of the universe. The Nomai were worried the signal might disappear, so they warped before they could tell another clan where they were going.</key>
-			<value>I found a recording of the original signal the Nomai encountered from the Eye of the universe. The Nomai were worried the signal might disappear, so they warped before they could tell another clan where they were going.</value>
+			<value>Tôi đã tìm thấy bản ghi của tín hiệu đầu tiên mà người Nomai nhận được từ Con Mắt Vũ Trụ. Vì sợ rằng tín hiệu sẽ biến mất, người Nomai đã vội vàng dịch chuyển trước khi báo lại những bộ tộc khác đích đến của họ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Probe Cannon</key>
-			<value>Orbital Probe Cannon</value>
+			<value>Đại Pháo Vệ Tinh Do Thám</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
-			<key>Orbital Probe CannonThe Nomai finished building the final module for the Orbital Probe Cannon and sent it into orbit around Giant’s Deep.</key>
-			<value>The Nomai finished building the final module for the Orbital Probe Cannon and sent it into orbit around Đại Dương Khổng Lồ.</value>
+			<key>Orbital Probe CannonThe Nomai finished building the final module for the Orbital Probe Cannon and sent it into orbit around Giant’s Deep.</key>  
+			<value>Người Nomai đã xây dựng xong bộ phận cuối cùng của Đại Pháo Vệ Tinh Do Thám và đưa nó lên quỹ đạo quanh Đại Dương Khổng Lồ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Probe CannonI used a Nomai projection pool and saw the interior of a space station in orbit around Giant's Deep.</key>
-			<value>I used a Nomai projection pool and saw the interior of a space station in orbit around Đại Dương Khổng Lồ.</value>
+			<value>Tôi đã sử dụng một bể chiếu hình của người Nomai và nhìn thấy bên trong của một trạm không gian trên quỹ đạo quanh Đại Dương Khổng Lồ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Probe CannonThe Nomai decided to construct a probe cannon in orbit around Giant’s Deep.</key>
-			<value>The Nomai decided to construct a probe cannon in orbit around Đại Dương Khổng Lồ.</value>
+			<value>Người Nomai đã quyết định xây dựng một đại pháo do thám trên quỹ đạo quanh Đại Dương Khổng Lồ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Flash</key>
-			<value>Orbital Flash</value>
+			<value>Chớp Sáng Trên Trời</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Probe CannonGabbro sees a bright flash in the sky at the start of every loop. Something must be happening in orbit around Giant’s Deep.</key>
-			<value>Gabbro sees a bright flash in the sky at the start of every loop. Something must be happening in orbit around Đại Dương Khổng Lồ.</value>
+			<value>Anh Gabbro nhìn thấy một chớp sáng trên trời vào đầu mỗi vòng lặp. Phải có chuyện gì đó xảy ra trên quỹ đạo quanh Đại Dương Khổng Lồ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Probe CannonThe broken remains of a Nomai space station in orbit around Giant's Deep. There are three accessways branching off from the central hub area.</key>
-			<value>The broken remains of a Nomai space station in orbit around Đại Dương Khổng Lồ. There are three accessways branching off from the central hub area.</value>
+			<value>Mảnh vỡ của một trạm không gian Nomai đang di chuyển trên quỹ đạo quanh Đại Dương Khổng Lồ. Có ba lối đi dẫn vào khu trung tâm.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Probe CannonThe Orbital Probe Cannon was created to find the precise location of the Eye of the universe.</key>
-			<value>The Orbital Probe Cannon was created to find the precise location of the Eye of the universe.</value>
+			<value>Đại Pháo Vệ Tinh Do Thám được tạo ra để xác định vị trí chính xác của Con Mắt Vũ Trụ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Probe CannonThe Nomai pushed the Orbital Probe Cannon above its maximum power setting to create the greatest chance of finding the Eye of the universe.</key>
-			<value>The Nomai pushed the Orbital Probe Cannon above its maximum power setting to create the greatest chance of finding the Eye of the universe.</value>
+			<value>Người Nomai đã ép Đại Pháo Vệ Tinh Do Thám vượt quá ngưỡng công suất tối đa của nó để tối đa khả năng tìm thấy Con Mắt Vũ Trụ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking Module</key>
-			<value>Probe Tracking Module</value>
+			<value>Bộ Phận Định Vị</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleOne of the Orbital Probe Cannon’s three modules.</key>
-			<value>One of the Orbital Probe Cannon’s three modules.</value>
+			<value>Một trong ba bộ phận của Đại Pháo Vệ Tinh Do Thám.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleThe Probe Tracking Module is receiving data from the launched probe.</key>
-			<value>The Probe Tracking Module is receiving data from the launched probe.</value>
+			<value>Bộ Phận Định Vị nhận dữ liệu truyền về từ vệ tinh do thám được phóng đi.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleAny Nomai aboard the Probe Tracking Module would be the first to see the coordinates of the Eye of the universe.</key>
-			<value>Any Nomai aboard the Probe Tracking Module would be the first to see the coordinates of the Eye of the universe.</value>
+			<value>Người Nomai trực tại Bộ Phận Định Vị sẽ là người đầu tiên thấy được tọa độ của Con Mắt Vũ Trụ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleA Nomai computer reports the Probe Tracking Module as "missing."</key>
-			<value>A Nomai computer reports the Probe Tracking Module as "missing."</value>
+			<value>Một máy tính báo rằng Bộ Phận Định Vị đang ở trạng thái "mất tích".</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleI saw the Probe Tracking Module through a Nomai projection pool. It looks like the module is underwater. I could see purple electricity outside the viewport.</key>
-			<value>I saw the Probe Tracking Module through a Nomai projection pool. It looks like the module is underwater. I could see purple electricity outside the viewport.</value>
+			<value>Tôi đã nhìn thấy Bộ Phận Định Vị thông qua một bể chiếu hình Nomai. Có vẻ như bộ phận ấy đang chìm sâu dưới nước. Tôi có thể thấy những ánh điện màu tím bên ngoài cửa sổ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleThe Orbital Probe Cannon has launched millions of probes.</key>
-			<value>The Orbital Probe Cannon has launched millions of probes.</value>
+			<value>Đại Pháo Vệ Tinh Do Thám đã phóng đi hàng triệu vệ tinh.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleThe 9,318,054th probe located a deep space anomaly matching all known criteria for the Eye of the universe.</key>
-			<value>The 9,318,054th probe located a deep space anomaly matching all known criteria for the Eye of the universe.</value>
+			<value>Vệ tinh thứ 9,318,054 đã xác định được tín hiệu bất thường trong không gian sâu trùng khớp với mọi đặc điểm của Con Mắt Vũ Trụ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleThe statue in the Probe Tracking Module automatically records each probe's trajectory and transmits the data to the Ash Twin Project.</key>
-			<value>The statue in the Probe Tracking Module automatically records each probe's trajectory and transmits the data to the Dự Án Song Tinh Tro Tàn.</value>
+			<value>Bức tượng đặt trong Bộ Phận Định Vị tự động ghi lại đường bay của từng vệ tinh và truyền dữ liệu tới Dự Án Song Tinh Tro Tàn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleI found Nomai coordinates marking the location of the Eye of the universe.</key>
-			<value>I found Nomai coordinates marking the location of the Eye of the universe.</value>
+			<value>Tôi đã tìm thấy tọa độ của Con Mắt Vũ Trụ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Launch Module</key>
-			<value>Launch Module</value>
+			<value>Bộ Phận Nòng Pháo</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Launch ModuleOne of the Orbital Probe Cannon’s three modules.</key>
-			<value>One of the Orbital Probe Cannon’s three modules.</value>
+			<value>Một trong ba bộ phận của Đại Pháo Vệ Tinh Do Thám.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Launch ModuleThe Launch Module looks heavily damaged. There’s a huge breach in the glass viewport.</key>
-			<value>The Launch Module looks heavily damaged. There’s a huge breach in the glass viewport.</value>
+			<value>Bộ Phận Nòng Pháo đã bị hư hại nặng. Có một vết thủng lớn trên cửa sổ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Launch ModuleThe Launch Module's viewport window is fractured, exposing it to the vacuum of space.</key>
-			<value>The Launch Module's viewport window is fractured, exposing it to the vacuum of space.</value>
+			<value>Cửa sổ của Bộ Phận Nòng Pháo đã vỡ tan, khiến không gian bên trong rơi vào trạng thái chân không.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Launch ModuleThe Launch Module is badly damaged, but its projection pool is still intact.</key>
-			<value>The Launch Module is badly damaged, but its projection pool is still intact.</value>
+			<value>Tuy Bộ Phận Nòng Pháo đã hư hại nằng nề, nhưng bể chiếu hình ở đó vẫn hoạt động.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Launch ModuleA Nomai named Mallow argued that it wouldn't matter if the cannon's structural integrity was compromised, since they only needed to fire the probe once.</key>
-			<value>A Nomai named Mallow argued that it wouldn't matter if the cannon's structural integrity was compromised, since they only needed to fire the probe once.</value>
+			<value>Một người Nomai mang tên Mallow cho rằng việc phá hủy cấu trúc của đại pháo không phải là vấn đề, vì đằng nào họ cũng chỉ cần phóng vệ tinh một lần duy nhất.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Launch ModuleA Nomai named Privet countered that they wouldn't be capable of receiving the probe's data if the Probe Tracking Module was destroyed.</key>
-			<value>A Nomai named Privet countered that they wouldn't be capable of receiving the probe's data if the Probe Tracking Module was destroyed.</value>
+			<value>Một người Nomai khác tên Privet phản bác rằng họ sẽ không thể nhận dữ liệu từ vệ tinh nếu Bộ Phận Định Vị cũng bị phá hủy theo.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Control Module</key>
-			<value>Control Module</value>
+			<value>Bộ Phận Điều Khiển</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Control ModuleOne of the Orbital Probe Cannon’s three modules.</key>
-			<value>One of the Orbital Probe Cannon’s three modules.</value>
+			<value>Một trong ba bộ phận của Đại Pháo Vệ Tinh Do Thám.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Control ModuleThe Control Module (recently) received a request from the Ash Twin Project to launch the probe. The cannon was aligned with a randomly selected probe trajectory.</key>
-			<value>The Control Module (recently) received a request from the Dự Án Song Tinh Tro Tàn to launch the probe. The cannon was aligned with a randomly selected probe trajectory.</value>
+			<value>Bộ Phận Điều Khiển vừa mới nhận lệnh phóng vệ tinh từ Dự Án Song Tinh Tro Tàn. Đại pháo được ngắm về một hướng ngẫu nhiên.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Control ModuleThe probe was successfully launched, but the cannon's structural integrity was compromised in the process. Damage is detected in multiple modules.</key>
-			<value>The probe was successfully launched, but the cannon's structural integrity was compromised in the process. Damage is detected in multiple modules.</value>
+			<value>Vệ tinh đã được phóng đi thành công, nhưng đại pháo đã hư hại sau phát bắn. Thiệt hại được ghi nhận ở nhiều bộ phận khác nhau.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Stranger</key>
@@ -11527,19 +11527,19 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The StrangerA massive artificial ring world hidden within some sort of cloaking field. It does not appear to be Hearthian or Nomaian in origin.</key>
-			<value>A massive artificial ring world hidden within some sort of cloaking field. It does not appear to be Hearthian or Nomaian in origin.</value>
+			<value>Một thế giới nhân tạo hình bánh xe ẩn sau một lớp ngụy trang vô hình. Có vẻ kiến trúc này không thuộc về tộc Rừng Thông hay Nomai.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>River Lowlands</key>
-			<value>River Lowlands</value>
+			<value>Hạ Lưu Sông</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>River LowlandsA low-lying region near the entrance to the Stranger. There are wooden buildings along the banks of the river.</key>
-			<value>A low-lying region near the entrance to Phi Thuyền Kẻ Lạ. There are wooden buildings along the banks of the river.</value>
+			<value>Một vùng đất trũng gần lối vào của Phi Thuyền Kẻ Lạ. Có những công trình gỗ được xây dựng dọc hai bên bờ sông.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>River LowlandsI found several ornate metal artifacts inside a workshop surrounded by ghost matter.</key>
-			<value>I found several ornate metal artifacts inside a workshop surrounded by ghost matter.</value>
+			<value>Tôi đã tìm rất nhiều tạo tác kim loại tinh xảo bên trong một nhà xưởng bị bao phủ trong vật chất ma.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Burned Slide Reel</key>
@@ -14177,7 +14177,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>610</key>
-			<value>Bộ Phận Phóng</value>
+			<value>Bộ Phận Nòng Pháo</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>611</key>
@@ -14353,7 +14353,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>709</key>
-			<value>BỘ PHẬN PHÓNG</value>
+			<value>Bộ Phận Nòng Pháo</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>710</key>

@@ -1,0 +1,96 @@
+Hourglass Twins - Song Tinh Đồng Hồ Cát (Sa Luân Song Tinh)
+Ash Twin - Song Tinh Tro Tàn
+Ember Twin - Song Tinh Than Hồng
+Dark Bramble - Rừng Gai Hắc Ám
+The Interloper - Sao Chổi Tọc Mạch
+Sun Station - Trạm Mặt Trời
+Timber Hearth - Rừng Thông Tổ Ấm (???)
+Brittle Hollow - Vỏ Rỗng Rạn Nứt (???)
+Hollow's Lantern - Lồng Đèn Lơ Lửng
+Giant's Deep - Đại Dương Khổng Lồ
+The Stranger - Phi Thuyền Kẻ Lạ
+Quantum Moon - Mặt Trăng Lượng Tử
+Attlerock - Mặt Trăng Sỏi Vụn
+
+--------NOMAI
+
+Blackrock - Đá Đen (???)
+Escape Pod - Kén Thoát Hiểm
+Stepping Stone Cave - Hang Đá Bậc Thang
+Anglerfish - Cá Cần Câu
+Anglerfish Overlook - Sảnh Quan Sát Cá Cần Câu
+Fish Fossil Cave - Động Hóa Thạch Cá
+comet - sao chổi
+gravity cannon - pháo trọng lực/bệ pháo
+energy readings - xung năng lượng
+Orbital Probe Cannon - Đại Pháo Vệ Tinh Do Thám / Đại Pháo Do Thám / Đại Pháo
+Module - Bộ Phận
+Probe Tracking Module - Bộ Phận Định Vị (Vệ Tinh)
+Statue Island - Đảo Tạc Tượng
+memory statue - tượng ký ức
+Statue Workshop - Xưởng Tạc Tượng
+projection pool - bể chiếu hình
+Southern Observatory - Đài Thiên Văn Nam Cực
+Black Hole Forge - Lò Luyện Hố Đen
+White Hole Station - Trạm Hố Trắng
+warp core - lõi dịch chuyển
+advanced warp core - lõi dịch chuyển cao cấp
+ALIGNMENT - ĐƯỜNG NGẮM THẲNG
+astral body - thiên thể đích đến
+warp receiver - cổng dịch chuyển đích
+High Energy Lab - Phòng Thí Nghiệm Năng Lượng Cao
+Tower of Quantum Knowledge - Tháp Tri Thức Lượng Tử
+Eye signal locator - bộ định vị tín hiệu (Con Mắt)
+supernovae - nổ siêu tân tinh
+Sunless City - Thành Phố Không Nắng | Đêm Trường | 
+Hanging City - Thành Phố Treo
+distress beacon - tín hiệu cầu cứu
+Construction Yard - Công Trường
+the crash - sự cố dịch chuyển
+Vessel - Phi Thuyền Mẹ
+gravity crystal - pha lê trọng lực
+volcanic moon - mặt trăng núi lửa
+phantom moon - mặt trăng ma
+Lakebed Cave - Hang Đáy Hồ
+Crossroads - Giao Lộ
+Projection Stone - Đá Soi Chiếu
+Eye Shrine District - Khu Điện Thờ
+Meltwater District - Khu Băng Tan
+Crash Site Caves - Lối hang dẫn tới Nơi Đáp xuống
+
+
+--------HEARTHIAN
+
+Hearthian - người con của Rừng Thông (???)
+retro rockets - tên lửa giảm tốc
+signalscope - ống thu tín hiệu
+deep space - không gian (xa)
+Ol' Spacey - Lão Vệ Tinh
+ground control - trạm kiểm soát
+Observatory - Đài Thiên Văn
+ghost matter - vật chất ma
+ship log - nhật trình phi thuyền
+scout - thiết bị trinh sát
+scout launcher - máy trinh sát
+Outer Wilds Ventures - (???) Dự Án Outer Wilds
+Gabbro Relaxation Scale - Thang Đo Thư Giãn Gabbro
+zero-g cave - động không trọng lực
+launch code - mật mã 
+translator tool - máy phiên dịch
+Youngbark Crater - Hố Vỏ Cây Non
+Geyser Mountains - Rặng Đồi Phun Nước
+Quantum Grove Crater - Hố Rừng Lượng Tử
+Lunar Outpost - Tiền Đồn Mặt Trăng
+Radio Tower - Tháp Vô Tuyến
+
+
+--------Stranger
+Slide Reel - cuộn phim
+
+
+
+--------UI
+
+Boost - Phản lực tăng cường
+Eject - Thoát khẩn cấp
+Rumor - manh mối
