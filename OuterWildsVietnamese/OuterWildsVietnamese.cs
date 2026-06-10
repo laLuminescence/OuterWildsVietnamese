@@ -65,7 +65,7 @@ namespace OuterWildsVietnamese
             }
 
             Harmony.CreateAndPatchAll(Assembly.GetExecutingAssembly());
-            Log("Đã thêm bản dịch Tiếng Việt.\nChúc bạn may mắn trên hành trình của mình!\n-Luminescence-");
+            Log("Đã thêm bản dịch Tiếng Việt.\nChúc bạn may mắn trên hành trình của mình!\n-Đặng Hữu aka Luminescence-");
         }
     
 

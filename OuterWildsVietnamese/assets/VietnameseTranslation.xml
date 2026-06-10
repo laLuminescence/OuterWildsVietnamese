@@ -4092,7 +4092,7 @@
 	</entry>
 	<entry>
 		<key>PYE: Ramie and I will be running this experiment until one of us (specifically, me) can prove the other wrong, so although it’s inconvenient, the lab currently can only be accessed by the path from the &lt;color=orange&gt;Sunless City&lt;/color&gt;.</key>
-		<value>PYE: Ramie và tôi sẽ tiến hành thí nghiệm cho tới khi một trong hai (cụ thể hơn, sẽ là tôi) chứng minh được người còn lại là sai, nên dù hơi bất tiện, nhưng phòng thí nghiệm sẽ chỉ có thể vào được từ lối đi dưới &lt;color=orange&gt;Thành Phố Không Nắng&lt;/color&gt;.</value>
+		<value>PYE: Ramie và tôi sẽ tiến hành thí nghiệm cho tới khi một trong hai (cụ thể hơn, sẽ là tôi) chứng minh được người còn lại là sai, nên dù hơi bất tiện, nhưng phòng thí nghiệm sẽ chỉ có thể vào được từ lối đi dưới &lt;color=orange&gt;Thành Phố Đêm Trường&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>RAMIE: Inviting sand inside would disrupt our setup and could have enormous consequences. (We realize this is an intriguing prospect, but the door must remain closed nonetheless!)</key>
@@ -4100,7 +4100,7 @@
 	</entry>
 	<entry>
 		<key>RAMIE: An update: The &lt;color=orange&gt;High Energy Lab&lt;/color&gt; is now being used to design the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;! If you’re here to help (or even just to observe), be sure to use the &lt;color=orange&gt;Sunless City&lt;/color&gt; path to the lab.</key>
-		<value>RAMIE: Tin mới: &lt;color=orange&gt;Phòng Thí Nghiệm Năng Lượng Cao&lt;/color&gt; hiện đang được sử dụng để thiết kế &lt;color=orange&gt;Dự Án Song Tinh Tro Tàn&lt;/color&gt;! Nếu bạn tới đây để trợ giúp (hoặc để tham quan cũng được), xin hãy sử dụng lối đi dưới &lt;color=orange&gt;Thành Phố Không Nắng&lt;/color&gt; để vào phòng thí nghiệm.</value>
+		<value>RAMIE: Tin mới: &lt;color=orange&gt;Phòng Thí Nghiệm Năng Lượng Cao&lt;/color&gt; hiện đang được sử dụng để thiết kế &lt;color=orange&gt;Dự Án Song Tinh Tro Tàn&lt;/color&gt;! Nếu bạn tới đây để trợ giúp (hoặc để tham quan cũng được), xin hãy sử dụng lối đi dưới &lt;color=orange&gt;Thành Phố Đêm Trường&lt;/color&gt; để vào phòng thí nghiệm.</value>
 	</entry>
 	<entry>
 		<key>RAMIE: The &lt;color=orange&gt;Southern Observatory&lt;/color&gt; is asking if creating a 22 minute interval is possible (that is, to have something arrive 22 minutes before it is actually sent through the warp).</key>
@@ -4128,7 +4128,7 @@
 	</entry>
 	<entry>
 		<key>PYE: My pun was unintended, Ramie, so I believe it’s you who’s aeriform!</key>
-		<value>PYE: Tôi đâu có cố tình chơi chữ, nên có khi anh mới là kẻ bay bổng ở đây!</value>
+		<value>PYE: Tôi có cố tình chơi chữ đâu Ramie, nên có khi chính anh mới là kẻ bay bổng ở đây ấy!</value>
 	</entry>
 	<entry>
 		<key>PYE: Records show Nomai arriving at the warp receiver on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; very slightly before departing from the &lt;color=orange&gt;White Hole Station&lt;/color&gt;. Ramie and I are devising an experiment to test if this is a real phenomenon or simple machine error.</key>
@@ -4152,7 +4152,7 @@
 	</entry>
 	<entry>
 		<key>PYE: To that end, we’ve decided to try adding more energy. I imagine the &lt;color=orange&gt;Sunless City&lt;/color&gt;’s energy supply should prove sufficient.</key>
-		<value>PYE: Và vì thế, chúng tôi quyết định cấp thêm năng lượng cho thí nghiệm này. Tôi đoán rằng nguồn năng lượng của &lt;color=orange&gt;Thành Phố Không Nắng&lt;/color&gt; sẽ đủ khả năng làm vậy.</value>
+		<value>PYE: Và vì thế, chúng tôi quyết định cấp thêm năng lượng cho thí nghiệm này. Tôi đoán rằng nguồn năng lượng của &lt;color=orange&gt;Thành Phố Đêm Trường&lt;/color&gt; sẽ đủ khả năng làm vậy.</value>
 	</entry>
 	<entry>
 		<key>PYE: Of note, Ramie: Yarrow requests that we let him know before we reroute energy to the experiment.</key>
@@ -4160,7 +4160,7 @@
 	</entry>
 	<entry>
 		<key>RAMIE: I’d hate to leave him in the dark!</key>
-		<value>RAMIE: Tôi cũng chẳng thích phải giấu giếm điều gì với anh ấy!</value>
+		<value>RAMIE: Tôi cũng chẳng thích phải giấu giếm điều gì với anh ấy đâu!</value>
 	</entry>
 	<entry>
 		<key>PYE: All available energy has been rerouted from the city to our experiment. Ramie and I are about to run a new test.</key>
@@ -4560,7 +4560,7 @@
 	</entry>
 	<entry>
 		<key>PYE: How far we’ve come since our experiments at the &lt;color=orange&gt;High Energy Lab&lt;/color&gt;! I still can hardly believe Ramie’s hypothesis was true.</key>
-		<value>PYE: Thật là một bước tiến lớn kể từ buổi thí nghiệm của chúng ta tại &lt;color=orange&gt;Phòng Thí Nghiệm Năng Lượng Cao&lt;/color&gt;! Đến giờ tôi vẫn chưa thể tin được rằng giả thuyết của Rami lại là đúng.</value>
+		<value>PYE: Thật là một bước tiến lớn kể từ buổi thí nghiệm của chúng ta tại &lt;color=orange&gt;Phòng Thí Nghiệm Năng Lượng Cao&lt;/color&gt;! Đến giờ tôi vẫn chưa thể tin được rằng giả thuyết của Ramie lại là đúng.</value>
 	</entry>
 	<entry>
 		<key>YARROW: Poke just sent the warp core for the final tower to us from the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt;. Now &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; can be connected with &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;, where Cassava is working with Avens to craft the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt;, and where Phlox is sculpting the memory statues.</key>
@@ -4867,7 +4867,7 @@
 			ILEX: It’s unusual for Nomai to remain in one place for so long. Nomai are wanderers and have no permanent home.
 		</key>
 		<value>
-			ILEX: Việc người Nomai định cư tại một nơi nào đó quá lâu là không hề bình thường. Nomai vốn là một chủng loài du mục, và không có một quê hương nào cả.
+			ILEX: Việc người Nomai định cư tại một nơi nào đó quá lâu là không hề bình thường. Nomai vốn là một dân tộc du mục, và không có một quê hương nào cả.
 		</value>
 	</entry>
 	<entry>
@@ -5589,7 +5589,7 @@
 	</entry>
 	<entry>
 		<key>BUR: Melorae, some of us from the &lt;color=orange&gt;Sunless City&lt;/color&gt; are here to help search for Coleus. Can you tell us more about your expedition?</key>
-		<value>BUR: Melorae, một vài người từ &lt;color=orange&gt;Thành Phố Không Nắng&lt;/color&gt; đã tới để giúp tìm kiếm Coleus. Cô kể thêm về chuyến khảo sát của hai người được không?</value>
+		<value>BUR: Melorae, một vài người từ &lt;color=orange&gt;Thành Phố Đêm Trường&lt;/color&gt; đã tới để giúp tìm kiếm Coleus. Cô kể thêm về chuyến khảo sát của hai người được không?</value>
 	</entry>
 	<entry>
 		<key>MELORAE: You have my gratitude, Bur! Coleus and I were studying the caves’ geology. We hoped to learn more about a unique and wandering rock that visits several different caves in the area.</key>
@@ -5697,7 +5697,7 @@
 	</entry>
 	<entry>
 		<key>BEGIN FLIGHTLOG: &lt;color=orange&gt;Escape Pod 3&lt;/color&gt;. &lt;color=orange&gt;Vessel&lt;/color&gt; has been mortally injured. Emergency sequence activated. Awaiting departure from &lt;color=orange&gt;Vessel&lt;/color&gt;.</key>
-		<value>BẮT ĐẦU NHẬT TRÌNH: &lt;color=orange&gt;Kén Thoát Hiểm 3&lt;/color&gt;. &lt;color=orange&gt;Phi Thuyền Mẹ&lt;/color&gt; đã hư hại nghiêm trọng. đã hư hại nghiêm trọng. Kích hoạt tiến trình thoát hiểm. Chờ lệnh thoát khỏi &lt;color=orange&gt;Phi Thuyền Mẹ&lt;/color&gt;.</value>
+		<value>BẮT ĐẦU NHẬT TRÌNH: &lt;color=orange&gt;Kén Thoát Hiểm 3&lt;/color&gt;. &lt;color=orange&gt;Phi Thuyền Mẹ&lt;/color&gt; đã hư hại nghiêm trọng. Kích hoạt tiến trình thoát hiểm. Chờ lệnh thoát khỏi &lt;color=orange&gt;Phi Thuyền Mẹ&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>Now launching &lt;color=orange&gt;Escape Pod 3&lt;/color&gt;.</key>
@@ -11543,351 +11543,351 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Burned Slide Reel</key>
-			<value>Burned Slide Reel</value>
+			<value>Cuộn Phim Cháy</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Burned Slide ReelA slide reel that shows the origin of the Stranger and its inhabitants.</key>
-			<value>A slide reel that shows the origin of Phi Thuyền Kẻ Lạ and its inhabitants.</value>
+			<value>Một cuộn phim ghi lại nguồn gốc của Phi Thuyền Kẻ Lạ và cư dân trên tàu.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Burned Slide ReelSeveral slides have been burned and cannot be viewed.</key>
-			<value>Several slides have been burned and cannot be viewed.</value>
+			<value>Một số hình đã bị cháy và không thể xem được nội dung.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Slide Burning Room</key>
-			<value>Slide Burning Room</value>
+			<value>Phòng Hủy Phim</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Secret Location</key>
-			<value>Secret Location</value>
+			<value>Vị Trí Bí Mật</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Slide Burning RoomA map I found in the Abandoned Temple reveals a secret location somewhere within the Stranger.</key>
-			<value>A map I found in the Abandoned Temple reveals a secret location somewhere within Phi Thuyền Kẻ Lạ.</value>
+			<value>Một tấm bản đồ bên trong in the Đền Thờ Bỏ Hoang cho thấy một vị trí bí mật nằm đâu đó bên trong Phi Thuyền Kẻ Lạ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Slide Burning RoomA room full of burned slide reels piled next to a strange device.</key>
-			<value>A room full of burned slide reels piled next to a strange device.</value>
+			<value>Một căn phòng chất đầy những cuộn phim bị thiêu rụi bên cạnh một thiết bị kỳ lạ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Slide Burning RoomI found a hidden slide reel that shows a container marked with a glowing symbol being handed to a shadowy figure. The figure follows a procession of green lights through a forest to a candlelit building, where they carry the container into a secret passage behind a roaring fireplace.</key>
-			<value>I found a hidden slide reel that shows a container marked with a glowing symbol being handed to a shadowy figure. The figure follows a procession of green lights through a forest to a candlelit building, where they carry the container into a secret passage behind a roaring fireplace.</value>
+			<value>Tôi đã tìm thấy một cuộn phim ẩn, quay cảnh một hộp chứa có dấu phát sáng được trao cho một người. Người đó đi men theo những ánh đèn màu xanh lá, băng qua khu rừng tới một căn nhà được thắp sáng bằng ánh nến, ở trong đó họ mang chiếc hộp tới một lối đi bí mật phía sau lò sưởi đang rực lửa.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Cinder Isles</key>
-			<value>Cinder Isles</value>
+			<value>Quần Đảo Tro Bụi</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Cinder IslesA pair of small rocky islands connected by a village of stilt houses.</key>
-			<value>A pair of small rocky islands connected by a village of stilt houses.</value>
+			<value>Hai hòn đảo nhỏ được kết nối bởi một căn làng với những ngôi nhà sàn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Cinder IslesI found a large metal symbol inside a burned-out building that closely resembles the Nomai symbol for the Eye of the universe.</key>
-			<value>I found a large metal symbol inside a burned-out building that closely resembles the Nomai symbol for the Eye of the universe.</value>
+			<value>Tôi đã tìm thấy một biểu tượng lớn bằng kim loại bên trong một tòa nhà đã cháy rụi, trông rất giống với biểu tượng Con Mắt Vũ Trụ của người Nomai.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Cinder IslesI found a large metal symbol for the Eye of the universe inside a burned-out building.</key>
-			<value>I found a large metal symbol for the Eye of the universe inside a burned-out building.</value>
+			<value>Tôi đã tìm thấy một biểu tượng Con Mắt Vũ Trụ bằng kim loại bên trong một tòa nhà cháy rụi.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Burned Slide ReelA slide reel that shows the Stranger's inhabitants analyzing an anomaly that closely resembles the Nomai symbol for the Eye of the universe.</key>
-			<value>A slide reel that shows Phi Thuyền Kẻ Lạ's inhabitants analyzing an anomaly that closely resembles the Nomai symbol for the Eye of the universe.</value>
+			<value>Một cuộn phim quay cảnh cư dân trên Phi Thuyền Kẻ Lạ đang phân tích một hiện tượng dị thường, trông rất giống với biểu tượng Con Mắt Vũ Trụ của người Nomai.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Burned Slide ReelA slide reel that shows the Stranger's inhabitants analyzing the Eye of the universe.</key>
-			<value>A slide reel that shows Phi Thuyền Kẻ Lạ's inhabitants analyzing the Eye of the universe.</value>
+			<value>Một cuộn phim quay cảnh cư dân trên Phi Thuyền Kẻ Lạ đang phân tích Con Mắt Vũ Trụ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Slide Burning RoomI found a hidden slide reel that shows a container marked with a glowing symbol being handed to a shadowy figure. The lights are extinguished, and the figure carries the container down into a dark well.</key>
-			<value>I found a hidden slide reel that shows a container marked with a glowing symbol being handed to a shadowy figure. The lights are extinguished, and the figure carries the container down into a dark well.</value>
+			<value>Tôi đã tìm thấy một cuộn phim ẩn quay cảnh một hộp chứa có dấu phát sáng được trao cho một người. Sau đó tất cả ánh sáng đều được tắt đi, và người đó mang theo hộp chứa đi xuống dưới một cái giếng tối om.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Island Tower</key>
-			<value>Island Tower</value>
+			<value>Tháp Canh Đảo</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Island Cave</key>
-			<value>Island Cave</value>
+			<value>Hang Đảo</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Island TowerI found a projection that reveals a cave entrance at the base of a rocky island with a tall tower.</key>
-			<value>I found a projection that reveals a cave entrance at the base of a rocky island with a tall tower.</value>
+			<value>Tôi đã tìm thấy một máy chiếu, cho thấy cảnh một lối vào hang động ở chân mỏm đá dưới tòa tháp.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Island TowerA tower that sits atop one of the Cinder Isles. The upper floors can only be reached from a second entrance at the back of the tower.</key>
-			<value>A tower that sits atop one of the Cinder Isles. The upper floors can only be reached from a second entrance at the back of the tower.</value>
+			<value>Một tòa tháp tọa lạc trên một hòn đảo thuộc Quần Đảo Tro Bụi. Những tầng phía trên chỉ có thể vào được từ lối đi ở phía sau tòa tháp.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Island TowerI found a slide reel that shows the Stranger's inhabitants opening a secret passage in a round room filled with lanterns and murals. The inhabitants are shown filing into three of these rooms throughout the Stranger.</key>
-			<value>I found a slide reel that shows Phi Thuyền Kẻ Lạ's inhabitants opening a secret passage in a round room filled with lanterns and murals. The inhabitants are shown filing into three of these rooms throughout Phi Thuyền Kẻ Lạ.</value>
+			<value>Tôi đã tìm thấy một cuộn phim quay cảnh cư dân trên Phi Thuyền Kẻ Lạ đang mở ra một lối đi bí mật trong một căn phòng hình tròn chứa đầy lồng đèn và các tấm bích họa. Các cư dân cứ lần lượt đi vào ba căn phòng như vậy ở những địa điểm khác nhau trên Phi Thuyền Kẻ Lạ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Symbol Room</key>
-			<value>Symbol Room</value>
+			<value>Phòng Chứa Biểu Tượng</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Hidden Vault Seals</key>
-			<value>Hidden Vault Seals</value>
+			<value>Phong Ấn Hòm Khóa</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Secret Passage</key>
-			<value>Secret Passage</value>
+			<value>Lối Đi Bí Mật</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Symbol RoomThe light coming out of the vault gave me a vision of climbing a spiral staircase to a room near the top of a tower. One of the Stranger's inhabitants pointed at a mural of an identical tower beneath a ringed planet, then picked up an artifact and carried it downstairs to a room with a green fire. Some time later, two of the lamps in the mural room turned off, plunging the mural into darkness and revealing a secret passage.</key>
-			<value>The light coming out of the vault gave me a vision of climbing a spiral staircase to a room near the top of a tower. One of the Stranger's inhabitants pointed at a mural of an identical tower beneath a ringed planet, then picked up an artifact and carried it downstairs to a room with a green fire. Some time later, two of the lamps in the mural room turned off, plunging the mural into darkness and revealing a secret passage.</value>
+			<value>Ánh sáng phát ra từ hòm khóa cho tôi thấy cảnh trèo lên cầu thang xoắn ốc dẫn tới một căn phòng ở gần đỉnh tháp. Một cư dân của Phi Thuyền Kẻ Lạ đã chỉ vào một tấm bích họa vẽ cảnh tòa tháp nằm bên dưới một hành tinh có vành đai, sau đó cầm lấy một cổ vật và mang nó xuống tầng dưới, nơi có căn phòng đang thắp một bếp lửa xanh lá. Một lúc sau, hai ngọn đèn bên trong căn phòng bích họa tắt đi, khiến căn phòng chìm vào trong bóng tối, và để lộ ra một lối đi bí mật.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Symbol RoomThe passage lead to three wooden containers, each marked with a glowing vault seal.</key>
-			<value>The passage led to three wooden containers, each marked with a glowing vault seal.</value>
+			<value>Lối đi dẫn tới ba hộp chứa bằng gỗ, mỗi hộp được đánh dấu bởi một ấn phát sáng.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Symbol RoomA secret room filled with wooden containers marked with different symbols.</key>
-			<value>A secret room filled with wooden containers marked with different symbols.</value>
+			<value>Một căn phòng bí mật chất đầy những hộp chứa bằng gỗ được đánh dấu bằng những ký tự khác nhau.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Symbol RoomThree of the containers are marked with glowing vault seals, but their contents have been burned away.</key>
-			<value>Three of the containers are marked with glowing vault seals, but their contents have been burned away.</value>
+			<value>Có ba hộp chứa được đánh dấu bằng ấn phát sáng, nhưng nội dung bên trong đã bị thiêu rụi.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Symbol RoomI opened the container marked with the symbol of a burning slide reel and found a vertical sequence of symbols inside.</key>
-			<value>I opened the container marked with the symbol of a burning slide reel and found a vertical sequence of symbols inside.</value>
+			<value>Tôi đã mở một hộp chứa được đánh dấu bằng biểu tượng một cuộn phim đang bị thiêu cháy, và tìm thấy một chuỗi ký tự theo hàng dọc.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Hidden Gorge</key>
-			<value>Hidden Gorge</value>
+			<value>Hẻm Núi Ẩn</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Hidden GorgeA narrow gorge along the rightmost branch of the river. There are dwellings built into both cliff faces high above.</key>
-			<value>A narrow gorge along the rightmost branch of the river. There are dwellings built into both cliff faces high above.</value>
+			<value>Một khe núi hẹp dọc theo nhánh sông bên phải ngoài cùng. Có các công trình được xây dựng dọc hai bên vách núi phía trên.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Slide Burning RoomI found a hidden slide reel that shows a container marked with a glowing symbol being handed to a shadowy figure. The lights are extinguished, and the figure carries the container into a secret passage behind a mural of a large tree.</key>
-			<value>I found a hidden slide reel that shows a container marked with a glowing symbol being handed to a shadowy figure. The lights are extinguished, and the figure carries the container into a secret passage behind a mural of a large tree.</value>
+			<value>Tôi tìm thấy một cuộn phim ẩn chiếu cảnh một hộp chứa có đánh dấu phát sáng được trao cho một người. Sau đó tất cả đèn được tắt đi, và người đó mang hộp chứa đến một lối đi bí mật phía sau tấm bích họa vẽ một cái cây cổ thụ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Burned Slide ReelA slide reel that shows the Stranger's inhabitants congregating around a strange green fire.</key>
-			<value>A slide reel that shows Phi Thuyền Kẻ Lạ's inhabitants congregating around a strange green fire.</value>
+			<value>Một cuộn phim chiếu cảnh các cư dân trên Phi Thuyền Kẻ Lạ quây quần quanh một ngọn lửa kỳ lạ màu xanh lá.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Damaged Laboratory</key>
-			<value>Damaged Laboratory</value>
+			<value>Phòng Nghiên Cứu Bị Hư Hại</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Hull Breach</key>
-			<value>Hull Breach</value>
+			<value>Vết Thủng Vỏ Tàu</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Damaged LaboratoryI found a slide reel in the Hidden Gorge that shows an explosion blowing a hole in the side of the Stranger.</key>
-			<value>I found a slide reel in the Hidden Gorge that shows an explosion blowing a hole in the side of Phi Thuyền Kẻ Lạ.</value>
+			<value>Tôi tìm thấy một cuộn phim bên trong Hẻm Núi Ẩn chiếu cảnh một vụ nổ làm thủng một vết trên thành của Phi Thuyền Kẻ Lạ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Damaged LaboratoryA laboratory with three test chambers. The second chamber is badly damaged and can be entered through a hull breach in the side of the Stranger.</key>
-			<value>A laboratory with three test chambers. The second chamber is badly damaged and can be entered through a hull breach in the side of Phi Thuyền Kẻ Lạ.</value>
+			<value>Một phòng nghiên cứu với ba buồng thí nghiệm. Buồng thí nghiệm thứ hai đã bị hư hại rất nặng và có thể chui vào từ một vết thủng trên thành của Phi Thuyền Kẻ Lạ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Damaged LaboratoryI saw a vision-like recording of someone picking up an artifact and going to sleep in front of a green fire. The rest of the vision was distorted and difficult to make out, but a flame seemed to appear inside the artifact.</key>
-			<value>I saw a vision-like recording of someone picking up an artifact and going to sleep in front of a green fire. The rest of the vision was distorted and difficult to make out, but a flame seemed to appear inside the artifact.</value>
+			<value>Tôi nhìn thấy một đoạn ký ức của ai đó về cảnh họ cầm lấy một cổ vật và ngủ thiếp đi trước ngọn lửa xanh lá. Phần còn lại đoạn ký ức đó bị méo hình và không thể nhìn ra, nhưng dường như có một đốm lửa bùng lên bên trong cổ vật.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Damaged LaboratoryI found a slide reel that shows three experiments conducted with three different artifacts. The third experiment appears to have been a success.</key>
-			<value>I found a slide reel that shows three experiments conducted with three different artifacts. The third experiment appears to have been a success.</value>
+			<value>Tôi tìm thấy một cuộn phim chiếu cảnh ba cuộc thí nghiệm được thực hiện với ba mẫu cổ vật khác nhau. Mẫu thứ ba có vẻ đã thành công.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Abandoned Temple</key>
-			<value>Abandoned Temple</value>
+			<value>Đền Thờ Bỏ Hoang</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Cliffside Building</key>
-			<value>Cliffside Building</value>
+			<value>Căn Nhà Bên Vách Đá</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Abandoned TempleI saw a building marked with a unique symbol recessed into one of the canyon walls, but the bridge that used to lead to it has rotted away.</key>
-			<value>I saw a building marked with a unique symbol recessed into one of the canyon walls, but the bridge that used to lead to it has rotted away.</value>
+			<value>Tôi đã nhìn thấy một căn nhà có đánh dấu biểu tượng lạ được xây dựng tại một hốc trên vách đá, nhưng cây cầu dẫn tới đó đã không còn nguyên vẹn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Abandoned TempleAn abandoned temple marked with the symbol of a burning slide reel. It can be accessed from a passage in the Hidden Gorge.</key>
-			<value>An abandoned temple marked with the symbol of a burning slide reel. It can be accessed from a passage in the Hidden Gorge.</value>
+			<value>Một đền thờ bị bỏ hoang có đánh dấu biểu tượng một cuộn phim bị thiêu rụi. Nơi này có thể đến được từ lối đi ở Hẻm Núi Ẩn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Abandoned TempleThere is an interface upstairs that can be used to line up symbols in a vertical sequence.</key>
-			<value>There is an interface upstairs that can be used to line up symbols in a vertical sequence.</value>
+			<value>Có một bảng điều khiển ở tầng trên dùng để sắp xếp các ký tự thành một chuỗi theo chiều dọc.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Abandoned TempleEntering the correct sequence opens the path to a secret room beneath the temple.</key>
-			<value>Entering the correct sequence opens the path to a secret room beneath the temple.</value>
+			<value>Nhập đúng chuỗi ký tự sẽ mở ra một lối đi dẫn tới một căn phòng bí mật bên dưới đền thờ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Abandoned TempleI found a slide reel that shows the Stranger's inhabitants removing all of the slide reels from their shelves, scanning each reel with a device, and incinerating specific slides as well as entire reels.</key>
-			<value>I found a slide reel that shows Phi Thuyền Kẻ Lạ's inhabitants removing all of the slide reels from their shelves, scanning each reel with a device, and incinerating specific slides as well as entire reels.</value>
+			<value>Tôi đã tìm thấy một cuộn phim chiếu cảnh các cư dân trên Phi Thuyền Kẻ Lạ đang thu hết các cuộn phim khỏi kệ, dùng một thiết bị quét từng cuộn phim, và thiêu cháy một số khung hình cụ thể, rồi toàn bộ cuộn phim.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Map Projection 1</key>
-			<value>Map Projection 1</value>
+			<value>Bản Đồ Chiếu 1</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Map Projection 1A projection that seems to reveal a secret location somewhere within the Stranger.</key>
-			<value>A projection that seems to reveal a secret location somewhere within Phi Thuyền Kẻ Lạ.</value>
+			<value>Một máy chiếu cho thấy một địa điểm bí mật ở đâu đó trên Phi Thuyền Kẻ Lạ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Map Projection 2</key>
-			<value>Map Projection 2</value>
+			<value>Bản Đồ Chiếu 2</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Map Projection 2A projection that seems to reveal a secret location somewhere within the Stranger.</key>
-			<value>A projection that seems to reveal a secret location somewhere within Phi Thuyền Kẻ Lạ.</value>
+			<value>Một máy chiếu cho thấy một địa điểm bí mật ở đâu đó trên Phi Thuyền Kẻ Lạ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Map Projection 3</key>
-			<value>Map Projection 3</value>
+			<value>Bản Đồ Chiếu 3</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Map Projection 3A projection that seems to reveal a secret location somewhere within the Stranger.</key>
-			<value>A projection that seems to reveal a secret location somewhere within Phi Thuyền Kẻ Lạ.</value>
+			<value>Một máy chiếu cho thấy một địa điểm bí mật ở đâu đó trên Phi Thuyền Kẻ Lạ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Reservoir</key>
-			<value>Reservoir</value>
+			<value>Đập Nước</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>ReservoirAn enormous reservoir with wooden piers and buildings on both shores.</key>
-			<value>An enormous reservoir with wooden piers and buildings on both shores.</value>
+			<value>Một đập chứa nước khổng lồ với nhiều cầu tàu và công trình bằng gỗ ở hai bên bờ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>ReservoirI found a room with a burned control interface and a projection that seems to indicate a broken connection between the Stranger and another craft.</key>
-			<value>I found a room with a burned control interface and a projection that seems to indicate a broken connection between Phi Thuyền Kẻ Lạ and another craft.</value>
+			<value>Tôi tìm thấy một căn phòng, bên trong có một bảng điều khiển đã bị thiêu rụi, và một màn hình hiển thị tình trạng mất kết nối giữa Phi Thuyền Kẻ Lạ và một vệ tinh khác.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>ReservoirI found a projection showing the Stranger's current trajectory and the sun's predicted supernova radius.</key>
-			<value>I found a projection showing Phi Thuyền Kẻ Lạ's current trajectory and the sun's predicted supernova radius.</value>
+			<value>Tôi tìm thấy một màn hình hiển thị quỹ đạo hiện tại của Phi Thuyền Kẻ Lạ và bán kính siêu tân tinh dự tính của mặt trời.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Burned Slide ReelA slide reel that shows a strange vault being encased in a large metal structure and lowered underwater.</key>
-			<value>A slide reel that shows a strange vault being encased in a large metal structure and lowered underwater.</value>
+			<value>Một cuộn phim chiếu cảnh một hòm khóa kỳ lạ được bọc kỹ bên trong một kiến trúc kim loại và hạ xuống dưới nước.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Burned Slide ReelNearly all of the slides have been burned and cannot be viewed.</key>
-			<value>Nearly all of the slides have been burned and cannot be viewed.</value>
+			<value>Gần như toàn bộ cuộn phim đều đã bị thiêu rụi và không thể xem được.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Submerged Structure</key>
-			<value>Submerged Structure</value>
+			<value>Kiến Trúc Chìm Dưới Nước</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Submerged StructureAccording to a slide reel, a strange vault was encased in a large metal structure and lowered underwater.</key>
-			<value>According to a slide reel, a strange vault was encased in a large metal structure and lowered underwater.</value>
+			<value>Theo nội dung của một cuộn phim, một hòm khóa kỳ lạ đã được bọc kín bên trong một kiến trúc kim loại và nhấn chìm xuống nước.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Hollow Structure</key>
-			<value>Hollow Structure</value>
+			<value>Khung Rỗng</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Submerged StructureI found a diagram of a hollow metal structure suspended by chains. There is a round hole underneath that appears to be the only entrance.</key>
-			<value>I found a diagram of a hollow metal structure suspended by chains. There is a round hole underneath that appears to be the only entrance.</value>
+			<value>Tôi tìm thấy bản vẽ mặt cắt của một kiến trúc kim loại rỗng được treo bằng dây xích. Có một lỗ tròn ở mặt dưới, dường như đó là lối vào duy nhất.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Submerged StructureA large metal structure suspended by chains. It can be entered by swimming from below.</key>
-			<value>A large metal structure suspended by chains. It can be entered by swimming from below.</value>
+			<value>Một kiến trúc kim loại lớn được treo bằng dây xích. Có thể vào trong bằng cách bơi lên từ phía dưới.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Submerged StructureThere is a sealed vault illuminated by a green fire inside the structure.</key>
-			<value>There is a sealed vault illuminated by a green fire inside the structure.</value>
+			<value>Có một hòm khóa được chiếu sáng bởi một ngọn lửa xanh bên trong kiến trúc kim loại.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Subterranean Lake</key>
-			<value>Subterranean Lake</value>
+			<value>Hồ Ngầm</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Enclosed Fire</key>
-			<value>Enclosed Fire</value>
+			<value>Ánh Lửa Bên Trong</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Fire Chamber</key>
-			<value>Fire Chamber</value>
+			<value>Buồng Thắp Lửa</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Subterranean LakeI looked through a peephole in the side of a large metal structure suspended by chains. Inside is another green fire and a staircase leading farther below.</key>
-			<value>I looked through a peephole in the side of a large metal structure suspended by chains. Inside is another green fire and a staircase leading farther below.</value>
+			<value>Tôi đã nhìn qua khe nhỏ ở mặt bên của kiến trúc kim loại lớn treo trên dây xích. Phía bên trong cũng có một ánh lửa xanh lá, và một cầu thang dẫn xuống phía dưới.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Subterranean LakeI looked through a peephole in the side of a large metal structure suspended by chains like the one in the Reservoir. Inside is another green fire and a staircase leading farther below.</key>
-			<value>I looked through a peephole in the side of a large metal structure suspended by chains like the one in the Reservoir. Inside is another green fire and a staircase leading farther below.</value>
+			<value>Tôi đã nhìn qua khe nhỏ ở mặt bên của kiến trúc kim loại lớn treo trên dây xích tương tự như ở Đập Nước. Phía bên trong cũng có một ánh lửa xanh lá, và một cầu thang dẫn xuống phía dưới.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Vault Room Fire</key>
-			<value>Vault Room Fire</value>
+			<value>Ngọn Lửa Trong Căn Phòng Chứa Hòm</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Missing Vault</key>
-			<value>Missing Vault</value>
+			<value>Hòm Khóa Mất Tích</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Subterranean LakeI saw a vision-like recording of two figures taking artifacts into a large metal structure suspended by chains and going to sleep at the green fire in front of the sealed vault. Upon waking up with lit artifacts, the two figures picked up the vault and carried it down a staircase to somewhere farther below.</key>
-			<value>I saw a vision-like recording of two figures taking artifacts into a large metal structure suspended by chains and going to sleep at the green fire in front of the sealed vault. Upon waking up with lit artifacts, the two figures picked up the vault and carried it down a staircase to somewhere farther below.</value>
+			<value>Tôi nhìn thấy một đoạn ký ức về hai người mang theo cổ vật vào bên trong một kiến trúc kim loại được treo bằng xích và đi ngủ bên bếp lửa xanh phía trước chiếc hòm khóa. Khi tỉnh dậy với cổ vật đã được thắp sáng, hai người đó khiêng chiếc hòm xuống cầu thang.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Subterranean LakeI saw a vision-like recording of two figures taking artifacts into the Reservoir's submerged structure and going to sleep at the green fire in front of the sealed vault. Upon waking up with lit artifacts, the two figures picked up the vault and carried it down a staircase to somewhere farther below.</key>
-			<value>I saw a vision-like recording of two figures taking artifacts into the Reservoir's submerged structure and going to sleep at the green fire in front of the sealed vault. Upon waking up with lit artifacts, the two figures picked up the vault and carried it down a staircase to somewhere farther below.</value>
+			<value>Tôi nhìn thấy một đoạn ký ức về hai người mang theo cổ vật vào trong một kiến trúc kim loại chìm dưới Đập Nước và đi ngủ bên bếp lửa xanh phía trước chiếc hòm khóa. Khi tỉnh dậy với cổ vật đã được thắp sáng, hai người đó khiêng chiếc hòm xuống cầu thang.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Subterranean LakeI discovered a vast subterranean lake beneath the submerged structure. The sealed vault is resting on the shore of the lake. There are three interfaces, each marked with one of the three symbols from the vault.</key>
-			<value>I discovered a vast subterranean lake beneath the submerged structure. The sealed vault is resting on the shore of the lake. There are three interfaces, each marked with one of the three symbols from the vault.</value>
+			<value>Tôi phát hiện ra một hồ ngầm rộng lớn phía bên dưới của kiến trúc chìm dưới nước. Hòm khóa đang nằm trên bờ hồ. Có ba bảng điều khiển, mỗi bảng được đánh dấu bằng một trong ba biểu tượng trên hòm.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Subterranean LakeI rotated the mechanism in front of the vault, causing it to strain against the chains holding it shut. Moments later rays of green light spilled out of the vault.</key>
-			<value>I rotated the mechanism in front of the vault, causing it to strain against the chains holding it shut. Moments later rays of green light spilled out of the vault.</value>
+			<value>Tôi đã thử xoay cơ chế điều khiển phía trước hòm khóa, và khiến nó bị kẹt bởi những dây xích quấn quanh. Một lát sau, có một tia sáng màu xanh lá chiếu ra từ kẽ hở trên hòm.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sealed Vault</key>
-			<value>Sealed Vault</value>
+			<value>Hòm Khóa</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sealed VaultI found a strange vault wrapped in chains and marked with three glowing symbols.</key>
-			<value>I found a strange vault wrapped in chains and marked with three glowing symbols.</value>
+			<value>Tôi tìm thấy một chiếc hòm kỳ lạ bị quấn chặt bởi những sợi xích và đánh dấu bằng ba biểu tượng phát sáng.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sealed VaultA slide reel from the River Lowlands showed a strange vault being closed and sealed with chains and a glowing symbol.</key>
-			<value>A slide reel from the River Lowlands showed a strange vault being closed and sealed with chains and a glowing symbol.</value>
+			<value>Một cuộn phim tại Hạ Lưu Sông chiếu cảnh một chiếc hòm kỳ lạ được đóng lại và phong ấn bằng những sợi xích, kèm một biểu tượng phát sáng.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sealed VaultA slide reel from the Cinder Isles showed a glowing symbol and chains appear around a strange vault.</key>
-			<value>A slide reel from the Cinder Isles showed a glowing symbol and chains appear around a strange vault.</value>
+			<value>Một cuộn phim từ Quần Đảo Tro Bụi chiếu cảnh một biểu tượng phát sáng và những sợi xích hiện lên quanh một chiếc hòm kỳ lạ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sealed VaultA slide reel from the Hidden Gorge showed a glowing symbol and chains appear around a strange vault.</key>
-			<value>A slide reel from the Hidden Gorge showed a glowing symbol and chains appear around a strange vault.</value>
+			<value>Một cuộn phim từ Hẻm Núi Ẩn chiếu cảnh một biểu tượng phát sáng và những sợi xích hiện lên quanh một chiếc hòm kỳ lạ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sealed VaultI met one of the Stranger's inhabitants who was imprisoned within the vault!</key>
-			<value>I met one of Phi Thuyền Kẻ Lạ's inhabitants who was imprisoned within the vault!</value>
+			<value>Tôi đã gặp một cư dân của Phi Thuyền Kẻ Lạ bị giam trong chiếc hòm khóa!</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sealed VaultThe Prisoner showed me a vision revealing the actions they took that resulted in their eternal confinement.</key>
-			<value>The Prisoner showed me a vision revealing the actions they took that resulted in their eternal confinement.</value>
+			<value>Tù Nhân đã cho tôi xem lại ký ức về những hàng động đã khiến họ bị giam cầm vĩnh viễn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sealed VaultI used the vision torch to share my knowledge of the solar system's history with the Prisoner.</key>
-			<value>I used the vision torch to share my knowledge of the solar system's history with the Prisoner.</value>
+			<value>Tôi cũng đã sử dụng đuốc ký ức để chia sẻ kiến thức của mình về lịch sử của hệ mặt trời cho Tù Nhân.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sealed VaultThe Prisoner left one final vision for me by the water's edge as a farewell.</key>
-			<value>The Prisoner left one final vision for me by the water's edge as a farewell.</value>
+			<value>Tù Nhân đã để lại một đoạn ký ức cuối cùng cho tôi bên bờ sông như một lời từ biệt.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Shrouded Woodlands</key>
-			<value>Shrouded Woodlands</value>
+			<value>Rừng Sương Phủ</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Shrouded WoodlandsI rode a raft through a densely wooded stretch of river. I can see buildings along the banks of the river.</key>
-			<value>I rode a raft through a densely wooded stretch of river. I can see buildings along the banks of the river.</value>
+			<value>Tôi đã đi một chiếc bè qua một đoạn sông có cây rừng mọc rậm rạp. Tôi có thể thấy những tòa nhà dọc hai bên bờ sông.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Shrouded WoodlandsA dense forest along the banks of a river.</key>
-			<value>A dense forest along the banks of a river.</value>
+			<value>Một khu rừng rậm dọc hai bên bờ sông.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Shrouded WoodlandsI heard music coming from a candlelit building across the water.</key>
-			<value>I heard music coming from a candlelit building across the water.</value>
+			<value>Tôi nghe thấy tiếng nhạc phát ra từ một tòa nhà được thắp sáng bởi ánh nến bên kia sông.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Shrouded WoodlandsI found a covered bridge leading into the darkest part of the forest.</key>
@@ -11895,239 +11895,239 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden Archive</key>
-			<value>Forbidden Archive</value>
+			<value>Thư Viện Cấm</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Secret Fireplace</key>
-			<value>Secret Fireplace</value>
+			<value>Lò Sưởi Bí Mật</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a hidden slide reel that shows a container marked with a glowing symbol being handed to a shadowy figure. The figure follows a procession of lights through a forest to a candlelit building, where they carry the container into a secret passage behind a roaring fireplace.</key>
-			<value>I found a hidden slide reel that shows a container marked with a glowing symbol being handed to a shadowy figure. The figure follows a procession of lights through a forest to a candlelit building, where they carry the container into a secret passage behind a roaring fireplace.</value>
+			<value>Tôi tìm thấy một cuộn phim ẩn, chiếu cảnh một chiếc hộp có đánh dấu phát sáng được trao cho một người. Người này theo sau một chuỗi ánh đèn băng qua rừng tới một tòa nhà được thắp sáng bằng nến, ở bên trong người đó mang chiếc hộp vào một lối đi bí mật đằng sau lò sưởi vẫn đang rực lửa.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveA library full of intact slide reels hidden deep underground.</key>
-			<value>A library full of intact slide reels hidden deep underground.</value>
+			<value>Một thư viện chứa đầy các cuộn phim nguyên vẹn ẩn sâu bên dưới lòng đất.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveThere is a container marked with one of the vault seals, but its contents have been destroyed.</key>
-			<value>There is a container marked with one of the vault seals, but its contents have been destroyed.</value>
+			<value>Có một chiếc hộp được đánh dấu biểu tượng của phong ấn hòm khóa, nhưng nội dung bên trong đã bị tiêu hủy.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a slide reel that shows the origin of the Stranger and its inhabitants.</key>
-			<value>I found a slide reel that shows the origin of Phi Thuyền Kẻ Lạ and its inhabitants.</value>
+			<value>Tôi đã tìm thấy một cuộn phim về nguồn gốc của Phi Thuyền Kẻ Lạ và cư dân trên đó.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveIntact slides reveal the sacrifice that was made to build the Stranger.</key>
-			<value>Intact slides reveal the sacrifice that was made to build Phi Thuyền Kẻ Lạ.</value>
+			<value>Những cảnh phim còn nguyên vẹn đã cho thấy cái giá phải trả để xây dựng Phi Thuyền Kẻ Lạ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a slide reel that appears to be some sort of error report. It shows one of the Stranger's inhabitants jumping off a raft during a transition between areas and falling below the world.</key>
-			<value>I found a slide reel that appears to be some sort of error report. It shows one of Phi Thuyền Kẻ Lạ's inhabitants jumping off a raft during a transition between areas and falling below the world.</value>
+			<value>Tôi đã tìm thấy một cuộn phim, dường như là báo cáo về một lỗi lập trình. Nó chiếu cảnh một cư dân của Phi Thuyền Kẻ Lạ nhảy ra khỏi bè giữa quá trình chuyển khu vực và rơi xuống phía dưới thế giới.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Starlit Cove</key>
-			<value>Starlit Cove</value>
+			<value>Vịnh Ánh Sao</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Candlelit Tower</key>
-			<value>Candlelit Tower</value>
+			<value>Tháp Ánh Nến</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Starlit CoveI rode a raft past an island with a tall candlelit tower.</key>
-			<value>I rode a raft past an island with a tall candlelit tower.</value>
+			<value>Tôi đã đi bè ngang qua một hòn đảo với một tòa tháp cao được thắp sáng bởi ánh nến.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Starlit CoveA secluded village nestled within a cove. A candlelit tower sits atop a nearby island.</key>
-			<value>A secluded village nestled within a cove. A candlelit tower sits atop a nearby island.</value>
+			<value>Một ngôi làng biệt lập bên trong một eo vịnh kín. Một tòa tháp thắp sáng bằng ánh nến tọa lạc trên một hòn đảo gần đó.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Starlit CoveThe well at the bottom of the village is guarded by a statue that activates an alarm bell when it sees me.</key>
-			<value>The well at the bottom of the village is guarded by a statue that activates an alarm bell when it sees me.</value>
+			<value>Cái giếng ở trung tâm làng được canh phòng bởi một bức tượng phát ra âm thanh cảnh báo khi phát hiện ra tôi.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Starlit CoveI found the remains of a burned-out building on the outskirts of the village.</key>
-			<value>I found the remains of a burned-out building on the outskirts of the village.</value>
+			<value>Tôi đã tìm thấy một tòa nhà bị thiêu rụi ở rìa của ngôi làng.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Starlit CoveI reached the tower's upper floors by projecting a path to a second entrance at the back of the tower.</key>
-			<value>I reached the tower's upper floors by projecting a path to a second entrance at the back of the tower.</value>
+			<value>Tôi đã lên được tầng trên của tòa tháp bằng cách chiếu lên một con đường dẫn tới lối vào thứ hai ở phía sau tháp.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Secret Well</key>
-			<value>Secret Well</value>
+			<value>Giếng Bí Mật</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveThe reel I found in the slide burning room shows a container marked with a glowing symbol being handed to a shadowy figure. The lights are extinguished, and the figure carries the container down into a dark well.</key>
-			<value>The reel I found in the slide burning room shows a container marked with a glowing symbol being handed to a shadowy figure. The lights are extinguished, and the figure carries the container down into a dark well.</value>
+			<value>Một cuộn phim còn sót bên trong căn phòng thiêu hủy chiếu cảnh một chiếc hộp có đánh dấu biểu tượng phát sáng được trao cho một người. Sau đó tất cả đèn được tắt đi, và người đó mang chiếc hộp xuống phía dưới một chiếc giếng tối om.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a slide reel that shows the Stranger's inhabitants analyzing an anomaly that closely resembles the Nomai symbol for the Eye of the universe.</key>
-			<value>I found a slide reel that shows Phi Thuyền Kẻ Lạ's inhabitants analyzing an anomaly that closely resembles the Nomai symbol for the Eye of the universe.</value>
+			<value>Tôi tìm thấy một cuộn phim chiếu cảnh các cư dân của Phi Thuyền Kẻ Lạ đang phân tích một tín hiệu kỳ dị trông rất giống biểu tượng Con Mắt Vũ Trụ của người Nomai.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a slide reel that shows the Stranger's inhabitants analyzing the Eye of the universe.</key>
-			<value>I found a slide reel that shows Phi Thuyền Kẻ Lạ's inhabitants analyzing the Eye of the universe.</value>
+			<value>Tôi tìm thấy một cuộn phim chiếu cảnh các cư dân của Phi Thuyền Kẻ Lạ đang phân tích Con Mắt Vũ Trụ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveIntact slides reveal the construction and launch of a spacecraft designed to block the Eye's signal.</key>
-			<value>Intact slides reveal the construction and launch of a spacecraft designed to block the Eye's signal.</value>
+			<value>Những cảnh phim còn nguyên vẹn cho thấy công cuộc xây dựng và phóng lên một phi thuyền để chặn lại tín hiệu của Con Mắt.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a slide reel that shows two artifacts being lit near a green fire. The first artifact lights after its bearer falls asleep, and the second artifact lights after its bearer dies.</key>
-			<value>I found a slide reel that shows two artifacts being lit near a green fire. The first artifact lights after its bearer falls asleep, and the second artifact lights after its bearer dies.</value>
+			<value>Tôi tìm thấy một cuộn phim chiếu cảnh hai cổ vật được thắp lên bên cạnh bếp lửa xanh. Cổ vật đầu tiên sáng lên sau khi chủ nhân của nó say ngủ, còn cổ vật thứ hai sáng lên sau khi chủ nhân của nó qua đời.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a slide reel that appears to be some sort of error report. It shows an alarm bell failing to wake up one of the Stranger's inhabitants.</key>
-			<value>I found a slide reel that appears to be some sort of error report. It shows an alarm bell failing to wake up one of Phi Thuyền Kẻ Lạ's inhabitants.</value>
+			<value>Tôi tìm thấy một cuộn phim, dường như là báo cáo về một lỗi lập trình. Nó chiếu cảnh chuông cảnh báo không thể đánh thức một cư dân của Phi Thuyền Kẻ Lạ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Endless Canyon</key>
-			<value>Endless Canyon</value>
+			<value>Hẻm Núi Vô Tận</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Endless CanyonI rode a raft through the bottom of a massive canyon. It looks like there are buildings set into the cliff face high above.</key>
-			<value>I rode a raft through the bottom of a massive canyon. It looks like there are buildings set into the cliff face high above.</value>
+			<value>Tôi đã đi bè dọc theo chân của một hẻm núi cao vút. Hình như có mấy tòa nhà được xây trên vách núi.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Endless CanyonA massive canyon that stretches into the distance. A candlelit lodge is built into the far cliff face.</key>
-			<value>A massive canyon that stretches into the distance. A candlelit lodge is built into the far cliff face.</value>
+			<value>Một hẻm núi đồ sộ trải dài về phía xa. Có một tòa nhà thắp sáng bằng ánh nến được xây ở phía bên kia vách núi.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Endless CanyonI found a mural of a large tree on the bottom floor of the lodge.</key>
-			<value>I found a mural of a large tree on the bottom floor of the lodge.</value>
+			<value>Tôi tìm thấy một tấm bích họa vẽ một cái cây cổ thụ ở tầng dưới cùng của tòa nhà.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Secret Mural</key>
-			<value>Secret Mural</value>
+			<value>Bích Họa Bí Mật</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveThe reel I found in the slide burning room shows a container marked with a glowing symbol being handed to a shadowy figure. The lights are extinguished, and the figure carries the container into a secret passage behind a mural of a large tree.</key>
-			<value>The reel I found in the slide burning room shows a container marked with a glowing symbol being handed to a shadowy figure. The lights are extinguished, and the figure carries the container into a secret passage behind a mural of a large tree.</value>
+			<value>Một cuộn phim còn sót trong phòng thiêu hủy chiếu cảnh một chiếc hộp đánh dấu biểu tượng phát sáng được trao cho một người. Sau đó tất cả đèn được tắt, và người đó mang theo chiếc hộp tới một lối đi bí mật đằng sau tấm bích họa vẽ một cái cây cổ thụ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a slide reel that shows the Stranger's inhabitants congregating around a strange green fire.</key>
-			<value>I found a slide reel that shows Phi Thuyền Kẻ Lạ's inhabitants congregating around a strange green fire.</value>
+			<value>Tôi tìm thấy một cuộn phim chiếu cảnh các cư dân của Phi Thuyền Kẻ Lạ tụ tập quanh một bếp lửa kỳ lạ màu xanh lá.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveIntact slides reveal the creation of a simulated reality modeled after their home moon.</key>
-			<value>Intact slides reveal the creation of a simulated reality modeled after their home moon.</value>
+			<value>Những cảnh phim còn nguyên vẹn cho thấy quá trình chế tác nên một thực tại ảo dựa trên quê nhà của họ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a slide reel that appears to be some sort of error report. It shows one of the Stranger's inhabitants dropping their artifact on the ground and walking beyond its projection radius.</key>
-			<value>I found a slide reel that appears to be some sort of error report. It shows one of Phi Thuyền Kẻ Lạ's inhabitants dropping their artifact on the ground and walking beyond its projection radius.</value>
+			<value>Tôi tìm thấy một cuộn phim, dường như là báo cáo về một lỗi lập trình. Nó chiếu cảnh một cư dân của Phi Thuyền Kẻ Lạ đặt cổ vật của mình xuống đất và đi ra khỏi bán kính chiếu sáng của nó.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Chert’s Camp</key>
-			<value>Chert’s Camp</value>
+			<value>Trại Của Anh Chert</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Chert’s CampChert has set up their astronomy gear on the north pole of Ember Twin.</key>
-			<value>Chert has set up their astronomy gear on the north pole of Song Tinh Than Hồng.</value>
+			<value>Anh Chert đã lắp đặt thiết bị thiên văn của mình tại cực bắc của Song Tinh Than Hồng.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Chert’s CampChert has spotted an unusually high number of supernovae recently.</key>
-			<value>Chert has spotted an unusually high number of supernovae recently.</value>
+			<value>Anh Chert đã phát hiện một số lượng lớn đến bất thường của các vụ nổ siêu tân tinh trong thời gian gần đây.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Chert’s CampAll of the stars in the universe are dying, including our sun.</key>
-			<value>All of the stars in the universe are dying, including our sun.</value>
+			<value>Tất cả các vì sao trong vũ trụ này sắp chết, kể cả mặt trời của chúng ta.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Chert’s CampThe stars are simply dying from old age. Apparently they're much older than we realized.</key>
-			<value>The stars are simply dying from old age. Apparently they're much older than we realized.</value>
+			<value>Những vì sao chết vì đã đến cuối tuổi thọ của chúng. Chúng cổ xưa hơn chúng ta tưởng rất nhiều.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Chert’s CampChert has become catatonic in response to our sun's imminent death.</key>
-			<value>Chert has become catatonic in response to our sun's imminent death.</value>
+			<value>Anh Chert sững sờ đến không còn phản ứng sau khi nhận ra cái chết cận kề của mặt trời.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum Moon Locator</key>
-			<value>Quantum Moon Locator</value>
+			<value>Bộ Định Vị Mặt Trăng Lượng Tử</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum Moon LocatorA Nomai device created to track the Quantum Moon's location.</key>
-			<value>A Nomai device created to track the Quantum Moon's location.</value>
+			<value>Một thiết bị của người Nomai được tạo ra để xác định vị trí của Mặt Trăng Lượng Tử.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum Moon LocatorThe Nomai hypothesized that the Quantum Moon might be a form of macroscopic quantum mechanics.</key>
-			<value>The Nomai hypothesized that the Quantum Moon might be a form of macroscopic quantum mechanics.</value>
+			<value>Người Nomai đưa ra giả thuyết rằng Mặt Trăng Lượng Tử thể hiện tính chất lượng tử vĩ mô.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum Moon LocatorThe Quantum Moon travels to at least five locations, but sometimes the locator can't tell where the moon is.</key>
-			<value>The Quantum Moon travels to a total of five locations.</value>
+			<value>Mặt Trăng Lượng Tử di chuyển giữa năm vị trí, nhưng đôi khi bộ định vị lại không thể xác định mặt trăng ở đâu.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gravity CannonThe Nomai shuttle that's frozen on the Interloper can be called home to the gravity cannon on Ember Twin.</key>
-			<value>The Nomai shuttle that's frozen on Sao Chổi Tọc Mạch can be called home to the gravity cannon on Song Tinh Than Hồng.</value>
+			<value>Phi thuyền của người Nomai bị đóng băng trên Sao Chổi Tọc Mạch có thể được triệu hồi tại bệ pháo trọng lực trên Song Tinh Than Hồng.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gravity CannonI recalled a Nomai shuttle from the Interloper.</key>
-			<value>I recalled a Nomai shuttle from Sao Chổi Tọc Mạch.</value>
+			<value>Tôi đã triệu hồi phi thuyền Nomai từ trên Sao Chổi Tọc Mạch.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 2</key>
-			<value>Escape Pod 2</value>
+			<value>Kén Thoát Hiểm 2</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod</key>
-			<value>Escape Pod</value>
+			<value>Kén Thoát Hiểm</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 2One of the three Nomai escape pods landed somewhere on the Hourglass Twins.</key>
-			<value>One of the three Nomai escape pods landed somewhere on the Song Tinh Đồng Hồ Cát.</value>
+			<value>Một trong ba kén thoát hiểm của người Nomai đã rơi xuống đâu đó trên Song Tinh Đồng Hồ Cát.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai Shipwreck</key>
-			<value>Nomai Shipwreck</value>
+			<value>Xác Phi Thuyền Nomai</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 2Chert saw a Nomai shipwreck shooting a beam of light into the sky somewhere on Ember Twin's southern hemisphere.</key>
-			<value>Chert saw a Nomai shipwreck shooting a beam of light into the sky somewhere on Song Tinh Than Hồng's southern hemisphere.</value>
+			<value>Anh Chert đã nhìn thấy một xác phi thuyền Nomai đang chiếu một tia sáng lên trời đâu đó trên bán cầu nam của Song Tinh Than Hồng.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 2One of three Nomai escape pods that crashed in our solar system.</key>
-			<value>One of three Nomai escape pods that crashed in our solar system.</value>
+			<value>Một trong ba kén thoát hiểm của người Nomai đã rơi xuống hệ mặt trời của chúng ta.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 2All three escape pods were launched from something called the Vessel, which was badly damaged.</key>
-			<value>All three escape pods were launched from something called the Vessel, which was badly damaged.</value>
+			<value>Cả ba kén thoát hiểm đều được phóng ra từ một nơi gọi là Phi Thuyền Mẹ, vốn đã bị hư hại nặng.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>High Energy Lab</key>
-			<value>High Energy Lab</value>
+			<value>Phòng Thí Nghiệm Năng Lượng Cao</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>High Energy LabThe negative time interval measured at the White Hole Station was further investigated at the High Energy Lab (in the canyon at Ember Twin’s equator).</key>
-			<value>The negative time interval measured at the White Hole Station was further investigated at the High Energy Lab (in the canyon at Song Tinh Than Hồng’s equator).</value>
+			<value>Khoảng thời gian di chuyển âm đo được tại Trạm Hố Trắng đã được kiểm nghiệm thêm tại Phòng Thí Nghiệm Năng Lượng Cao (trong hẻm núi trên xích đạo của Song Tinh Than Hồng).</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>High Energy LabThe Ash Twin Project was planned at the High Energy Lab, a building with large solar panels on Ember Twin’s equator.</key>
-			<value>The Dự Án Song Tinh Tro Tàn was planned at the High Energy Lab, a building with large solar panels on Song Tinh Than Hồng’s equator.</value>
+			<value>Dự Án Song Tinh Tro Tàn được lên kế hoạch tại Phòng Thí Nghiệm Năng Lượng Cao, một công trình với những tấm pin năng lượng mặt trời lớn trên xích đạo của Song Tinh Than Hồng.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>High Energy LabThe High Energy Lab can only be accessed by a path from the Sunless City.</key>
-			<value>The High Energy Lab can only be accessed by a path from the Sunless City.</value>
+			<value>Phòng Thí Nghiệm Năng Lượng Cao chỉ có thể vào được bằng lối đi từ Thành Phố Đêm Trường.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>High Energy LabThe Nomai successfully reproduced the temporal anomaly first observed at the White Hole Station (warped objects appear to arrive before they depart).</key>
-			<value>The Nomai successfully reproduced the temporal anomaly first observed at the White Hole Station (warped objects appear to arrive before they depart).</value>
+			<value>Người Nomai đã tái tạo thành công hiện tượng được phát hiện lần đầu tại Trạm Hố Trắng (vật thể dịch chuyển đến đích trước khi rời đi).</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>High Energy LabThe Nomai discovered they could increase the negative time interval between arrival and departure by adding energy to the warp cores.</key>
-			<value>The Nomai discovered they could increase the negative time interval between arrival and departure by adding energy to the warp cores.</value>
+			<value>Người Nomai đã phát hiện ra rằng họ có thể tăng khoảng thời gian âm giữa thời điểm đến và đi bằng cách truyền thêm năng lượng vào các lõi dịch chuyển.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>High Energy LabThe Nomai wanted to know if a 22-minute negative time interval was possible. They concluded it would require new technology to produce the necessary energy as well an advanced warp core to handle those energies. Ash Twin was proposed as a location for the project.</key>
-			<value>The Nomai wanted to know if a 22-minute negative time interval was possible. They concluded it would require new technology to produce the necessary energy as well as an advanced warp core to handle those energies. Song Tinh Tro Tàn was proposed as a location for the project.</value>
+			<value>Người Nomai muốn xác định rằng liệu một khoảng thời gian dài âm 22 phút có khả thi hay không. Họ đã kết luận rằng sẽ cần phải có một công nghệ mới để sản sinh ra đủ năng lượng, cùng với một lõi dịch chuyển tân tiến để xử lý được nguồn năng lượng khổng lồ ấy. Song Tinh Tro Tàn đã được đề xuất làm địa điểm tiến hành dự án.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin Tower Designs</key>
-			<value>Song Tinh Tro Tàn Tower Designs</value>
+			<value>Bản Vẽ Tháp Trên Song Tinh Tro Tàn</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin Tower DesignsThere are tower designs in the High Energy Lab that reveal each warp receiver's location.</key>
-			<value>There are tower designs in the High Energy Lab that reveal each warp receiver's location.</value>
+			<value>Có các bản vẽ tháp bên trong Phòng Thí Nghiệm Năng Lượng Cao cho thấy vị trí của từng cổng dịch chuyển đích.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin Tower DesignsDesigns for each of the towers on Ash Twin's equator.</key>
