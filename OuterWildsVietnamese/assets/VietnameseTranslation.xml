@@ -97,7 +97,7 @@
 			CASSAVA: Jokes aside, suppose my own fear of never finding the &lt;color=lightblue&gt;Eye&lt;/color&gt; prompted my argument with Poke. That would be immature of me.
 		</key>
 		<value>
-			CASSAVA: Đùa vậy thôi, có lẽ nỗi sợ rằng chúng ta sẽ mãi mãi chẳng tìm được &lt;color=lightblue&gt;Con Mắt&lt;/color&gt; trong tôi đã châm ngòi cho cuộc cãi vã với Poke. Nếu vậy thì tôi thật là một kẻ thiếu chín chắn.
+			CASSAVA: Đùa vậy thôi, có lẽ nỗi sợ rằng chúng ta sẽ mãi mãi chẳng tìm được &lt;color=lightblue&gt;Con Mắt&lt;/color&gt; trong tôi đã châm ngòi cho cuộc cãi vã với Poke. Nếu vậy thì tôi thật thiếu chín chắn quá mà.
 		</value>
 	</entry>
 	<entry>
@@ -11235,11 +11235,11 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ocean Current Discovery</key>
-			<value>Phát Hiện Về Dòng Biển</value>
+			<value>Phát Hiện Về Hải Lưu</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tornado SimulationThe Nomai at the Southern Observatory constructed a model of Giant's Deep that revealed how an object might sink below the strong ocean current.</key>
-			<value>Tại Đài Thiên Văn Nam Cực, người Nomai đã chế tạo một mô hình Đại Dương Khổng Lồ cho thấy cách một vật thể có thể chìm qua dòng biển xiết.</value>
+			<value>Tại Đài Thiên Văn Nam Cực, người Nomai đã chế tạo một mô hình Đại Dương Khổng Lồ cho thấy cách một vật thể có thể chìm qua hải lưu chảy xiết.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tornado SimulationMost cyclones on Giant's Deep rotate clockwise. These are the cyclones the Nomai used to send components into orbit.</key>
@@ -11247,7 +11247,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tornado SimulationThere also exists a rarer type of cyclone that spins the opposite direction and pushes objects beneath the waters and below the current.</key>
-			<value>Nhưng cũng tồn tại một loại lốc xoáy xoay theo chiều ngược lại và nhấn chìm vật thể xuống dưới dòng biển.</value>
+			<value>Nhưng cũng tồn tại một loại lốc xoáy xoay theo chiều ngược lại và nhấn chìm vật thể xuống phía dưới hải lưu.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Feldspar’s Camp</key>
@@ -12131,539 +12131,539 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin Tower DesignsDesigns for each of the towers on Ash Twin's equator.</key>
-			<value>Designs for each of the towers on Song Tinh Tro Tàn's equator.</value>
+			<value>Các bản vẽ thiết kế ứng với mỗi tòa tháp trên xích đạo của Song Tinh Tro Tàn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin Tower DesignsEach tower warps to a different planet (although many Nomai were quick to note that the sun is not actually a planet).</key>
-			<value>Each tower warps to a different planet (although many Nomai were quick to note that the sun is not actually a planet).</value>
+			<value>Mỗi tòa tháp sẽ dịch chuyển tới một hành tinh khác nhau (mặc dù người Nomai cũng đã nhanh chóng lưu ý rằng mặt trời không phải một hành tinh).</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin Tower DesignsEach tower was designed to visually reflect its warp destination.</key>
-			<value>Each tower was designed to visually reflect its warp destination.</value>
+			<value>Mỗi tòa tháp được thiết kế để thể hiện một cách trực quan đích đến của nó.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin Tower DesignsThe towers allowed the Nomai to quickly travel between Ash Twin and all other locations crucial to the Ash Twin Project.</key>
-			<value>The towers allowed the Nomai to quickly travel between Song Tinh Tro Tàn and all other locations crucial to the Dự Án Song Tinh Tro Tàn.</value>
+			<value>Những tòa tháp cho phép người Nomai di chuyển nhanh chóng từ Song Tinh Tro Tàn tới các địa điểm quan trọng khác thuộc Dự Án Song Tinh Tro Tàn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Sunless City</key>
-			<value>The Sunless City</value>
+			<value>Thành Phố Đêm Trường</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Sunless CityThe Nomai survivors who crashed on Ember Twin decided to seek shelter in the caves beneath their crashed escape pod.</key>
-			<value>The Nomai survivors who crashed on Song Tinh Than Hồng decided to seek shelter in the caves beneath their crashed escape pod.</value>
+			<value>Những người Nomai sống sót sau khi rơi xuống Song Tinh Than Hồng đã quyết định tìm nơi trú ẩn tại hệ thống hang động ngay phía dưới xác kén thoát hiểm.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Sunless CityThe Nomai discovered a promising long-term shelter site at the end of one of the passages beneath the escape pod.</key>
-			<value>The Nomai discovered a promising long-term shelter site at the end of one of the passages beneath the escape pod.</value>
+			<value>Người Nomai đã tìm thấy một khu trú ẩn tiềm năng ở cuối hang động phía dưới kén thoát hiểm.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Underground Settlement</key>
-			<value>Underground Settlement</value>
+			<value>Khu Trú Ẩn Dưới Lòng Đất</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Sunless CityChert thinks the lack of surface ruins means the Nomai must have lived somewhere underground.</key>
-			<value>Chert thinks the lack of surface ruins means the Nomai must have lived somewhere underground.</value>
+			<value>Anh Chert nhận định rằng số lượng tàn tích ít ỏi trên bề mặt cho thấy người Nomai chắc hẳn phải sinh sống đâu đó phía dưới lòng đất.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Sunless CityThere is a path leading to the High Energy Lab from the Sunless City.</key>
-			<value>There is a path leading to the High Energy Lab from the Sunless City.</value>
+			<value>Có một lối đi dẫn tới Phòng Thí Nghiệm Năng Lượng Cao từ Thành Phố Đêm Trường.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Sunless CityI found a trailmarker for the the Sunless City, but the path is blocked.</key>
-			<value>I found a trailmarker for the the Sunless City, but the path is blocked.</value>
+			<value>Tôi tìm thấy một cột mốc chỉ tới Thành Phố Đêm Trường, nhưng lối đi đã bị chặn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Sunless CityA Nomai city built into the walls of a huge underground cavern. The city is divided vertically into four districts.</key>
-			<value>A Nomai city built into the walls of a huge underground cavern. The city is divided vertically into four districts.</value>
+			<value>Một thành phố Nomai được xây dựng dựa vào những vách tường của một hang động khổng lồ dưới lòng đất. Thành phố được chia thành bốn phân khu theo chiều dọc.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Sunless CityThe Nomai debated building a Sun Station in order to power the Ash Twin Project. Several Nomai opposed its construction, arguing that failure could result in the destruction of the solar system.</key>
-			<value>The Nomai debated building a Sun Station in order to power the Dự Án Song Tinh Tro Tàn. Several Nomai opposed its construction, arguing that failure could result in the destruction of the solar system.</value>
+			<value>Người Nomai đã tranh luận về việc xây dựng Trạm Mặt Trời để cấp nguồn cho Dự Án Song Tinh Tro Tàn. Một vài người Nomai đã phản đối phương án này, vì nếu thất bại họ sẽ khiến cả hệ mặt trời bị hủy diệt.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Sunless CityThe Nomai traveled to this solar system in pursuit of a signal from something older than the universe itself. They named the source of this signal the "Eye of the universe."</key>
-			<value>The Nomai traveled to this solar system in pursuit of a signal from something older than the universe itself. They named the source of this signal the "Eye of the universe."</value>
+			<value>Người Nomai đã du hành tới hệ mặt trời này để truy tìm một tín hiệu đã phát ra từ một thực thể nào đó còn cổ đại hơn cả chính hệ mặt trời này. Họ đặt tên cho nguồn phát tín hiệu này là "Con Mắt Vũ Trụ".</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Anglerfish Fossil</key>
-			<value>Anglerfish Fossil</value>
+			<value>Hóa Thạch Cá Cần Câu</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Anglerfish FossilI found a cave with an anglerfish fossil inside, but the opening is only big enough for my scout.</key>
-			<value>I found a cave with an anglerfish fossil inside, but the opening is only big enough for my scout.</value>
+			<value>Tôi tìm thấy một hang động chứa bên trong một bộ hóa thạch cá cần câu, nhưng lối vào chỉ đủ rộng để thiết bị trinh sát chui qua.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Anglerfish FossilThe Nomai learned how to evade anglerfish (theoretically, at least) by studying an anglerfish fossil they found on Ember Twin.</key>
-			<value>The Nomai learned how to evade anglerfish (theoretically, at least) by studying an anglerfish fossil they found on Song Tinh Than Hồng.</value>
+			<value>Người Nomai đã phát hiện ra cách để tránh được loài cá cần câu (ít nhất là trên lý thuyết) thông qua nghiên cứu về bộ hóa thạch mà họ tìm thấy trên Song Tinh Than Hồng.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Fossil Fish Cave</key>
-			<value>Fossil Fish Cave</value>
+			<value>Động Hóa Thạch Cá</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Anglerfish FossilNomai children used to play a game in Fossil Fish Cave. There is a way to enter Fossil Fish Cave from Stepping Stone Cave.</key>
-			<value>Nomai children used to play a game in Fossil Fish Cave. There is a way to enter Fossil Fish Cave from Stepping Stone Cave.</value>
+			<value>Trẻ em Nomai từng chơi một trò chơi bên trong Động Hóa Thạch Cá. Có một lối vào Động Hóa Thạch Cá từ Hang Đá Bậc Thang.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Anglerfish FossilThe entrance from Stepping Stone Cave is hard to see unless the anglerfish is fed a light first.</key>
-			<value>The entrance from Stepping Stone Cave is hard to see unless the anglerfish is fed a light first.</value>
+			<value>Lối vào từ Hang Đá Bậc Thang rất khó để tìm thấy nếu ta chưa cho cá cần câu ăn một ngọn đèn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Anglerfish FossilNomai children used to play a game here. One player was the anglerfish and wore a blindfold. The rest of the children (the littlefish) lined up against one wall. When the anglerfish said go, the littlefish had to sneak across to the other side.</key>
-			<value>Nomai children used to play a game here. One player was the anglerfish and wore a blindfold. The rest of the children (the littlefish) lined up against one wall. When the anglerfish said go, the littlefish had to sneak across to the other side.</value>
+			<value>Trẻ em Nomai từng chơi một trò chơi ở đây. Một người chơi sẽ đóng vai cá cần câu và đeo bịt mắt. Những đứa trẻ còn lại (đóng vai cá nhỏ) sẽ xếp hàng dọc theo một bức tường. Khi cá cần câu nói di chuyển, những con cá nhỏ sẽ phải lẻn sang phía bên kia.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Anglerfish FossilThe blindfold rule was added because real anglerfish are blind.</key>
-			<value>The blindfold rule was added because real anglerfish are blind.</value>
+			<value>Luật chơi bịt mắt được thêm vào vì loài cá cần câu trong thực tế cũng bị mù.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Anglerfish FossilThe adult Nomai were delighted to see the children incorporate their research into the game's rules.</key>
-			<value>The adult Nomai were delighted to see the children incorporate their research into the game's rules.</value>
+			<value>Người lớn Nomai đã rất vui khi thấy những đứa trẻ áp dụng kết quả nghiên cứu của họ vào luật chơi.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum Caves</key>
-			<value>Quantum Caves</value>
+			<value>Hang Lượng Tử</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum CavesThe Nomai detected a quantum signal coming from somewhere on the Hourglass Twins.</key>
-			<value>The Nomai detected a quantum signal coming from somewhere on the Song Tinh Đồng Hồ Cát.</value>
+			<value>Người Nomai đã dò được một tín hiệu lượng tử phát ra từ đâu đó trên Song Tinh Đồng Hồ Cát.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum CavesThe Nomai noticed a strange wandering rock that appeared in multiple caves on Ember Twin’s northern hemisphere.</key>
-			<value>The Nomai noticed a strange wandering rock that appeared in multiple caves on Song Tinh Than Hồng’s northern hemisphere.</value>
+			<value>Người Nomai đã để ý thấy một tảng đá kỳ lạ xuất hiện ở nhiều hang động khác nhau trên bán cầu bắc của Song Tinh Than Hồng.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum CavesI found a strange rock shard that moves when I’m not watching. It emits a signal on the Quantum Fluctuations frequency.</key>
-			<value>I found a strange rock shard that moves when I’m not watching. It emits a signal on the Quantum Fluctuations frequency.</value>
+			<value>Tôi tìm thấy một mảnh đá kỳ lạ sẽ thay đổi vị trí mỗi khi rời khỏi tầm mắt của tôi. Nó phát ra tín hiệu trên kênh Dao Động Lượng Tử.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Lakebed Cave</key>
-			<value>Lakebed Cave</value>
+			<value>Hang Đáy Hồ</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Lakebed CaveThe wandering rock was first spotted in a cave at the bottom of the dry lakebed at Ember Twin’s north pole.</key>
-			<value>The wandering rock was first spotted in a cave at the bottom of the dry lakebed at Song Tinh Than Hồng’s north pole.</value>
+			<value>Tảng đá lang thang được phát hiện lần đầu trong một hang động nằm dưới đáy của hồ cạn tại cực bắc của Song Tinh Than Hồng.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Lakebed CaveA Nomai named Coleus mysteriously vanished from a cave at the bottom of the dry lakebed at Ember Twin’s north pole.</key>
-			<value>A Nomai named Coleus mysteriously vanished from a cave at the bottom of the dry lakebed at Song Tinh Than Hồng’s north pole.</value>
+			<value>Một người Nomai tên Coleus đã biến mất một cách bí ẩn khỏi hang động dưới đáy hồ cạn tại cực bắc của Song Tinh Than Hồng.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Lakebed CaveA Nomai named Coleus was standing on the wandering rock when another Nomai's lantern died. When they relit the lantern, Coleus and the rock were both gone.</key>
-			<value>A Nomai named Coleus was standing on the wandering rock when another Nomai's lantern died. When they relit the lantern, Coleus and the rock were both gone.</value>
+			<value>Một người Nomai tên Coleus đang đứng phía trên tảng đá lang thang khi lồng đèn của họ chợt tắt. Khi thắp lại đèn, cả Coleus và tảng đá đều đã biến mất.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Lakebed CaveTo travel with a quantum object, I must stand on the object and cease to observe my surroundings (meaning I must be in complete darkness). Coleus used this quantum rule to escape the cave he was trapped in.</key>
-			<value>To travel with a quantum object, I must stand on the object and cease to observe my surroundings (meaning I must be in complete darkness). Coleus used this quantum rule to escape the cave he was trapped in.</value>
+			<value>Để dịch chuyển cùng một vật thể lượng tử, tôi phải đứng trên vật thể đó và dừng việc quan sát xung quanh (tức là phải ở trong bóng tối). Coleus đã sử dụng quy tắc lượng tử này để thoát khỏi hang động mà anh ta bị kẹt ở trong.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Lakebed CaveColeus and Merolae returned to examine the rock. They theorized that when a conscious being is in contact with a quantum object and ceases to observe his or her surroundings, the being can become entangled with that quantum object, and they both move together.</key>
-			<value>Coleus and Melorae returned to examine the rock. They theorized that when a conscious being is in contact with a quantum object and ceases to observe his or her surroundings, the being can become entangled with that quantum object, and they both move together.</value>
+			<value>Coleus và Melorae đã trở lại để nghiên cứu tảng đá. Họ đưa ra giả thuyết rằng khi một thực thể có tri giác đang tiếp xúc với một vật thể lượng tử và dừng việc quan sát của mình lại, thực thể đó cũng sẽ liên đới với vật thể lượng tử, và cả hai dịch chuyển cùng nhau.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen Nomai Shuttle</key>
-			<value>Frozen Nomai Shuttle</value>
+			<value>Phi Thuyền Nomai Đóng Băng</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen Nomai ShuttleI found a Nomai shuttle almost completely encased in ice.</key>
-			<value>I found a Nomai shuttle almost completely encased in ice.</value>
+			<value>Tôi tìm thấy một phi thuyền Nomai bị phủ kín trong băng.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen Nomai ShuttleThe Nomai landed on the Interloper not long after its arrival in the solar system. The shuttle's equipment heard strange energy readings coming from somewhere beneath the surface.</key>
-			<value>The Nomai landed on Sao Chổi Tọc Mạch not long after its arrival in the solar system. The shuttle's equipment heard strange energy readings coming from somewhere beneath the surface.</value>
+			<value>Người Nomai đã đáp lên Sao Chổi Tọc Mạch không lâu sau khi thiên thể tiến vào hệ mặt trời. Thiết bị trên phi thuyền dò được những xung năng lượng kỳ lạ phát ra từ bên dưới lớp bề mặt.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen Nomai ShuttleThere were three Nomai aboard the shuttle. One of them stayed behind to keep the shuttle warm while the other two explored the Interloper.</key>
-			<value>There were three Nomai aboard the shuttle. One of them stayed behind to keep the shuttle warm while the other two explored Sao Chổi Tọc Mạch.</value>
+			<value>Có ba người Nomai ở trên phi thuyền. Một trong số đó đã ở lại để giữ phi thuyền không bị đóng băng trong khi hai người còn lại khám phá Sao Chổi Tọc Mạch.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen Nomai ShuttleClary, the Nomai who stayed behind, lost contact with the other two after they descended below the Interloper's surface.</key>
-			<value>Clary, the Nomai who stayed behind, lost contact with the other two after they descended below Sao Chổi Tọc Mạch's surface.</value>
+			<value>Clary, người Nomai được phân công ở lại, đã mất liên lạc với hai người còn lại sau khi họ chui xuống phía dưới lớp vỏ bề mặt của Sao Chổi Tọc Mạch.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ruptured Core</key>
-			<value>Ruptured Core</value>
+			<value>Lõi Vỡ Tung</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Subsurface Energy Readings</key>
-			<value>Subsurface Energy Readings</value>
+			<value>Xung Năng Lượng Ngầm</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ruptured CoreThe shuttle's equipment heard strange energy readings coming from somewhere beneath the surface.</key>
-			<value>The shuttle's equipment heard strange energy readings coming from somewhere beneath the surface.</value>
+			<value>Thiết bị trên phi thuyền dò được những xung năng lượng kỳ lạ phát ra từ bên dưới lớp bề mặt.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ruptured CoreTwo of the Nomai located a fissure in the ice on the Interloper’s sunward side. They descended inside to investigate.</key>
-			<value>Two of the Nomai located a fissure in the ice on Sao Chổi Tọc Mạch’s sunward side. They descended inside to investigate.</value>
+			<value>Hai người Nomai đã tìm thấy một khe nứt trên lớp băng bề mặt hướng về phía mặt trời của Sao Chổi Tọc Mạch. Họ đi chui xuống phía dưới để điều tra thêm.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ruptured CoreI found the two missing members of the Nomai shuttle crew near a large ruptured stone that looks like it exploded from the inside.</key>
-			<value>I found the two missing members of the Nomai shuttle crew near a large ruptured stone that looks like it exploded from the inside.</value>
+			<value>Tôi đã tìm thấy thi thể của hai người Nomai mất tích gần một hòn đá vỡ tung như thể đã phát nổ từ bên trong.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ruptured CoreThe Nomai traced the strange energy readings to a spherical stone casing filled with some form of exotic matter.</key>
-			<value>The Nomai traced the strange energy readings to a spherical stone casing filled with some form of exotic matter.</value>
+			<value>Người Nomai đã dò theo xung năng lượng và tìm tới một hòn đá hình cầu chứa bên trong một loại vật chất kỳ lạ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ruptured CoreThey determined the exotic matter was both lethal and under extreme pressure. If the stone were to rupture, the exotic matter within would rapidly expand, completely blanketing the solar system almost instantaneously.</key>
-			<value>They determined the exotic matter was both lethal and under extreme pressure. If the stone were to rupture, the exotic matter within would rapidly expand, completely blanketing the solar system almost instantaneously.</value>
+			<value>Họ đã xác định rằng thứ vật chất kỳ lạ bên trong không chỉ nguy hiểm chết người, mà còn đang bị nén ở một áp suất cực lớn. Nếu hòn đã này vỡ ra, thứ vật chất bên trong sẽ nở ra cực nhanh và phủ kín toàn bộ hệ mặt trời gần như ngay lập tức.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ruptured CoreOne of the Nomai stayed behind to examine the alien matter while the other rushed back to the surface to warn the rest of the Nomai.</key>
-			<value>One of the Nomai stayed behind to examine the alien matter while the other rushed back to the surface to warn the rest of the Nomai.</value>
+			<value>Một người Nomai đã ở lại để tiếp tục nghiên cứu trong khi người còn lại quay trở về để cảnh báo toàn bộ cư dân Nomai khác.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ocean Depths</key>
-			<value>Ocean Depths</value>
+			<value>Lòng Đại Dương</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ocean DepthsGabbro says there’s a strong current beneath the surface of the ocean that prevents anything from sinking below it.</key>
-			<value>Gabbro says there’s a strong current beneath the surface of the ocean that prevents anything from sinking below it.</value>
+			<value>Anh Gabbro kể rằng có một hải lưu chảy xiết bên dưới mặt biển, ngăn không cho bất cứ thứ gì chìm qua nó.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ocean DepthsThe Nomai on the Construction Yard saw something sink beneath the underwater current, which they'd previously thought was impossible.</key>
-			<value>The Nomai on the Construction Yard saw something sink beneath the underwater current, which they'd previously thought was impossible.</value>
+			<value>Người Nomai tại Công Trường đã nhìn thấy một vật thể chìm xuống phía dưới hải lưu, một điều mà họ tưởng là bất khả thi.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ocean DepthsFeldspar found a way to reach the core of Giant’s Deep.</key>
-			<value>Feldspar found a way to reach the core of Đại Dương Khổng Lồ.</value>
+			<value>Bác Feldspar đã tìm ra cách để chạm tới vùng lõi của Đại Dương Khổng Lồ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ocean DepthsThe ocean is surprisingly calm beneath the current. Some sort of electrical field surrounds the planet's core.</key>
-			<value>The ocean is surprisingly calm beneath the current. Some sort of electrical field surrounds the planet's core.</value>
+			<value>Phần biển phía dưới hải lưu lại yên tĩnh đến không ngờ. Lõi của hành tinh được bao phủ bởi một trường điện.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ocean DepthsI passed through the electric barrier and reached the coral forest at the planet's core.</key>
-			<value>I passed through the electric barrier and reached the coral forest at the planet's core.</value>
+			<value>Tôi đã vượt qua được trường điện và chạm tới rừng san hô tại lõi của hành tinh.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gabbro’s Island</key>
-			<value>Gabbro’s Island</value>
+			<value>Đảo Của Anh Gabbro</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gabbro</key>
-			<value>Gabbro</value>
+			<value>Anh Gabbro</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gabbro’s IslandHal says Gabbro went back to Giant’s Deep to try to learn more about the Nomai statue in the observatory.</key>
-			<value>Hal says Gabbro went back to Đại Dương Khổng Lồ to try to learn more about the Nomai statue in the observatory.</value>
+			<value>Hal bảo rằng anh Gabbro đã quay trở lại Đại Dương Khổng Lồ để tìm hiểu thêm về bức tượng Nomai trong đài thiên văn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gabbro’s IslandGabbro is lounging in a hammock near the island’s shore.</key>
-			<value>Gabbro is lounging in a hammock near the island’s shore.</value>
+			<value>Anh Gabbro đang thư giãn trên một chiếc vòng gần bờ biển trên đảo.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gabbro’s IslandGabbro found a Nomai statue on another island. The statue's eyes started glowing and Gabbro saw their memories flash before their eyes.</key>
-			<value>Gabbro found a Nomai statue on another island. The statue's eyes started glowing and Gabbro saw their memories flash before their eyes.</value>
+			<value>Anh Gabbro đã tìm thấy một bức tượng Nomai trên một hòn đảo khác. Những con mắt của bức tượng đó đã sáng lên và anh Gabbro đã nhìn thấy ký ức của chính mình vụt qua.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gabbro’s IslandGabbro remembers dying. They saw their memories flash before their eyes, just like the time with the statue.</key>
-			<value>Gabbro remembers dying. They saw their memories flash before their eyes, just like the time with the statue.</value>
+			<value>Anh Gabbro nhớ về việc đã chết. Anh ta đã nhìn thấy ký ức của chính mình vụt qua, hệt như cái lần đối diện với bức tượng.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gabbro’s IslandGabbro and I seem to be the only ones aware that we're in a time loop.</key>
-			<value>Gabbro and I seem to be the only ones aware that we're in a time loop.</value>
+			<value>Anh Gabbro và tôi dường như là những người duy nhất biết rằng chúng ta đang kẹt trong một vòng lặp thời gian.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Construction Yard</key>
-			<value>Construction Yard</value>
+			<value>Công Trường</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Construction YardThe Nomai built the Orbital Probe Cannon at a Construction Yard on Giant’s Deep.</key>
-			<value>The Nomai built the Orbital Probe Cannon at a Construction Yard on Đại Dương Khổng Lồ.</value>
+			<value>Người Nomai đã xây dựng Đại Pháo Vệ Tinh Do Thám tại một Công Trường trên Đại Dương Khổng Lồ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Construction YardThis island is where the Nomai built the Orbital Probe Cannon.</key>
-			<value>This island is where the Nomai built the Orbital Probe Cannon.</value>
+			<value>Hòn đảo này là nơi người Nomai xây dựng nên Đại Pháo Vệ Tinh Do Thám.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Construction YardFor some reason, the Nomai put the Orbital Probe Cannon on indefinite hiatus. The cannon was not asked to fire.</key>
-			<value>For some reason, the Nomai put the Orbital Probe Cannon on indefinite hiatus. The cannon was not asked to fire.</value>
+			<value>Vì lí do nào đó, người Nomai đã đưa Đại Pháo Vệ Tinh Do Thám vào trạng thái tạm dừng vô thời hạn. Đại pháo không được ra lệnh phóng.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Construction YardAccording to a Nomai computer, a long-range probe was recently launched from the Orbital Probe Cannon.</key>
-			<value>According to a Nomai computer, a long-range probe was recently launched from the Orbital Probe Cannon.</value>
+			<value>Theo thông tin trên máy tính Nomai, một vệ tinh tầm xa vừa được phóng ra gần đây bởi Đại Pháo Vệ Tinh Do Thám.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Bramble Island</key>
-			<value>Bramble Island</value>
+			<value>Đảo Dây Gai</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Bramble IslandAn island of thorny vines and what appears to be a frozen jellyfish. It looks like Feldspar camped here before heading off to Dark Bramble.</key>
-			<value>An island of thorny vines and what appears to be a frozen jellyfish. It looks like Feldspar camped here before heading off to Rừng Gai Hắc Ám.</value>
+			<value>Một hòn đảo chứa đầy dây gai và thứ gì đó trông như một con sứa đóng băng. Có vẻ bác Feldspar đã dựng trại ở đây trước khi khởi hành tới Rừng Gai Hắc Ám.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue Island</key>
-			<value>Statue Island</value>
+			<value>Đảo Tạc Tượng</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue IslandOne of the islands on Giant’s Deep has a Nomai statue on the beach just like the one Gabbro brought back to Timber Hearth.</key>
-			<value>One of the islands on Đại Dương Khổng Lồ has a Nomai statue on the beach just like the one Gabbro brought back to Rừng Thông Tổ Ấm.</value>
+			<value>Một hòn đảo trên Đại Dương Khổng Lồ, nơi có một bức tượng Nomai trên bờ biển giống với bức tượng mà anh Gabbro đã mang về Rừng Thông Tổ Ấm.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue IslandStatue Island (as Gabbro calls it) is the one with two islands connected by a natural rock arch.</key>
-			<value>Statue Island (as Gabbro calls it) is the one with two islands connected by a natural rock arch.</value>
+			<value>Đảo Tạc Tượng (theo như cách gọi của anh Gabbro) là nơi có hai hòn đảo nhỏ được nối với nhau bởi một vòm đá tự nhiên.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue IslandThis island must be where the Nomai created statues like the one in our observatory.</key>
-			<value>This island must be where the Nomai created statues like the one in our observatory.</value>
+			<value>Đây chắc hẳn là nơi người Nomai đã chế tác ra những bức tượng tương tự như cái ở trong đài thiên văn của ta.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue IslandI found a Nomai statue lying on the beach. It looks just like the one in our observatory.</key>
-			<value>I found a Nomai statue lying on the beach. It looks just like the one in our observatory.</value>
+			<value>Tôi đã tìm thấy một bức tượng Nomai trên bờ biển. Trông nó giống hệt bức tượng trong đài thiên văn của chúng ta.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue Workshop</key>
-			<value>Statue Workshop</value>
+			<value>Xưởng Tạc Tượng</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue WorkshopI found a sign for a "Statue Workshop" next to a broken door that used to lead inside the island.</key>
-			<value>I found a sign for a "Statue Workshop" next to a broken door that used to lead inside the island.</value>
+			<value>Tôi tìm thấy một tấm biển ghi "Xưởng Tạc Tượng" kế bên một cánh cửa dẫn vào bên trong hòn đảo, nhưng đã bị hỏng.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue WorkshopSome Nomai children debated bypassing the Statue Workshop's door and sneaking inside via an alternate (more dangerous) route.</key>
-			<value>Some Nomai children debated bypassing the Statue Workshop's door and sneaking inside via an alternate (more dangerous) route.</value>
+			<value>Một vài đứa trẻ Nomai đã bàn với nhau về cách lẻn vào trong Xưởng Tạc Tượng bằng một lối đi khác (mạo hiểm hơn) thay vì qua cửa chính.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Island Interior</key>
-			<value>Island Interior</value>
+			<value>Bên Trong Hòn Đảo</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue WorkshopI can see into a large cave from one of the ruins on top of the island. The bottom of the cave is filled with water.</key>
-			<value>I can see into a large cave from one of the ruins on top of the island. The bottom of the cave is filled with water.</value>
+			<value>Tôi có thể nhìn thấy một hang động lớn từ một tàn tích trên đảo. Sàn hang động ngập trong nước biển.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue WorkshopNomai statues were designed to pair with a single user, record their memories, and send those memories to a storage unit within the Ash Twin Project.</key>
-			<value>Nomai statues were designed to pair with a single user, record their memories, and send those memories to a storage unit within the Dự Án Song Tinh Tro Tàn.</value>
+			<value>Những bức tượng Nomai được thiết kế để kết nối với một người dùng, ghi lại ký ức của họ, và gửi ký ức đó về một thiết bị lưu trữ bên trong Dự Án Song Tinh Tro Tàn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue WorkshopEach storage unit inside the Ash Twin Project was equipped with a mask (the statue’s counterpart), which could then send those stored memories back to the corresponding user.</key>
-			<value>Each storage unit inside the Dự Án Song Tinh Tro Tàn was equipped with a mask (the statue’s counterpart), which could then send those stored memories back to the corresponding user.</value>
+			<value>Mỗi thiết bị lưu trữ bên trong Dự Án Song Tinh Tro Tàn được trang bị kèm một chiếc mặt nạ (mảnh còn lại của bức tượng), để gửi lại ký ức đã lưu trữ tới người dùng tương ứng.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue WorkshopThe statues were designed to only activate once the Ash Twin Project succeeded, or in the event that it failed.</key>
-			<value>The statues were designed to only activate once the Dự Án Song Tinh Tro Tàn succeeded, or in the event that it failed.</value>
+			<value>Những bức tượng được thiết kế để chỉ kích hoạt khi Dự Án Song Tinh Tro Tàn đã trả về kết quả thành công, hoặc thất bại.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum Trials</key>
-			<value>Tower of Quantum Trials</value>
+			<value>Tháp Thử Thách Lượng Tử</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum TrialsThe Nomai detected a Quantum signal coming from somewhere on Giant’s Deep.</key>
-			<value>The Nomai detected a Quantum signal coming from somewhere on Đại Dương Khổng Lồ.</value>
+			<value>Người Nomai đã dò được một tín hiệu lượng tử phát ra từ đâu đó trên Đại Dương Khổng Lồ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum TrialsThis tower held knowledge a Nomai needed to make his or her first quantum journey.</key>
-			<value>This tower held knowledge a Nomai needed to make his or her first quantum journey.</value>
+			<value>Tòa tháp này chứa đựng những tri thức mà một người Nomai cần để thực hiện chuyến du hành lượng tử đầu tiên của mình.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum Trials"Observing a quantum object; observing an image of a quantum object. These are the same."</key>
-			<value>"Observing a quantum object; observing an image of a quantum object. These are the same."</value>
+			<value>"Quan sát một vật thể lượng tử; quan sát ảnh chụp một vật thể lượng tử. Hai hành động đó là như nhau."</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum TrialsThe Nomai called this the "Rule of Quantum Imaging."</key>
-			<value>The Nomai called this the "Rule of Quantum Imaging."</value>
+			<value>Người Nomai gọi đây là "Quy luật Thu Ảnh Lượng Tử."</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum Trials"Remember, the other quantum shards have other lessons to teach."</key>
-			<value>"Remember, the other quantum shards have other lessons to teach."</value>
+			<value>"Hãy nhớ, những mảnh đá lượng tử khác cũng mang trong mình những bài học riêng".</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum Moon</key>
-			<value>Quantum Moon</value>
+			<value>Mặt Trăng Lượng Tử</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum MoonThe Nomai on Brittle Hollow observed a phantom moon that would sometimes appear in the sky.</key>
-			<value>The Nomai on Vỏ Rỗng Rạn Nứt observed a phantom moon that would sometimes appear in the sky.</value>
+			<value>Người Nomai trên Vỏ Rỗng Rạn Nứt đã quan sát được một mặt trăng ma cứ thỉnh thoảng lại xuất hiện trên bầu trời.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum MoonThe Nomai on Ember Twin observed a moon that would disappear when no one was watching.</key>
-			<value>The Nomai on Song Tinh Than Hồng observed a moon that would disappear when no one was watching.</value>
+			<value>Người Nomai trên Song Tinh Than Hồng đã quan sát được một mặt trăng hễ cứ không ai để ý là sẽ biến mất.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum MoonA Nomai named Solanum landed a shuttle on the Quantum Moon.</key>
-			<value>A Nomai named Solanum landed a shuttle on the Quantum Moon.</value>
+			<value>Một người Nomai có tên Solanum đã đáp phi thuyền xuống Mặt Trăng Lượng Tử.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum MoonChert’s research notes mention a Quantum Moon that no Hearthian has been able to land on.</key>
-			<value>Chert’s research notes mention a Quantum Moon that no Hearthian has been able to land on.</value>
+			<value>Ghi chép nghiên cứu của anh Chert có nhắc về một Mặt Trăng Lượng Tử mà chưa có người Rừng Thông nào có thể đặt chân lên.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum MoonI was able to land on the surface of the Quantum Moon.</key>
-			<value>I was able to land on the surface of the Quantum Moon.</value>
+			<value>Tôi đã hạ cánh được xuống bề mặt của Mặt Trăng Lượng Tử.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum MoonI found a dead Nomai in a space suit near the south pole.</key>
-			<value>I found a dead Nomai in a space suit near the south pole.</value>
+			<value>Tôi tìm thấy thi thể mặc đồ bảo hộ không gian của một người Nomai ở gần cực nam.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Solanum's Shuttle</key>
-			<value>Solanum's Shuttle</value>
+			<value>Phi Thuyền Của Solanum</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Solanum's ShuttleA Nomai named Solanum landed her shuttle at the Quantum Moon's south pole and prepared to make the rest of the journey on foot.</key>
-			<value>A Nomai named Solanum landed her shuttle at the Quantum Moon's south pole and prepared to make the rest of the journey on foot.</value>
+			<value>Một người Nomai tên Solanum đã đáp phi thuyền xuống cực nam của Mặt Trăng Lượng Tử và chuẩn bị đi bộ trên phần còn lại của chuyến hành trình.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Solanum's ShuttleVisitors to the Quantum Moon always arrive at the south pole (for reasons unknown to the Nomai).</key>
-			<value>Visitors to the Quantum Moon always arrive at the south pole (for reasons unknown to the Nomai).</value>
+			<value>Bất cứ ai tiến vào Mặt Trăng Lượng Tử sẽ luôn đáp xuống tại cực nam (nguyên nhân người Nomai chưa xác định được).</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum Shrine</key>
-			<value>Quantum Shrine</value>
+			<value>Điện Thờ Lượng Tử</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum ShrineThe Nomai built a shrine on the Quantum Moon to aid in the pilgrimage to its sixth location.</key>
-			<value>The Nomai built a shrine on the Quantum Moon to aid in the pilgrimage to its sixth location.</value>
+			<value>Người Nomai đã xây dựng một điện thờ trên Mặt Trăng Lượng Tử để hỗ trợ chuyến hành trình tới vị trí thứ sáu của mặt trăng.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum ShrineA Nomai shrine that wanders about the Quantum Moon.</key>
-			<value>A Nomai shrine that wanders about the Quantum Moon.</value>
+			<value>Một điện thờ của người Nomai lang thang trên Mặt Trăng Lượng Tử.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum Shrine"You have recalled the rule of quantum imaging" is inscribed next to a mural of a tower on an island.</key>
-			<value>"You have recalled the rule of quantum imaging" is inscribed next to a mural of a tower on an island.</value>
+			<value>Dòng chữ "Em đã vận dụng đúng quy luật thu ảnh lượng tử" được khắc bên cạnh bức tranh vẽ ngọn tháp trên một hòn đảo.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum Shrine"Recall the rule of quantum entanglement" is inscribed next to a mural of a quantum shard in a cave.</key>
-			<value>"Recall the rule of quantum entanglement" is inscribed next to a mural of a quantum shard in a cave.</value>
+			<value>Dòng chữ "Vận dụng thêm quy luật liên đới lượng tử" được khắc bên cạnh bức tranh vẽ mảnh đá lượng tử bên trong hang động.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum Shrine"Recall the rule of the sixth location" is inscribed next to a mural of a tower hanging above a black hole.</key>
-			<value>"Recall the rule of the sixth location" is inscribed next to a mural of a tower hanging above a black hole.</value>
+			<value>Dòng chữ "Áp dụng cả quy tắc về vị trí thứ sáu" được khắc bên cạnh bức tranh vẽ tòa tháp treo phía trên một hố đen.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sixth Location</key>
-			<value>Sixth Location</value>
+			<value>Vị Trí Thứ Sáu</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sixth LocationThe Quantum Moon sometimes disappears, possibly to an unknown sixth location.</key>
-			<value>The Quantum Moon sometimes disappears, possibly to an unknown sixth location.</value>
+			<value>Có những khi Mặt Trăng Lượng Tử biến mất, có lẽ là đã dịch chuyển tới vị trí thứ sáu.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sixth LocationMany Nomai went on a pilgrimage during which the Quantum Moon carried them to its sixth and most secret location.</key>
-			<value>Many Nomai went on a pilgrimage during which the Quantum Moon carried them to its sixth and most secret location.</value>
+			<value>Nhiều người Nomai đã thực hiện chuyến hành trình tới Mặt Trăng Lượng Tử để được hành tinh ấy đưa tới vị trí thứ sáu, và cũng là vị trí bí ẩn nhất.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sixth LocationTo explore the sixth location, the shrine on the Quantum Moon must be on the moon’s north pole.</key>
-			<value>To explore the sixth location, the shrine on the Quantum Moon must be on the moon’s north pole.</value>
+			<value>Để có thể thám hiểm vị trí thứ sáu, điện thờ phải nằm trên cực bắc của Mặt Trăng Lượng Tử.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sixth LocationI met a living Nomai named Solanum at the south pole!</key>
-			<value>I met a living Nomai named Solanum at the south pole!</value>
+			<value>Tôi đã gặp một người Nomai còn sống tên là Solanum ở cực nam!</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sixth LocationThe Quantum Moon is the Eye of the universe's moon.</key>
-			<value>The Quantum Moon is the Eye of the universe's moon.</value>
+			<value>Mặt Trăng Lượng Tử là mặt trăng của Con Mắt Vũ Trụ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sixth LocationAt this location, the Quantum Moon becomes a reflection of the Eye itself.</key>
-			<value>At this location, the Quantum Moon becomes a reflection of the Eye itself.</value>
+			<value>Tại vị trí này, Mặt Trăng Lượng Tử trở thành hình ảnh phản chiếu của chính Con Mắt.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sixth LocationThe Eye is likely the source of all macroscopic quantum phenomena in the solar system.</key>
-			<value>The Eye is likely the source of all macroscopic quantum phenomena in the solar system.</value>
+			<value>Con Mắt nhiều khả năng chính là nguyên nhân của các hiện tượng lượng tử vĩ mô xảy ra trong hệ mặt trời.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sixth LocationSolanum wonders what would happen if a concious observer were to enter the Eye.</key>
-			<value>Solanum wonders what would happen if a concious observer were to enter the Eye.</value>
+			<value>Solanum thắc mắc không biết chuyện gì sẽ xảy ra nếu một người quan sát tiến vào bên trong Con Mắt.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sixth LocationSolanum has a hypothesis that she may not be entirely alive.</key>
-			<value>Solanum has a hypothesis that she may not be entirely alive.</value>
+			<value>Solanum đưa ra giả thuyết rằng cô ấy không hẳn là còn sống nữa.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sun Station</key>
-			<value>Sun Station</value>
+			<value>Trạm Mặt Trời</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sun StationThere is a way to safely travel to the Sun Station from Ash Twin.</key>
-			<value>There is a way to safely travel to the Sun Station from Song Tinh Tro Tàn.</value>
+			<value>Có một cách an toàn để tới Trạm Mặt Trời từ Song Tinh Tro Tàn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sun StationThe Nomai debated building a Sun Station in order to power the Ash Twin Project.</key>
-			<value>The Nomai debated building a Sun Station in order to power the Dự Án Song Tinh Tro Tàn.</value>
+			<value>Người Nomai đã tranh luận về phương án xây dựng Trạm Mặt Trời để cấp nguồn cho Dự Án Song Tinh Tro Tàn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sun StationThe Nomai built something called the Sun Station, but not everyone supported its construction.</key>
-			<value>The Nomai built something called the Sun Station, but not everyone supported its construction.</value>
+			<value>Người Nomai đã xây dựng nên một công trình mang tên Trạm Mặt Trời, nhưng không phải ai cũng ủng hộ chuyện này.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sun StationThe Sun Station was designed to make the sun go supernova.</key>
-			<value>The Sun Station was designed to make the sun go supernova.</value>
+			<value>Trạm Mặt Trời được thiết kế để khiến mặt trời phát nổ siêu tân tinh.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sun StationThe Nomai fired the Sun Station but it had no effect on the sun. They concluded that the Sun Station could never cause the sun to go supernova.</key>
-			<value>The Nomai fired the Sun Station but it had no effect on the sun. They concluded that the Sun Station could never cause the sun to go supernova.</value>
+			<value>Người Nomai đã khai hỏa Trạm Mặt Trời, nhưng vô hiệu. Họ kết luận rằng Trạm Mặt Trời không có khả năng kích nổ siêu tân tinh.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sun StationAfter the failure of the Sun Station, the Nomai took a break to investigate the newly arrived comet.</key>
-			<value>After the failure of the Sun Station, the Nomai took a break to investigate the newly arrived comet.</value>
+			<value>Sau thất bại của Trạm Mặt Trời, người Nomai đã tạm dừng dự án để điều tra về một sao chổi mới xuất hiện.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sun StationAccording to a Nomai computer, our sun has reached the end of its natural life cycle.</key>
-			<value>According to a Nomai computer, our sun has reached the end of its natural life cycle.</value>
+			<value>Theo thông tin trên máy tính Nomai, mặt trời của chúng ta đã chạm tới cuối vòng đời tự nhiên của nó.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Esker’s Camp</key>
-			<value>Esker’s Camp</value>
+			<value>Trại Của Bác Esker</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Esker’s CampSounds like Esker is still stationed on the Attlerock. They’ve been there by themself for a while.</key>
-			<value>Sounds like Esker is still stationed on the Attlerock. They’ve been there by themself for a while.</value>
+			<value>Nghe có vẻ bác Esker vẫn đang trực tại Mặt Trăng Sỏi Vụn. Bác ấy ở đó một mình cũng khá lâu rồi.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Esker’s CampEsker is growing a crop of trees at their camp. They seemed to be doing ok, but they’ve probably been alone on the moon for too long.</key>
-			<value>Esker is growing a crop of trees at their camp. They seemed to be doing ok, but they’ve probably been alone on the moon for too long.</value>
+			<value>Bác Esker đang trồng một lứa cây mới ở khu trại của mình. Có vẻ như bác ấy vẫn ổn, mỗi tội phải lủi thủi một mình trên mặt trăng hơi lâu.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Lunar Lookout</key>
-			<value>Lunar Lookout</value>
+			<value>Đài Quan Sát Trên Mặt Trăng</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Lunar LookoutEsker says the Attlerock’s north pole (marked in red on my minimap) is a great spot to listen for the other travelers’ music with a signalscope.</key>
-			<value>Esker says the Attlerock’s north pole (marked in red on my minimap) is a great spot to listen for the other travelers’ music with a signalscope.</value>
+			<value>Bác Esker nói rằng cực bắc của Mặt Trăng Sỏi Vụn (đánh dấu màu đỏ trên bản đồ nhỏ của tôi) là một địa điểm lý tưởng để nghe tiếng đàn của những phi hành gia khác bằng ống thu tín hiệu.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Lunar LookoutA lookout platform with a spectacular view of the solar system. Esker uses their signalscope here to keep tabs on the other travelers.</key>
-			<value>A lookout platform with a spectacular view of the solar system. Esker uses their signalscope here to keep tabs on the other travelers.</value>
+			<value>Một đài quan sát với góc nhìn tổng thể hệ mặt trời. Bác Esker sử dụng ống thu tín hiệu ở đây để theo dõi các phi hành gia khác.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Eye Signal Locator</key>
-			<value>Eye Signal Locator</value>
+			<value>Bộ Định Vị Tín Hiệu Con Mắt</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Lunar Ruins</key>
-			<value>Lunar Ruins</value>
+			<value>Tàn Tích Trên Mặt Trăng</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Eye Signal LocatorI hear there are Nomai ruins somewhere on the Attlerock. No one knows what they are or why they were built.</key>
-			<value>I hear there are Nomai ruins somewhere on the Attlerock. No one knows what they are or why they were built.</value>
+			<value>Tôi nghe rằng có tàn tích của người Nomai đâu đó trên Mặt Trăng Sỏi Vụn. Chẳng ai biết chúng là gì hay có công dụng gì.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Eye Signal LocatorThe Nomai text in the observatory talks about calibrating some sort of device on the Attlerock.</key>
-			<value>The Nomai text in the observatory talks about calibrating some sort of device on the Attlerock.</value>
+			<value>Chữ viết của người Nomai trong đài thiên văn có nhắc về chuyện hiệu chỉnh một thiết bị nào đó trên Mặt Trăng Sỏi Vụn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Eye Signal LocatorA Nomai device created to pinpoint the sources of distant signals.</key>
-			<value>A Nomai device created to pinpoint the sources of distant signals.</value>
+			<value>Một thiết bị của người Nomai được tạo ra để xác định vị trí nguồn phát của tín hiệu từ xa.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Eye Signal LocatorThe Nomai were disappointed by their failure to detect a signal from something called the Eye of the universe.</key>
-			<value>The Nomai were disappointed by their failure to detect a signal from something called the Eye of the universe.</value>
+			<value>Người Nomai đã thất vọng vì không thể dò được tín hiệu từ một thứ gì đó tên là Con Mắt Vũ Trụ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin Towers</key>
-			<value>Song Tinh Tro Tàn Towers</value>
+			<value>Những Tòa Tháp Trên Song Tinh Tro Tàn</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin TowersSeveral large Nomai towers form a ring around Ash Twin's equator.</key>
-			<value>Several large Nomai towers form a ring around Song Tinh Tro Tàn's equator.</value>
+			<value>Nhiều tòa tháp cao của người Nomai được xây dựng thành một vòng tròn quanh xích đạo của Song Tinh Tro Tàn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin TowersThe White Hole Station was used as a model for these towers, which were built for the Ash Twin Project.</key>
-			<value>The White Hole Station was used as a model for these towers, which were built for the Dự Án Song Tinh Tro Tàn.</value>
+			<value>Trạm Hố Trắng đã được sử dụng như mẫu thử của các tòa tháp này, vốn được xây dựng để phục vụ cho Dự Án Song Tinh Tro Tàn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin Project</key>
@@ -12671,91 +12671,91 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin ProjectThe central chamber inside Ash Twin was physically sealed off by an immensely thick protective shell.</key>
-			<value>The central chamber inside Song Tinh Tro Tàn was physically sealed off by an immensely thick protective shell.</value>
+			<value>Buồng trung tâm bên trong Song Tinh Tro Tàn đã được bọc kín bởi một lớp vỏ bảo vệ siêu dày.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin ProjectThe Nomai planned to construct technology capable of producing a 22-minute negative time interval on Ash Twin.</key>
-			<value>The Nomai planned to construct technology capable of producing a 22-minute negative time interval on Song Tinh Tro Tàn.</value>
+			<value>Người Nomai đã lên kế hoạch để xây dựng nên một công nghệ có thể tạo ra khoảng thời gian âm 22 phút tại Song Tinh Tro Tàn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin ProjectEvery memory recorded by a Nomai statue is transmitted to a corresponding storage unit within Ash Twin.</key>
-			<value>Every memory recorded by a Nomai statue is transmitted to a corresponding storage unit within Song Tinh Tro Tàn.</value>
+			<value>Ký ức được ghi lại bởi tượng Nomai sẽ được truyền tới một thiết bị lưu trữ tương ứng bên trong Song Tinh Tro Tàn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin ProjectAn advanced warp core was approved for installation in the central chamber of Ash Twin.</key>
-			<value>An advanced warp core was approved for installation in the central chamber of Song Tinh Tro Tàn.</value>
+			<value>Một lõi dịch chuyển tân tiến đã được thông qua để lắp đặt tại buồng trung tâm của Song Tinh Tro Tàn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin ProjectA hollowed-out chamber inside Ash Twin. The energy cables from the surface are plugged into a protective casing at the center of the planet.</key>
-			<value>A hollowed-out chamber inside Song Tinh Tro Tàn. The energy cables from the surface are plugged into a protective casing at the center of the planet.</value>
+			<value>Một căn buồng được khoét rỗng bên trong Song Tinh Tro Tàn. Các sợi cáp truyền năng lượng từ bề mặt được cắm vào một lớp vỏ bảo vệ ở trung tâm hành tinh.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin ProjectThere are eight monoliths with Nomai masks attached. Three of the masks are actively receiving data from the Probe Tracking Module, Giant's Deep, and Timber Hearth respectively.</key>
-			<value>There are eight monoliths with Nomai masks attached. Three of the masks are actively receiving data from the Probe Tracking Module, Đại Dương Khổng Lồ, and Rừng Thông Tổ Ấm respectively.</value>
+			<value>Có tám cây cột lớn được gắn lên mặt nạ Nomai. Ba trong số đó đang nhận dữ liệu từ Bộ Phận Định Vị, Đại Dương Khổng Lồ, và Rừng Thông Tổ Ấm.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin ProjectThe Ash Twin Project was designed to use the energy from a supernova (triggered by the Sun Station) to send probe data from the Orbital Probe Cannon 22 minutes into the past.</key>
-			<value>The Dự Án Song Tinh Tro Tàn was designed to use the energy from a supernova (triggered by the Sun Station) to send probe data from the Orbital Probe Cannon 22 minutes into the past.</value>
+			<value>Dự Án Song Tinh Tro Tàn được thiết kế để sử dụng năng lượng từ một vụ nổ siêu tân tinh (kích hoạt bởi Trạm Mặt Trời) để gửi dữ liệu vệ tinh nhận được từ Đại Pháo Vệ Tinh Do Thám về thời điểm 22 phút trước trong quá khứ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin ProjectThe Sun Station did not work. Although the Ash Twin Project was theoretically sound, the Nomai were unable to power it.</key>
-			<value>The Sun Station did not work. Although the Dự Án Song Tinh Tro Tàn was theoretically sound, the Nomai were unable to power it.</value>
+			<value>Trạm Mặt Trời đã thất bại. Mặc dù Dự Án Song Tinh Tro Tàn đã khả thi về mặt lý thuyết, người Nomai lại không thể cấp nguồn cho nó.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin ProjectThere is an advanced warp core inside the protective casing at the center of the planet. Removing the core will disable the Ash Twin Project.</key>
-			<value>There is an advanced warp core inside the protective casing at the center of the planet. Removing the core will disable the Dự Án Song Tinh Tro Tàn.</value>
+			<value>Có một lõi dịch chuyển tân tiến bên trong lớp vỏ bảo vệ tại trung tâm hành tinh. Loại bỏ chiếc lõi đó sẽ vô hiệu hóa Dự Án Song Tinh Tro Tàn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Volcanic Testing Site</key>
-			<value>Volcanic Testing Site</value>
+			<value>Khu Thử Nghiệm Núi Lửa</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Volcanic Testing SiteOre samples from the Nomai Mines on Timber Hearth were sent to this volcano for durability testing.</key>
-			<value>Ore samples from the Nomai Mines on Rừng Thông Tổ Ấm were sent to this volcano for durability testing.</value>
+			<value>Mẫu quặng từ Khu Mỏ Nomai trên Rừng Thông Tổ Ấm đã đuwọc gửi tới đây để kiểm nghiệm về độ bền.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Volcanic Testing SiteThe Nomai were trying to craft a (briefly) supernova-proof shell to encase the Ash Twin Project.</key>
-			<value>The Nomai were trying to craft a (briefly) supernova-proof shell to encase the Dự Án Song Tinh Tro Tàn.</value>
+			<value>Người Nomai đang cố tạo ra một lớp vỏ có khả năng kháng được một vụ nổ siêu tân tinh (dù chỉ thoáng chốc) để bảo vệ Dự Án Song Tinh Tro Tàn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Volcanic Testing SiteEven the smallest crack or opening in the protective shell would destroy everything.</key>
-			<value>Even the smallest crack or opening in the protective shell would destroy everything.</value>
+			<value>Chỉ một vết nứt nhỏ nhất trên lớp vỏ bảo vệ cũng sẽ phá hỏng mọi thứ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>White Hole Station</key>
-			<value>White Hole Station</value>
+			<value>Trạm Hố Trắng</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>White Hole StationThere is a White Hole Station on the other side of Brittle Hollow's black hole.</key>
-			<value>There is a White Hole Station on the other side of Vỏ Rỗng Rạn Nứt's black hole.</value>
+			<value>Trạm Hố Trắng nằm ở phía bên kia của hố đen tại Vỏ Rỗng Rạn Nứt.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>White Hole StationSeveral Nomai returned to the station to investigate an equipment reading that appeared to violate causality.</key>
-			<value>Several Nomai returned to the station to investigate an equipment reading that appeared to violate causality.</value>
+			<value>Một vài người Nomai đã trở lại trạm để điều tra về một dữ liệu dường như đang vi phạm tính nhân quả.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>White Hole StationThe experiments at the High Energy Lab were based on extraordinary findings from the White Hole Station.</key>
-			<value>The experiments at the High Energy Lab were based on extraordinary findings from the White Hole Station.</value>
+			<value>Các thí nghiệm thực hiện tại Phòng Thí Nghiệm Năng Lượng Cao được dựa trên phát hiện phi thường tại Trạm Hố Trắng.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>White Hole StationThe towers on Ash Twin were modeled after the White Hole Station.</key>
-			<value>The towers on Song Tinh Tro Tàn were modeled after the White Hole Station.</value>
+			<value>Những tòa tháp trên Song Tinh Tro Tàn được xây dựng dựa trên nguyên mẫu của Trạm Hố Trắng.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>White Hole StationEvery Nomai warp tower is tuned to a specific astral body.</key>
-			<value>Every Nomai warp tower is tuned to a specific astral body.</value>
+			<value>Mỗi tòa tháp dịch chuyển của người Nomai được điều chỉnh để ngắm tới một thiên thể nhất định.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>White Hole StationTo use a tower, you must be standing on the warp platform during the tower's alignment with its corresponding astral body (the alignment happens when the astral body is directly overhead).</key>
-			<value>To use a tower, you must be standing on the warp platform during the tower's alignment with its corresponding astral body (the alignment happens when the astral body is directly overhead).</value>
+			<value>Để sử dụng tháp, bạn phải đứng trên bệ dịch chuyển vào thời điểm tòa tháp đang ngắm tới thiên thể đích đến (xảy ra khi thiên thể đó đang ở ngay phía trên đỉnh tháp).</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>White Hole StationThe Nomai noticed something strange: Warped objects appeared to arrive at the receiver on Brittle Hollow slightly before they departed the White Hole Station.</key>
-			<value>The Nomai noticed something strange: Warped objects appeared to arrive at the receiver on Vỏ Rỗng Rạn Nứt slightly before they departed the White Hole Station.</value>
+			<value>Người Nomai đã phát hiện một điều kỳ lạ: Vật thể dịch chuyển lại đến đích trên Vỏ Rỗng Rạn Nứt một thoáng trước khi rời khỏi Trạm Hố Trắng.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>White Hole StationThis negative time interval between an object arriving and departing was incredibly miniscule (roughly one hundred-thousandth of a second). The Nomai were skeptical if their equipment could even measure time to such a small degree.</key>
-			<value>This negative time interval between an object arriving and departing was incredibly miniscule (roughly one hundred-thousandth of a second). The Nomai were skeptical if their equipment could even measure time to such a small degree.</value>
+			<value>Khoảng thời gian âm giữa thời điểm đến và đi này là vô cùng nhỏ (khoảng một phần trăm ngàn giây). Người Nomai đặt ra nghi vấn rằng liệu thiết bị của họ có thể đo lường chính xác ở quy mô như vậy không.</value>
 		</TranslationTableEntry>
 	</table_shipLog>
 	<table_ui>
@@ -12953,7 +12953,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>148</key>
-			<value>Render Mode</value>
+			<value>Chế độ Render</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>150</key>
@@ -13297,7 +13297,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>258</key>
-			<value>Mở Tấm bảo vệ Thoát khẩn cấp</value>
+			<value>Mở Tấm bảo vệ nút Thoát khẩn cấp</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>259</key>
@@ -13933,11 +13933,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>505</key>
-			<value>SIGN IN</value>
+			<value>ĐĂNG NHẬP</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>506</key>
-			<value>RESET TO VESSEL AND QUIT TO MAIN MENU</value>
+			<value>TRỞ VỀ PHI THUYỀN MẸ VÀ THOÁT RA MENU</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>510</key>
@@ -13969,11 +13969,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>525</key>
-			<value />
+			<value>Mất kết nối với tay cầm.\\nXin hãy kiểm tra kết nối tay cầm.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>526</key>
-			<value>Wireless controller disconnected.\\nPlease reconnect your wireless controller.</value>
+			<value>Mất kết nối với tay cầm không dây.\\nXin hãy kiểm tra kết nối không dây của tay cầm.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>550</key>
@@ -13993,7 +13993,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>554</key>
-			<value>Cancel</value>
+			<value>Hủy</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>555</key>
@@ -14261,19 +14261,19 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>662</key>
-			<value>CHERT</value>
+			<value>ANH CHERT</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>663</key>
-			<value>ESKER</value>
+			<value>BÁC ESKER</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>664</key>
-			<value>FELDSPAR</value>
+			<value>BÁC FELDSPAR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>665</key>
-			<value>GABBRO</value>
+			<value>ANH GABBRO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>666</key>
@@ -14421,15 +14421,15 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>735</key>
-			<value>SEE BEYOND THE HORIZON</value>
+			<value>THĂM DÒ PHÍA BÊN KIA CHÂN TRỜI</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>736</key>
-			<value>TEST THE ENVIRONMENT</value>
+			<value>KIỂM THỬ MÔI TRƯỜNG</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>737</key>
-			<value>PRESENTS</value>
+			<value>GIỚI THIỆU</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>738</key>
@@ -14561,31 +14561,31 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>920</key>
-			<value>Grappling Hook</value>
+			<value>Lao Móc</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>921</key>
-			<value>Jump Multiplier</value>
+			<value>Nhân Lực nhảy</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>922</key>
-			<value>Invincibility</value>
+			<value>Bất tử</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>923</key>
-			<value>Probe Destruction</value>
+			<value>Phá hủy Vệ tinh</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>924</key>
-			<value>Infinite Resources</value>
+			<value>Tài nguyên Vô Hạn</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>925</key>
-			<value>Limited Ship Fuel</value>
+			<value>Giới hạn Nhiên liệu Phi thuyền</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>926</key>
-			<value>Sprint Speed</value>
+			<value>Tốc độ Chạy</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>927</key>
@@ -14645,11 +14645,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>941</key>
-			<value>FUEL</value>
+			<value>NHIÊN LIỆU</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>942</key>
-			<value>TEMP</value>
+			<value>NHIỆT ĐỘ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>943</key>
@@ -14717,7 +14717,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>959</key>
-			<value>TẬN HƯỞNG KHÔNG KHÍ!</value>
+			<value>TẬN HƯỞNG DƯỠNG KHÍ!</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>960</key>
@@ -14745,7 +14745,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>966</key>
-			<value>SWITCH PROFILE</value>
+			<value>ĐỔI HỒ SƠ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>967</key>
@@ -14845,7 +14845,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>997</key>
-			<value>Dynamic/60fps</value>
+			<value>Động/60fps</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>998</key>
@@ -15017,23 +15017,23 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1040</key>
-			<value>Custom</value>
+			<value>Tùy chỉnh</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1041</key>
-			<value>Gamepad Preset</value>
+			<value>Mẫu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1042</key>
-			<value>File Save Error</value>
+			<value>Lỗi File Sao Lưu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1043</key>
-			<value>PS4® (Custom)</value>
+			<value>PS4® (Tùy chỉnh)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1044</key>
-			<value>Dualshock (Custom)</value>
+			<value>Dualshock (Tùy chỉnh)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1045</key>
@@ -15041,7 +15041,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1046</key>
-			<value>Xbox (Custom)</value>
+			<value>Xbox (Tùy chỉnh)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1047</key>
@@ -15049,47 +15049,47 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1048</key>
-			<value>Switch Pro (Custom)</value>
+			<value>Switch Pro (Tùy chỉnh)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1049</key>
-			<value>Axis #</value>
+			<value>Trục #</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1050</key>
-			<value>Button #</value>
+			<value>Nút #</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1051</key>
-			<value>Found recovered data for profile name &lt;Profile Name&amp;gt;. Restore? </value>
+			<value>Tìm thấy dữ liệu khôi phục từ hồ sơ mang tên &lt;Profile Name&amp;gt;. Khôi phục? </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1052</key>
-			<value>Overwrite existing data for profile name &lt;Profile Name&amp;gt;?</value>
+			<value>Ghi đè dữ liệu của hồ sơ tên &lt;Profile Name&amp;gt;?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1100</key>
-			<value>Gear Options</value>
+			<value>Tùy chỉnh Thiết bị</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1101</key>
-			<value>Gear Options</value>
+			<value>Tùy chỉnh Thiết bị</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1102</key>
-			<value>ERROR: SCOUT RECALL FAILED</value>
+			<value>LỖI: THU HỒI VỆ TINH THẤT BẠI</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1103</key>
-			<value>FREEZE TIME WHILE READING</value>
+			<value>DỪNG THỜI GIAN KHI ĐỌC</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1104</key>
-			<value>REBIND CONTROLS</value>
+			<value>THIẾT LẬP LẠI ĐIỀU KHIỂN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1105</key>
-			<value>CONTROL REBINDING</value>
+			<value>ĐANG THIẾT LẬP ĐIỀU KHIỂN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1106</key>
@@ -15097,335 +15097,335 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1107</key>
-			<value>KEYBOARD &amp; MOUSE</value>
+			<value>BÀN PHÍM &amp; CHUỘT</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1108</key>
-			<value>Delete Profile</value>
+			<value>Xóa Hồ sơ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1109</key>
-			<value>Switch Profile</value>
+			<value>Đổi Hồ sơ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1110</key>
-			<value>Select from pre-configured visual quality settings.</value>
+			<value>Chọn từ các mẫu chất lượng đồ họa được thiết lập sẵn.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1111</key>
-			<value>Whether the game should run as windowed or fullscreen.</value>
+			<value>Trò chơi chạy ở chế độ Cửa sổ hay Toàn màn hình.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1112</key>
-			<value>Choose which monitor will display the game</value>
+			<value>Chọn màn hình sẽ hiển thị trò chơi</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1113</key>
-			<value>Determines which resolutions are available in the following option, based on the dimensions of the screen.</value>
+			<value>Quyết định những lựa chọn độ phân giải có thể chọn, dựa vào kích thước của màn hình.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1114</key>
-			<value>The game will render at this pixel resolution.\\nRendering cost: High</value>
+			<value>Trò chơi sẽ được render ở độ phân giải này.\\nChi phí render: Cao</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1115</key>
-			<value>Smooths out jagged pixel edges.  SMAA is more precise and higher quality, but FXAA is faster.\\nRendering cost: Low</value>
+			<value>Làm mịn các cạnh pixel.  SMAA cho kết quả chính xác và hoàn thiện hơn, nhưng FXAA cho hiệu năng tốt hơn.\\nChi phí render: Thấp</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1116</key>
-			<value>Quality of the anti-aliasing post-processing effect.  Higher quality is more expensive.</value>
+			<value>Chất lượng của hiệu ứng post-processing khử răng cưa.  Chất lượng cao cao chi phí càng lớn.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1117</key>
-			<value>Relative resolution of texture maps used throughout the game.\\nMemory cost: Medium</value>
+			<value>Độ phân giải tương đối của texture được sử dụng trong trò chơi.\\nChi phí bộ nhớ: Trung bình</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1118</key>
-			<value>Amount of detail in the ocean waves and lighting quality of the water.\\nRendering cost: High</value>
+			<value>Số lượng chi tiết của sóng biển, và chất lượng ánh sáng của nước.\\nChi phí render: Cao</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1119</key>
-			<value>The resolution and accuracy of shadows in the game world, as well as the number of shadow-casting lights.\\nRendering cost: High</value>
+			<value>Độ phân giải và chính xác của đổ bóng trong trò chơi, cũng như số lượng nguồn sáng tạo đổ bóng.\\nChi phí render: Cao</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1120</key>
-			<value>Calculates ambient occlusion (the soft shadows when objects are close to each other) as a post-processing effect.\\nRendering cost: Medium</value>
+			<value>Tính toán ambient occlusion (lớp bóng mờ khi vật thể ở gần nhau) như một hiệu ứng post-processing.\\nChi phí render: Trung bình</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1121</key>
-			<value>Adjusts the brightness or darkness of the visuals.\\nRendering cost: None</value>
+			<value>Điều chỉnh độ sáng tối của hình ảnh.\\nChi phí render: Không</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1122</key>
-			<value>Prevents screen-tearing by synchronizing the game's framerate with the monitor's refresh rate.\\nRendering cost: None, but will automatically lower your framerate to the closest multiple of the monitor's sync rate</value>
+			<value>Ngăn hiện tượng rách khung hình bằng cách đồng bộ tốc độ khung hình của trò chơi với tần số quét của màn hình.\\nChi phí render: Không, nhưng sẽ giảm tốc độ khung hình của bạn xuống bội gần nhất của tần số đồng bộ của màn hình</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1123</key>
-			<value>Dithering improves color blending, but may make compressed video of the game look worse.\\nRendering cost: None</value>
+			<value>Kỹ thuật rải điểm giúp cải thiện chất lượng pha trộn màu, nhưng có thể khiến video quay gameplay trông tệ hơn khi bị nén.\\nChi phí render: Không</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1124</key>
-			<value>The vertical field-of-view of the in-game camera.  Warning: changing this might affect certain puzzles in Outer Wilds.\\nRendering cost: Low</value>
+			<value>Độ rộng của góc nhìn trong game.  Cảnh báo: điều chỉnh này sẽ ảnh hưởng tới một số câu đố của Outer Wilds.\\nChi phí render: Thấp</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1125</key>
-			<value>Jetpack boost can be triggered with a separate button press (manual) or any time upward thrust is used (auto).</value>
+			<value>Phản lực tăng cường có thể được kích hoạt bằng nút bấm riêng (thủ công) hoặc mỗi khi chức năng Đẩy lên trên được sử dụng (tự động).</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1126</key>
-			<value>Translator can be equipped with a button press (manual) or by looking at translatable text (auto).</value>
+			<value>Máy phiên dịch có thể được trang bị bằng nút bấm riêng (thủ công) hoặc mỗi khi nhìn vào chữ cần dịch (tự động).</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1127</key>
-			<value>Displays a HUD notification when new information is added to the ship log.</value>
+			<value>Hiển thị một thông báo trên HUD mỗi khi thông tin mới được thêm vào nhật trình phi thuyền.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1128</key>
-			<value>Displays rumor connections between ship log entries. Disable to minimize in-game guidance.</value>
+			<value>Hiển thị kết nối giữa các thông tin trong nhật trình phi thuyền. Vô hiệu hóa để giảm thiểu hướng dẫn của trò chơi.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1129</key>
-			<value>Disabling this will remove the ability to automatically fly between planets using autopilot.</value>
+			<value>Vô hiệu hóa để loại bỏ cơ chế tự động lái.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1130</key>
-			<value>Displays button prompts for available actions.</value>
+			<value>Hiển thị danh sách nút bấm tương ứng với hành động cho phép.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1131</key>
-			<value>Change volume for all audio.</value>
+			<value>Thay đổi âm lượng tổng.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1132</key>
-			<value>Change volume for non-diegetic music.</value>
+			<value>Thay đổi âm lượng nhạc nằm ngoài thế giới trò chơi.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1133</key>
-			<value>Change the language for all text in the game.</value>
+			<value>Thay đổi ngôn ngữ của toàn bộ chữ viết trong trò chơi.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1134</key>
-			<value>Change the reveal speed of text during conversation.</value>
+			<value>Thay đổi tốc độ hiện chữ trong hội thoại.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1135</key>
-			<value>Freezes time while reading translated text (translator must remain stationary).\\nNOTE: There are certain periods when time cannot be frozen.</value>
+			<value>Dừng thời gian khi đọc chữ được dịch (máy phiên dịch phải nằm yên).\\nLƯU Ý: Có những khoảng thời gian không thể được dừng lại.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1136</key>
-			<value>Freezes time while using the ship log.\\nNOTE: There are certain periods when time cannot be frozen.</value>
+			<value>Dừng thời gian khi xem nhật trình phi thuyền.\\nLƯU Ý: Có những khoảng thời gian không thể được dừng lại.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1137</key>
-			<value>Freezes time while talking to characters and reading journals or signs. This will prevent character animations from playing during conversation.\\nNOTE: There are certain periods when time cannot be frozen.</value>
+			<value>Dừng thời gian khi nói chuyện với nhận vật khác, hoặc đọc ghi chép và biển báo. Thiết lập này cũng sẽ ngăn diễn hoạt của nhân vật trong hội thoại.\\nLƯU Ý: Có những khoảng thời gian không thể được dừng lại..</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1138</key>
-			<value>Invert look y-axis when on foot.</value>
+			<value>Đảo ngược trục y khi đi bộ.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1139</key>
-			<value>Invert look y-axis when piloting your ship.</value>
+			<value>Đảo ngược trục y khi lái phi thuyền.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1140</key>
-			<value>Enables controller vibration (controller only).</value>
+			<value>Kích hoạt chức năng rung tay cầm (chỉ tay cầm).</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1141</key>
-			<value>Set look input sensitivity while on foot. A lower look sensitivity will result is a slower look speed that is easier to control.</value>
+			<value>Thiết lập độ nhạy xoay khung nhìn khi đi bộ. Độ nhạy thấp sẽ giúp điều khiển dễ hơn.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1142</key>
-			<value>Set look input sensitivity while piloting your ship. A lower look sensitivity will result is a slower look speed that is easier to control.</value>
+			<value>Thiết lập độ nhạy xoay khung nhìn khi lái phi thuyền. Độ nhạy thấp sẽ giúp điều khiển dễ hơn.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1143</key>
-			<value>Determines how far (from center) the left/right stick must be tilted before any input is detected.\\nConsider increasing this dead zone if your character moves or looks around when you're not touching the left/right stick.</value>
+			<value>Quyết định khoảng cách (tính từ tâm) mà cần điều khiển phải nghiêng trước khi nhận tín hiệu.\\nCân nhắc tăng dead zone này nếu nhân vật của bạn tự di chuyển hay nhìn đi chỗ khác kể cả khi bạn không chạm vào cần điều khiển.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1144</key>
-			<value>Determines how far (from full tilt) the left/right stick must be released before maximum input is no longer detected.\\nConsider increasing this dead zone if you are unable to move or look at maximum speed.</value>
+			<value>Quyết định khoảng cách (tính từ độ nghiêng lớn nhất) mà cần điều khiển thả ra để không còn chạm ngưỡng tín hiệu tối đa.\\nCân nhắc tăng dead zone này nếu nhân vật của bạn không thể di chuyển hay xoay góc nhìn ở tốc độ tối đa.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1145</key>
-			<value>Open this menu to modify which buttons are assigned to which in-game actions.</value>
+			<value>Mở menu này để điều chỉnh nút bấm nào tương ứng với hành động nào trong trò chơi.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1150</key>
-			<value>Throw Marshmallow</value>
+			<value>Bỏ Kẹo Dẻo</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1151</key>
-			<value>Push Off</value>
+			<value>Đẩy Qua</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1152</key>
-			<value>Your save file was corrupted.</value>
+			<value>Dữ liệu lưu của bạn đã bị hỏng.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1153</key>
-			<value>Load previous save?</value>
+			<value>Tải lại bản lưu trước?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1154</key>
-			<value>Selects the controller that the game will use.</value>
+			<value>Lựa chọn tay cầm mà trò chơi sẽ sử dụng.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1155</key>
-			<value>Changes the controller mapping to correspond to the indicated controller.</value>
+			<value>Thay đổi ánh xạ nút bấm tay cầm tương ứng với tay cầm được chỉ thị.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1156</key>
-			<value>Changes the displayed button images to that of the indicated controller.</value>
+			<value>Thay đổi hình ảnh nút bấm được hiển thị tương ứng với tay cầm được chỉ thị.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1157</key>
-			<value>Changes the Keyboard Layout setting. Changes to this setting will prompt you as to whether or not you want to change the currently set keyboard bindings. This will also redefine the default settings for Keyboard &amp; Mouse.</value>
+			<value>Thay đổi thiết lập Bố cục Bàn phím. Thay đổi này sẽ hỏi xác nhận rằng bạn có muốn thay đổi thiết lập phím bấm hiện tại. Thay đổi này cũng sẽ định nghĩa lại thiết lập mặc định của Bàn phím &amp; Chuột.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1158</key>
-			<value>Pauses the game</value>
+			<value>Tạm dừng trò chơi</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1159</key>
-			<value>Menu Confirm</value>
+			<value>Xác nhận Menu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1160</key>
-			<value>Menu Cancel</value>
+			<value>Hủy Menu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1161</key>
-			<value>Movement from side to side</value>
+			<value>Di chuyển trái phải</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1162</key>
-			<value>Movement forward and backwards</value>
+			<value>Di chuyển tiến lùi</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1163</key>
-			<value>Camera movement left to right</value>
+			<value>Xoay góc nhìn trái phải</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1164</key>
-			<value>Camera movement up and down</value>
+			<value>Xoay góc nhìn lên xuống</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1165</key>
-			<value>Interact with objects</value>
+			<value>Tương tác vật thể</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1166</key>
-			<value>Jump</value>
+			<value>Nhảy</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1167</key>
-			<value>Turns flashlight on and off</value>
+			<value>Bật tắt đèn pha</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1168</key>
-			<value>Opens Map View</value>
+			<value>Mở Bản Đồ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1169</key>
-			<value>Zoom in in map view</value>
+			<value>Phóng to bản đồ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1170</key>
-			<value>Zoom out in map view</value>
+			<value>Thu nhỏ bản đồ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1171</key>
-			<value>Equips Signalscope</value>
+			<value>Trang bị Ống Thu Tín Hiệu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1172</key>
-			<value>Equips, Launches, and Retrieves scout</value>
+			<value>Trang bị, Phóng, và Thu hồi Thiết bị Trinh sát</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1173</key>
-			<value>Scout: Takes forward snapshot\\nSignalscope: Change view\\nTranslator: Translate</value>
+			<value>Thiết bị Trinh sát: Chụp ảnh phía trước\\nỐng thu tín hiệu: Đổi góc nhìn\\nMáy phiên dịch: Phiên dịch</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1174</key>
-			<value>Scout: Takes rear view snapshot</value>
+			<value>Thiết bị Trinh sát: Chụp ảnh phía sau</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1175</key>
-			<value>Generic tool mode left and right</value>
+			<value>Điều khiển chung trái và phải</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1176</key>
-			<value>Generic tool mode up and down</value>
+			<value>Điều khiển chung lên và xuống</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1177</key>
-			<value>Jetpack and Ship upwards movement</value>
+			<value>Chuyển động đẩy lên của Áo bảo hộ và Phi thuyền</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1178</key>
-			<value>Jetpack and Ship downwards movement</value>
+			<value>Chuyển động đẩy xuống của Áo bảo hộ và Phi thuyền</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1179</key>
-			<value>When pressed, Move X-Axis will roll you about the forward direction</value>
+			<value>Khi bấm, di chuyển trục X sẽ lộn nhân vật về phía trước</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1180</key>
-			<value>Triggers manual Jetpack Boost</value>
+			<value>Kích hoạt Phản lực Tăng cường thủ công</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1181</key>
-			<value>Locks on to an indicated target</value>
+			<value>Khóa mục tiêu chỉ định</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1182</key>
-			<value>When locked on, activates thrusters to match the velocity of the locked on target</value>
+			<value>Khi đã khóa mục tiêu, kích hoạt cụm phản lực để khớp vận tốc với mục tiêu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1183</key>
-			<value>Toggles the Ship landing camera</value>
+			<value>Bật tắt Camera Hạ cánh của Phi thuyền</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1184</key>
-			<value>When locked on, activates ship autopilot</value>
+			<value>Khi đã khóa mục tiêu, kích hoạt chế độ tự động lái của phi thuyền</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1185</key>
-			<value>Toggles free look while buckled into the ship cockpit seat</value>
+			<value>Bật tắt chế độ nhìn tự do khi đang ngồi trên ghế lái phi thuyền</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1186</key>
-			<value>In the ship log, toggles between map and discovery mode</value>
+			<value>Trong nhật trình phi thuyền, chuyển đổi giữa chế độ bản đồ và chế độ khám phá</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1187</key>
-			<value>In the ship log, turns on a HUD Marker for the indicated ship log item</value>
+			<value>Trong nhật trình phi thuyền, bật đánh dấu vị trí trên HUD tương ứng với thông tin trong nhật trình</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1188</key>
-			<value>In the ship log, scrolls through long log entries</value>
+			<value>Trong nhật trình phi thuyền, cuộn các đoạn chữ dài</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1189</key>
-			<value>Enables wireless controller vibration function (wireless controller only).</value>
+			<value>Kích hoạt chức năng rung của tay cầm không dây (chỉ tay cầm không dây).</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1190</key>
-			<value>Enables controller vibration (controller only).</value>
+			<value>Kích hoạt chức năng rung của tay cầm (chỉ tay cầm).</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1191</key>
-			<value>Determines how far (from center) the left/right stick must be tilted before any input is detected. Consider increasing this dead zone if your character moves or looks around when you're not touching the left/right stick.</value>
+			<value>Quyết định khoảng cách (tính từ tâm) mà cần điều khiển phải nghiêng trước khi nhận tín hiệu.\\nCân nhắc tăng dead zone này nếu nhân vật của bạn tự di chuyển hay nhìn đi chỗ khác kể cả khi bạn không chạm vào cần điều khiển.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1192</key>
-			<value>Determines how far (from full tilt) the left/right stick must be released before maximum input is no longer detected. Consider increasing this dead zone if you are unable to move or look at maximum speed.</value>
+			<value>Quyết định khoảng cách (tính từ độ nghiêng lớn nhất) mà cần điều khiển thả ra để không còn chạm ngưỡng tín hiệu tối đa.\\nCân nhắc tăng dead zone này nếu nhân vật của bạn không thể di chuyển hay xoay góc nhìn ở tốc độ tối đa.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1193</key>
-			<value>Selects the resolution and framerate to render at.\\nDynamic resolution is ideal for displays with Variable Refresh Rate (VRR) support.</value>
+			<value>Lựa chọn độ phân giải và tốc độ khung hình.\\nĐộ phân giải động là lựa chọn lý tưởng cho mẫu màn hình có hỗ trợ chức năng Variable Refresh Rate (VRR).</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1200</key>
@@ -15433,235 +15433,235 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1201</key>
-			<value>THE PRISONER</value>
+			<value>TÙ NHÂN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1210</key>
-			<value>Artifact</value>
+			<value>Cổ Vật</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1212</key>
-			<value>Lantern</value>
+			<value>Lồng Dèn</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1213</key>
-			<value>Slide Reel</value>
+			<value>Cuộn Phim</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1220</key>
-			<value>Push Raft</value>
+			<value>Đẩy Bè</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1221</key>
-			<value>Rotate</value>
+			<value>Xoay</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1222</key>
-			<value>Use Interface</value>
+			<value>Sử Dụng Bảng Điều Khiển</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1223</key>
-			<value>Release Raft</value>
+			<value>Thả Bè</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1224</key>
-			<value>View Slideshow</value>
+			<value>Xem Phim</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1225</key>
-			<value>Look</value>
+			<value>Nhìn</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1226</key>
-			<value>Rotate Up</value>
+			<value>Xoay Lên</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1227</key>
-			<value>Rotate Down</value>
+			<value>Xoay Xuống</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1228</key>
-			<value>Rotate Up / Down</value>
+			<value>Xoay Lên / Xuống</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1229</key>
-			<value>Open</value>
+			<value>Mở</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1230</key>
-			<value>Close</value>
+			<value>Đóng</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1231</key>
-			<value>Give</value>
+			<value>Đưa</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1232</key>
-			<value>Take</value>
+			<value>Nhận</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1233</key>
-			<value>Vision Torch</value>
+			<value>Đuốc Ký Ức</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1234</key>
-			<value>Rotate Left / Right</value>
+			<value>Xoay Trái / Phải</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1235</key>
-			<value>Project</value>
+			<value>Chiếu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1236</key>
-			<value>Project Vision</value>
+			<value>Chiếu Ký Ức</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1237</key>
-			<value>Rewatch Vision</value>
+			<value>Xem Lại Ký Ức</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1238</key>
-			<value>Scan</value>
+			<value>Quét</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1250</key>
-			<value>&lt;color=red&amp;gt;ERROR: Unknown Language&lt;/color&amp;gt;</value>
+			<value>&lt;color=red&amp;gt;LỖI: Ngôn ngữ Chưa xác định&lt;/color&amp;gt;</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1251</key>
-			<value>ERROR:\\nMAP OFFLINE</value>
+			<value>LỖI:\\nBẢN ĐỒ NGOẠI TUYẾN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1260</key>
-			<value>Focus</value>
+			<value>Hội Tụ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1261</key>
-			<value>Conceal</value>
+			<value>Che Khuất</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1265</key>
-			<value>Forward</value>
+			<value>Tiến</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1266</key>
-			<value>Reverse</value>
+			<value>Lùi</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1300</key>
-			<value>Return warp status: CHARGED. Step onto warp receiver platform to activate return warp.</value>
+			<value>Trạng thái dịch chuyển khứ hồi: ĐÃ KÍCH HOẠT. Bước lên bệ dịch chuyển đích để kích hoạt dịch chuyển khứ hồi.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1310</key>
-			<value>Set Default Controller</value>
+			<value>Đặt làm Tay cầm Mặc định</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1311</key>
-			<value>Don't show this again</value>
+			<value>Không hiện lại</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1312</key>
-			<value>Controller Profile</value>
+			<value>Hồ sơ Tay cầm</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1313</key>
-			<value>Button Prompt Images</value>
+			<value>Hiển thị Nút bấm</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1314</key>
-			<value> (Auto Detect)</value>
+			<value> (Tự động Phát hiện)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1315</key>
-			<value> (Custom)</value>
+			<value> (Tùy chỉnh)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1316</key>
-			<value>Unknown Input Detected</value>
+			<value>Phát hiện Input Chưa xác định</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1317</key>
-			<value>Joystick Axis</value>
+			<value>Trục Cần điều khiển</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1318</key>
-			<value>Designate Joystick Type</value>
+			<value>Chỉ định Loại Cần điều khiển</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1319</key>
-			<value>Normal [-1, 1]</value>
+			<value>Thường [-1, 1]</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1320</key>
-			<value>Trigger [-1, 1]</value>
+			<value>Kích hoạt [-1, 1]</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1321</key>
-			<value>Action</value>
+			<value>Hành động</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1322</key>
-			<value>Retrieve Scout</value>
+			<value>Thu hồi Thiết bị Trinh sát</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1323</key>
-			<value>Primary Tool Action</value>
+			<value>Chức năng Chính</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1324</key>
-			<value>Secondary Tool Action</value>
+			<value>Chức năng Phụ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1325</key>
-			<value>Launch/Retrieve Scout</value>
+			<value>Phóng/Thu hồi Thiết bị Trinh sát</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1326</key>
-			<value>V1.x.8 Key Binding Update</value>
+			<value>V1.x.8 Update Thiết lập Nút bấm</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1327</key>
-			<value>Old Key Bindings</value>
+			<value>Thiết lập Nút bấm cũ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1328</key>
-			<value>New Key Bindings</value>
+			<value>Thiết lập Nút bấm mới</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1329</key>
-			<value>Open Rebinding Menu</value>
+			<value>Mở Menu Thiết lập Nút bấm</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1330</key>
-			<value>Continue</value>
+			<value>Tiếp tục</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1331</key>
-			<value>Save Changes?</value>
+			<value>Lưu Thay đổi?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1332</key>
-			<value>Save Key Bindings</value>
+			<value>Lưu Thiết lập Nút bấm</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1333</key>
-			<value>Discard Key Bindings</value>
+			<value>Loại bỏ Thiết lập Nút bấm</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1334</key>
-			<value>Keyboard Layout</value>
+			<value>Bố cục Bàn phím</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1335</key>
-			<value>Update Keyboard Bindings?</value>
+			<value>Cập nhật Bố cục Bàn phím?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1336</key>
-			<value>Convert Keys from </value>
+			<value>Chuyển Nút bấm từ </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1337</key>
-			<value> to </value>
+			<value> thành </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1338</key>
@@ -15669,211 +15669,211 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1339</key>
-			<value>Keep Keys as-is</value>
+			<value>Giữ nguyên Thiết lập Phím</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1400</key>
-			<value>Next Tab</value>
+			<value>Tab Kế Tiếp</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1401</key>
-			<value>Reset Current Changes</value>
+			<value>Đặt lại Thay đổi</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1402</key>
-			<value>Leave &amp; Save Changes</value>
+			<value>Thoát &amp; Lưu Thay đổi</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1403</key>
-			<value>Audio &amp; Language</value>
+			<value>Âm thanh &amp; Ngôn ngữ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1404</key>
-			<value>Controls</value>
+			<value>Điều khiển</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1405</key>
-			<value>Basic</value>
+			<value>Cơ bản</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1406</key>
-			<value>Active Controller</value>
+			<value>Kích hoạt Tay cầm</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1407</key>
-			<value>Advanced</value>
+			<value>Nâng cao</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1408</key>
-			<value>Preflight Checklist</value>
+			<value>Kiểm tra trước khi cất cánh</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1409</key>
-			<value>(unsupported)</value>
+			<value>(không hỗ trợ)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1410</key>
-			<value>Reduced Frights</value>
+			<value>Giảm Hù dọa</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1411</key>
-			<value>Reduced Frights (Echoes of the Eye)</value>
+			<value>Giảm Hù dọa (Echoes of the Eye)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1412</key>
-			<value>Makes certain frightening sequences easier to navigate</value>
+			<value>Khiến một số phân đoạn đáng sợ dễ vượt qua hơn</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1413</key>
-			<value>The frightening aspects of Echoes of the Eye are part of the intended experience. If they become an obstacle to your enjoyment of Outer Wilds, enabling this option will reduce some of those aspects.\\nAre you sure?</value>
+			<value>Yếu tố hù dọa của Echoes of the Eye là một phần của trải nghiệm đúng thiết kế. Nếu thấy chúng cản trở việc trải nghiệm Outer Wilds của bạn, kích hoạt cài đặt này sẽ giảm thiểu các yếu tố đó đi.\\nBạn có chắc không?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1414</key>
-			<value>The frightening aspects of Outer Wilds are part of the intended experience. If they become an obstacle to your enjoyment of the game, enabling this option will reduce some of those aspects.\\nAre you sure?</value>
+			<value>Yếu tố hù dọa của Outer Wilds là một phần của trải nghiệm đúng thiết kế. Nếu thấy chúng cản trở việc trải nghiệm Outer Wilds của bạn, kích hoạt cài đặt này sẽ giảm thiểu các yếu tố đó đi.\\nBạn có chắc không?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1420</key>
-			<value>Jetpack Auto Boost</value>
+			<value>Tự động Phản lực Tăng cường</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1421</key>
-			<value>Translator Auto Equip</value>
+			<value>Tự động Trang bị Máy Phiên dịch</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1422</key>
-			<value>Freeze time while translating text</value>
+			<value>Dừng thời gian khi phiên dịch chữ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1423</key>
-			<value>Freeze time while reading ship log</value>
+			<value>Dừng thời gian khi đọc nhật trình phi thuyền</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1424</key>
-			<value>Freeze time while talking to others</value>
+			<value>Dừng thời gian khi hội thoại</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1430</key>
-			<value>Music-only Volume</value>
+			<value>Âm lượng Nhạc</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1431</key>
-			<value>Change volume for all music and sound effects.</value>
+			<value>Thay đổi âm lượng toàn bộ âm nhạc và hiệu ứng âm thanh.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1440</key>
-			<value>General</value>
+			<value>Chung</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1441</key>
-			<value>Movement</value>
+			<value>Di chuyển</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1442</key>
-			<value>Equipment</value>
+			<value>Trang bị</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1443</key>
-			<value>Flight</value>
+			<value>Bay</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1444</key>
-			<value>Ship Log</value>
+			<value>Nhật trình Phi thuyền</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1445</key>
-			<value>Retrieve Scout</value>
+			<value>Thu hồi Thiết bị Trinh sát</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1446</key>
-			<value>Primary Interact</value>
+			<value>Tương tác Chính</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1447</key>
-			<value>Secondary Interact</value>
+			<value>Tương tác Phụ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1450</key>
-			<value>SHIP FUEL DEPLETED</value>
+			<value>CẠN NHIÊN LIỆU PHI THUYỀN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1451</key>
-			<value>New Exhibit</value>
+			<value>Khu Triển Lãm Mới</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1452</key>
-			<value>Certain parts of Echoes of the Eye can be intense for some players. If they become an obstacle to your enjoyment of Outer Wilds, a "Reduced Frights" option is available in the gameplay menu.</value>
+			<value>Một số phân đoạn của Echoes of the Eye có thể hơi quá áp lực với một số người chơi. Nếu thấy chúng cản trở việc trải nghiệm Outer Wilds của bạn, hãy tìm tới cài đặt "Giảm Hù dọa" trong menu.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1453</key>
-			<value>Adjust the slider until the image on the left is barely visible.</value>
+			<value>Điều chỉnh thay trượt tới khi hình ảnh bên trái chỉ lờ mờ thấy rõ.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1500</key>
-			<value>- NEW EXHIBIT -</value>
+			<value>- KHU TRIỂN LÃM MỚI -</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1501</key>
-			<value>- COMING SOON -</value>
+			<value>- SẮP MỞ -</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1502</key>
-			<value>Translator Auto Equip</value>
+			<value>Tự động Trang bị Máy Phiên dịch</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1503</key>
-			<value>AUDIO &amp; LANGUAGE</value>
+			<value>ÂM THANH &amp; NGÔN NGỮ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1504</key>
-			<value>CONTROLS</value>
+			<value>ĐIỀU KHIỂN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1505</key>
-			<value>Water Quality</value>
+			<value>Chất lượng Nước</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1506</key>
-			<value>Amount of detail in waves and lighting quality of the water.\\nRendering cost: High</value>
+			<value>Số lượng chi tiết của sóng biển, và chất lượng ánh sáng của nước.\\nChi phí render: Cao</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1507</key>
-			<value>Lighting Effects Quality</value>
+			<value>Chất lượng Ánh sáng</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1508</key>
-			<value>Resolution of reflections and darkened interiors in certain locations through the game world.\\nRendering cost: Medium</value>
+			<value>Độ phân giải của hình ảnh phản chiếu và các khu vực thiếu sáng trong trò chơi.\\nChi phí render: Trung bình</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1509</key>
-			<value>Reflections Quality</value>
+			<value>Chất lượng Phản chiếu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1510</key>
-			<value>Resolution of reflections in certain locations through the game world.\\nRendering cost: Medium</value>
+			<value>Độ phân giải của hình ảnh phản chiếu ở một số địa điểm trong trò chơi.\\nChi phí render: Trung bình</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1511</key>
-			<value>Leave &amp; Save Changes</value>
+			<value>Thoát &amp; Lưu Thay đổi</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1512</key>
-			<value>Default Settings (Gameplay)</value>
+			<value>Thiết lập Mặc định (Gameplay)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1513</key>
-			<value>Default Settings (Audio &amp; Language)</value>
+			<value>Thiết lập Mặc định (Âm thanh &amp; Ngôn ngữ)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1514</key>
-			<value>Default Settings (Controls)</value>
+			<value>Thiết lập Mặc định (Điều khiển)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1515</key>
-			<value>Default Settings (Graphics)</value>
+			<value>Thiết lập Mặc định (Đồ họa)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1520</key>
-			<value>Thank you for supporting Dự Án Outer Wilds! A new museum exhibit is now available in the village observatory.</value>
+			<value>Cảm ơn đã ủng hộ Dự Án Outer Wilds! Một khu triển lãm mới đã được mở trong đài thiên văn của làng.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1521</key>
@@ -15889,95 +15889,95 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1530</key>
-			<value>DEEP SPACE RADIO</value>
+			<value>ĐÀI VÔ TUYẾN KHÔNG GIAN XA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1531</key>
-			<value>RADIO TOWER</value>
+			<value>THÁP VÔ TUYẾN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1532</key>
-			<value>DEEP SPACE SATELLITE</value>
+			<value>VỆ TINH KHÔNG GIAN XA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1540</key>
-			<value>Echoes of the Eye will become available once you resume from the title screen. Do you want to return to the title screen now?</value>
+			<value>Nội dung Echoes of the Eye sẽ mở khi bạn tiếp tục từ màn hình chính. Bạn có muốn tới đó luôn không?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1541</key>
-			<value>Interact with objects (secondary interactions)</value>
+			<value>Tương tác với vật thể (tương tác phụ)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1542</key>
-			<value>Scout: Launch/Forward Snapshot\\nSignalscope: Zoom In\\nTranslator: Translate</value>
+			<value>Thiết bị Trinh sát: Phóng/Chụp phía trước\\nỐng thu Tín hiệu: Phóng to\\nMáy Phiên dịch: Phiên dịch</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1543</key>
-			<value>Scout: Rearview Snapshot</value>
+			<value>Thiết bị Trinh sát: Chụp phía sau</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1544</key>
-			<value>Change volume for sound effects.</value>
+			<value>Thay đổi âm lượng hiệu ứng âm thanh.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1545</key>
-			<value>Change volume for sound effects.</value>
+			<value>Thay đổi âm lượng hiệu ứng âm thanh.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1550</key>
-			<value>Would you like to reset your input settings?</value>
+			<value>Bạn có muốn thiết lập lại cài đặt điều khiển?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1551</key>
-			<value>Yes</value>
+			<value>Có</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1552</key>
-			<value>No</value>
+			<value>Không</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1553</key>
-			<value>Fullscreen</value>
+			<value>Toàn màn hình</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1554</key>
-			<value>Windowed</value>
+			<value>Cửa sổ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1555</key>
-			<value>Borderless Window</value>
+			<value>Cửa sổ Không viền</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1556</key>
-			<value>Keyboard Layout</value>
+			<value>Bố cục Bàn phím</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1557</key>
-			<value>Sets key bindings according to the selected keyboard layout. (Changing this setting resets Keyboard &amp; Mouse bindings to defaults)</value>
+			<value>Đặt thiết lập phím bấm dựa trên bố cục bàn phím. (Thay đổi này sẽ đặt thiết lập phím bấm Bàn phím &amp; Chuột về mặc định)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1558</key>
-			<value>Switch Pro Controller (unsupported)</value>
+			<value>Tay cầm Switch Pro (không hỗ trợ)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1559</key>
-			<value>Switch Slideshow</value>
+			<value>Đổi Phim</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1560</key>
-			<value>Resume Expedition</value>
+			<value>Tiếp tục Thám hiểm</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1561</key>
-			<value>Adjust the slider until the image is barely visable.</value>
+			<value>Điểu chỉnh thay trượt tới khi hình ảnh chỉ lờ mờ nhìn ra được.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1562</key>
-			<value>Apply</value>
+			<value>Áp dụng</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1563</key>
-			<value>Cancel</value>
+			<value>Hủy bỏ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1564</key>
@@ -15985,35 +15985,35 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1565</key>
-			<value>Next</value>
+			<value>Kế tiếp</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1566</key>
-			<value>Previous</value>
+			<value>Trước</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1570</key>
-			<value>Vibration Function</value>
+			<value>Chức năng Rung</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>177</key>
-			<value>UI Size</value>
+			<value>Kích thướcUI</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1053</key>
-			<value>Auto</value>
+			<value>Tự động</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1054</key>
-			<value>Regular</value>
+			<value>Thường</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1055</key>
-			<value>Large</value>
+			<value>Lớn</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1194</key>
-			<value>Auto: Size is automatically determined by Language and Platform.\\nRegular/Large: Size is manually locked to the selected option.</value>
+			<value>Tự động: Kích thước được quyết định bởi Ngôn ngữ và Nền tảng.\\nThường/Lớn: Kích thước được đặt cố định theo lựa chọn.</value>
 		</TranslationTableEntryUI>
 	</table_ui>
 </TranslationTable_XML>
