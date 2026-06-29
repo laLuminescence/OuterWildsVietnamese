@@ -46,7 +46,7 @@
 	</entry>
 	<entry>
 		<key>CLARY: No, but Poke was apprenticed to Annona, who created the original design, and our &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; is adept at crafting simpler cores.</key>
-		<value>CLARY: Không hẳn, Poke đã từng là học trò của Annona, người tạo ra thiết kế nguyên bản, và &lt;color=orange&gt;Lò Luyện Hố Đen&lt;/color&gt; của chúng ta đã chế tác thuần thục những loại lõi đơn giản hơn.</value>
+		<value>CLARY: Không hẳn, Poke đã từng là học trò của thầy Annona, người đã sáng tạo ra thiết kế nguyên bản, và &lt;color=orange&gt;Lò Luyện Hố Đen&lt;/color&gt; của chúng ta đã chế tác thuần thục những loại lõi đơn giản hơn.</value>
 	</entry>
 	<entry>
 		<key>POKE: I believe I can be of use here! The &lt;color=orange&gt;Vessel&lt;/color&gt;’s warp core was created before my time, but Annona explained many of his designs to me.</key>
@@ -254,7 +254,7 @@
 	</entry>
 	<entry>
 		<key>PLUME: Use caution! A black hole sleeps below. You must not slip.</key>
-		<value>PLUME: Cẩn thận! Bên dưới có một hố đen không hoạt động. Mọi người không được sẩy chân.</value>
+		<value>PLUME: Cẩn thận! Bên dưới có một hố đen. Mọi người không được sẩy chân.</value>
 	</entry>
 	<entry>
 		<key>Emergency escape hatch</key>
@@ -273,7 +273,7 @@
 			Launching &lt;color=orange&gt;Escape Pod 3&lt;/color&gt;... Launching &lt;color=orange&gt;Escape Pod 2&lt;/color&gt;... Now launching &lt;color=orange&gt;Escape Pod 1&lt;/color&gt;.
 		</key>
 		<value>
-			Đang chờ phóng &lt;color=orange&gt;Kén Thoát Hiểm 3&lt;/color&gt;... Đang chờ phóng &lt;color=orange&gt;Kén Thoát Hiểm 2&lt;/color&gt;... Chuẩn bị phóng &lt;color=orange&gt;Kén Thoát Hiểm 1&lt;/color&gt;.
+			Đang phóng &lt;color=orange&gt;Kén Thoát Hiểm 3&lt;/color&gt;... Đang phóng &lt;color=orange&gt;Kén Thoát Hiểm 2&lt;/color&gt;... Chuẩn bị phóng &lt;color=orange&gt;Kén Thoát Hiểm 1&lt;/color&gt;.
 		</value>
 	</entry>
 	<entry>
@@ -491,7 +491,7 @@
 			FILIX: I’ve also heard the same signal this shard produces calling out from &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;,&lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;, and the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt;. Suppose there are other shards like this one!
 		</key>
 		<value>
-			FILIX: I’ve also heard the same signal this shard produces calling out from &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;,&lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;, and the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt;. Suppose there are other shards like this one!
+			FILIX: Tôi cũng đã dò được tín hiệu tương tự từ &lt;color=lightblue&gt;Đại Dương Khổng Lồ&lt;/color&gt;, &lt;color=lightblue&gt;Rừng Thông Tổ Ấm&lt;/color&gt;, và &lt;color=lightblue&gt;Song Tinh Đồng Hồ Cát&lt;/color&gt;. Có lẽ ở đó cũng có những mảnh đá khác tương tự như thế này!
 		</value>
 	</entry>
 	<entry>
@@ -528,7 +528,7 @@
 	</entry>
 	<entry>
 		<key>BELLS: Be welcomed in this place! Above you stands the &lt;color=orange&gt;Tower of Quantum Knowledge&lt;/color&gt;.</key>
-		<value>BELLS: Chào mừng em tới đây! Phía trên em chính là &lt;color=orange&gt;Tháp Kiến Thức Lượng Tử&lt;/color&gt;.</value>
+		<value>BELLS: Chào mừng em tới đây! Phía trên em chính là &lt;color=orange&gt;Tháp Tri Thức Lượng Tử&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>BELLS: If you are making your first pilgrimage to the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, ascend these stairs, and obtain the last of the knowledge you need for your journey.</key>
@@ -539,7 +539,7 @@
 			BELLS: Beneath your feet lies the &lt;color=orange&gt;Tower of Quantum Knowledge&lt;/color&gt;.
 		</key>
 		<value>
-			BELLS: Bên dưới chân em chính là &lt;color=orange&gt;Tháp Kiến Thức Lượng Tử&lt;/color&gt;.
+			BELLS: Bên dưới chân em chính là &lt;color=orange&gt;Tháp Tri Thức Lượng Tử&lt;/color&gt;.
 		</value>
 	</entry>
 	<entry>
@@ -735,7 +735,7 @@
 			RHUS: Keep moving, friends: There is nothing of interest at the end of this passage but rocks.
 		</key>
 		<value>
-			RHUS: Xin hãy đi tiếp: Vì ở cuối con đường này chẳng có gì thú vị ngoài mấy hòn đá.
+			RHUS: Xin hãy bỏ qua: Vì ở cuối con đường này chẳng có gì thú vị ngoài mấy hòn đá.
 		</value>
 	</entry>
 	<entry>
@@ -1612,7 +1612,7 @@
 	</entry>
 	<entry>
 		<key>PYE: The &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; will be one of our biggest undertakings (metaphorically &lt;i&gt;and&lt;/i&gt; physically). To build it, we need a way to travel quickly between &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; and each location that holds crucial project materials.</key>
-		<value>PYE: &lt;color=orange&gt;Dự Án Song Tinh Tro Tàn&lt;/color&gt; sẽ là một trong những công trình lớn nhất của chúng ta (về mặt ý nghĩa &lt;i&gt;lẫn&lt;/i&gt; quy mô vật lý). Để có thể xây dựng, ta cần tìm cách để di chuyển nhanh chóng giữa &lt;color=lightblue&gt;Song Tinh Tro Tàn&lt;/color&gt; và những địa điểm nắm giữ vật liệu quan trọng tới dự án.</value>
+		<value>PYE: &lt;color=orange&gt;Dự Án Song Tinh Tro Tàn&lt;/color&gt; sẽ là một trong những công trình vĩ đại nhất của chúng ta (cả về mặt ý nghĩa &lt;i&gt;lẫn&lt;/i&gt; quy mô vật lý). Để có thể xây dựng, ta cần tìm cách để di chuyển nhanh chóng giữa &lt;color=lightblue&gt;Song Tinh Tro Tàn&lt;/color&gt; và những địa điểm nắm giữ các nguyên vật liệu quan trọng tới dự án.</value>
 	</entry>
 	<entry>
 		<key>ROOT: What if we used warp towers (like the one we have on the &lt;color=orange&gt;White Hole Station&lt;/color&gt;) to connect &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; directly to each critical location?</key>
@@ -1764,7 +1764,7 @@
 	</entry>
 	<entry>
 		<key>Gabbro</key>
-		<value>Gabbro</value>
+		<value>Anh Gabbro</value>
 	</entry>
 	<entry>
 		<key>MeetGabbro3FNice, it’s you. Good to see you made it here in one piece. The first solo launch is a doozy, isn’t it?</key>
@@ -2656,7 +2656,7 @@
 	</entry>
 	<entry>
 		<key>Slate</key>
-		<value>Slate</value>
+		<value>Bác Slate</value>
 	</entry>
 	<entry>
 		<key>Scientist1AThere’s our pilot! Back from your pre-launch campout under the stars, I see.</key>
@@ -2904,7 +2904,7 @@
 	</entry>
 	<entry>
 		<key>ScientistAnswer38Use your scout to detect it, you dumb idiot! Did you think I made that just so you could take pretty little pictures of trees? It has multiple uses!</key>
-		<value>Phải dùng thiết bị trinh sát của mình để thăm dò chứ, cái thằng ngốc này! Nhóc nghĩ ta làm ra thứ đó chỉ để cho nhóc chụp ảnh mấy cái cây à? Nó có nhiều chức năng lắm chứ!</value>
+		<value>Phải biết dùng thiết bị trinh sát của mình để thăm dò chứ, cái thằng ngốc này! Nhóc nghĩ ta làm ra thứ đó chỉ để cho nhóc chụp ảnh mấy cái cây à? Nó có nhiều chức năng lắm chứ!</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer38You &lt;i&gt;do&lt;/i&gt; know you can use it as a light source, right? Stars above, please tell me you knew that.</key>
@@ -3008,7 +3008,7 @@
 	</entry>
 	<entry>
 		<key>
-			WARNING: Increased solar activity detected.
+		    WARNING: Increased solar activity detected.
 		</key>
 		<value>
 			CẢNH BÁO: Phát hiện hoạt động bức xạ mặt trời tăng cường.
@@ -3016,7 +3016,7 @@
 	</entry>
 	<entry>
 		<key>
-			WARNING: Increased volcanic activity detected.
+		    WARNING: Increased volcanic activity detected.
 		</key>
 		<value>
 			CẢNH BÁO: Phát hiện hoạt động núi lửa tăng cường.
@@ -3024,7 +3024,7 @@
 	</entry>
 	<entry>
 		<key>
-			VERDICT: Location is now inhospitable. Evacuation recommended.
+		    VERDICT: Location is now inhospitable. Evacuation recommended.
 		</key>
 		<value>
 			CHẨN ĐOÁN: Địa điểm không còn thuận lợi để sinh sống. Đề nghị sơ tán.
@@ -3040,7 +3040,7 @@
 	</entry>
 	<entry>
 		<key>Feldspar</key>
-		<value>Feldspar</value>
+		<value>Bác Feldspar</value>
 	</entry>
 	<entry>
 		<key>Feldspar1Whoa!</key>
@@ -4128,15 +4128,15 @@
 	</entry>
 	<entry>
 		<key>PYE: My pun was unintended, Ramie, so I believe it’s you who’s aeriform!</key>
-		<value>PYE: Tôi có cố tình chơi chữ đâu Ramie, nên có khi chính anh mới là kẻ bay bổng ở đây ấy!</value>
+		<value>PYE: Tôi có cố tình chơi chữ đâu Ramie, nên có khi chính cô mới là kẻ bay bổng ở đây ấy!</value>
 	</entry>
 	<entry>
 		<key>PYE: Records show Nomai arriving at the warp receiver on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; very slightly before departing from the &lt;color=orange&gt;White Hole Station&lt;/color&gt;. Ramie and I are devising an experiment to test if this is a real phenomenon or simple machine error.</key>
-		<value>PYE: Các bản ghi cho thấy mọi người xuất hiện tại cổng dịch chuyển đích trên &lt;color=lightblue&gt;Vỏ Rỗng Rạn Nứt&lt;/color&gt; một khoảnh khắc nhỏ trước khi rời khỏi &lt;color=orange&gt;Trạm Hố Trắng&lt;/color&gt;. Ramie và tôi đang thực hiện thí nghiệm để kiểm chứng xem đây là một hiện tượng thực tế hay chỉ là sai sót máy móc đơn thuần.</value>
+		<value>PYE: Các bản ghi cho thấy người dịch chuyển xuất hiện tại cổng đích trên &lt;color=lightblue&gt;Vỏ Rỗng Rạn Nứt&lt;/color&gt; một khoảnh khắc nhỏ trước khi rời khỏi &lt;color=orange&gt;Trạm Hố Trắng&lt;/color&gt;. Ramie và tôi đang thực hiện thí nghiệm để kiểm chứng xem đây là một hiện tượng thực tế hay chỉ là sai sót máy móc đơn thuần.</value>
 	</entry>
 	<entry>
 		<key>RAMIE: In theory, what we want to try to reproduce is a negative amount of time elapsing between something entering the black hole and exiting the white hole at its destination.</key>
-		<value>RAMIE: Về mặt lý thuyết, điều chúng tôi muốn thực hiện là tạo ra một khoảng thời gian âm giữa thời điểm một thứ gì đó đi vào hố đen và thời điểm thứ đó thoát ra khỏi hố trắng.</value>
+		<value>RAMIE: Về mặt lý thuyết, điều chúng tôi muốn thực hiện là tái tạo khoảng thời gian âm giữa thời điểm một thứ gì đó đi vào hố đen và thời điểm thứ đó thoát ra khỏi hố trắng.</value>
 	</entry>
 	<entry>
 		<key>PYE: Initial things first: Our experiment setup will first pair a small black hole core with a small white hole core to mimic the setup on the &lt;color=orange&gt;White Hole Station&lt;/color&gt;.</key>
@@ -4656,7 +4656,7 @@
 	</entry>
 	<entry>
 		<key>RAMIE: I imagine our otherwise immensely clever Conoy would lose his own head if it weren’t anatomically impossible!</key>
-		<value>RAMIE: Tôi nghĩ anh bạn Conoy của chúng ta sẽ có ngày làm thất lạc cả cái đầu thông minh xuất chúng của mình, nếu chuyện này không bất khả thi về mặt giải phẫu học!</value>
+		<value>RAMIE: Tôi nghĩ anh bạn Conoy của chúng ta sẽ có ngày làm mất cả cái đầu thông minh xuất chúng của mình đấy, nếu chuyện này không phải bất khả thi về mặt giải phẫu học!</value>
 	</entry>
 	<entry>
 		<key>The &lt;color=orange&gt;shuttle&lt;/color&gt; is currently resting at the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;.</key>
@@ -4803,7 +4803,7 @@
 			SOLANUM: I no longer believe, as I did as a child on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;, that the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt; (the source of the signal) wishes to harm us. But it may not want to be found, either.
 		</key>
 		<value>
-			SOLANUM: Giờ mình chẳng còn thấy lo, như khi mình còn là một đứa trẻ trên &lt;color=lightblue&gt;Song Tinh Than Hồng&lt;/color&gt; đã từng sợ hãi, rằng &lt;color=lightblue&gt;Con Mắt Vũ Trụ&lt;/color&gt; (nguồn phát tín hiệu) lại muốn làm hại chúng ta. Nhưng có lẽ nó cũng không muốn được chúng ta tìm thấy.
+			SOLANUM: Giờ mình chẳng còn lo lắng, như khi mình còn là một đứa trẻ trên &lt;color=lightblue&gt;Song Tinh Than Hồng&lt;/color&gt; đã từng sợ hãi, rằng &lt;color=lightblue&gt;Con Mắt Vũ Trụ&lt;/color&gt; (nguồn phát tín hiệu) lại muốn làm hại chúng ta. Nhưng có lẽ nó cũng không muốn được chúng ta tìm thấy.
 		</value>
 	</entry>
 	<entry>
@@ -4904,7 +4904,7 @@
 	</entry>
 	<entry>
 		<key>
-			ILEX: It would also help if we stopped building so many things to search for the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;. I asked Yarrow, and he says we use lots of resources on the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;.
+			 ILEX: It would also help if we stopped building so many things to search for the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;. I asked Yarrow, and he says we use lots of resources on the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;.
 		</key>
 		<value>
 			ILEX: Việc cũng sẽ dễ hơn nhiều nếu ta dừng sứ mệnh tìm kiếm &lt;color=lightblue&gt;Con Mắt Vũ Trụ&lt;/color&gt; lại. Tớ từng hỏi chú Yarrow rồi, và chú ấy nói rằng chúng ta đang tiêu tốn rất nhiều tài nguyên vào &lt;color=orange&gt;Dự Án Song Tinh Tro Tàn&lt;/color&gt;.
@@ -5076,7 +5076,7 @@
 	</entry>
 	<entry>
 		<key>PLUME: I agree. We’re here because the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal called to us and we followed. If we’re to find it, we need to not merely survive, but thrive.</key>
-		<value>PLUME: Tôi đồng ý. Chúng ta tới đây theo tín hiệu của &lt;color=lightblue&gt;Con Mắt&lt;/color&gt;. Nếu muốn tìm ra nó, ta sẽ không những chỉ sinh tồn, mà còn phải phát triển được nữa.</value>
+		<value>PLUME: Tôi đồng ý. Chúng ta tới đây theo tín hiệu của &lt;color=lightblue&gt;Con Mắt&lt;/color&gt;. Nếu muốn tìm ra nó, chỉ sinh tồn thôi là chưa đủ, mà chúng ta còn phải phát triển được nữa.</value>
 	</entry>
 	<entry>
 		<key>PLUME: I believe we should migrate to the northern glacier.</key>
@@ -5108,7 +5108,7 @@
 	</entry>
 	<entry>
 		<key>PLUME: I’m interested in your playful moon. Is it much like its violent friend (&lt;color=lightblue&gt;Hollow’s Lantern&lt;/color&gt;)?</key>
-		<value>PLUME: Tôi có hứng thú với chiếc mặt trăng tinh nghịch này rồi đấy. Liệu nó có giống như ông bạn hung tợn không nhỉ (&lt;color=lightblue&gt;Lồng Đèn Lơ Lửng&lt;/color&gt; ấy)?</value>
+		<value>PLUME: Tôi có hứng thú với chiếc mặt trăng tinh nghịch này rồi đấy. Liệu nó có giống gã hàng xóm hung tợn không nhỉ (&lt;color=lightblue&gt;Lồng Đèn Lơ Lửng&lt;/color&gt; ấy)?</value>
 	</entry>
 	<entry>
 		<key>THATCH: Imagine if there were &lt;i&gt;two&lt;/i&gt; volcanic moons.</key>
@@ -5304,24 +5304,21 @@
 	</entry>
 	<entry>
 		<key>
-			2: &lt;color=orange&gt;Stepping Stone District&lt;/color&gt;
-		</key>
+			2: &lt;color=orange&gt;Stepping Stone District&lt;/color&gt;</key>
 		<value>
 			2: Hang Đá Bậc Thang
 		</value>
 	</entry>
 	<entry>
 		<key>
-			3: &lt;color=orange&gt;Anglerfish Overlook District&lt;/color&gt;
-		</key>
+			3: &lt;color=orange&gt;Anglerfish Overlook District&lt;/color&gt;</key>
 		<value>
 			3: Sảnh Quan Sát Cá Cần Câu
 		</value>
 	</entry>
 	<entry>
 		<key>
-			4: &lt;color=orange&gt;Eye Shrine District&lt;/color&gt;
-		</key>
+			4: &lt;color=orange&gt;Eye Shrine District&lt;/color&gt;</key>
 		<value>
 			4: Điện Thờ Con Mắt
 		</value>
@@ -5347,7 +5344,7 @@
 			BEGIN FLIGHTLOG: &lt;color=orange&gt;Escape Pod 2&lt;/color&gt;. &lt;color=orange&gt;Vessel&lt;/color&gt; has been mortally injured. Emergency sequence activated. Awaiting departure from &lt;color=orange&gt;Vessel&lt;/color&gt;.
 		</key>
 		<value>
-			BẮT ĐẦU NHẬT TRÌNH: &lt;color=orange&gt;Kén Thoát Hiểm 2&lt;/color&gt;. &lt;color=orange&gt;Phi Thuyền Mẹ&lt;/color&gt; đã hư hại nghiêm trọng. đã hư hại nghiêm trọng. Kích hoạt tiến trình thoát hiểm. Chờ lệnh thoát khỏi &lt;color=orange&gt;Phi Thuyền Mẹ&lt;/color&gt;.
+			BẮT ĐẦU NHẬT TRÌNH: &lt;color=orange&gt;Kén Thoát Hiểm 2&lt;/color&gt;. &lt;color=orange&gt;Phi Thuyền Mẹ&lt;/color&gt; đã hư hại nghiêm trọng. Kích hoạt tiến trình thoát hiểm. Chờ lệnh thoát khỏi &lt;color=orange&gt;Phi Thuyền Mẹ&lt;/color&gt;.
 		</value>
 	</entry>
 	<entry>
@@ -5355,7 +5352,7 @@
 			Launching &lt;color=orange&gt;Escape Pod 3&lt;/color&gt;... Now launching &lt;color=orange&gt;Escape Pod 2&lt;/color&gt;.
 		</key>
 		<value>
-			Đang chờ phóng &lt;color=orange&gt;Kén Thoát Hiểm 3&lt;/color&gt;... Chuẩn bị phóng &lt;color=orange&gt;Kén Thoát Hiểm 2&lt;/color&gt;.
+			Đang phóng &lt;color=orange&gt;Kén Thoát Hiểm 3&lt;/color&gt;... Chuẩn bị phóng &lt;color=orange&gt;Kén Thoát Hiểm 2&lt;/color&gt;.
 		</value>
 	</entry>
 	<entry>
@@ -5397,7 +5394,7 @@
 			COLEUS: We both agree it’s unlikely this dry planet is this horror’s place of origin (especially considering what we observed during the &lt;color=orange&gt;Vessel&lt;/color&gt;’s evacuation).
 		</key>
 		<value>
-			COLEUS: Chúng tôi đều công nhận rằng hành tinh khô cạn này không thể nào là nơi sinh sống của con thủy quái gớm ghiếc kia (đặc biệt theo như những quan sát của chúng ta trong quá trình sơ tán khỏi&lt;color=orange&gt;Phi Thuyền Mẹ&lt;/color&gt;).
+			COLEUS: Chúng tôi đều công nhận rằng hành tinh khô cạn này không thể nào là nơi sinh sống của con thủy quái gớm ghiếc kia (đặc biệt theo như những quan sát của chúng ta trong quá trình sơ tán khỏi &lt;color=orange&gt;Phi Thuyền Mẹ&lt;/color&gt;).
 		</value>
 	</entry>
 	<entry>
@@ -6000,7 +5997,7 @@
 			YARROW: My gratitude, Clary! With this, the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; is underway!
 		</key>
 		<value>
-			YARROW: Cảm ơn nhé, Clary yêu! Vậy là &lt;color=orange&gt;Dự Án Song Tinh Tro Tàn&lt;/color&gt; đang tiến triển tốt rồi!
+			YARROW: Cảm ơn nhé, Clary yêu! Vậy là &lt;color=orange&gt;Dự Án Song Tinh Tro Tàn&lt;/color&gt; đang tiến triển tốt!
 		</value>
 	</entry>
 	<entry>
@@ -6024,7 +6021,7 @@
 			YARROW: I suppose, more precisely, I would like to visit the &lt;color=orange&gt;White Hole Station&lt;/color&gt; with &lt;i&gt;you&lt;/i&gt;, Clary.
 		</key>
 		<value>
-			YARROW: Chính xác hơn, anh muốn ghé qua &lt;color=orange&gt;Trạm Hố Trắng&lt;/color&gt; với &lt;i&gt;em&lt;/i&gt;, Clary ạ.
+			YARROW: Chính xác hơn, là anh muốn ghé qua &lt;color=orange&gt;Trạm Hố Trắng&lt;/color&gt; với &lt;i&gt;em&lt;/i&gt; đó, Clary ạ.
 		</value>
 	</entry>
 	<entry>
@@ -6040,12 +6037,12 @@
 			POKE: Yarrow, stop using this scroll wall to flirt with my sister (in romantic matters, her density rivals a neutron star’s) and go meet her on the &lt;color=orange&gt;White Hole Station&lt;/color&gt;.
 		</key>
 		<value>
-			POKE: Anh Yarrow này, xin hãy ngưng dùng cuộn chữ này để chim chuột với chị tôi (về chuyện tình cảm, chị ấy dốt đặc như một vì sao neutron) và tới gặp chị ấy ở &lt;color=orange&gt;Trạm Hố Trắng&lt;/color&gt; giùm.
+			POKE: Anh Yarrow này, xin hãy ngưng dùng cuộn chữ này để chim chuột với chị tôi (về chuyện tình cảm, chị ta dốt đặc như một vì sao neutron) và tới gặp chị ấy ở &lt;color=orange&gt;Trạm Hố Trắng&lt;/color&gt; giùm.
 		</value>
 	</entry>
 	<entry>
 		<key>CLARY: To our friends on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;: I just warped here from the &lt;color=orange&gt;White Hole Station&lt;/color&gt; (on the other side of &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;’s black hole)! Our design worked; we’ve successfully recreated warp travel!</key>
-		<value>CLARY: Gửi tới mọi người trên &lt;color=lightblue&gt;Vỏ Rỗng Rạn Nứt&lt;/color&gt;: Tôi vừa mới dịch chuyển tới đây từ &lt;color=orange&gt;Trạm Hố Trắng&lt;/color&gt; (nằm ở phía bên kia của lỗ đen tại &lt;color=lightblue&gt;Vỏ Rỗng Rạn Nứt&lt;/color&gt;)! Thiết kế của chúng tôi đã thành công; và chúng ta đã tái tạo được du hành dịch chuyển!</value>
+		<value>CLARY: Gửi tới mọi người trên &lt;color=lightblue&gt;Vỏ Rỗng Rạn Nứt&lt;/color&gt;: Tôi vừa mới dịch chuyển tới đây từ &lt;color=orange&gt;Trạm Hố Trắng&lt;/color&gt; (nằm ở phía bên kia của lỗ đen tại &lt;color=lightblue&gt;Vỏ Rỗng Rạn Nứt&lt;/color&gt;)! Thiết kế của chúng tôi đã thành công; và chúng ta đã tái tạo được công nghệ dịch chuyển!</value>
 	</entry>
 	<entry>
 		<key>FILIX: This is wonderful news! I can’t wait to see the warp tower (although it’s been a long time since I’ve jumped through a black hole!).</key>
@@ -6088,7 +6085,7 @@
 			RAMIE: The interval is incredibly miniscule (roughly one hundred-thousandth of a second). Do you suppose our instruments can’t accurately measure time to such a small degree?
 		</key>
 		<value>
-			RAMIE: Khoảng thời gian chênh lệch nhỏ đến li ti (khoảng một phần trăm ngàn giây). Vậy nên cô cho rằng thiết bị của chúng ta không thể đo được chính xác độ chia nhỏ tới vậy?
+			RAMIE: Khoảng thời gian chênh lệch nhỏ đến li ti (khoảng một phần trăm ngàn giây). Em có nghĩ rằng thiết bị của chúng ta không thể nào đo được chính xác độ chia nhỏ tới vậy không?
 		</value>
 	</entry>
 	<entry>
@@ -6104,7 +6101,7 @@
 			POKE: I don’t disagree. It &lt;i&gt;would&lt;/i&gt; mean I’ve inadvertently broken several fundamental theories regarding this universe. We would have to reconsider all of our beliefs about the nature of time.
 		</key>
 		<value>
-			POKE: Em cũng không phủ nhận đâu. Làm vậy khác gì em đã vô tình phá vỡ vài lý thuyết cơ bản của vũ trụ này. Và ta cũng sẽ phải xem xét lại toàn bộ kiến thức của mình về bản chất của thời gian.
+			POKE: Em cũng không phủ nhận đâu. Làm vậy khác gì em đã vô tình phá vỡ cả mớ lý thuyết cơ bản về vũ trụ này. Và ta cũng sẽ phải xem xét lại toàn bộ kiến thức của mình về bản chất của thời gian.
 		</value>
 	</entry>
 	<entry>
@@ -6112,7 +6109,7 @@
 			RAMIE: Yes, I hope so, too!
 		</key>
 		<value>
-			RAMIE: Ừ, tôi cũng mong vậy!
+			RAMIE: Ừ, chị cũng mong vậy!
 		</value>
 	</entry>
 	<entry>
@@ -6120,7 +6117,7 @@
 			RAMIE: Poke, as Pye is confident the reading is inaccurate, she’s kindly helping me attempt to recreate this phenomenon at the &lt;color=orange&gt;High Energy Lab&lt;/color&gt;. We’re designing an experiment to take more data.
 		</key>
 		<value>
-			RAMIE: Poke, vì Pye rất tự tin rằng kết quả đo không chính xác, nên cô ấy sẽ cùng anh thử tái tạo hiện tượng này tại &lt;color=orange&gt;Phòng Thí Nghiệm Năng Lượng Cao&lt;/color&gt;. Chúng tôi đang thiết kế một cuộc thí nghiệm để thu thêm dữ liệu.
+			RAMIE: Poke, vì Pye rất tự tin rằng kết quả đo không chính xác, nên cô ấy sẽ cùng chị thử tái tạo hiện tượng này tại &lt;color=orange&gt;Phòng Thí Nghiệm Năng Lượng Cao&lt;/color&gt;. Bọn chị đang thiết kế một bài thí nghiệm để thu thập thêm dữ liệu.
 		</value>
 	</entry>
 	<entry>
@@ -6253,7 +6250,7 @@
 	</entry>
 	<entry>
 		<key>Gneiss</key>
-		<value>Gneiss</value>
+		<value>Bác Gneiss</value>
 	</entry>
 	<entry>
 		<key>Gneiss1Hello there, space cadet! I hear you’re leaving the crater today.</key>
@@ -6341,7 +6338,7 @@
 	</entry>
 	<entry>
 		<key>Gossan</key>
-		<value>Gossan</value>
+		<value>Bác Gossan</value>
 	</entry>
 	<entry>
 		<key>Coach1Hey, I thought I might see you before the big launch.</key>
@@ -6713,7 +6710,7 @@
 	</entry>
 	<entry>
 		<key>Porphy</key>
-		<value>Porphy</value>
+		<value>Bác Porphy</value>
 	</entry>
 	<entry>
 		<key>SapWineMaker1Heyo, hatchling!</key>
@@ -6825,7 +6822,7 @@
 	</entry>
 	<entry>
 		<key>RiebecksJournalHurgh. Well. That was... deeply unpleasant. I made it this far, though. Guess that’s the part to focus on, and not how I’ll eventually have to get back &lt;i&gt;up&lt;/i&gt; that path.</key>
-		<value>Hự. Thật là... khó chịu quá đi. Nhưng mình cũng đã đi được rất xa. Chắc mình nên chú ý đến việc đó, chứ không phải việc sẽ tìm đường trở lại phía trên như thế nào.</value>
+		<value>Hự. Thật là... khó chịu quá đi. Nhưng mình cũng đã đi được rất xa. Chắc mình nên tập trung vào điều đó, hơn là việc sẽ tìm đường trở lại phía trên như thế nào.</value>
 	</entry>
 	<entry>
 		<key>RiebecksJournalBut wow, this place sure is something! Looks like the Hanging City is north from here. And east is a gravity cannon! I &lt;i&gt;definitely&lt;/i&gt; want to see that.</key>
@@ -6877,7 +6874,7 @@
 	</entry>
 	<entry>
 		<key>Rutile</key>
-		<value>Rutile</value>
+		<value>Bác Rutile</value>
 	</entry>
 	<entry>
 		<key>Mayor1You’re actually blasting off in that thing, huh?</key>
@@ -6885,7 +6882,7 @@
 	</entry>
 	<entry>
 		<key>RutileMayor1They really don’t explode as often anymore.</key>
-		<value>Giờ phi thuyền không hay nổ tung như ngày xưa nữa đâu ạ.</value>
+		<value>Giờ phi thuyền không còn phát nổ như ngày xưa nữa đâu ạ.</value>
 	</entry>
 	<entry>
 		<key>RutileMayor1I’m told my odds of survival are statistically quite high.</key>
@@ -6893,7 +6890,7 @@
 	</entry>
 	<entry>
 		<key>SkepticAnswer1All I know is between the space program and Mica’s model rockets, things seem to burn to the ground around here more than they used to.</key>
-		<value>Ta chỉ thấy chương trình không gian và mấy cái mô hình tên lửa của Mica hình như đốt cháy mặt đất nhiều hơn ngày trước.</value>
+		<value>Ta chỉ thấy chương trình không gian và mấy cái mô hình tên lửa của Mica dường như đốt cháy mặt đất nhiều hơn ngày trước.</value>
 	</entry>
 	<entry>
 		<key>SkepticAnswer2Yeah, the space program’s certainly come a long way. I should probably thank you for causing fewer flash fires than your predecessors.</key>
@@ -6973,15 +6970,15 @@
 	</entry>
 	<entry>
 		<key>Spinel</key>
-		<value>Spinel</value>
+		<value>Bác Spinel</value>
 	</entry>
 	<entry>
 		<key>Spinel1Fishing rhyme, fishing rhyme... Singing helps me pass the time.</key>
-		<value>Câu ca, câu cá... Ta hát cho thời giờ qua mau.</value>
+		<value>Câu ca, câu cá... Ta hát cho thời giờ mau qua.</value>
 	</entry>
 	<entry>
 		<key>Spinel1You’re leaving the crater? Guess we’ll all be a little busier without you around to lend a hand.</key>
-		<value>Nhóc sắp rời làng hử? Vậy là chúng ta ai cũng sẽ bận rộn hơn một chút khi không còn nhóc ở đây để giúp rồi.</value>
+		<value>Nhóc sắp rời làng hử? Vậy là bọn ta ai cũng sẽ bận rộn hơn một chút khi không còn nhóc ở đây để giúp rồi.</value>
 	</entry>
 	<entry>
 		<key>Spinel1That big water planet, Giant’s Deep - that’s where I’d go.</key>
@@ -7121,7 +7118,7 @@
 	</entry>
 	<entry>
 		<key>Spinel15Fishing tune, fishing tune... uh... yeah, I didn’t think this one through at all.</key>
-		<value>Khúc cá, khúc ca... ờ... ờ, vần này ta vẫn chưa nghĩ ra.</value>
+		<value>Khúc ca, khúc cá... ờ... ờ, vần này ta vẫn chưa nghĩ ra.</value>
 	</entry>
 	<entry>
 		<key>Tektite</key>
@@ -7133,7 +7130,7 @@
 	</entry>
 	<entry>
 		<key>Intro1Me? I was using the old scout launcher and saw smoke in one of the photos, so I thought I’d come over here myself and take a look.</key>
-		<value>Còn ta hả? Ta thấy có một thiên thạch rơi xuống ở xa và không thích thứ trong ảnh mà Thiết Bị Trinh Sát chụp được, nên ta tới tận nơi để kiểm tra.</value>
+		<value>Còn ta hả? Ta thấy có một thiên thạch rơi xuống ở phía xa và không thích thứ trong ảnh mà Thiết Bị Trinh Sát chụp được, nên ta tới tận nơi để kiểm tra.</value>
 	</entry>
 	<entry>
 		<key>TektiteIntro1So what crashed?</key>
@@ -7145,7 +7142,7 @@
 	</entry>
 	<entry>
 		<key>Intro2You again, eh, hatchling? Thought I heard you lift off earlier. What’re you still doing on Timber Hearth?</key>
-		<value>Lại là nhóc hả, nhóc con này? Tưởng nãy ta nghe thấy tiếng nhóc cất cánh rồi cơ mà. Nhóc còn làm gì trên Rừng Thông Tổ Ấm vậy?</value>
+		<value>Vẫn ở đây hả, nhóc con này? Tưởng nãy ta nghe thấy tiếng phi thuyền của nhóc cất cánh rồi cơ mà. Nhóc còn làm gì trên Rừng Thông Tổ Ấm vậy?</value>
 	</entry>
 	<entry>
 		<key>Intro2Me? I’m out here to see what it was I saw crash over this way. That, and make sure nothing’s on fire.</key>
@@ -7161,11 +7158,11 @@
 	</entry>
 	<entry>
 		<key>Intro3You again, eh, hatchling? Thought I heard you lift off earlier. What’re you still doing on Timber Hearth?</key>
-		<value>Lại là nhóc hả, nhóc con này? Tưởng nãy ta nghe thấy tiếng nhóc cất cánh rồi cơ mà. Nhóc còn làm gì trên Rừng Thông Tổ Ấm vậy?</value>
+		<value>Vẫn ở đây hả, nhóc con này? Tưởng nãy ta nghe thấy tiếng phi thuyền của nhóc cất cánh rồi cơ mà. Nhóc còn làm gì trên Rừng Thông Tổ Ấm vậy?</value>
 	</entry>
 	<entry>
 		<key>Intro3Me? That Scout photo you took earlier showed smoke, so I came over to check for fires, remember?</key>
-		<value>Ta hả? Ta thấy tấm ảnh nhóc chụp bằng Thiết bị Trinh sát khi nãy có khói, nên ta tới để kiểm tra xem có hỏa hoạn không, nhớ chứ?</value>
+		<value>Ta hả? Ta thấy tấm ảnh nhóc chụp bằng Thiết Bị Trinh Sát khi nãy có khói, nên ta tới để kiểm tra xem có hỏa hoạn không, nhớ chứ?</value>
 	</entry>
 	<entry>
 		<key>TektiteIntro3So what crashed?</key>
@@ -7209,7 +7206,7 @@
 	</entry>
 	<entry>
 		<key>Tektite4Blasted seed did a lot of damage when it crashed. I liked this crater.</key>
-		<value>Cái hạt này đáp xuống cũng khiếp đấy. Ta thích cái hố này.</value>
+		<value>Cái hạt này khi đáp xuống cũng khủng khiếp đấy. Ta thích cái hố này.</value>
 	</entry>
 	<entry>
 		<key>Tektite4Need something from me, hatchling?</key>
@@ -7781,7 +7778,7 @@
 	</entry>
 	<entry>
 		<key>SignThis pilot seat, used by pioneering astronaut Feldspar, is all that remains of our inaugural flight into space.</key>
-		<value>Chiếc ghế lái này, được sử dụng bởi phi hành gia tiên phong Feldspar, là hiện vật duy nhất còn lại sau chuyến bay lên vũ trụ đầu tiên của chúng ta.</value>
+		<value>Chiếc ghế lái này, được sử dụng bởi phi hành gia tiên phong Feldspar, là hiện vật duy nhất còn nguyên vẹn sau chuyến bay lên vũ trụ đầu tiên của chúng ta.</value>
 	</entry>
 	<entry>
 		<key>SignAlthough it’s been argued such a distinction requires a breathtakingly liberal definition of flight, that day will nevertheless always be remembered as landmark achievement in Hearthian history.</key>
@@ -7829,7 +7826,7 @@
 	</entry>
 	<entry>
 		<key>Riebeck</key>
-		<value>Riebeck</value>
+		<value>Anh Riebeck</value>
 	</entry>
 	<entry>
 		<key>Riebeck0Oh, you launched! That’s great. Great job, you.</key>
@@ -7913,7 +7910,7 @@
 	</entry>
 	<entry>
 		<key>RiebeckArcheologistOr, um, &lt;i&gt;the&lt;/i&gt; archeologist, I guess. Seeing as I’m all Timber Hearth’s got right now.</key>
-		<value>Hoặc có thể nói là, ờ, nhà khảo cổ học &lt;i&gt;duy nhất&lt;/i&gt;, chắc thế. Cả làng Rừng Thông có mỗi mình tôi làm vậy thôi.</value>
+		<value>Hoặc có thể nói là, ờ, nhà khảo cổ học &lt;i&gt;duy nhất&lt;/i&gt;, chắc thế. Cả làng Rừng Thông có mỗi mình tôi làm cái nghề này.</value>
 	</entry>
 	<entry>
 		<key>RiebeckArcheologistBrittle Hollow is rich with Nomai history. That’s why I’m here. This planet is an absolute treasure trove of culture, history, and science.</key>
@@ -7921,19 +7918,19 @@
 	</entry>
 	<entry>
 		<key>RiebeckArcheologistIf you have any questions about the Brittle Hollow Nomai, I’m your Hearthian! Or, um... I have some knowledge of them, I mean. So. &lt;size=20&gt;Maybe I can help?&lt;/size&gt;</key>
-		<value>Nếu cậu có bất cứ thắc mắc nào về người Nomai trên Vỏ Rỗng Rạn Nứt, tôi rất sẵn lòng giải đáp! Hoặc là, ừm... thực ra thì tôi cũng có biết chút ít về họ. Nên là. &lt;size=20&gt;Chắc là tôi cũng giúp được tí xíu?&lt;/size&gt;</value>
+		<value>Nếu cậu có bất cứ thắc mắc nào về người Nomai trên Vỏ Rỗng Rạn Nứt, tôi rất sẵn lòng giải đáp! Hoặc là, ừm... thực ra thì tôi cũng có biết chút ít về họ. Nên là. &lt;size=20&gt;Chắc tôi cũng giúp được tí xíu?&lt;/size&gt;</value>
 	</entry>
 	<entry>
 		<key>RiebeckExploreOh wow, where &lt;i&gt;shouldn’t&lt;/i&gt; you explore here?&lt;Pause&gt; Um, not the &lt;size=20&gt;black hole&lt;/size&gt;, actually. That’s... very no.</key>
-		<value>Ồ, cậu hỏi mình &lt;i&gt;không nên&lt;/i&gt; khám phá chỗ nào?&lt;Pause&gt; Ừm, không phải cái &lt;size=20&gt;hố đen&lt;/size&gt;, thật đấy. Đừng làm thế.</value>
+		<value>Ồ, cậu hỏi mình &lt;i&gt;không nên&lt;/i&gt; khám phá chỗ nào hả?&lt;Pause&gt; Ừm, tất nhiên không phải cái &lt;size=20&gt;hố đen&lt;/size&gt; rồi, thật đấy. Đừng làm thế.</value>
 	</entry>
 	<entry>
 		<key>RiebeckExploreWhich is unfortunate, because uh, the most exciting stuff is all below the crust. Including the &lt;color=orange&gt;Hanging City&lt;/color&gt; — that’s just to the north. You can kinda see it from here.</key>
-		<value>Nhưng thế cũng lại dở, bởi vì, ờ, những điều thú vị nhất lại nằm bên dưới tầng vỏ của hành tinh. Bao gồm cả &lt;color=orange&gt;Thành Phố Treo&lt;/color&gt; — nằm ở phía bắc. Từ đây cậu cũng nhìn thấp thoáng được đấy.</value>
+		<value>Nhưng thế cũng lại dở, bởi vì, ờm, những điều thú vị nhất lại nằm bên dưới tầng vỏ của hành tinh. Bao gồm cả &lt;color=orange&gt;Thành Phố Treo&lt;/color&gt; — nằm ở phía bắc. Từ đây cậu cũng nhìn thấp thoáng được đấy.</value>
 	</entry>
 	<entry>
 		<key>RiebeckExploreThere’s also this big dome on the south pole called the &lt;color=orange&gt;Southern Observatory&lt;/color&gt;. You can’t get inside from the surface — trust me, I tried — but if it’s like the rest of the Nomai structures here, there’s probably a path to it beneath the crust somewhere.</key>
-		<value>Ở nam cực cũng có một kiến trúc mái vòm rất lớn gọi là &lt;color=orange&gt;Đài Thiên Văn Nam Cực&lt;/color&gt;. Nhưng lại không có lối vào trên bề mặt — thật đấy, tôi tìm thử rồi — nhưng nếu nó cũng giống như các công trình của người Nomai khác ở đây, thì chắc sẽ có lối vào đâu đó bên dưới tầng vỏ.</value>
+		<value>Ở nam cực cũng có một kiến trúc mái vòm rất lớn gọi là &lt;color=orange&gt;Đài Thiên Văn Nam Cực&lt;/color&gt;. Nhưng lại không có lối vào từ phía trên bề mặt — thật đấy, tôi tìm thử rồi — nhưng nếu nó cũng giống như các công trình của người Nomai khác ở đây, thì chắc sẽ có lối vào đâu đó bên dưới tầng vỏ.</value>
 	</entry>
 	<entry>
 		<key>RiebeckExploreGood luck with exploring. Um, if you learn anything about the Nomai, I’d love to hear it, &lt;size=20&gt;if it’s not too much trouble?&lt;/size&gt;</key>
@@ -8251,7 +8248,7 @@
 	</entry>
 	<entry>
 		<key>THATCH: Imagine what rare and profound knowledge it might offer. We &lt;i&gt;must&lt;/i&gt; find this &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;.</key>
-		<value>THATCH: Tri thức mà nó đem lại hẳn sẽ rất quý hiếm và uyên thâm. Chúng ta &lt;i&gt;bắt buộc phải&lt;/i&gt; tìm cho ra &lt;color=lightblue&gt;Con Mắt Vũ Trụ&lt;/color&gt; này.</value>
+		<value>THATCH: Tri thức mà nó đem lại hẳn sẽ rất quý giá và uyên thâm. Chúng ta &lt;i&gt;bắt buộc phải&lt;/i&gt; tìm cho ra &lt;color=lightblue&gt;Con Mắt Vũ Trụ&lt;/color&gt; này.</value>
 	</entry>
 	<entry>
 		<key>&lt;color=orange&gt;Black Hole Forge District&lt;/color&gt;</key>
@@ -8274,16 +8271,14 @@
 		</value>
 	</entry>
 	<entry>
-		<key>
-			&lt;color=orange&gt;Gravity Crystal Workshop&lt;/color&gt;\\n(above 140m)
+		<key>&lt;color=orange&gt;Gravity Crystal Workshop&lt;/color&gt;\\n(above 140m)
 		</key>
 		<value>
 			&lt;color=orange&gt;Xưởng Pha Lê Trọng Lực&lt;/color&gt;\\n(phía trên 140m)
 		</value>
 	</entry>
 	<entry>
-		<key>
-			&lt;color=orange&gt;Gravity Cannon&lt;/color&gt;\\n(east 400m)
+		<key>&lt;color=orange&gt;Gravity Cannon&lt;/color&gt;\\n(east 400m)
 		</key>
 		<value>
 			&lt;color=orange&gt;Bệ Pháo Trọng Lực&lt;/color&gt;\\n(phía đông 400m)
@@ -8432,8 +8427,7 @@
 		</value>
 	</entry>
 	<entry>
-		<key>
-			&lt;color=orange&gt;Gravity Cannon&lt;/color&gt;\\n(120m)
+		<key>&lt;color=orange&gt;Gravity Cannon&lt;/color&gt;\\n(120m)
 		</key>
 		<value>
 			&lt;color=orange&gt;Bệ Pháp Trọng Lực&lt;/color&gt;\\n(120m)
@@ -8448,16 +8442,14 @@
 		</value>
 	</entry>
 	<entry>
-		<key>
-			&lt;color=orange&gt;Anglerfish Fossil Overlook&lt;/color&gt;\\n(40m)
+		<key>&lt;color=orange&gt;Anglerfish Fossil Overlook&lt;/color&gt;\\n(40m)
 		</key>
 		<value>
 			&lt;color=orange&gt;Sảnh Quan Sát Cá Cần Câu&lt;/color&gt;\\n(40m)
 		</value>
 	</entry>
 	<entry>
-		<key>
-			&lt;color=orange&gt;Stepping Stone Cave&lt;/color&gt;\\n(20m)
+		<key>&lt;color=orange&gt;Stepping Stone Cave&lt;/color&gt;\\n(20m)
 		</key>
 		<value>
 			&lt;color=orange&gt;Hang Đá Bậc Thang&lt;/color&gt;\\n(20m)
@@ -8841,7 +8833,7 @@
 	</entry>
 	<entry>
 		<key>Chert</key>
-		<value>Chert</value>
+		<value>Anh Chert</value>
 	</entry>
 	<entry>
 		<key>ChertIntro1Goodness, it’s you! Hello! I take it your first launch went well, then? Welcome to the Hourglass Twins. &lt;Pause=2&gt;Mind the sand, now.</key>
@@ -9441,7 +9433,7 @@
 	</entry>
 	<entry>
 		<key>Esker</key>
-		<value>Esker</value>
+		<value>Bác Esker</value>
 	</entry>
 	<entry>
 		<key>Esker1Oh, hey, it’s you!</key>
@@ -10081,7 +10073,7 @@
 	</entry>
 	<entry>
 		<key>Hornfels</key>
-		<value>Hornfels</value>
+		<value>Bác Hornfels</value>
 	</entry>
 	<entry>
 		<key>Curator1There you are! I just finished pre-flight observations, and local conditions are good. Time to get our newest astronaut off the ground!</key>
@@ -10935,11 +10927,11 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Riebeck’s Camp</key>
-			<value>Trại Của Riebeck</value>
+			<value>Trại Của Anh Riebeck</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Riebeck</key>
-			<value>Riebeck</value>
+			<value>Anh Riebeck</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Riebeck’s CampRiebeck headed to Brittle Hollow to investigate something the Nomai were doing at the south pole.</key>
@@ -11891,7 +11883,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Shrouded WoodlandsI found a covered bridge leading into the darkest part of the forest.</key>
-			<value>I found a covered bridge leading into the darkest part of the forest.</value>
+			<value>Tôi tìm thấy một cây cầu dưới hầm dẫn tới khu vực tối nhất của khu rừng.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden Archive</key>
@@ -14277,7 +14269,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>666</key>
-			<value>RIEBECK</value>
+			<value>ANH RIEBECK</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>667</key>
@@ -14645,11 +14637,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>941</key>
-			<value>NHIÊN LIỆU</value>
+			<value>XĂNG</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>942</key>
-			<value>NHIỆT ĐỘ</value>
+			<value>NHIỆT</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>943</key>
@@ -15133,7 +15125,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1116</key>
-			<value>Chất lượng của hiệu ứng post-processing khử răng cưa.  Chất lượng cao cao chi phí càng lớn.</value>
+			<value>Chất lượng của hiệu ứng post-processing khử răng cưa.  Chất lượng càng cao chi phí càng lớn.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1117</key>
@@ -15221,11 +15213,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1138</key>
-			<value>Đảo ngược trục y khi đi bộ.</value>
+			<value>Đảo ngược trục Y khi đi bộ.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1139</key>
-			<value>Đảo ngược trục y khi lái phi thuyền.</value>
+			<value>Đảo ngược trục Y khi lái phi thuyền.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1140</key>
@@ -15721,7 +15713,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1412</key>
-			<value>Khiến một số phân đoạn đáng sợ dễ vượt qua hơn</value>
+			<value>Khiến một số phân đoạn đáng sợ dễ vượt qua hơn.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1413</key>
@@ -15997,7 +15989,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>177</key>
-			<value>Kích thướcUI</value>
+			<value>Kích thước UI</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1053</key>
@@ -16014,6 +16006,30 @@
 		<TranslationTableEntryUI>
 			<key>1194</key>
 			<value>Tự động: Kích thước được quyết định bởi Ngôn ngữ và Nền tảng.\\nThường/Lớn: Kích thước được đặt cố định theo lựa chọn.</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1195</key>
+			<value>Đảo ngược Xoay góc nhìn Người chơi (Ngang)</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1196</key>
+			<value>Đảo ngược Xoay góc nhìn Phi thuyền (Ngang)</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1197</key>
+			<value>Đảo ngược Xoay góc nhìn Người chơi (Dọc)</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1198</key>
+			<value>Đảo ngược Xoay góc nhìn Phi thuyền (Dọc)</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1146</key>
+			<value>Đảo ngược trục X khi đi bộ.</value>
+		</TranslationTableEntryUI>
+		<TranslationTableEntryUI>
+			<key>1147</key>
+			<value>Đảo ngược trục X khi lái phi thuyền.</value>
 		</TranslationTableEntryUI>
 	</table_ui>
 </TranslationTable_XML>

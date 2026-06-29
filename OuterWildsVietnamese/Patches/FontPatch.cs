@@ -11,66 +11,6 @@ namespace OuterWildsVietnamese
     [HarmonyPatch]
     public static class FontPatch
     {
-        
-
-        //[HarmonyPrefix]
-        //[HarmonyPatch(typeof(TitleScreenManager), nameof(TitleScreenManager.OnTitleMenuAnimationComplete))]
-        //public static bool OnTitleMenuAnimationComplete(TitleScreenManager __instance)
-        //{
-        //    if (OuterWildsVietnamese.menuFont != null)
-        //        for (int i = 0; i < __instance._mainMenuTextFields.Length; i++)
-        //        {
-        //            __instance._mainMenuTextFields[i].font = OuterWildsVietnamese.menuFont;
-        //        }
-        //    return true;
-        //}
-
-        //[HarmonyPostfix]
-        //[HarmonyPatch(typeof(Menu), nameof(Menu.InitializeMenu))]
-        //public static void InitializeMenuPostfix(Menu __instance)
-        //{
-        //    MenuOption[] list = __instance.GetMenuOptions();
-        //    if (OuterWildsVietnamese.menuFont != null)
-        //        foreach (MenuOption option in list)
-        //        {
-        //            option.GetLabelField().font = OuterWildsVietnamese.menuFont;
-        //            //Luminescence090923: Can't change the font of SecondaryTextField and TooltipDisplay
-
-        //            //if (option.GetSecondaryTextField().font != null)
-        //            //    option.GetSecondaryTextField().font = OuterWildsVietnamese.menuFont;
-        //            //option._menuTooltipDisplay._textDisplay.font = OuterWildsVietnamese.menuFont;
-        //        }
-        //}
-
-        //[HarmonyPostfix]
-        //[HarmonyPatch(typeof(Menu), nameof(Menu.Activate))]
-        //public static void ActivatePostfix(Menu __instance)
-        //{
-        //    MenuOption[] list = __instance.GetMenuOptions();
-        //    if (OuterWildsVietnamese.menuFont != null)
-        //        foreach (MenuOption option in list)
-        //        {
-        //            option.GetLabelField().font = OuterWildsVietnamese.menuFont;
-        //            //Luminescence090923: Can't change the font of SecondaryTextField and TooltipDisplay
-
-        //            //if (option.GetSecondaryTextField().font != null)
-        //            //    option.GetSecondaryTextField().font = OuterWildsVietnamese.menuFont;
-        //            //option._menuTooltipDisplay._textDisplay.font = OuterWildsVietnamese.menuFont;
-        //        }
-        //}
-
-        ////GameOver Font patch
-        //[HarmonyPrefix]
-        //[HarmonyPatch(typeof(GameOverController), nameof(GameOverController.SetupGameOverScreen))]
-        //public static bool SetupGameOverScreenPrefix(GameOverController __instance)
-        //{
-        //    if (OuterWildsVietnamese.menuFont != null)
-        //        __instance._deathText.font = OuterWildsVietnamese.menuFont;
-        //    else
-        //        OuterWildsVietnamese.Log("Main Menu Font (GameOver) null");
-        //    return true;
-        //}
-
         //Conversation Font patch
         [HarmonyPrefix]
         [HarmonyPatch(typeof(DialogueBoxVer2), "InitializeFont")]
@@ -78,17 +18,16 @@ namespace OuterWildsVietnamese
         {
             if (OuterWildsVietnamese.conversationFont != null)
             {
-                //__instance._fontInUse = OuterWildsVietnamese.bundle.LoadAsset<Font>("Assets/MerriweatherSans-SemiBold.ttf");
                 __instance._fontInUse = OuterWildsVietnamese.conversationFont;
                 __instance._dynamicFontInUse = OuterWildsVietnamese.conversationFont;
             }
             else
             {
-                OuterWildsVietnamese.Log("Heathian Font null");
+                OuterWildsVietnamese.Log("Hearthian Font null");
                 return true;
             }
-            int customFontSize = 25;
-            float customLineSpacing = 1.4f;
+            int customFontSize = 20;
+            float customLineSpacing = 2.5f;
 
             //__instance._dynamicFontInUse = __instance._defaultDialogueFontDynamic;
             //Luminescence291123: Somehow _defaultFontSpacing got yeeted in the new update, so I won't be using it, but the old line is kept just in case
@@ -121,19 +60,40 @@ namespace OuterWildsVietnamese
                 OuterWildsVietnamese.Log("Prompt Font null");
         }
 
+        [HarmonyPostfix]
+        [HarmonyPatch(typeof(PromptManager), nameof(PromptManager.Start))]
+        public static void PromptManagerStartPostfix(PromptManager __instance)
+        {
+            if (OuterWildsVietnamese.promptFont != null)
+                __instance._currentFont = OuterWildsVietnamese.promptFont;
+            else
+                OuterWildsVietnamese.Log("Prompt Font null");
+        }
+
 
         //Menu, Object and UI Font patch
+        //Luminescence180626: I should instead look into FontAndLanguageController.AddTextElement, which calls InitializeFont at the end
         [HarmonyPostfix]
         [HarmonyPatch(typeof(FontAndLanguageController), nameof(FontAndLanguageController.InitializeFont))]
         public static void InitFontPostfix(FontAndLanguageController __instance)
         {
             for (int i = 0; i < __instance._textContainerList.Count; i++)
             {
-                __instance._textContainerList[i].textElement.font = OuterWildsVietnamese.menuFont;
+                //OuterWildsVietnamese.Log("OGFont: " + __instance._textContainerList[i].originalFont + " - " + __instance._textContainerList[i].textElement.text);
+                //Luminescence290626: I know this is ridiculously stupid. But it finally WORKS lmaoooo. All thanks to the Log above.
+                //Luminescence290626: THE PROJECT IS FINALLY COMPLETE.
+                if (__instance._textContainerList[i].originalFont.ToString() == "VCR_OSD_MONO (UnityEngine.Font)")
+                {
+                    __instance._textContainerList[i].textElement.font = OuterWildsVietnamese.shipDisplayFont;
+                    __instance._textContainerList[i].textElement.fontSize = 2;
+                    __instance._textContainerList[i].textElement.rectTransform.localScale = __instance._textContainerList[i].originalScale * 25;
+                }
+                else if (__instance._textContainerList[i].originalFont.ToString() != "SpaceMono-Bold (UnityEngine.Font)"
+                        && __instance._textContainerList[i].originalFont.ToString() != "SpaceMono-Regular (UnityEngine.Font)")
+                {
+                    __instance._textContainerList[i].textElement.font = OuterWildsVietnamese.menuFont;
+                }
             }
         }
-
-        //TODO: Make ShipDisplay text bigger (ShipNotificationDisplay)
-
     }
 }

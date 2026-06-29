@@ -51,8 +51,9 @@ namespace OuterWildsVietnamese
             try
             {
                 bundle = ModHelper.Assets.LoadBundle("assets/font");
-                conversationFont = bundle.LoadAsset<Font>("Assets/Mitr-Regular.ttf");
+                conversationFont = bundle.LoadAsset<Font>("Assets/Prompt-Medium.ttf");
                 menuFont = bundle.LoadAsset<Font>("Assets/Rowdies-Light.ttf");
+                //menuFont = bundle.LoadAsset<Font>("Assets/SpaceMono-Regular.ttf");
                 creditsFont = bundle.LoadAsset<Font>("Assets/JosefinSans-Regular.ttf");
                 promptFont = bundle.LoadAsset<Font>("Assets/Dosis-Regular.ttf");
                 shipDisplayFont = bundle.LoadAsset<Font>("ChakraPetch-Medium.ttf");
@@ -65,13 +66,18 @@ namespace OuterWildsVietnamese
             }
 
             Harmony.CreateAndPatchAll(Assembly.GetExecutingAssembly());
-            Log("Đã thêm bản dịch Tiếng Việt.\nChúc bạn may mắn trên hành trình của mình!\n-Đặng Hữu aka Luminescence-");
+            Log("Bản dịch Tiếng Việt được thực hiện bởi Luminescence.\nChúc bạn may mắn trên hành trình của mình!");
         }
     
 
         public static void Log(string msg)
         {
             self.ModHelper.Console.WriteLine($"{msg}");
+        }
+
+        public static void LogError(string msg)
+        {
+            self.ModHelper.Console.WriteLine($"{msg}", MessageType.Error);
         }
 
         public static LanguageSaveFile Load() => self.ModHelper.Storage.Load<LanguageSaveFile>("languageSave.json") ?? LanguageSaveFile.DEFAULT;
