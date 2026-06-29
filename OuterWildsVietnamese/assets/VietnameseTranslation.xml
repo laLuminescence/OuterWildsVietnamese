@@ -217,7 +217,7 @@
 			FILIX: Don’t forget, festivals happen every ten years!
 		</key>
 		<value>
-			FILIX: Đừng quên rằng, lễ hội cứ mười năm lại diễn ra một lần!
+			FILIX: Đừng quên rằng, Lễ Hội cứ mười năm lại diễn ra một lần!
 		</value>
 	</entry>
 	<entry>
@@ -225,7 +225,7 @@
 			LAMI: We can’t go because we’re stuck here. But Filix says we used to go, too.
 		</key>
 		<value>
-			LAMI: Nhưng chúng ta lại chẳng thể tham dự vì bị kẹt lại ở đây. Cô Filix kể rằng bộ tộc chúng ta cũng đã từng tham gia lễ hội.
+			LAMI: Nhưng chúng ta lại chẳng thể tham dự vì bị kẹt lại ở đây. Cô Filix kể rằng bộ tộc chúng ta cũng đã từng tham gia Lễ Hội.
 		</value>
 	</entry>
 	<entry>
@@ -233,7 +233,7 @@
 			LAMI: At some festivals, one clan’s big discovery can mean all the Nomai get to advance, too. Like Annona’s warp core, which made it so everyone can warp long distances and explore more.
 		</key>
 		<value>
-			LAMI: Trong một vài lễ hội, phát kiến lớn của một bộ tộc nào đó đồng nghĩa với bước ngoặt phát triển của toàn bộ dân tộc Nomai. Tiêu biểu như lõi dịch chuyển của thầy Annona, thứ đã cho phép tất cả mọi người có thể dịch chuyển những khoảng cách cực lớn và khám phá vũ trụ nhiều hơn.
+			LAMI: Trong một vài Lễ Hội, phát kiến lớn của một bộ tộc nào đó đồng nghĩa với bước ngoặt phát triển của toàn bộ dân tộc Nomai. Tiêu biểu như lõi dịch chuyển của thầy Annona, thứ đã cho phép tất cả mọi người có thể dịch chuyển những khoảng cách cực lớn và khám phá vũ trụ nhiều hơn.
 		</value>
 	</entry>
 	<entry>
@@ -249,7 +249,7 @@
 			LAMI: A single festival could last a long, long time!
 		</key>
 		<value>
-			LAMI: Mỗi lễ hội có thể diễn ra trong một thời gian rất, rất dài!
+			LAMI: Mỗi đợt Lễ Hội có thể diễn ra trong một thời gian rất, rất dài!
 		</value>
 	</entry>
 	<entry>
@@ -348,11 +348,11 @@
 	</entry>
 	<entry>
 		<key>PLUME: Of note: Be sure not to wander far from here. Though this area is somewhat unstable, it’s safer than any we’ve found so far.</key>
-		<value>PLUME: Lưu ý: Đừng đi quá xa khỏi đây. Mặc dù khu vực này vẫn hơi bất ổn, nó vẫn an toàn hơn tất thảy những khu vực khác mà chúng ta tìm thấy.</value>
+		<value>PLUME: Lưu ý: Đừng đi quá xa khỏi đây. Mặc dù khu vực này vẫn hơi bất ổn, nó vẫn an toàn hơn tất thảy những nơi khác mà ta tìm thấy.</value>
 	</entry>
 	<entry>
 		<key>PLUME: The temporary settlement is finished, but remember to be cautious of falling rocks and dust created by meteor impacts.</key>
-		<value>PLUME: Khu tạm trú đã được hoàn thành, nhưng hãy nhớ phải cẩn thận đá lở và khói bụi rơi xuống bởi chấn động của của thiên thạch.</value>
+		<value>PLUME: Khu tạm trú đã được hoàn thành, nhưng hãy nhớ phải cẩn thận đá lở và khói bụi rơi xuống bởi chấn động thiên thạch.</value>
 	</entry>
 	<entry>
 		<key>THATCH: I can’t understand. Why did the &lt;color=orange&gt;Vessel&lt;/color&gt; crash in that place?</key>
@@ -8325,8 +8325,7 @@
 		<value>&lt;color=orange&gt;Khu Băng Tan&lt;/color&gt;</value>
 	</entry>
 	<entry>
-		<key>
-			&lt;color=orange&gt;Black Hole Forge&lt;/color&gt;\\n(left 30m)
+		<key>&lt;color=orange&gt;Black Hole Forge&lt;/color&gt;\\n(left 30m)
 		</key>
 		<value>
 			&lt;color=orange&gt;Lò Luyện Hố Đen&lt;/color&gt;\\n(bên trái 30m)
@@ -8501,7 +8500,7 @@
 	</entry>
 	<entry>
 		<key>Our curiosity goes with you on your journey. You walk in the footsteps of those who came before you, and your path guides those who will follow later.</key>
-		<value>Bản tính tò mò của bộ tộc sẽ luôn đồng hành với em trên hành trình của mình. Em đang bước đi trên dấu chân của những người đi trước, và hành trình của em sẽ dẫn lối những người đi sau.</value>
+		<value>Bản tính tò mò của bộ tộc sẽ luôn đồng hành cùng em trên hành trình của mình. Em đang bước đi theo dấu chân của những người đi trước, và hành trình của em sẽ dẫn lối những người đi sau.</value>
 	</entry>
 	<entry>
 		<key>PHLOX: Yarrow, would you kindly step back so Daz is closest to the statue? When pairing, the statue will choose whoever is in closest proximity.</key>
@@ -10273,7 +10272,7 @@
 	</entry>
 	<entry>
 		<key>CuratorMoreAboutFeldsparFeldspar was one of the four founding members of Outer Wilds, along with our flight coach Gossan, Slate the engineer, and me.</key>
-		<value>Feldspar là một trong bốn thành viên thành lập nên Outer Wilds, cùng với thầy dạy lái Gossan, kỹ sư Slate, và ta.</value>
+		<value>Feldspar là một trong bốn thành viên sáng lập nên Outer Wilds, cùng với thầy dạy lái Gossan, kỹ sư Slate, và ta.</value>
 	</entry>
 	<entry>
 		<key>CuratorMoreAboutFeldsparAs ground control and later the museum curator, I didn’t work with Feldspar as closely as Slate and Gossan did. I &lt;i&gt;can&lt;/i&gt; tell you Feldspar was absolutely fearless, though. Nothing scared them.</key>
