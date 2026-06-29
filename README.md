@@ -9,7 +9,7 @@ Bản mod Việt Hóa dành cho **Outer Wilds**.
 ## Cài đặt
 
 1. Cài đặt **Outer Wilds**.
-2. Cài đặt và chạy **Outer Wilds Mod Manager (OWML)**.
+2. Cài đặt và chạy [**Outer Wilds Mod Manager (OWML)**](https://outerwildsmods.com/mod-manager/).
 3. Trong **OWML → Get Mods**, tìm và cài đặt **Outer Wilds Vietnamese**.
 4. Kích hoạt bản mod Việt Hóa và bấm **Run Game**.
 
