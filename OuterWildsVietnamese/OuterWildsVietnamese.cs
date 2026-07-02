@@ -29,7 +29,6 @@ namespace OuterWildsVietnamese
         public static AssetBundle bundle;
         public static Font conversationFont;
         public static Font menuFont;
-        public static Font creditsFont;
         public static Font promptFont;
         public static Font shipDisplayFont;
         public static string translationPath;
@@ -51,10 +50,8 @@ namespace OuterWildsVietnamese
             try
             {
                 bundle = ModHelper.Assets.LoadBundle("assets/font");
-                conversationFont = bundle.LoadAsset<Font>("Assets/Prompt-Medium.ttf");
+                conversationFont = bundle.LoadAsset<Font>("Assets/SignikaNegative-SemiBold.ttf");
                 menuFont = bundle.LoadAsset<Font>("Assets/Rowdies-Light.ttf");
-                //menuFont = bundle.LoadAsset<Font>("Assets/SpaceMono-Regular.ttf");
-                creditsFont = bundle.LoadAsset<Font>("Assets/JosefinSans-Regular.ttf");
                 promptFont = bundle.LoadAsset<Font>("Assets/Dosis-Regular.ttf");
                 shipDisplayFont = bundle.LoadAsset<Font>("ChakraPetch-Medium.ttf");
                 bundle.Unload(false);

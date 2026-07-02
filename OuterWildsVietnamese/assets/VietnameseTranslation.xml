@@ -34,7 +34,7 @@
 	</entry>
 	<entry>
 		<key>The &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; requires a powerful, highly advanced warp core. How should we obtain it?</key>
-		<value>&lt;color=orange&gt;Dự Án Song Tinh Tro Tàn&lt;/color&gt; yêu cầu một lõi dịch chuyển cực kỳ mạnh mẽ và tân tiến để vận hành. Làm sao chúng ta kiếm được thứ này nhỉ?</value>
+		<value>&lt;color=orange&gt;Dự Án Tử Tinh Tro Tàn&lt;/color&gt; yêu cầu một lõi dịch chuyển cực kỳ mạnh mẽ và tân tiến để vận hành. Làm sao chúng ta kiếm được thứ này nhỉ?</value>
 	</entry>
 	<entry>
 		<key>Solution 2: We could craft a new advanced warp core inspired by the &lt;color=orange&gt;Vessel&lt;/color&gt;’s warp core.</key>
@@ -384,7 +384,7 @@
 	</entry>
 	<entry>
 		<key>BELLS: We make this journey not only for ourselves, but also to honor the members of our clan who came before us: those who, after the crash that brought them to this star system, became stranded on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; and on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;, with no communication between these two groups of survivors.</key>
-		<value>BELLS: Chúng ta thực hiện hành trình này không chỉ vì bản thân mình, mà còn để bày tỏ sự tôn kính tới những thành viên của bộ tộc đã đi trước chúng ta: những người mà, sau vụ tai nạn đã đưa chúng ta tới hệ sao này, đã bị kẹt lại trên &lt;color=lightblue&gt;Vỏ Rỗng Rạn Nứt&lt;/color&gt; và &lt;color=lightblue&gt;Song Tinh Than Hồng&lt;/color&gt;, mà chẳng có cách nào để liên lạc giữa hai bên.</value>
+		<value>BELLS: Chúng ta thực hiện hành trình này không chỉ vì bản thân mình, mà còn để bày tỏ sự tôn kính tới những thành viên của bộ tộc đã đi trước chúng ta: những người mà, sau vụ tai nạn đã đưa chúng ta tới hệ sao này, đã bị kẹt lại trên &lt;color=lightblue&gt;Vỏ Rỗng Rạn Nứt&lt;/color&gt; và &lt;color=lightblue&gt;Tử Tinh Than Hồng&lt;/color&gt;, mà chẳng có cách nào để liên lạc giữa hai bên.</value>
 	</entry>
 	<entry>
 		<key>BELLS: These Nomai looked upward from two different planets and saw the same wandering moon visiting their skies. It was this moon (the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;) that kept their curiosity alive during this long period of hardship.</key>
@@ -711,7 +711,7 @@
 			MELORAE: Do not follow this tunnel to its end! (Coleus and I will examine the horror that lies at its terminus later, provided we live through this.)
 		</key>
 		<value>
-			MELORAE: Đừng đi tới cuối đường hầm này! (Coleus và tôi sẽ điều tra về thứ kinh dị nằm ở đó sau, nếu chúng tôi sống sót qua vụ này.)
+			MELORAE: Đừng đi tới cuối đường hầm này! (Trò Coleus và tôi sẽ điều tra về thứ kinh dị nằm ở đó sau, nếu chúng ta sống sót qua vụ này.)
 		</value>
 	</entry>
 	<entry>
@@ -916,7 +916,7 @@
 	</entry>
 	<entry>
 		<key>POKE: Even if it did, couldn’t someone call it back home to the &lt;color=orange&gt;gravity cannon&lt;/color&gt; on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;?</key>
-		<value>POKE: Nếu vậy, chẳng phải ai đó vẫn có thể triệu hồi phi thuyền về &lt;color=orange&gt;pháo trọng lực&lt;/color&gt; ở &lt;color=lightblue&gt;Song Tinh Than Hồng&lt;/color&gt; à?</value>
+		<value>POKE: Nếu vậy, chẳng phải ai đó vẫn có thể triệu hồi phi thuyền về &lt;color=orange&gt;pháo trọng lực&lt;/color&gt; ở &lt;color=lightblue&gt;Tử Tinh Than Hồng&lt;/color&gt; à?</value>
 	</entry>
 	<entry>
 		<key>PYE: Yes, but the exploration of the &lt;color=lightblue&gt;comet&lt;/color&gt; would be more difficult if we were without the &lt;color=orange&gt;shuttle&lt;/color&gt; until someone recalled it. Perhaps we shouldn’t have landed on the dark side of the &lt;color=lightblue&gt;comet&lt;/color&gt;...</key>
@@ -1060,7 +1060,7 @@
 	</entry>
 	<entry>
 		<key>Excited3BI started this loop by popping out of a white hole inside the Ash Twin Project, since in the loop before this one I jumped into the black hole.</key>
-		<value>Tôi bắt đầu vòng lặp này bằng việc tòi ra khỏi một hố trắng trong Dự Án Song Tinh Tro Tàn này, vì vòng lặp trước đó tôi đã nhảy vào trong hố đen.</value>
+		<value>Tôi bắt đầu vòng lặp này bằng việc tòi ra khỏi một hố trắng trong Dự Án Tử Tinh Tro Tàn này, vì vòng lặp trước đó tôi đã nhảy vào trong hố đen.</value>
 	</entry>
 	<entry>
 		<key>Excited3AYeah, now you've got it. That was an incredible day.</key>
@@ -1088,7 +1088,7 @@
 	</entry>
 	<entry>
 		<key>Looped1I think so. I started this current loop by popping out of a white hole inside the Ash Twin Project.</key>
-		<value>Tôi nghĩ vậy. Tôi bắt đầu vòng lặp này khi tòi ra khỏi một hố trắng bên trong Dự Án Song Tinh Tro Tàn.</value>
+		<value>Tôi nghĩ vậy. Tôi bắt đầu vòng lặp này khi tòi ra khỏi một hố trắng bên trong Dự Án Tử Tinh Tro Tàn.</value>
 	</entry>
 	<entry>
 		<key>SelfLooped1I started at the campfire like usual.</key>
@@ -1100,7 +1100,7 @@
 	</entry>
 	<entry>
 		<key>Wrong1Yeah, duplicating living beings probably wasn't what the Nomai had in mind when they built the Ash Twin Project.</key>
-		<value>Ừ, nhân bản sinh vật sống có lẽ là điều mà người Nomai chưa tính đến khi họ xây dựng Dự Án Song Tinh Tro Tàn.</value>
+		<value>Ừ, nhân bản sinh vật sống có lẽ là điều mà người Nomai chưa tính đến khi họ xây dựng Dự Án Tử Tinh Tro Tàn.</value>
 	</entry>
 	<entry>
 		<key>SelfWrong1I wonder if we have the same memories.</key>
@@ -1520,7 +1520,7 @@
 	</entry>
 	<entry>
 		<key>CLARY: Regarding the warp towers on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;: Does each tower have to be perfectly aligned with the center of the astral body to which it’s tuned?</key>
-		<value>CLARY: Hỏi về các tháp dịch chuyển trên &lt;color=lightblue&gt;Song Tinh Tro Tàn&lt;/color&gt;: Mỗi tòa tháp có cần phải nhắm thẳng tuyệt đối chính xác tới tâm của thiên thể đích đến không?</value>
+		<value>CLARY: Hỏi về các tháp dịch chuyển trên &lt;color=lightblue&gt;Tử Tinh Tro Tàn&lt;/color&gt;: Mỗi tòa tháp có cần phải nhắm thẳng tuyệt đối chính xác tới tâm của thiên thể đích đến không?</value>
 	</entry>
 	<entry>
 		<key>CLARY: I enjoy precision as much as the next Nomai, but if, for example, a tower’s base were to shift even slightly, that tower might no longer align with its astral body.</key>
@@ -1548,7 +1548,7 @@
 	</entry>
 	<entry>
 		<key>CLARY: All of the warp towers are being constructed on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;, so the black hole cores will go there.</key>
-		<value>CLARY: Tất cả các tháp dịch chuyển đều đang được xây dựng trên &lt;color=lightblue&gt;Song Tinh Tro Tàn&lt;/color&gt;, nên các lõi hố đen sẽ được vận chuyển tới đó.</value>
+		<value>CLARY: Tất cả các tháp dịch chuyển đều đang được xây dựng trên &lt;color=lightblue&gt;Tử Tinh Tro Tàn&lt;/color&gt;, nên các lõi hố đen sẽ được vận chuyển tới đó.</value>
 	</entry>
 	<entry>
 		<key>POKE: The white hole cores are for the warp receivers. Each of the six receivers are being constructed at different locations, so those deliveries will be a greater pain in your cervical spine.</key>
@@ -1560,7 +1560,7 @@
 	</entry>
 	<entry>
 		<key>CLARY: Poke, I’ll return to the &lt;color=orange&gt;forge&lt;/color&gt; shortly; I’m going to catch up to Root and help him deliver the first core to &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;, just to make sure Yarrow receives it.</key>
-		<value>CLARY: Poke, chị sẽ quay lại &lt;color=orange&gt;lò luyện&lt;/color&gt; ngay; chị sẽ đi theo Root để phụ giúp cậu ấy vận chuyển chiếc lõi đầu tiên tới &lt;color=lightblue&gt;Song Tinh Tro Tàn&lt;/color&gt;, chị muốn đảm bảo rằng Yarrow sẽ nhận được nó.</value>
+		<value>CLARY: Poke, chị sẽ quay lại &lt;color=orange&gt;lò luyện&lt;/color&gt; ngay; chị sẽ đi theo Root để phụ giúp cậu ấy vận chuyển chiếc lõi đầu tiên tới &lt;color=lightblue&gt;Tử Tinh Tro Tàn&lt;/color&gt;, chị muốn đảm bảo rằng Yarrow sẽ nhận được nó.</value>
 	</entry>
 	<entry>
 		<key>POKE: Of course you are.</key>
@@ -1568,7 +1568,7 @@
 	</entry>
 	<entry>
 		<key>POKE: The tower designs in the &lt;color=orange&gt;High Energy Lab&lt;/color&gt; on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; reveal each receiver's location. Ask Yarrow; he is familiar with them.</key>
-		<value>POKE: Các bản thiết kế tháp tại &lt;color=orange&gt;Phòng Thí Nghiệm Năng Lượng Cao&lt;/color&gt; ở &lt;color=lightblue&gt;Song Tinh Than Hồng&lt;/color&gt; có ghi lại vị trí của từng cổng dịch chuyển đích. Hỏi Yarrow ấy; anh ta biết vụ này.</value>
+		<value>POKE: Các bản thiết kế tháp tại &lt;color=orange&gt;Phòng Thí Nghiệm Năng Lượng Cao&lt;/color&gt; ở &lt;color=lightblue&gt;Tử Tinh Than Hồng&lt;/color&gt; có ghi lại vị trí của từng cổng dịch chuyển đích. Hỏi Yarrow ấy; anh ta biết vụ này.</value>
 	</entry>
 	<entry>
 		<key>WARNING: Be cautious near the boarding area while the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; is in operation.</key>
@@ -1576,7 +1576,7 @@
 	</entry>
 	<entry>
 		<key>POKE: Of note: Yarrow believes he spotted a flaw in the warp tower designs: namely, that one of the warp towers on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; will never activate, because its warp receiver will never align overhead.</key>
-		<value>POKE: Lưu ý: Yarrow tưởng rằng anh ta đã tìm thấy lỗi thiết kế tháp dịch chuyển: cụ thể, một tháp dịch chuyển trên &lt;color=lightblue&gt;Song Tinh Tro Tàn&lt;/color&gt; sẽ không bao giờ kích hoạt, vì nó không bao giờ ngắm thẳng được tới cổng dịch chuyển đích.</value>
+		<value>POKE: Lưu ý: Yarrow tưởng rằng anh ta đã tìm thấy lỗi thiết kế tháp dịch chuyển: cụ thể, một tháp dịch chuyển trên &lt;color=lightblue&gt;Tử Tinh Tro Tàn&lt;/color&gt; sẽ không bao giờ kích hoạt, vì nó không bao giờ ngắm thẳng được tới cổng dịch chuyển đích.</value>
 	</entry>
 	<entry>
 		<key>POKE: Does your romantic interest think a warp tower’s alignment point is its &lt;i&gt;receiver&lt;/i&gt;? Does he not know that a warp tower always aligns with the center of its corresponding astral body?</key>
@@ -1612,11 +1612,11 @@
 	</entry>
 	<entry>
 		<key>PYE: The &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; will be one of our biggest undertakings (metaphorically &lt;i&gt;and&lt;/i&gt; physically). To build it, we need a way to travel quickly between &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; and each location that holds crucial project materials.</key>
-		<value>PYE: &lt;color=orange&gt;Dự Án Song Tinh Tro Tàn&lt;/color&gt; sẽ là một trong những công trình vĩ đại nhất của chúng ta (cả về mặt ý nghĩa &lt;i&gt;lẫn&lt;/i&gt; quy mô vật lý). Để có thể xây dựng, ta cần tìm cách để di chuyển nhanh chóng giữa &lt;color=lightblue&gt;Song Tinh Tro Tàn&lt;/color&gt; và những địa điểm nắm giữ các nguyên vật liệu quan trọng tới dự án.</value>
+		<value>PYE: &lt;color=orange&gt;Dự Án Tử Tinh Tro Tàn&lt;/color&gt; sẽ là một trong những công trình vĩ đại nhất của chúng ta (cả về mặt ý nghĩa &lt;i&gt;lẫn&lt;/i&gt; quy mô vật lý). Để có thể xây dựng, ta cần tìm cách để di chuyển nhanh chóng giữa &lt;color=lightblue&gt;Tử Tinh Tro Tàn&lt;/color&gt; và những địa điểm nắm giữ các nguyên vật liệu quan trọng tới dự án.</value>
 	</entry>
 	<entry>
 		<key>ROOT: What if we used warp towers (like the one we have on the &lt;color=orange&gt;White Hole Station&lt;/color&gt;) to connect &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; directly to each critical location?</key>
-		<value>ROOT: Nếu ta sử dụng nhiều tháp dịch chuyển (tương tự cái tháp ở &lt;color=orange&gt;Trạm Hố Trắng&lt;/color&gt;) để kết nối trực tiếp &lt;color=lightblue&gt;Song Tinh Tro Tàn&lt;/color&gt; tới các địa điểm đó thì sao?</value>
+		<value>ROOT: Nếu ta sử dụng nhiều tháp dịch chuyển (tương tự cái tháp ở &lt;color=orange&gt;Trạm Hố Trắng&lt;/color&gt;) để kết nối trực tiếp &lt;color=lightblue&gt;Tử Tinh Tro Tàn&lt;/color&gt; tới các địa điểm đó thì sao?</value>
 	</entry>
 	<entry>
 		<key>CLARY: Poke, Root, and I can begin work on this immediately in the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; (this will keep us busy!).</key>
@@ -1624,7 +1624,7 @@
 	</entry>
 	<entry>
 		<key>YARROW: Of note: Each tower on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; will warp to a different planet.</key>
-		<value>YARROW: Cần lưu ý rằng: Mỗi tòa tháp trên &lt;color=lightblue&gt;Song Tinh Tro Tàn&lt;/color&gt; sẽ dịch chuyển tới một hành tinh khác nhau.</value>
+		<value>YARROW: Cần lưu ý rằng: Mỗi tòa tháp trên &lt;color=lightblue&gt;Tử Tinh Tro Tàn&lt;/color&gt; sẽ dịch chuyển tới một hành tinh khác nhau.</value>
 	</entry>
 	<entry>
 		<key>PHLOX: We can design each tower to visually reflect its warp destination!</key>
@@ -1643,7 +1643,7 @@
 			Retrieving previous launch data from &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;.
 		</key>
 		<value>
-			Đang tiếp nhận dữ liệu phóng từ &lt;color=lightblue&gt;Song Tinh Tro Tàn&lt;/color&gt;.
+			Đang tiếp nhận dữ liệu phóng từ &lt;color=lightblue&gt;Tử Tinh Tro Tàn&lt;/color&gt;.
 		</value>
 	</entry>
 	<entry>
@@ -1664,11 +1664,11 @@
 	</entry>
 	<entry>
 		<key>CLARY: I have good news, Yarrow! The advanced warp core is ready to be installed in the central chamber of &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;.</key>
-		<value>CLARY: Em có tin mừng, Yarrow ơi! Lõi dịch chuyển cao cấp đã sẵn sàng để lắp đặt tại buồng trung tâm của &lt;color=lightblue&gt;Song Tinh Tro Tàn&lt;/color&gt;.</value>
+		<value>CLARY: Em có tin mừng, Yarrow ơi! Lõi dịch chuyển cao cấp đã sẵn sàng để lắp đặt tại buồng trung tâm của &lt;color=lightblue&gt;Tử Tinh Tro Tàn&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>YARROW: I’m intrigued, love! Everyone here working on the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; is excited to see it (Pye is beside herself with joy!).</key>
-		<value>YARROW: Anh xúc động quá, Clary yêu dấu! Mọi người làm việc trong &lt;color=orange&gt;Dự Án Song Tinh Tro Tàn&lt;/color&gt; đều rất hào hứng muốn được thấy cái lõi đấy (Pye còn đang làm ầm lên vì phấn khích này!).</value>
+		<value>YARROW: Anh xúc động quá, Clary yêu dấu! Mọi người làm việc trong &lt;color=orange&gt;Dự Án Tử Tinh Tro Tàn&lt;/color&gt; đều rất hào hứng muốn được thấy cái lõi đấy (Pye còn đang làm ầm lên vì phấn khích này!).</value>
 	</entry>
 	<entry>
 		<key>POKE: No, it isn’t!</key>
@@ -1692,7 +1692,7 @@
 	</entry>
 	<entry>
 		<key>YARROW: My gratitude for the latest shipment, Oeno! This ore should be the last we’ll need for the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;.</key>
-		<value>YARROW: Cảm ơn vì đợt vận chuyển vừa rồi, Oeno! Lô quặng này sẽ là lượng quặng cuối cùng ta cần cho &lt;color=orange&gt;Dự Án Song Tinh Tro Tàn&lt;/color&gt;.</value>
+		<value>YARROW: Cảm ơn vì đợt vận chuyển vừa rồi, Oeno! Lô quặng này sẽ là lượng quặng cuối cùng ta cần cho &lt;color=orange&gt;Dự Án Tử Tinh Tro Tàn&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>YARROW: Once we’ve finished the shell that seals off the central chamber, we’ll check to ensure there are no longer any physical entrances. Ramie and I will be checking the interior and then the exterior for cracks (our final safety check).</key>
@@ -1704,19 +1704,19 @@
 	</entry>
 	<entry>
 		<key>YARROW: We’d be grateful if you would! The more eyes, the better, as the smallest flaw or opening in the shell that protects the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; could lead to disaster.</key>
-		<value>YARROW: Chúng tôi sẽ rất biết ơn nếu được anh giúp đỡ! Ta cần càng nhiều người giám sát càng tốt, vì chỉ cần một sai sót nhỏ nhất hay một vết hở trên lớp vỏ bảo vệ &lt;color=orange&gt;Dự Án Song Tinh Tro Tàn&lt;/color&gt; cũng sẽ dẫn tới thảm họa.</value>
+		<value>YARROW: Chúng tôi sẽ rất biết ơn nếu được anh giúp đỡ! Ta cần càng nhiều người giám sát càng tốt, vì chỉ cần một sai sót nhỏ nhất hay một vết hở trên lớp vỏ bảo vệ &lt;color=orange&gt;Dự Án Tử Tinh Tro Tàn&lt;/color&gt; cũng sẽ dẫn tới thảm họa.</value>
 	</entry>
 	<entry>
 		<key>OENO: I’m still amazed by how much ore the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; requires!</key>
-		<value>OENO: Tôi vẫn kinh ngạc về lượng quặng mà &lt;color=orange&gt;Dự Án Song Tinh Tro Tàn&lt;/color&gt; yêu cầu đấy!</value>
+		<value>OENO: Tôi vẫn kinh ngạc về lượng quặng mà &lt;color=orange&gt;Dự Án Tử Tinh Tro Tàn&lt;/color&gt; yêu cầu đấy!</value>
 	</entry>
 	<entry>
 		<key>CYCAD: Isn’t this the ore for the remaining towers being built on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;? The completed towers I’ve seen are quite large!</key>
-		<value>CYCAD: Chẳng phải số quặng này là dành cho việc xây dựng các tháp dịch chuyển còn lại trên &lt;color=lightblue&gt;Song Tinh Tro Tàn&lt;/color&gt; ạ? Cháu thấy mấy tòa tháp đã xây xong cũng đồ sộ lắm!</value>
+		<value>CYCAD: Chẳng phải số quặng này là dành cho việc xây dựng các tháp dịch chuyển còn lại trên &lt;color=lightblue&gt;Tử Tinh Tro Tàn&lt;/color&gt; ạ? Cháu thấy mấy tòa tháp đã xây xong cũng đồ sộ lắm!</value>
 	</entry>
 	<entry>
 		<key>OENO: No, the material for those towers is all being taken from &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;. The ore we’re mining here will be used to craft an immensely thick protective shell that will physically seal off the chamber inside &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;’s core.</key>
-		<value>OENO: Không phải, nguyên vật liệu để xây dựng những tòa tháp ấy đều được khai thác trực tiếp từ &lt;color=lightblue&gt;Song Tinh Tro Tàn&lt;/color&gt;. Còn loại quặng mà chúng ta đang khai thác ở đây được dùng để chế tạo một lớp vỏ bảo vệ cực dày, thứ sẽ bao kín căn buồng bên trong lõi của &lt;color=lightblue&gt;Song Tinh Tro Tàn&lt;/color&gt;.</value>
+		<value>OENO: Không phải, nguyên vật liệu để xây dựng những tòa tháp ấy đều được khai thác trực tiếp từ &lt;color=lightblue&gt;Tử Tinh Tro Tàn&lt;/color&gt;. Còn loại quặng mà chúng ta đang khai thác ở đây được dùng để chế tạo một lớp vỏ bảo vệ cực dày, thứ sẽ bao kín căn buồng bên trong lõi của &lt;color=lightblue&gt;Tử Tinh Tro Tàn&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>COLEUS: I’m relieved by our clan’s decision to use &lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;’s ore only for constructing the shell. If, eventually, life on this planet were to evolve to the point of advanced metallurgy, I’m confident we won’t have destroyed their ability to create!</key>
@@ -1732,15 +1732,15 @@
 	</entry>
 	<entry>
 		<key>COLEUS: How else would he improve?</key>
-		<value>COLEUS: Không cấm thì bao giờ nhóc ấy khá hơn được?</value>
+		<value>COLEUS: Không cấm thì bao giờ trò ấy khá hơn được?</value>
 	</entry>
 	<entry>
 		<key>&lt;color=lightblue&gt;Ash Twin&lt;/color&gt; warp network status: All towers online.</key>
-		<value>Trạng thái mạng dịch chuyển &lt;color=lightblue&gt;Song Tinh Tro Tàn&lt;/color&gt;: Tất cả các tháp đều đang hoạt động.</value>
+		<value>Trạng thái mạng dịch chuyển &lt;color=lightblue&gt;Tử Tinh Tro Tàn&lt;/color&gt;: Tất cả các tháp đều đang hoạt động.</value>
 	</entry>
 	<entry>
 		<key>&lt;color=lightblue&gt;Ash Twin&lt;/color&gt; warp network status: &lt;color=orange&gt;Sun tower&lt;/color&gt; offline as of &lt;MinutesSinceRedGiant&gt; minutes &lt;SecondsSinceRedGiant&gt; seconds ago.\\nAll other towers online.</key>
-		<value>Trạng thái mạng dịch chuyển &lt;color=lightblue&gt;Song Tinh Tro Tàn&lt;/color&gt;: &lt;color=orange&gt;Tháp mặt trời&lt;/color&gt; đã dừng hoạt động cách đây &lt;MinutesSinceRedGiant&gt; phút &lt;SecondsSinceRedGiant&gt; giây.\\nTất cả các tháp còn lại đều vẫn hoạt động bình thường.</value>
+		<value>Trạng thái mạng dịch chuyển &lt;color=lightblue&gt;Tử Tinh Tro Tàn&lt;/color&gt;: &lt;color=orange&gt;Tháp mặt trời&lt;/color&gt; đã dừng hoạt động cách đây &lt;MinutesSinceRedGiant&gt; phút &lt;SecondsSinceRedGiant&gt; giây.\\nTất cả các tháp còn lại đều vẫn hoạt động bình thường.</value>
 	</entry>
 	<entry>
 		<key>Sun tower offline as of &lt;MinutesSinceRedGiant&gt; minutes &lt;SecondsSinceRedGiant&gt; seconds ago.\\nAll other towers online.</key>
@@ -1980,7 +1980,7 @@
 	</entry>
 	<entry>
 		<key>GabbroFoundSomethingMenuI found Nomai masks inside the Ash Twin Project.</key>
-		<value>Em tìm thấy những chiếc mặt nạ Nomai bên trong Dự Án Song Tinh Tro Tàn.</value>
+		<value>Em tìm thấy những chiếc mặt nạ Nomai bên trong Dự Án Tử Tinh Tro Tàn.</value>
 	</entry>
 	<entry>
 		<key>GabbroFoundSomethingMenuI found what happened to the Orbital Probe Cannon.</key>
@@ -2020,7 +2020,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething2_3FWait, whoa, really? The Nomai carved out Ash Twin and built a time loop device inside? ...That is &lt;i&gt;wild&lt;/i&gt;.</key>
-		<value>Khoan, wow, thật à? Người Nomai đã đục rỗng Song Tinh Tro Tàn và xây dựng một thiết bị điều khiển vòng lặp thời gian trong đó? ...Thật &lt;i&gt;điên rồ&lt;/i&gt;.</value>
+		<value>Khoan, wow, thật à? Người Nomai đã đục rỗng Tử Tinh Tro Tàn và xây dựng một thiết bị điều khiển vòng lặp thời gian trong đó? ...Thật &lt;i&gt;điên rồ&lt;/i&gt;.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_3FNow we know what’s causing the loop, then. And... if it’s caused by a device, that must mean it had to be switched on, right? Huh...</key>
@@ -2312,7 +2312,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething2_3TWait, whoa, really? The Nomai carved out Ash Twin and built a time loop device inside? ...That is &lt;i&gt;wild&lt;/i&gt;.</key>
-		<value>Khoan, wow, thật à? Người Nomai đã đục rỗng Song Tinh Tro Tàn và xây dựng một thiết bị điều khiển vòng lặp thời gian trong đó? ...Thật &lt;i&gt;điên rồ&lt;/i&gt;.</value>
+		<value>Khoan, wow, thật à? Người Nomai đã đục rỗng Tử Tinh Tro Tàn và xây dựng một thiết bị điều khiển vòng lặp thời gian trong đó? ...Thật &lt;i&gt;điên rồ&lt;/i&gt;.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_3TNow we know what’s causing the loop, then. And... if it’s caused by a device, that must mean it had to be switched on, right? Huh...</key>
@@ -2508,7 +2508,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething2_mergeWait, whoa, really? The Nomai carved out Ash Twin and built a time loop device inside? ...That is &lt;i&gt;wild&lt;/i&gt;.</key>
-		<value>Khoan, wow, thật à? Người Nomai đã đục rỗng Song Tinh Tro Tàn và xây dựng một thiết bị điều khiển vòng lặp thời gian trong đó? ...Thật &lt;i&gt;điên rồ&lt;/i&gt;.</value>
+		<value>Khoan, wow, thật à? Người Nomai đã đục rỗng Tử Tinh Tro Tàn và xây dựng một thiết bị điều khiển vòng lặp thời gian trong đó? ...Thật &lt;i&gt;điên rồ&lt;/i&gt;.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_mergeNow we know what’s causing the loop, then. And... if it’s caused by a device, that must mean it had to be switched on, right? Huh...</key>
@@ -2884,7 +2884,7 @@
 	</entry>
 	<entry>
 		<key>ScientistAnswer35Well yeah, it’s a death-trap, but a really &lt;i&gt;powerful&lt;/i&gt; death trap. What, you suddenly care about safety &lt;i&gt;now&lt;/i&gt;?</key>
-		<value>À thì, nó đúng là một cái bẫy chết người thật, nhưng là một cái bẫy chết người &lt;i&gt;công suất cực lớn&lt;/i&gt;. Gì đấy, sao &lt;i&gt;đột nhiên&lt;/i&gt; nhóc lại quan tâm về vấn đề an toàn nhỉ?</value>
+		<value>À thì, nó đúng là một cái bẫy chết người thật, nhưng là một cái bẫy chết người với &lt;i&gt;công suất cực lớn&lt;/i&gt;. Gì đấy, sao tới giờ nhóc mới &lt;i&gt;đột nhiên&lt;/i&gt; quan tâm về vấn đề an toàn nhỉ?</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer36And you’re lucky I don’t have you grounded for medical reasons, because I have no idea what you’re talking about.</key>
@@ -2920,7 +2920,7 @@
 	</entry>
 	<entry>
 		<key>ScientistAnswer39Me, I’m here for the rocket science and the marshmallows.</key>
-		<value>Còn ta, ta ở đây để nghiên cứu tên lửa và ăn kẹo dẻo.</value>
+		<value>Còn ta, ta ở đây để nghiên cứu chế tạo tên lửa và ăn kẹo dẻo.</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer40Yeah, I’d stick to exploring our solar system, if I were you. As much as I hate to admit it, our ships aren’t deep-space-worthy.</key>
@@ -2940,7 +2940,7 @@
 	</entry>
 	<entry>
 		<key>Slate_ShipLog_1It’s a brilliant feature, if I say so myself. Dead useful. And the risk it poses of shorting out the fuel regulator and causing the ship to explode is so minimal that only Gossan would worry about it.</key>
-		<value>Tính năng thiên tài đấy, đến mức ta cũng phải tự khen luôn. Cực kỳ hữu dụng. Và rủi ro gây đoản mạch bộ điều áp nhiên liệu khiến phi thuyền nổ tung lại nhỏ li ti đến mức chỉ có mình lão Gossan thấy sợ thôi.</value>
+		<value>Tính năng thiên tài đấy, đến mức ta cũng phải tự khen luôn. Cực kỳ hữu dụng. Và rủi ro gây đoản mạch bộ điều áp nhiên liệu dẫn tới nổ tung phi thuyền lại nhỏ li ti đến mức chỉ có mình lão Gossan thấy sợ thôi.</value>
 	</entry>
 	<entry>
 		<key>SlateSlate_ShipLog_1Wait, so how do I use it?</key>
@@ -3032,7 +3032,7 @@
 	</entry>
 	<entry>
 		<key>
-			ERROR: Unable to determine orbit. No signal detected matching any known criteria for the Eye of the universe.
+		    ERROR: Unable to determine orbit. No signal detected matching any known criteria for the Eye of the universe.
 		</key>
 		<value>
 			LỖI: Không xác định được quỹ đạo. Không tìm thấy tín hiệu có tính chất trùng khớp với Con Mắt Vũ Trụ.
@@ -3088,7 +3088,7 @@
 	</entry>
 	<entry>
 		<key>Feldspar2aI haven’t lived in polite society for a while, so I’m just going to go ahead and assume that wasn’t sarcasm.</key>
-		<value>Cũng đã lâu rồi ta không sống trong xã hội văn minh, nên ta sẽ cho rằng câu nói đó không phải mỉa mai và bỏ qua.</value>
+		<value>Cũng đã lâu rồi ta chưa được sống trong xã hội văn minh, nên ta sẽ cho rằng lời khen vừa rồi không phải đá xéo và bỏ qua.</value>
 	</entry>
 	<entry>
 		<key>Feldspar3What! Me, killed off by thorny, extradimensional plants that entirely violate the laws of space and time, and a couple of giant predatory fish with gaping maws and enormously sharp fangs? Not in this lifetime, little buddy.</key>
@@ -3480,7 +3480,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething4As Chert will tell you if you so much as glance in Dark Bramble’s direction, there used to be a fifth planet where the Bramble is now.</key>
-		<value>Nhóc chỉ cần hơi liếc về phía Rừng Gai Hắc Ám một cái là Chert sẽ kể điều này cho nhóc ngay, rằng đã từng có một hành tinh thứ năm tại vị trí của Rừng Gai Hắc Ám.</value>
+		<value>Nhóc chỉ cần hơi liếc mắt về phía Rừng Gai Hắc Ám một cái là Chert sẽ kể điều này cho nhóc ngay, rằng đã từng có một hành tinh thứ năm tại vị trí của Rừng Gai Hắc Ám.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4This infernal plant appeared at the center and kept growing, and growing, and growing, until it shattered the planet and scattered its pieces across space.</key>
@@ -4003,7 +4003,7 @@
 			MELORAE: If you’ve come here to look for Coleus, this is where we were when he vanished. He’s been missing for two days now!
 		</key>
 		<value>
-			MELORAE: If you’ve come here to look for Coleus, this is where we were when he vanished. He’s been missing for two days now!
+			MELORAE: Nếu mọi người tới đây để tìm Coleus, thì đây là nơi trò ấy biến mất. Trò ấy đã mất tích được hai ngày rồi!
 		</value>
 	</entry>
 	<entry>
@@ -4011,7 +4011,7 @@
 			ANNONA: Your strange, wandering rock friend is here, though Coleus isn’t.
 		</key>
 		<value>
-			ANNONA: Your strange, wandering rock friend is here, though Coleus isn’t.
+			ANNONA: Tảng đá lang thang kỳ lạ của cô vẫn ở đây này, còn Coleus thì lại chưa thấy đâu.
 		</value>
 	</entry>
 	<entry>
@@ -4019,7 +4019,7 @@
 			MELORAE: Coleus and I observed this unusual-looking rock shard (and several smaller rocks) in at least two other caverns. I’m unsure if this is relevant.
 		</key>
 		<value>
-			MELORAE: Coleus and I observed this unusual-looking rock shard (and several smaller rocks) in at least two other caverns. I’m unsure if this is relevant.
+			MELORAE: Trò Coleus và tôi đã quan sát được mảnh đá kỳ lạ này (và nhiều tảng đá nhỏ hơn) trong ít nhất hai hang động khác. Tôi không biết liệu chúng có liên quan gì không.
 		</value>
 	</entry>
 	<entry>
@@ -4035,7 +4035,7 @@
 			MELORAE: We were examining the different rocks. I recall Coleus standing on the largest one (the wandering rock). I was taking notes, and then my lantern died.
 		</key>
 		<value>
-			MELORAE: We were examining the different rocks. I recall Coleus standing on the largest one (the wandering rock). I was taking notes, and then my lantern died.
+			MELORAE: Hai cô trò đang khảo sát các mẫu đá. Tôi nhớ Coleus khi đó đang đứng trên tảng đá lớn nhất (cũng chính là tảng đá lang thang). Tôi đang lúi húi ghi chép thì đột nhiên, lồng đèn của tôi vụt tắt.
 		</value>
 	</entry>
 	<entry>
@@ -4043,12 +4043,12 @@
 			MELORAE: When I lit it again, Coleus and the rock were both gone.
 		</key>
 		<value>
-			MELORAE: When I lit it again, Coleus and the rock were both gone.
+			MELORAE: Khi tôi thắp lại đèn, cả trò Coleus lẫn tảng đá đều đã biến mất.
 		</value>
 	</entry>
 	<entry>
 		<key>Should we build the &lt;color=orange&gt;Sun Station&lt;/color&gt; to power the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;?</key>
-		<value>Chúng ta có nên xây dựng &lt;color=orange&gt;Trạm Mặt Trời&lt;/color&gt; để cấp năng lượng cho &lt;color=orange&gt;Dự Án Song Tinh Tro Tàn&lt;/color&gt; không?</value>
+		<value>Chúng ta có nên xây dựng &lt;color=orange&gt;Trạm Mặt Trời&lt;/color&gt; để cấp năng lượng cho &lt;color=orange&gt;Dự Án Tử Tinh Tro Tàn&lt;/color&gt; không?</value>
 	</entry>
 	<entry>
 		<key>IDAEA: I almost can’t comprehend this is being suggested seriously. The purpose of the &lt;color=orange&gt;Sun Station&lt;/color&gt; goes against every standard we hold ourselves to and everything we believe in as a species!</key>
@@ -4068,7 +4068,7 @@
 	</entry>
 	<entry>
 		<key>RAMIE: I understand this proposal is unsettling, but the &lt;color=orange&gt;Sun Station&lt;/color&gt; must be built if we hope to complete the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;.</key>
-		<value>RAMIE: Tôi hiểu rằng đề xuất này thật đáng quan ngại, nhưng ta buộc phải xây dựng &lt;color=orange&gt;Trạm Mặt Trời&lt;/color&gt; nếu vẫn hy vọng có thể hoàn thiện &lt;color=orange&gt;Dự Án Song Tinh Tro Tàn&lt;/color&gt;.</value>
+		<value>RAMIE: Tôi hiểu rằng đề xuất này thật đáng quan ngại, nhưng ta buộc phải xây dựng &lt;color=orange&gt;Trạm Mặt Trời&lt;/color&gt; nếu vẫn hy vọng có thể hoàn thiện &lt;color=orange&gt;Dự Án Tử Tinh Tro Tàn&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>COLEUS: If we fail (and the probability of this is not insignificant), we will without question destroy ourselves, all life here, and the rest of this star system. I wish to protect these species.</key>
@@ -4100,7 +4100,7 @@
 	</entry>
 	<entry>
 		<key>RAMIE: An update: The &lt;color=orange&gt;High Energy Lab&lt;/color&gt; is now being used to design the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;! If you’re here to help (or even just to observe), be sure to use the &lt;color=orange&gt;Sunless City&lt;/color&gt; path to the lab.</key>
-		<value>RAMIE: Tin mới: &lt;color=orange&gt;Phòng Thí Nghiệm Năng Lượng Cao&lt;/color&gt; hiện đang được sử dụng để thiết kế &lt;color=orange&gt;Dự Án Song Tinh Tro Tàn&lt;/color&gt;! Nếu bạn tới đây để trợ giúp (hoặc để tham quan cũng được), xin hãy sử dụng lối đi dưới &lt;color=orange&gt;Thành Phố Đêm Trường&lt;/color&gt; để vào phòng thí nghiệm.</value>
+		<value>RAMIE: Tin mới: &lt;color=orange&gt;Phòng Thí Nghiệm Năng Lượng Cao&lt;/color&gt; hiện đang được sử dụng để thiết kế &lt;color=orange&gt;Dự Án Tử Tinh Tro Tàn&lt;/color&gt;! Nếu bạn tới đây để trợ giúp (hoặc để tham quan cũng được), xin hãy sử dụng lối đi dưới &lt;color=orange&gt;Thành Phố Đêm Trường&lt;/color&gt; để vào phòng thí nghiệm.</value>
 	</entry>
 	<entry>
 		<key>RAMIE: The &lt;color=orange&gt;Southern Observatory&lt;/color&gt; is asking if creating a 22 minute interval is possible (that is, to have something arrive 22 minutes before it is actually sent through the warp).</key>
@@ -4120,7 +4120,7 @@
 	</entry>
 	<entry>
 		<key>PYE: We would also likely need an enormous space to fit these proposed new energy and warp technologies together. The only location large enough would be &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;.</key>
-		<value>PYE: Và chúng tôi cũng sẽ cần một không gian rộng rãi để có thể xây dựng và tích hợp các công nghệ ấy với nhau. Địa điểm đủ rộng duy nhất có lẽ chỉ còn &lt;color=lightblue&gt;Song Tinh Tro Tàn&lt;/color&gt;.</value>
+		<value>PYE: Và chúng tôi cũng sẽ cần một không gian rộng rãi để có thể xây dựng và tích hợp các công nghệ ấy với nhau. Địa điểm đủ rộng duy nhất có lẽ chỉ còn &lt;color=lightblue&gt;Tử Tinh Tro Tàn&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>RAMIE: The energy is &lt;i&gt;currently&lt;/i&gt; unavailable, you say? You’re a gas, Pye!</key>
@@ -4175,8 +4175,7 @@
 		<value>PYE: Phát kiến này còn trên cả phi thường! Nó sẽ thay đổi &lt;i&gt;tất cả mọi thứ&lt;/i&gt;! Thật là một ngày tuyệt đẹp cho khoảnh khắc tương ngộ giữa lý thuyết và ứng dụng này!</value>
 	</entry>
 	<entry>
-		<key>
-			SECCA: Our &lt;color=orange&gt;escape pod&lt;/color&gt; crashed as we tried to flee this place, destroying our movement and communication capabilities in the process.
+		<key>SECCA: Our &lt;color=orange&gt;escape pod&lt;/color&gt; crashed as we tried to flee this place, destroying our movement and communication capabilities in the process.
 		</key>
 		<value>
 			SECCA: &lt;color=orange&gt;Kén thoát hiểm&lt;/color&gt; của ta đã va chạm khi đang cố thoát khỏi nơi này, tước đi khả năng di chuyển cũng như liên lạc của chúng ta.
@@ -4408,7 +4407,7 @@
 	</entry>
 	<entry>
 		<key>
-			WARNING: Opens emergency door.
+		    WARNING: Opens emergency door.
 		</key>
 		<value>
 			CẢNH BÁO: Mở cửa thoát hiểm.
@@ -4420,11 +4419,11 @@
 	</entry>
 	<entry>
 		<key>IDAEA: Here’s a better one. Mission: Determine if it’s possible to prompt the &lt;color=lightblue&gt;sun&lt;/color&gt; to explode.</key>
-		<value>IDAEA: Phát biểu thế này hay hơn đấy. Nhiệm vụ: Xác định xem việc kích nổ &lt;color=lightblue&gt;mặt trời&lt;/color&gt; có khả thi hay không.</value>
+		<value>IDAEA: Như thế này hay hơn này. Nhiệm vụ: Xác định xem việc kích nổ &lt;color=lightblue&gt;mặt trời&lt;/color&gt; có khả thi hay không.</value>
 	</entry>
 	<entry>
 		<key>IDAEA: Can’t we change this? I don’t enjoy working in view of such a morbid mission statement.</key>
-		<value>IDAEA: Không đổi được à? Tôi không thích phải làm việc với một phát biểu nhiệm vụ bệnh hoạn như vậy.</value>
+		<value>IDAEA: Không nói kiểu khác được à? Tôi không thích phải làm việc với một phát biểu nhiệm vụ bệnh hoạn như vậy.</value>
 	</entry>
 	<entry>
 		<key>PYE: But it’s accurate. We’re going to create a supernova for the purpose of scientific progress. That’s our mission.</key>
@@ -4464,19 +4463,19 @@
 	</entry>
 	<entry>
 		<key>COLEUS: Annona and those of us originally stranded on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; built a &lt;color=orange&gt;Quantum Moon locator&lt;/color&gt; there, but the heat of the &lt;color=lightblue&gt;sun&lt;/color&gt; made its construction challenging. I wouldn’t recommend building on that planet.</key>
-		<value>COLEUS: Bác Annona và những thành viên từng bị kẹt lại trên &lt;color=lightblue&gt;Song Tinh Than Hồng&lt;/color&gt; đã  chế tạo &lt;color=orange&gt;máy định vị Mặt Trăng Lượng Tử&lt;/color&gt; tại đó, nhưng mức nhiệt khủng khiếp từ &lt;color=lightblue&gt;mặt trời&lt;/color&gt; đã gây ra rất nhiều khó khăn cho dự án. Tôi sẽ không đề xuất dự án mới trên hành tinh này.</value>
+		<value>COLEUS: Bác Annona và những thành viên từng bị kẹt lại trên &lt;color=lightblue&gt;Tử Tinh Than Hồng&lt;/color&gt; đã  chế tạo &lt;color=orange&gt;máy định vị Mặt Trăng Lượng Tử&lt;/color&gt; tại đó, nhưng mức nhiệt khủng khiếp từ &lt;color=lightblue&gt;mặt trời&lt;/color&gt; đã gây ra rất nhiều khó khăn cho dự án. Tôi sẽ không đề xuất dự án mới trên hành tinh này.</value>
 	</entry>
 	<entry>
 		<key>
-			COLEUS: After closer observation, mining site 2a wouldn’t be safe for the native life dwelling in some of this cave’s pools, so (unfortunately) we’ll have to mine one of the other sites.
+		    COLEUS: After closer observation, mining site 2a wouldn’t be safe for the native life dwelling in some of this cave’s pools, so (unfortunately) we’ll have to mine one of the other sites.
 		</key>
 		<value>
-			COLEUS: Sau khi quan sát kỹ càng, việc khai thác tại khu mỏ 2a sẽ gây mất an toàn cho sinh vật nguyên thủy trong những hồ chứa tại nơi đây, vậy nên (thật đáng tiếc) chúng ta sẽ phải tìm một khu vực khác để khai thác.
+			COLEUS: Sau khi quan sát kỹ lưỡng, việc khai thác tại khu mỏ 2a sẽ gây mất an toàn cho sinh vật nguyên thủy trong những hồ chứa tại nơi đây, vậy nên (thật đáng tiếc) chúng ta sẽ phải tìm một khu vực khác để khai thác.
 		</value>
 	</entry>
 	<entry>
 		<key>
-			COLEUS: On the opposite hand, new life! This species is semi-aquatic, and very hardy. The ecosystem here is quite robust, so I believe they’ll thrive in the long run. Be cautious near the pools if you visit 2a to meet them.
+		    COLEUS: On the opposite hand, new life! This species is semi-aquatic, and very hardy. The ecosystem here is quite robust, so I believe they’ll thrive in the long run. Be cautious near the pools if you visit 2a to meet them.
 		</key>
 		<value>
 			COLEUS: Nhưng bù lại, ta cũng đã phát hiện ra được sự sống mới! Đây là một chủng loài lưỡng cư, lại rất dạn người. Hệ sinh thái nơi đây cũng rất lành mạnh và sạch sẽ, nên tôi tin rằng loài sinh vật này sẽ có thể phát triển bền vững trong lâu dài. Xin hãy cẩn trọng khi ở tới gần những hồ chứa nếu bạn có nhã ý ghé qua khu 2a để thăm quan.
@@ -4484,7 +4483,7 @@
 	</entry>
 	<entry>
 		<key>
-			CYCAD: There are a few other cave sites that look promising. What about site 2b (it shares similar formations and strata)?
+		    CYCAD: There are a few other cave sites that look promising. What about site 2b (it shares similar formations and strata)?
 		</key>
 		<value>
 			CYCAD: Có những khu vực hang động khác tiềm năng lắm ạ. Mọi người nghĩ sao về khu mỏ 2b (có chung cấu trúc địa tầng với nơi này) ạ?
@@ -4492,7 +4491,7 @@
 	</entry>
 	<entry>
 		<key>
-			OENO: This sounds promising! Will you and your mentor investigate? If mining site 2b proves safe for this native species, we’ll move our work there.
+		    OENO: This sounds promising! Will you and your mentor investigate? If mining site 2b proves safe for this native species, we’ll move our work there.
 		</key>
 		<value>
 			OENO: Phương án triển vọng đấy! Nhóc hãy cùng thầy mình đi khảo sát nhé? Nếu khu mỏ 2b không gây hại cho loài lưỡng cư này, chúng ta sẽ chuyển tới làm việc tại đó.
@@ -4500,7 +4499,7 @@
 	</entry>
 	<entry>
 		<key>
-			CYCAD: Site 2b is safe! Coleus says we’ll continue to monitor our activity and its effect on life here.
+		    CYCAD: Site 2b is safe! Coleus says we’ll continue to monitor our activity and its effect on life here.
 		</key>
 		<value>
 			CYCAD: Khu mỏ 2b đã xác thực đảm bảo an toàn! Thầy Coleus có bảo rằng chúng ta vẫn sẽ tiếp tục theo dõi hoạt động khai thác của chúng ta và những ảnh hưởng lên sự sống tại đây.
@@ -4508,15 +4507,15 @@
 	</entry>
 	<entry>
 		<key>
-			CYCAD: I was watching them once during a rest, and the hours escaped from me. They’re fascinating (I wonder what their fourth eye does)!
+		    CYCAD: I was watching them once during a rest, and the hours escaped from me. They’re fascinating (I wonder what their fourth eye does)!
 		</key>
 		<value>
-			CYCAD: Cháu đã thử một lần ngồi ngắm chúng vào giờ nghỉ, thế mà lại ngồi đến quên cả giờ giấc luôn. Những sinh vật này thật thú vị (không biết con mắt thứ tư của chúng có tác dụng gì nhỉ)!
+			CYCAD: Em đã thử một lần ngồi ngắm chúng vào giờ nghỉ, thế là quên cả giờ giấc luôn. Những sinh vật này thật thú vị (không biết con mắt thứ tư của chúng có tác dụng gì nhỉ)!
 		</value>
 	</entry>
 	<entry>
 		<key>
-			COLEUS: They remind me of a subterranean species that my mentor, Melorae, once told me about (from when our clan used to travel across this universe). I imagine she would have enjoyed these lifeforms greatly.
+		    COLEUS: They remind me of a subterranean species that my mentor, Melorae, once told me about (from when our clan used to travel across this universe). I imagine she would have enjoyed these lifeforms greatly.
 		</key>
 		<value>
 			COLEUS: Chúng khiến ta nhớ về một loài sinh vật dưới lòng đất mà cô giáo của ta, Melorae, từng kể (từ hồi bộ tộc chúng ta vẫn đang du hành khắp nơi trong vũ trụ này). Có lẽ cô ấy cũng đã yêu quý những sinh vật ấy hệt như vậy.
@@ -4532,11 +4531,11 @@
 	</entry>
 	<entry>
 		<key>Caution: You are about to access the core while the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; is active.</key>
-		<value>Cẩn trọng: Bạn sắp tác động lên phần lõi khi &lt;color=orange&gt;Dự Án Song Tinh Tro Tàn&lt;/color&gt; đang trong trạng thái kích hoạt.</value>
+		<value>Cẩn trọng: Bạn sắp tác động lên phần lõi khi &lt;color=orange&gt;Dự Án Tử Tinh Tro Tàn&lt;/color&gt; đang trong trạng thái kích hoạt.</value>
 	</entry>
 	<entry>
 		<key>WARNING: Removing the core will disable the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;.</key>
-		<value>CẢNH BÁO: Loại bỏ lõi dịch chuyển sẽ vô hiệu hóa &lt;color=orange&gt;Dự Án Song Tinh Tro Tàn&lt;/color&gt;.</value>
+		<value>CẢNH BÁO: Loại bỏ lõi dịch chuyển sẽ vô hiệu hóa &lt;color=orange&gt;Dự Án Tử Tinh Tro Tàn&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>
@@ -4548,7 +4547,7 @@
 	</entry>
 	<entry>
 		<key>YARROW: Today we finished the excavation of &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;. Here, in this space we carved, we will craft our most ambitious project yet: the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;, powerful enough to send information back in time.</key>
-		<value>YARROW: Hôm nay là ngày chúng ta hoàn thành giai đoạn khai hoang &lt;color=lightblue&gt;Song Tinh Tro Tàn&lt;/color&gt;. Tại đây, trong khoảng rỗng mà chúng ta đã đào được này, chúng ta sẽ cùng nhau xây dựng nên dự án tham vọng nhất trong lịch sử Nomai: &lt;color=orange&gt;Dự Án Song Tinh Tro Tàn&lt;/color&gt;, với khả năng gửi thông tin ngược về quá khứ.</value>
+		<value>YARROW: Hôm nay là ngày chúng ta hoàn thành giai đoạn khai hoang &lt;color=lightblue&gt;Tử Tinh Tro Tàn&lt;/color&gt;. Tại đây, trong khoảng rỗng mà chúng ta đã đào được này, chúng ta sẽ cùng nhau xây dựng nên dự án tham vọng nhất trong lịch sử Nomai: &lt;color=orange&gt;Dự Án Tử Tinh Tro Tàn&lt;/color&gt;, với khả năng gửi thông tin ngược về quá khứ.</value>
 	</entry>
 	<entry>
 		<key>COLEUS: We’ve also finished relocating all subterranean plants we met while digging.</key>
@@ -4564,7 +4563,7 @@
 	</entry>
 	<entry>
 		<key>YARROW: Poke just sent the warp core for the final tower to us from the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt;. Now &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; can be connected with &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;, where Cassava is working with Avens to craft the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt;, and where Phlox is sculpting the memory statues.</key>
-		<value>YARROW: Poke vừa gửi cho chúng ta chiếc lõi dùng cho tháp dịch chuyển cuối cùng từ &lt;color=orange&gt;Lò Luyện Hố Đen&lt;/color&gt;. Giờ &lt;color=lightblue&gt;Song Tinh Tro Tàn&lt;/color&gt; đã có thể được kết nối tới &lt;color=lightblue&gt;Đại Dương Khổng Lồ&lt;/color&gt;, nơi Cassava đang làm việc cùng Avens để chế tạo &lt;color=orange&gt;Đại Pháo Vệ Tinh Do Thám&lt;/color&gt;, và cũng là nơi Phlox đang tạc nên những bức tượng ký ức.</value>
+		<value>YARROW: Poke vừa gửi cho chúng ta chiếc lõi dùng cho tháp dịch chuyển cuối cùng từ &lt;color=orange&gt;Lò Luyện Hố Đen&lt;/color&gt;. Giờ &lt;color=lightblue&gt;Tử Tinh Tro Tàn&lt;/color&gt; đã có thể được kết nối tới &lt;color=lightblue&gt;Đại Dương Khổng Lồ&lt;/color&gt;, nơi Cassava đang làm việc cùng Avens để chế tạo &lt;color=orange&gt;Đại Pháo Vệ Tinh Do Thám&lt;/color&gt;, và cũng là nơi Phlox đang tạc nên những bức tượng ký ức.</value>
 	</entry>
 	<entry>
 		<key>CASSAVA: Hypothesis: It was not by accident the core of our warp tower was the last to be forged.</key>
@@ -4576,7 +4575,7 @@
 	</entry>
 	<entry>
 		<key>YARROW: The important point is we are all connected through &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; now, and also that I’m no longer needed for mediating your disagreements.</key>
-		<value>YARROW: Quan trọng là hiện giờ chúng ta đều đã được kết nối với nhau thông qua &lt;color=lightblue&gt;Song Tinh Tro Tàn&lt;/color&gt;, và tôi không còn nghĩa vụ phải giải quyết mâu thuẫn giữa hai người nữa.</value>
+		<value>YARROW: Quan trọng là hiện giờ chúng ta đều đã được kết nối với nhau thông qua &lt;color=lightblue&gt;Tử Tinh Tro Tàn&lt;/color&gt;, và tôi không còn nghĩa vụ phải giải quyết mâu thuẫn giữa hai người nữa.</value>
 	</entry>
 	<entry>
 		<key>YARROW: Our friends on &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; tested the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; today. Mallow tells me the cannon is doing well, and that Avens advocates for more launch power. If anyone can coax the maximum power from a device, Avens can.</key>
@@ -4592,7 +4591,7 @@
 	</entry>
 	<entry>
 		<key>YARROW: Pye and Idaea have worked hard on the &lt;color=orange&gt;Sun Station&lt;/color&gt;, and it at last is complete. If everything goes as planned, this structure will prompt the &lt;color=lightblue&gt;sun&lt;/color&gt;’s explosion, which will in turn supply the power the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; requires.</key>
-		<value>YARROW: Pye và Idaea đã làm việc cật lực trên &lt;color=orange&gt;Trạm Mặt Trời&lt;/color&gt;, và cuối cùng công trình ấy cũng đã hoàn thành. Nếu mọi chuyện xảy ra theo đúng kế hoạch, công trình này sẽ kích nổ &lt;color=lightblue&gt;mặt trời&lt;/color&gt;, vụ nổ siêu tân tinh sau đó sẽ cung cấp năng lượng cần thiết cho &lt;color=orange&gt;Dự Án Song Tinh Tro Tàn&lt;/color&gt;.</value>
+		<value>YARROW: Pye và Idaea đã làm việc cật lực trên &lt;color=orange&gt;Trạm Mặt Trời&lt;/color&gt;, và cuối cùng công trình ấy cũng đã hoàn thành. Nếu mọi chuyện xảy ra theo đúng kế hoạch, công trình này sẽ kích nổ &lt;color=lightblue&gt;mặt trời&lt;/color&gt;, vụ nổ siêu tân tinh sau đó sẽ cung cấp năng lượng cần thiết cho &lt;color=orange&gt;Dự Án Tử Tinh Tro Tàn&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>RAMIE: I’m impressed by their mental fortitude. This was the project’s most difficult task, in more ways than one.</key>
@@ -4600,11 +4599,11 @@
 	</entry>
 	<entry>
 		<key>YARROW: We’re nearly ready to activate the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;! Here is what will happen: First, the &lt;color=orange&gt;Sun Station&lt;/color&gt; will receive the order to fire at the &lt;color=lightblue&gt;sun&lt;/color&gt;, prompting it to explode.</key>
-		<value>YARROW: Chúng ta sắp sẵn sàng để khởi động &lt;color=orange&gt;Dự Án Song Tinh Tro Tàn&lt;/color&gt; rồi! Sau đây là trình tự vận hành: Đầu tiên, &lt;color=orange&gt;Trạm Mặt Trời&lt;/color&gt; sẽ nhận lệnh khai hỏa về phía &lt;color=lightblue&gt;mặt trời&lt;/color&gt;, khiến nó phát nổ siêu tân tinh.</value>
+		<value>YARROW: Chúng ta sắp sẵn sàng để khởi động &lt;color=orange&gt;Dự Án Tử Tinh Tro Tàn&lt;/color&gt; rồi! Sau đây là trình tự vận hành: Đầu tiên, &lt;color=orange&gt;Trạm Mặt Trời&lt;/color&gt; sẽ nhận lệnh khai hỏa về phía &lt;color=lightblue&gt;mặt trời&lt;/color&gt;, khiến nó phát nổ siêu tân tinh.</value>
 	</entry>
 	<entry>
 		<key>YARROW: Using the energy from the resulting supernova, the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; will send the order for the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; to fire back in time by 22 minutes.</key>
-		<value>YARROW: Sử dụng năng lượng từ vụ nổ siêu tân tinh này, &lt;color=orange&gt;Dự Án Song Tinh Tro Tàn&lt;/color&gt; sẽ gửi lệnh khai hỏa tới &lt;color=orange&gt;Đại Pháo Vệ Tinh Do Thám&lt;/color&gt; vào thời điểm cách đó 22 phút trước.</value>
+		<value>YARROW: Sử dụng năng lượng từ vụ nổ siêu tân tinh này, &lt;color=orange&gt;Dự Án Tử Tinh Tro Tàn&lt;/color&gt; sẽ gửi lệnh khai hỏa tới &lt;color=orange&gt;Đại Pháo Vệ Tinh Do Thám&lt;/color&gt; vào thời điểm cách đó 22 phút trước.</value>
 	</entry>
 	<entry>
 		<key>YARROW: Exactly 22 minutes after these orders are received, the &lt;color=orange&gt;Sun Station&lt;/color&gt; will again trigger the supernova to send the probe data from this cannon launch back in time.</key>
@@ -4612,7 +4611,7 @@
 	</entry>
 	<entry>
 		<key>YARROW: In total, each cycle created by the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; will last precisely 22 minutes. We can end this cycle at will.</key>
-		<value>YARROW: Tổng cộng, mỗi chu kỳ tạo ra bởi &lt;color=orange&gt;Dự Án Song Tinh Tro Tàn&lt;/color&gt; sẽ diễn ra trong chính xác 22 phút. Chúng ta vẫn có thể kết thúc chu kỳ này vào bất cứ lúc nào.</value>
+		<value>YARROW: Tổng cộng, mỗi chu kỳ tạo ra bởi &lt;color=orange&gt;Dự Án Tử Tinh Tro Tàn&lt;/color&gt; sẽ diễn ra trong chính xác 22 phút. Chúng ta vẫn có thể kết thúc chu kỳ này vào bất cứ lúc nào.</value>
 	</entry>
 	<entry>
 		<key>YARROW: These words are difficult to write: The &lt;color=orange&gt;Sun Station&lt;/color&gt; did not work.</key>
@@ -4620,7 +4619,7 @@
 	</entry>
 	<entry>
 		<key>YARROW: However, this is the closest we have ever been. The &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; is theoretically sound; we were only unable to power it. Perhaps there is another way.</key>
-		<value>YARROW: Tuy vậy, chúng ta cũng đã tới được rất gần vạch đích rồi. &lt;color=orange&gt;Dự Án Song Tinh Tro Tàn&lt;/color&gt; là hoàn toàn khả thi về mặt lý thuyết; chỉ là chúng ta chưa có cách nào để cấp năng lượng cho nó thôi. Có lẽ sẽ còn cách khác.</value>
+		<value>YARROW: Tuy vậy, chúng ta cũng đã tới được rất gần vạch đích rồi. &lt;color=orange&gt;Dự Án Tử Tinh Tro Tàn&lt;/color&gt; là hoàn toàn khả thi về mặt lý thuyết; chỉ là chúng ta chưa có cách nào để cấp năng lượng cho nó thôi. Có lẽ sẽ còn cách khác.</value>
 	</entry>
 	<entry>
 		<key>PYE: Suppose we redesign the &lt;color=orange&gt;Sun Station&lt;/color&gt;. To generate power of that magnitude, a supernova is still our only viable option.</key>
@@ -4648,11 +4647,11 @@
 	</entry>
 	<entry>
 		<key>PYE: Friends visiting from the &lt;color=orange&gt;Hanging City&lt;/color&gt;, we are planning the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; at the &lt;color=orange&gt;High Energy Lab&lt;/color&gt; on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;’s equator.</key>
-		<value>PYE: Gửi những người bạn tới thăm từ &lt;color=orange&gt;Thành Phố Treo&lt;/color&gt;, chúng tôi đang lên kế hoạch cho &lt;color=orange&gt;Dự Án Song Tinh Tro Tàn&lt;/color&gt; tại &lt;color=orange&gt;Phòng Thí Nghiệm Năng Lượng Cao&lt;/color&gt; nằm trên đường xích đạo của &lt;color=lightblue&gt;Song Tinh Than Hồng&lt;/color&gt;.</value>
+		<value>PYE: Gửi những người bạn tới thăm từ &lt;color=orange&gt;Thành Phố Treo&lt;/color&gt;, chúng tôi đang lên kế hoạch cho &lt;color=orange&gt;Dự Án Tử Tinh Tro Tàn&lt;/color&gt; tại &lt;color=orange&gt;Phòng Thí Nghiệm Năng Lượng Cao&lt;/color&gt; nằm trên đường xích đạo của &lt;color=lightblue&gt;Tử Tinh Than Hồng&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>CONOY: I became lost on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; (my gratitude that Ramie found me!), but the &lt;color=orange&gt;High Energy Lab&lt;/color&gt; is the building with the large solar panels. I’m suprised I didn’t see it!</key>
-		<value>CONOY: Tôi từng đi lạc một lần trên &lt;color=lightblue&gt;Song Tinh Than Hồng&lt;/color&gt; rồi (chân thành cảm ơn Ramie vì đã tìm thấy tôi!), &lt;color=orange&gt;Phòng Thí Nghiệm Năng Lượng Cao&lt;/color&gt; là tòa nhà có gắn những tấm quang điện lớn ấy. Tôi cũng không ngờ được rằng lúc đó mình lại không nhìn thấy nó đấy!</value>
+		<value>CONOY: Tôi từng đi lạc một lần trên &lt;color=lightblue&gt;Tử Tinh Than Hồng&lt;/color&gt; rồi (chân thành cảm ơn Ramie vì đã tìm thấy tôi!), &lt;color=orange&gt;Phòng Thí Nghiệm Năng Lượng Cao&lt;/color&gt; là tòa nhà có gắn những tấm quang điện lớn ấy. Tôi cũng không ngờ được rằng lúc đó mình lại không nhìn thấy nó đấy!</value>
 	</entry>
 	<entry>
 		<key>RAMIE: I imagine our otherwise immensely clever Conoy would lose his own head if it weren’t anatomically impossible!</key>
@@ -4788,7 +4787,7 @@
 	</entry>
 	<entry>
 		<key>CYCAD: My mentor (Coleus) and his old mentor once discovered and studied an anglerfish fossil on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;. Using that knowledge, we could avoid the anglerfish entirely!</key>
-		<value>CYCAD: Thầy của cháu (Coleus) và cô giáo của thầy ấy đã phát hiện và nghiên cứu một hóa thạch cá cần câu trên &lt;color=lightblue&gt;Song Tinh Than Hồng&lt;/color&gt;. Bằng những hiểu biết ấy, ta có thể hoàn toàn tránh được lũ cá cần câu!</value>
+		<value>CYCAD: Thầy của cháu (Coleus) và cô giáo của thầy ấy đã phát hiện và nghiên cứu một hóa thạch cá cần câu trên &lt;color=lightblue&gt;Tử Tinh Than Hồng&lt;/color&gt;. Bằng những hiểu biết ấy, ta có thể hoàn toàn tránh được lũ cá cần câu!</value>
 	</entry>
 	<entry>
 		<key>COLEUS: What Melorae and I learned from that fossil would theoretically help us evade the anglerfish, but our hypothesis was never tested on a live specimen.</key>
@@ -4803,7 +4802,7 @@
 			SOLANUM: I no longer believe, as I did as a child on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;, that the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt; (the source of the signal) wishes to harm us. But it may not want to be found, either.
 		</key>
 		<value>
-			SOLANUM: Giờ mình chẳng còn lo lắng, như khi mình còn là một đứa trẻ trên &lt;color=lightblue&gt;Song Tinh Than Hồng&lt;/color&gt; đã từng sợ hãi, rằng &lt;color=lightblue&gt;Con Mắt Vũ Trụ&lt;/color&gt; (nguồn phát tín hiệu) lại muốn làm hại chúng ta. Nhưng có lẽ nó cũng không muốn được chúng ta tìm thấy.
+			SOLANUM: Giờ mình chẳng còn lo lắng, như khi mình còn là một đứa trẻ trên &lt;color=lightblue&gt;Tử Tinh Than Hồng&lt;/color&gt; đã từng sợ hãi, rằng &lt;color=lightblue&gt;Con Mắt Vũ Trụ&lt;/color&gt; (nguồn phát tín hiệu) lại muốn làm hại chúng ta. Nhưng có lẽ nó cũng không muốn được chúng ta tìm thấy.
 		</value>
 	</entry>
 	<entry>
@@ -4891,7 +4890,7 @@
 			ILEX: It probably wouldn’t be hard to get parts if we stopped building other new things, and if we broke down other structures (like the towers on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;) for parts.
 		</key>
 		<value>
-			ILEX: Việc kiếm nguyên vật liệu có lẽ sẽ không khó đâu nếu chúng ta ngừng xây dựng mấy công trình khác lại, và nếu chúng ta phá đi cả những công trình đã xây xong (như mấy tòa tháp trên &lt;color=lightblue&gt;Song Tinh Tro Tàn&lt;/color&gt; chẳng hạn) để tận dụng vật liệu.
+			ILEX: Việc kiếm nguyên vật liệu có lẽ sẽ không khó đâu nếu chúng ta ngừng xây dựng mấy công trình khác lại, và nếu chúng ta phá đi cả những công trình đã xây xong (như mấy tòa tháp trên &lt;color=lightblue&gt;Tử Tinh Tro Tàn&lt;/color&gt; chẳng hạn) để tận dụng vật liệu.
 		</value>
 	</entry>
 	<entry>
@@ -4907,7 +4906,7 @@
 			 ILEX: It would also help if we stopped building so many things to search for the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;. I asked Yarrow, and he says we use lots of resources on the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;.
 		</key>
 		<value>
-			ILEX: Việc cũng sẽ dễ hơn nhiều nếu ta dừng sứ mệnh tìm kiếm &lt;color=lightblue&gt;Con Mắt Vũ Trụ&lt;/color&gt; lại. Tớ từng hỏi chú Yarrow rồi, và chú ấy nói rằng chúng ta đang tiêu tốn rất nhiều tài nguyên vào &lt;color=orange&gt;Dự Án Song Tinh Tro Tàn&lt;/color&gt;.
+			ILEX: Việc cũng sẽ dễ hơn nhiều nếu ta dừng sứ mệnh tìm kiếm &lt;color=lightblue&gt;Con Mắt Vũ Trụ&lt;/color&gt; lại. Tớ từng hỏi chú Yarrow rồi, và chú ấy nói rằng chúng ta đang tiêu tốn rất nhiều tài nguyên vào &lt;color=orange&gt;Dự Án Tử Tinh Tro Tàn&lt;/color&gt;.
 		</value>
 	</entry>
 	<entry>
@@ -5378,7 +5377,7 @@
 			MELORAE: From what we can see, Coleus and I believe the specimen must be very old indeed. Imagine what we might learn if we could examine it!
 		</key>
 		<value>
-			MELORAE: Chỉ nhìn từ khoảng cách này, Coleus và tôi tin rằng mẫu vật này có tuổi thọ rất lớn. Nếu có thể khảo sát trực tiếp nó chúng ta sẽ học được rất nhiều điều!
+			MELORAE: Chỉ nhìn từ khoảng cách này, trò Coleus và tôi tin rằng mẫu vật này có tuổi thọ rất lớn. Nếu có thể khảo sát trực tiếp nó chúng ta sẽ học được rất nhiều điều!
 		</value>
 	</entry>
 	<entry>
@@ -5402,7 +5401,7 @@
 			MELORAE: Clearly this hole is too small for it to have fit through. Hypothesis: There is another entrance to this cave. If there is, Coleus and I will find it! We can’t leave valuable information undiscovered!
 		</key>
 		<value>
-			MELORAE: Rõ ràng cái khe này là quá nhỏ để nó chui qua được vào trong. Giả thuyết: Tồn tại một lối đi khác dẫn vào hang này. Nếu có, Coleus và tôi sẽ đi tìm! Ta không thể bỏ lỡ thông tin quý giá này được!
+			MELORAE: Rõ ràng cái khe này là quá nhỏ để nó chui qua được vào trong. Giả thuyết: Tồn tại một lối đi khác dẫn vào hang này. Nếu có, trò Coleus và tôi sẽ đi tìm! Ta không thể bỏ lỡ thông tin quý giá này được!
 		</value>
 	</entry>
 	<entry>
@@ -5447,7 +5446,7 @@
 	</entry>
 	<entry>
 		<key>MELORAE: I’m entirely delighted! It’s never too early to appreciate biology!</key>
-		<value>MELORAE: Quả là một tin vui khôn xiết! Dành đam mê cho sinh học không bao giờ là quá sớm cả!</value>
+		<value>MELORAE: Quả là một tin vui khôn xiết! Dành đam mê cho bộ môn sinh học không bao giờ là quá sớm cả!</value>
 	</entry>
 	<entry>
 		<key>COLEUS: This anglerfish’s digestive tract suggests death by starvation.</key>
@@ -5570,19 +5569,18 @@
 			MELORAE: Friends, Coleus has discovered a new quantum rule! (He has also promised me he’ll never vanish again, even if he &lt;i&gt;does&lt;/i&gt; learn something useful from it!)
 		</key>
 		<value>
-			MELORAE: Mọi người ơi, Coleus vừa khám phá một quy luật lượng tử mới! (Thằng nhóc cũng đã hứa sẽ không biến mất như vậy nữa, kể cả nếu nhóc ấy &lt;i&gt;thật sự&lt;/i&gt; khám phá được điều gì đó có ích từ vụ mất tích!)
+			MELORAE: Mọi người ơi, Coleus vừa khám phá một quy luật lượng tử mới! (Trò ấy cũng đã hứa sẽ không biến mất như vậy nữa, kể cả nếu nhóc ấy &lt;i&gt;thật sự&lt;/i&gt; khám phá được điều gì đó có ích từ vụ mất tích!)
 		</value>
 	</entry>
 	<entry>
-		<key>
-			MELORAE: Coleus is missing! He vanished from the &lt;color=orange&gt;Lakebed Cave&lt;/color&gt; (the one at the bottom of the dry lakebed at the north pole) several days ago, and we’re unable to find any trace of him. I don’t know how much air he had when he disappeared. I beg any friend reading this, help us recover Coleus!</key>
+		<key>MELORAE: Coleus is missing! He vanished from the &lt;color=orange&gt;Lakebed Cave&lt;/color&gt; (the one at the bottom of the dry lakebed at the north pole) several days ago, and we’re unable to find any trace of him. I don’t know how much air he had when he disappeared. I beg any friend reading this, help us recover Coleus!</key>
 		<value>
-			MELORAE: Coleus is missing! He vanished from the &lt;color=orange&gt;Lakebed Cave&lt;/color&gt; (the one at the bottom of the dry lakebed at the north pole) several days ago, and we’re unable to find any trace of him. I don’t know how much air he had when he disappeared. I beg any friend reading this, help us recover Coleus!
+			MELORAE: Coleus mất tích rồi! Trò ấy biến mất khỏi &lt;color=orange&gt;Hang Đáy Hồ&lt;/color&gt; (cái hang nằm dưới đáy hồ cạn ở cực bắc) vài ngày trước, và chúng tôi vẫn chưa tìm ra được dấu vết nào. Tôi không biết trò ấy còn bao nhiêu dưỡng khí lúc biến mất nữa. Tôi cầu xin mọi người, hãy giúp chúng tôi tìm lại Coleus!
 		</value>
 	</entry>
 	<entry>
 		<key>MELORAE: Friends, if you find any sign of Coleus, I implore you to tell me! He vanished without a trace during our research trip, and has been missing ever since.</key>
-		<value>MELORAE: Mọi người ơi, nếu ai tìm được bất cứ tung tích nào của Coleus, xin bạn hãy cho tôi biết ngay! Thằng nhóc đã biến mất không một dấu vết trong chuyến khảo sát, và vẫn mất tích từ đó tới giờ.</value>
+		<value>MELORAE: Mọi người ơi, nếu ai tìm được bất cứ tung tích nào của Coleus, xin hãy cho tôi biết ngay! Trò ấy đã biến mất không một dấu vết trong chuyến khảo sát, và vẫn mất tích từ đó tới giờ.</value>
 	</entry>
 	<entry>
 		<key>BUR: Melorae, some of us from the &lt;color=orange&gt;Sunless City&lt;/color&gt; are here to help search for Coleus. Can you tell us more about your expedition?</key>
@@ -5598,11 +5596,11 @@
 	</entry>
 	<entry>
 		<key>MELORAE: He disappeared in the cave at the bottom of the dry lakebed at the north pole. It happened in an instant, and without warning.</key>
-		<value>MELORAE: Thằng nhóc biến mất trong hang động ở dưới đáy hồ cạn tại cực bắc. Vụ mất tích xảy ra rất đột ngột, mà không có bất cứ dấu hiệu báo trước nào.</value>
+		<value>MELORAE: Trò ấy biến mất trong hang động ở dưới đáy hồ cạn tại cực bắc. Vụ mất tích xảy ra quá đột ngột, mà không có bất cứ dấu hiệu báo trước nào.</value>
 	</entry>
 	<entry>
 		<key>MELORAE: I turned away from Coleus to examine a sample, and when I turned back, he simply wasn’t there anymore. He had a limited supply of air, Annona! I’m afraid for him!</key>
-		<value>MELORAE: Tôi chỉ vừa quay lưng về phía Coleus để kiểm tra một mẫu vật, thế mà khi quay lại, thằng nhóc đã không còn ở đó nữa. Dưỡng khí của thằng nhóc có hạn, anh Annona ơi! Tôi lo cho nó quá!</value>
+		<value>MELORAE: Tôi chỉ vừa quay lưng về phía Coleus để kiểm tra một mẫu vật, thế mà khi quay lại, trò ấy đã không còn ở đó nữa. Dưỡng khí của thằng nhóc có hạn, anh Annona ơi! Tôi lo cho nó quá!</value>
 	</entry>
 	<entry>
 		<key>ANNONA: Hypothesis: We will learn more by examining the northern &lt;color=orange&gt;Lakebed Cave&lt;/color&gt; where Coleus disappeared. Search quickly, everyone; we have no time to squander!</key>
@@ -5613,8 +5611,7 @@
 		<value>&lt;color=orange&gt;Phòng Thí Nghiệm Năng Lượng Cao&lt;/color&gt;</value>
 	</entry>
 	<entry>
-		<key>
-			SECCA: To any who come here searching for us: We followed one of the two beacons from the &lt;color=orange&gt;Vessel&lt;/color&gt; to this place, but now can go no further.
+		<key>SECCA: To any who come here searching for us: We followed one of the two beacons from the &lt;color=orange&gt;Vessel&lt;/color&gt; to this place, but now can go no further.
 		</key>
 		<value>
 			SECCA: Gửi bất cứ ai tới đây để tìm chúng tôi: Chúng tôi đã lần theo một trong hai tín hiệu phát ra bởi &lt;color=orange&gt;Phi Thuyền Mẹ&lt;/color&gt; tới nơi này, nhưng giờ không thể đi tiếp được nữa.
@@ -5749,32 +5746,28 @@
 		<value>PHLOX: Nếu tôi không có ở nhà, thì nhiều khả năng tôi đang ở trong &lt;color=orange&gt;xưởng&lt;/color&gt; của mình ở bên dưới (bên trong hòn đảo này).</value>
 	</entry>
 	<entry>
-		<key>
-			&lt;color=orange&gt;ORBITAL PROBE CANNON&lt;/color&gt; DAMAGE REPORT: Severe structural stress detected. Assessing damage to modules...
+		<key>&lt;color=orange&gt;ORBITAL PROBE CANNON&lt;/color&gt; DAMAGE REPORT: Severe structural stress detected. Assessing damage to modules...
 		</key>
 		<value>
 			BÁO CÁO HƯ HẠI &lt;color=orange&gt;ĐẠI PHÁO VỆ TINH DO THÁM&lt;/color&gt;: Phát hiện nhiều điểm nứt gãy cấu trúc. Đang đánh giá hư hại của các bộ phận...
 		</value>
 	</entry>
 	<entry>
-		<key>
-			&lt;color=orange&gt;Control Module&lt;/color&gt;: Intact. No structural damage.
+		<key>&lt;color=orange&gt;Control Module&lt;/color&gt;: Intact. No structural damage.
 		</key>
 		<value>
 			&lt;color=orange&gt;Bộ Phận Điều Khiển&lt;/color&gt;: Nguyên vẹn. Không có hư hại cấu trúc.
 		</value>
 	</entry>
 	<entry>
-		<key>
-			&lt;color=orange&gt;Launch Module&lt;/color&gt;: Viewport window fractured. Module exposed to vacuum of space.
+		<key>&lt;color=orange&gt;Launch Module&lt;/color&gt;: Viewport window fractured. Module exposed to vacuum of space.
 		</key>
 		<value>
 			&lt;color=orange&gt;Bộ Phận Nòng Pháo&lt;/color&gt;: Cửa sổ ngắm đã vỡ. Bộ phận đã bị rò rỉ chân không.
 		</value>
 	</entry>
 	<entry>
-		<key>
-			&lt;color=orange&gt;Probe Tracking Module&lt;/color&gt;: MISSING.
+		<key>&lt;color=orange&gt;Probe Tracking Module&lt;/color&gt;: MISSING.
 		</key>
 		<value>
 			&lt;color=orange&gt;Bộ Phận Định Vị&lt;/color&gt;: MẤT TÍCH.
@@ -5906,7 +5899,7 @@
 	</entry>
 	<entry>
 		<key>YARROW: I have exciting news, Privet: The &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; is almost prepared to receive the probe data from the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt;.</key>
-		<value>YARROW: Tôi có tin vui này, Privet: &lt;color=orange&gt;Dự Án Song Tinh Tro Tàn&lt;/color&gt; sắp sẵn sàng để nhận dữ liệu vệ tinh của &lt;color=orange&gt;Đại Pháo Vệ Tinh Do Thám&lt;/color&gt;.</value>
+		<value>YARROW: Tôi có tin vui này, Privet: &lt;color=orange&gt;Dự Án Tử Tinh Tro Tàn&lt;/color&gt; sắp sẵn sàng để nhận dữ liệu vệ tinh của &lt;color=orange&gt;Đại Pháo Vệ Tinh Do Thám&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>YARROW: Ramie is adding some finishing touches here, but she’ll be finished soon. Are you and the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; well?</key>
@@ -5942,11 +5935,11 @@
 	</entry>
 	<entry>
 		<key>YARROW: Return to &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; first, my friend. Perhaps a change of task would help: Spire noticed a comet approaching this star system that we’d like to investigate.</key>
-		<value>YARROW: Hãy quay về &lt;color=lightblue&gt;Song Tinh Tro Tàn&lt;/color&gt; trước đi. Có lẽ đổi gió một chút sẽ khiến cô khuây khỏa hơn đấy: Spire vừa phát hiện một sao chổi đang tiến vào hệ sao này, và chúng ta lại muốn điều tra về nó.</value>
+		<value>YARROW: Hãy quay về &lt;color=lightblue&gt;Tử Tinh Tro Tàn&lt;/color&gt; trước đi. Có lẽ đổi gió một chút sẽ khiến cô khuây khỏa hơn đấy: Spire vừa phát hiện một sao chổi đang tiến vào hệ sao này, và chúng ta lại muốn điều tra về nó.</value>
 	</entry>
 	<entry>
 		<key>YARROW: Pye... I hurt for you, my friends; we all know how hard you’ve both worked. I can only offer my compassion. How are you? How is Idaea?</key>
-		<value>YARROW: Pye... tôi rất lấy làm tiếc; tất cả chúng tôi đều biết cả hai người đều đã rất nỗ lực để hoàn thành công việc. Tôi xin gửi tới hai người lời chia buồn sâu sắc. Cô có ổn không vậy? Còn cả Idaea nữa, anh ấy ra sao rồi?</value>
+		<value>YARROW: Pye... tôi rất lấy làm tiếc; tất cả chúng tôi đều biết cả hai người đều đã rất nỗ lực để hoàn thành công việc. Tôi xin gửi tới hai người lời chia buồn sâu sắc. Cô có ổn không vậy? Còn cả Idaea nữa, anh ấy cảm thấy thế nào?</value>
 	</entry>
 	<entry>
 		<key>IDAEA: We’re well, Yarrow (or as well as can be expected, given the circumstances), though disappointed. I may have disagreed with exploding the &lt;color=lightblue&gt;sun&lt;/color&gt;, but I never wished the device would fail. I’d hoped our terrible work was finished.</key>
@@ -5954,7 +5947,7 @@
 	</entry>
 	<entry>
 		<key>
-			Star has reached end of natural life cycle. Now approaching red giant stage. WARNING: Evacuate &lt;color=orange&gt;Sun Station&lt;/color&gt;.
+		    Star has reached end of natural life cycle. Now approaching red giant stage. WARNING: Evacuate &lt;color=orange&gt;Sun Station&lt;/color&gt;.
 		</key>
 		<value>
 			Vì sao này đã đến cuối vòng đời tự nhiên. Hiện đang chuyển sang giai đoạn sao khổng lồ đỏ. CẢNH BÁO: Hãy sơ tán khỏi &lt;color=orange&gt;Trạm Mặt Trời&lt;/color&gt;.
@@ -5962,7 +5955,7 @@
 	</entry>
 	<entry>
 		<key>
-			Approximate time until &lt;color=orange&gt;Sun Station&lt;/color&gt; is destroyed by expanding star: &lt;RemainingMinutes&gt; MINUTES, &lt;RemainingSeconds&gt; SECONDS\\nApproximate time until star’s death: &lt;MinutesToRedGiant&gt; MINUTES, &lt;SecondsToRedGiant&gt; SECONDS
+		    Approximate time until &lt;color=orange&gt;Sun Station&lt;/color&gt; is destroyed by expanding star: &lt;RemainingMinutes&gt; MINUTES, &lt;RemainingSeconds&gt; SECONDS\\nApproximate time until star’s death: &lt;MinutesToRedGiant&gt; MINUTES, &lt;SecondsToRedGiant&gt; SECONDS
 		</key>
 		<value>
 			Thời gian ước tính tới khi &lt;color=orange&gt;Trạm Mặt Trời&lt;/color&gt; bị phá hủy do tiếp xúc với vì sao đang giãn nở: &lt;RemainingMinutes&gt; PHÚT, &lt;RemainingSeconds&gt; GIÂY\\nThời gian ước tính tới khi vì sao kết thúc sự sống: &lt;MinutesToRedGiant&gt; PHÚT, &lt;SecondsToRedGiant&gt; GIÂY
@@ -5974,7 +5967,7 @@
 	</entry>
 	<entry>
 		<key>YARROW: When the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; succeeds (or in the event it fails), the memory statues will activate, allowing us to gather more data before we shut down the project.</key>
-		<value>YARROW: Khi &lt;color=orange&gt;Dự Án Song Tinh Tro Tàn&lt;/color&gt; thành công (hoặc kể cả khi nó thất bại), những bức tượng ký ức sẽ được kích hoạt, cho phép chúng ta thu được thêm dữ liệu trước khi ta vô hiệu hóa dự án.</value>
+		<value>YARROW: Khi &lt;color=orange&gt;Dự Án Tử Tinh Tro Tàn&lt;/color&gt; thành công (hoặc kể cả khi nó thất bại), những bức tượng ký ức sẽ được kích hoạt, cho phép chúng ta thu được thêm dữ liệu trước khi ta vô hiệu hóa dự án.</value>
 	</entry>
 	<entry>
 		<key>
@@ -5997,7 +5990,7 @@
 			YARROW: My gratitude, Clary! With this, the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; is underway!
 		</key>
 		<value>
-			YARROW: Cảm ơn nhé, Clary yêu! Vậy là &lt;color=orange&gt;Dự Án Song Tinh Tro Tàn&lt;/color&gt; đang tiến triển tốt!
+			YARROW: Cảm ơn nhé, Clary yêu! Vậy là &lt;color=orange&gt;Dự Án Tử Tinh Tro Tàn&lt;/color&gt; đang tiến triển tốt!
 		</value>
 	</entry>
 	<entry>
@@ -6013,7 +6006,7 @@
 			CLARY: I recommend you do! The &lt;color=orange&gt;White Hole Station&lt;/color&gt; is the model for the towers being built for the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;, so a visit to the station would be doubly useful.
 		</key>
 		<value>
-			CLARY: Được chứ! &lt;color=orange&gt;Trạm Hố Trắng&lt;/color&gt; là nguyên mẫu để xây dựng các tháp dịch chuyển phục vụ cho &lt;color=orange&gt;Dự Án Song Tinh Tro Tàn&lt;/color&gt; mà, nên ghé qua nơi ấy một chuyến sẽ cực kỳ hữu ích đó.
+			CLARY: Được chứ! &lt;color=orange&gt;Trạm Hố Trắng&lt;/color&gt; là nguyên mẫu để xây dựng các tháp dịch chuyển phục vụ cho &lt;color=orange&gt;Dự Án Tử Tinh Tro Tàn&lt;/color&gt; mà, nên ghé qua nơi ấy một chuyến sẽ cực kỳ hữu ích đó.
 		</value>
 	</entry>
 	<entry>
@@ -6029,7 +6022,7 @@
 			CLARY: I’d be happy to explain our findings!
 		</key>
 		<value>
-			CLARY: Em rất sẵn lòng được giải thích phát hiện của mình cho anh!
+			CLARY: Em rất sẵn lòng được giải thích về phát hiện của mình cho anh!
 		</value>
 	</entry>
 	<entry>
@@ -6125,7 +6118,7 @@
 			PYE: An update: Poke, the &lt;color=orange&gt;High Energy Lab&lt;/color&gt; is in the canyon on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;’s equator. &lt;i&gt;Come here at once&lt;/i&gt;. You need to see this.
 		</key>
 		<value>
-			PYE: Cập nhật: Poke này, &lt;color=orange&gt;Phòng Thí Nghiệm Năng Lượng Cao&lt;/color&gt; nằm trong hẻm núi dọc đường xích đạo của &lt;color=lightblue&gt;Song Tinh Than Hồng&lt;/color&gt; nhé. &lt;i&gt;Đến đây ngay đi&lt;/i&gt;. Em phải xem cái này.
+			PYE: Cập nhật: Poke này, &lt;color=orange&gt;Phòng Thí Nghiệm Năng Lượng Cao&lt;/color&gt; nằm trong hẻm núi dọc đường xích đạo của &lt;color=lightblue&gt;Tử Tinh Than Hồng&lt;/color&gt; nhé. &lt;i&gt;Đến đây ngay đi&lt;/i&gt;. Em phải xem cái này.
 		</value>
 	</entry>
 	<entry>
@@ -6686,7 +6679,7 @@
 	</entry>
 	<entry>
 		<key>Out...Haha, you think this has to do with the time I fell out of it and broke my arm? That was when we were hatchlings! Who would hold a grudge for that long?</key>
-		<value>...Haha, cậu nghĩ tôi vẫn nuôi mối thù với cái cây từ lúc tôi ngã gãy tay từ đó hả? Chuyện đó từ khi ta còn bé rồi mà! Ai lại đi thù dai đến thế?</value>
+		<value>...Haha, cậu nghĩ tôi vẫn ôm hận từ cái ngày tôi ngã gãy tay từ trên đó hả? Chuyện đó đã xảy ra từ khi ta còn bé rồi mà! Ai lại đi thù dai đến thế?</value>
 	</entry>
 	<entry>
 		<key>FlammableHa! You didn’t realize that?</key>
@@ -6954,19 +6947,19 @@
 	</entry>
 	<entry>
 		<key>SignEast: Nomai Ruins</key>
-		<value>Đông: Khu Phế Tích Nomai</value>
+		<value>Phía Đông: Khu Phế Tích Nomai</value>
 	</entry>
 	<entry>
 		<key>SignNorth: Youngbark Crater</key>
-		<value>Bắc: Hố Cây Vỏ Non</value>
+		<value>Phía Bắc: Hố Cây Vỏ Non</value>
 	</entry>
 	<entry>
 		<key>SignNorthwest: Geyser Mountains</key>
-		<value>Tây Bắc: Rặng Đồi Phun Nước</value>
+		<value>Phía Tây Bắc: Rặng Đồi Phun Nước</value>
 	</entry>
 	<entry>
 		<key>SignSouth: Quantum Grove Crater</key>
-		<value>Nam: Hố Rừng Lượng Tử</value>
+		<value>Phía Nam: Hố Rừng Lượng Tử</value>
 	</entry>
 	<entry>
 		<key>Spinel</key>
@@ -7818,11 +7811,11 @@
 	</entry>
 	<entry>
 		<key>SignThe level-headed among us realize there must be some sort of optical illusion at play, but Gabbro claims the rock “exists in all possible states until it is observed” (whatever that means).</key>
-		<value>Người nào tỉnh táo cũng sẽ bảo đây chỉ là ảo ảnh thị giác, riêng có ông thần Gabbro lại bảo rằng hòn đá này "tồn tại đồng thời ở mọi trạng thái có thể cho đến khi bị quan sát" (không ai hiểu).</value>
+		<value>Người nào tỉnh táo cũng sẽ bảo đây chỉ là ảo ảnh thị giác, riêng có ông thần Gabbro lại phán rằng hòn đá này "tồn tại đồng thời ở mọi trạng thái có thể cho đến khi bị quan sát" (không ai hiểu cả).</value>
 	</entry>
 	<entry>
 		<key>SignWhatever is actually happening, both sides of this debate agree the effect is extremely creepy.</key>
-		<value>Sau một hồi tranh luận, cả hai phía đồng thuận rằng hiện tượng này thật ghê rợn.</value>
+		<value>Tuy vậy, sau một hồi tranh luận, cả hai phía đều đồng thuận rằng hiện tượng này thật ghê rợn.</value>
 	</entry>
 	<entry>
 		<key>Riebeck</key>
@@ -7958,7 +7951,7 @@
 	</entry>
 	<entry>
 		<key>RiebeckRiebeckLearnedI saw the Sunless City on Ember Twin.</key>
-		<value>Em đã tới Thành Phố Đêm Trường trên Song Tinh Than Hồng.</value>
+		<value>Em đã tới Thành Phố Đêm Trường trên Tử Tinh Than Hồng.</value>
 	</entry>
 	<entry>
 		<key>RiebeckRiebeckLearnedI found Nomai writing about a quantum pilgrimage.</key>
@@ -8030,7 +8023,7 @@
 	</entry>
 	<entry>
 		<key>RiebeckLearned_5You mean there’s another Nomai city &lt;i&gt;inside&lt;/i&gt; of Ember Twin? That’s incredible! A whole city, and I had no idea it existed! This is great!</key>
-		<value>Cậu bảo là có một thành phố của người Nomai khác &lt;i&gt;bên trong&lt;/i&gt; Song Tinh Than Hồng? Thật không thể tin nổi! Cả một thành phố, mà tôi lại chưa từng biết nó tồn tại! Tuyệt quá đi!</value>
+		<value>Cậu bảo là có một thành phố của người Nomai khác &lt;i&gt;bên trong&lt;/i&gt; Tử Tinh Than Hồng? Thật không thể tin nổi! Cả một thành phố, mà tôi lại chưa từng biết nó tồn tại! Tuyệt quá đi!</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_5How did they keep the sand out? If it were me, I’d be nervous about getting buried in the caves by that awful river of sand. Gosh, the Nomai sure were ingenius, building an entire settlement underground. The Sunless City! ...Wow!</key>
@@ -8038,7 +8031,7 @@
 	</entry>
 	<entry>
 		<key>RiebeckLearned_5That means there were two groups of Nomai — one that lived on Ember Twin, and one that lived here on Brittle Hollow. But they must have traveled around the solar system, since Nomai writing can be found on other planets, too.</key>
-		<value>Vậy tức là đã có hai nhóm người Nomai — một nhóm sinh sống trên Song Tinh Than Hồng, nhóm còn lại sinh sống trên Vỏ Rỗng Rạn Nứt. Nhưng họ có khả năng du hành bên trong hệ mặt trời, vì chữ Nomai được tìm thấy trên cả những hành tinh khác nữa.</value>
+		<value>Vậy tức là đã có hai nhóm người Nomai — một nhóm sinh sống trên Tử Tinh Than Hồng, nhóm còn lại sinh sống trên Vỏ Rỗng Rạn Nứt. Nhưng họ có khả năng du hành bên trong hệ mặt trời, vì chữ Nomai được tìm thấy trên cả những hành tinh khác nữa.</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_6A pilgrimage to the Quantum Moon? The Nomai mentioned the Quantum Moon in a lot of their writing, so it was clearly special to them. And um, special enough to make a trip there by themselves!</key>
@@ -8182,7 +8175,7 @@
 	</entry>
 	<entry>
 		<key>ROOT: I was hoping to deliver new ore data to Poke in her &lt;color=orange&gt;Black Hole Forge&lt;/color&gt;, but the warp tower on the &lt;color=orange&gt;Twilight Twin&lt;/color&gt; sent me to the wrong part of &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;.</key>
-		<value>ROOT: Tôi đang định mang kết quả thử nghiệm quặng mới tới cho Poke ở &lt;color=orange&gt;Lò Luyện Hố Đen&lt;/color&gt;, nhưng tháp dịch chuyển trên &lt;color=orange&gt;Song Tinh Tro Tàn&lt;/color&gt; lại đưa tôi đến sai địa điểm trên &lt;color=lightblue&gt;Vỏ Rỗng Rạn Nứt&lt;/color&gt;.</value>
+		<value>ROOT: Tôi đang định mang kết quả thử nghiệm quặng mới tới cho Poke ở &lt;color=orange&gt;Lò Luyện Hố Đen&lt;/color&gt;, nhưng tháp dịch chuyển trên &lt;color=orange&gt;Tử Tinh Tro Tàn&lt;/color&gt; lại đưa tôi đến sai địa điểm trên &lt;color=lightblue&gt;Vỏ Rỗng Rạn Nứt&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>ROOT: Could someone kindly remind me if there’s a way to warp directly to the forge or if I imagined this?</key>
@@ -8190,7 +8183,7 @@
 	</entry>
 	<entry>
 		<key>CLARY: There is! The &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; warp tower that stands on the &lt;color=orange&gt;Twilight Twin&lt;/color&gt; will take you to two different places, including the forge. Just make sure you start at the correct place within the tower.</key>
-		<value>CLARY: Có đấy! Tháp dịch chuyển tới &lt;color=lightblue&gt;Vỏ Rỗng Rạn Nứt&lt;/color&gt; đặt trên &lt;color=orange&gt;Song Tinh Tro Tàn&lt;/color&gt; có hai điểm đến khác nhau, trong đó có Lò Luyện. Chỉ cần đứng ở đúng vị trí trong tháp là được.</value>
+		<value>CLARY: Có đấy! Tháp dịch chuyển tới &lt;color=lightblue&gt;Vỏ Rỗng Rạn Nứt&lt;/color&gt; đặt trên &lt;color=orange&gt;Tử Tinh Tro Tàn&lt;/color&gt; có hai điểm đến khác nhau, trong đó có Lò Luyện. Chỉ cần đứng ở đúng vị trí trong tháp là được.</value>
 	</entry>
 	<entry>
 		<key>ROOT: Of personal note: Remember to give Clary my gratitude when next I visit the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt;.</key>
@@ -8208,7 +8201,7 @@
 	</entry>
 	<entry>
 		<key>CLARY: To speed future deliveries to &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;, I’ve tuned the first black hole core to activate when its warp tower aligns with &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;.</key>
-		<value>CLARY: Để tăng tốc cho các chuyến vận chuyển về sau tới &lt;color=lightblue&gt;Song Tinh Tro Tàn&lt;/color&gt;, tôi đã tinh chỉnh lõi dịch chuyển đầu tiên hướng tới &lt;color=lightblue&gt;Vỏ Rỗng Rạn Nứt&lt;/color&gt;.</value>
+		<value>CLARY: Để tăng tốc cho các chuyến vận chuyển về sau tới &lt;color=lightblue&gt;Tử Tinh Tro Tàn&lt;/color&gt;, tôi đã tinh chỉnh lõi dịch chuyển đầu tiên hướng tới &lt;color=lightblue&gt;Vỏ Rỗng Rạn Nứt&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>CLARY: And before anyone comments, &lt;i&gt;yes&lt;/i&gt;, I am aware this reduces the distance between Yarrow and me.</key>
@@ -8216,7 +8209,7 @@
 	</entry>
 	<entry>
 		<key>ROOT: The schematic shows the six towers on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; are being tuned to only five alignments. Is that a mistake?</key>
-		<value>ROOT: Bản vẽ cho thấy sáu tòa tháp trên &lt;color=lightblue&gt;Song Tinh Tro Tàn&lt;/color&gt; lại chỉ ngắm tới năm địa điểm. Có nhầm lẫn không nhỉ?</value>
+		<value>ROOT: Bản vẽ cho thấy sáu tòa tháp trên &lt;color=lightblue&gt;Tử Tinh Tro Tàn&lt;/color&gt; lại chỉ ngắm tới năm địa điểm. Có nhầm lẫn không nhỉ?</value>
 	</entry>
 	<entry>
 		<key>POKE: No, that’s correct. For these alignments we've decided to treat the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt; as a single astral body.</key>
@@ -8224,7 +8217,7 @@
 	</entry>
 	<entry>
 		<key>POKE: Have you seen Phlox’s tower designs in the &lt;color=orange&gt;High Energy Lab&lt;/color&gt; on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;? They clarify each tower’s warp destination.</key>
-		<value>POKE: Anh đã xem bản thiết kế tháp dịch chuyển của Phlox trong &lt;color=orange&gt;Phòng Thí Nghiệm Năng Lượng Cao&lt;/color&gt; trên &lt;color=lightblue&gt;Song Tinh Than Hồng&lt;/color&gt; chưa nhỉ? Nó sẽ chỉ rõ địa điểm của từng tháp dịch chuyển.</value>
+		<value>POKE: Anh đã xem bản thiết kế tháp dịch chuyển của Phlox trong &lt;color=orange&gt;Phòng Thí Nghiệm Năng Lượng Cao&lt;/color&gt; trên &lt;color=lightblue&gt;Tử Tinh Than Hồng&lt;/color&gt; chưa nhỉ? Nó sẽ chỉ rõ địa điểm của từng tháp dịch chuyển.</value>
 	</entry>
 	<entry>
 		<key>POKE: If it helps, you can imagine the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt; as aligning with themselves.</key>
@@ -8363,7 +8356,7 @@
 	</entry>
 	<entry>
 		<key>Who’s been computing shuttle trajectories to the &lt;color=orange&gt;Sun Station&lt;/color&gt;? Don’t worry; the station is in such a low stellar orbit, we’ve constructed a different, safer way to travel there from &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;.</key>
-		<value>Ai đang tính toán quỹ đạo phi thuyền tới &lt;color=orange&gt;Trạm Mặt Trời&lt;/color&gt; vậy nhỉ? Không cần đâu; vì trạm di chuyển ở quỹ đạo cận sao, chúng ta đã xây dựng một cách khác an toàn hơn để tới đó từ &lt;color=lightblue&gt;Song Tinh Tro Tàn&lt;/color&gt; rồi.</value>
+		<value>Ai đang tính toán quỹ đạo phi thuyền tới &lt;color=orange&gt;Trạm Mặt Trời&lt;/color&gt; vậy nhỉ? Không cần đâu; vì trạm di chuyển ở quỹ đạo cận sao, chúng ta đã xây dựng một cách khác an toàn hơn để tới đó từ &lt;color=lightblue&gt;Tử Tinh Tro Tàn&lt;/color&gt; rồi.</value>
 	</entry>
 	<entry>
 		<key>IDAEA: That would be Pye. I told her we wouldn’t be traveling there by &lt;color=orange&gt;shuttle&lt;/color&gt;, and that the &lt;color=orange&gt;Sun Station&lt;/color&gt; doesn’t even have a landing pad, but she said she knew.</key>
@@ -8375,7 +8368,7 @@
 	</entry>
 	<entry>
 		<key>IDAEA: Pye, I look forward to working with you, but I’m also relieved it will be easy to return to &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; regularly.</key>
-		<value>IDAEA: Pye, tôi rất muốn tham gia cùng cô, nhưng tôi cũng mừng khi ta có thể quay trở lại &lt;color=lightblue&gt;Song Tinh Tro Tàn&lt;/color&gt; thường xuyên và an toàn.</value>
+		<value>IDAEA: Pye, tôi rất muốn tham gia cùng cô, nhưng tôi cũng mừng khi ta có thể quay trở lại &lt;color=lightblue&gt;Tử Tinh Tro Tàn&lt;/color&gt; thường xuyên và an toàn.</value>
 	</entry>
 	<entry>
 		<key>
@@ -8395,7 +8388,7 @@
 	</entry>
 	<entry>
 		<key>
-			COLEUS: An update: Melorae and I went back to the &lt;color=orange&gt;Lakebed Cave&lt;/color&gt; and observed this rock again. Sometimes it’s there, and sometimes it isn’t.
+			 COLEUS: An update: Melorae and I went back to the &lt;color=orange&gt;Lakebed Cave&lt;/color&gt; and observed this rock again. Sometimes it’s there, and sometimes it isn’t.
 		</key>
 		<value>
 			COLEUS: Phát hiện mới: Cô Melorae và tôi vừa quay lại &lt;color=orange&gt;Hang Đáy Hồ&lt;/color&gt; và cũng nhìn thấy chính tảng đá này. Đôi khi nó ở đó, đôi khi lại không.
@@ -8508,7 +8501,7 @@
 	</entry>
 	<entry>
 		<key>PHLOX: ...See how its eyes have opened? That tells us the statue has paired with Daz. Now, no matter where he is in this star system, Daz’s statue will record his memories and send them to the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;.</key>
-		<value>PHLOX: ...Anh thấy bức tượng đã mở mắt chưa? Đó có nghĩa là bức tượng đã liên kết thành công với Daz. Từ giờ, dù có ở đâu trong hệ mặt trời này, bức tượng sẽ ghi lại ký ức của Daz và gửi về&lt;color=orange&gt;Dự Án Song Tinh Tro Tàn&lt;/color&gt;.</value>
+		<value>PHLOX: ...Anh thấy bức tượng đã mở mắt chưa? Đó có nghĩa là bức tượng đã liên kết thành công với Daz. Từ giờ, dù có ở đâu trong hệ mặt trời này, bức tượng sẽ ghi lại ký ức của Daz và gửi về &lt;color=orange&gt;Dự Án Tử Tinh Tro Tàn&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>YARROW: This is extraordinary sculpting work, Phlox!</key>
@@ -8520,7 +8513,7 @@
 	</entry>
 	<entry>
 		<key>DAZ: Each statue will send a single Nomai’s memories to his or her own storage unit within &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;.</key>
-		<value>DAZ: Mỗi bức tượng sẽ gửi ký ức của một người Nomai tới bộ nhớ riêng của người đó bên trong &lt;color=lightblue&gt;Song Tinh Tro Tàn&lt;/color&gt;.</value>
+		<value>DAZ: Mỗi bức tượng sẽ gửi ký ức của một người Nomai tới bộ nhớ riêng của người đó bên trong &lt;color=lightblue&gt;Tử Tinh Tro Tàn&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>PHLOX: Each storage unit will be equipped with a mask, the statue’s counterpart, which will be able to send those stored memories back to the corresponding Nomai.</key>
@@ -8528,7 +8521,7 @@
 	</entry>
 	<entry>
 		<key>&lt;TimeMinutes&gt; MINUTES, &lt;TimeSeconds&gt; SECONDS AGO: Request to launch probe received from &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;.</key>
-		<value>CÁCH ĐÂY &lt;TimeMinutes&gt; PHÚT, &lt;TimeSeconds&gt; GIÂY: Đã nhận lệnh phóng vệ tinh do thám từ &lt;color=orange&gt;Dự Án Song Tinh Tro Tàn&lt;/color&gt;.</value>
+		<value>CÁCH ĐÂY &lt;TimeMinutes&gt; PHÚT, &lt;TimeSeconds&gt; GIÂY: Đã nhận lệnh phóng vệ tinh do thám từ &lt;color=orange&gt;Dự Án Tử Tinh Tro Tàn&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>Cannon aligned with randomly selected probe trajectory. Gravity field activated.</key>
@@ -8704,7 +8697,7 @@
 	</entry>
 	<entry>
 		<key>RAMIE: I’ve installed the masks inside the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;, Phlox. They look beautiful (although I do feel as though I’m being observed!).</key>
-		<value>RAMIE: Tôi đã lắp đặt xong các mặt nạ bên trong &lt;color=orange&gt;Dự Án Song Tinh Tro Tàn&lt;/color&gt; rồi, Phlox. Trông chúng đẹp lắm (nhưng mà cứ có cảm giác như thể mình bị theo dõi!).</value>
+		<value>RAMIE: Tôi đã lắp đặt xong các mặt nạ bên trong &lt;color=orange&gt;Dự Án Tử Tinh Tro Tàn&lt;/color&gt; rồi, Phlox. Trông chúng đẹp lắm (nhưng mà cứ có cảm giác như thể mình bị theo dõi!).</value>
 	</entry>
 	<entry>
 		<key>RAMIE: It’s comforting to know the statues will not pair until the project succeeds. Otherwise, I imagine the experience would be hard to endure!</key>
@@ -8720,7 +8713,7 @@
 	</entry>
 	<entry>
 		<key>PHLOX: If anything goes wrong with the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;, the statues (and their masks) will make us aware of the situation and enable us to fix it. Otherwise, it would be possible for us to remain permanently unaware of the problem.</key>
-		<value>PHLOX: Nếu &lt;color=orange&gt;Dự Án Song Tinh Tro Tàn&lt;/color&gt; gặp trục trặc, những bức tượng (và các mặt nạ) sẽ báo cho chúng ta biết để tìm cách sửa lỗi. Nếu không thì, có khả năng chúng ta sẽ mãi mãi không  nhận ra được vấn đề.</value>
+		<value>PHLOX: Nếu &lt;color=orange&gt;Dự Án Tử Tinh Tro Tàn&lt;/color&gt; gặp trục trặc, những bức tượng (và các mặt nạ) sẽ báo cho chúng ta biết để tìm cách sửa lỗi. Nếu không thì, có khả năng chúng ta sẽ mãi mãi không nhận ra được vấn đề.</value>
 	</entry>
 	<entry>
 		<key>RAMIE: I hadn’t thought of that! What a profoundly horrific fate that would be.</key>
@@ -8736,7 +8729,7 @@
 	</entry>
 	<entry>
 		<key>OENO: We’ll deliver more ore to &lt;color=lightblue&gt;Hollow’s Lantern&lt;/color&gt; immediately. You must be fired up about crafting the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;’s protective shell!</key>
-		<value>OENO: Chúng tôi sẽ vận chuyển thêm quặng tới &lt;color=lightblue&gt;Lồng Đèn Lơ Lửng&lt;/color&gt; ngay. Anh hẳn phải rất phấn khích với việc chế tạo vỏ bảo vệ cho &lt;color=orange&gt;Dự Án Song Tinh Tro Tàn&lt;/color&gt;!</value>
+		<value>OENO: Chúng tôi sẽ vận chuyển thêm quặng tới &lt;color=lightblue&gt;Lồng Đèn Lơ Lửng&lt;/color&gt; ngay. Anh hẳn phải rất phấn khích với việc chế tạo vỏ bảo vệ cho &lt;color=orange&gt;Dự Án Tử Tinh Tro Tàn&lt;/color&gt;!</value>
 	</entry>
 	<entry>
 		<key>ROOT: Yes, the idea of an encasement that’s supernova-proof, however briefly, has kindled my curiosity!</key>
@@ -8744,7 +8737,7 @@
 	</entry>
 	<entry>
 		<key>ROOT: My gratitude! I imagine we’ll also have an updated estimate soon of how much ore is needed to seal off the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;.</key>
-		<value>ROOT: Cảm ơn! Tôi nghĩ chúng tôi sẽ sớm đưa ra con số mới về khối lượng quặng ước tính cần thiết để bao kín &lt;color=orange&gt;Dự Án Song Tinh Tro Tàn&lt;/color&gt;.</value>
+		<value>ROOT: Cảm ơn! Tôi nghĩ chúng tôi sẽ sớm đưa ra con số mới về khối lượng quặng ước tính cần thiết để bao kín &lt;color=orange&gt;Dự Án Tử Tinh Tro Tàn&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>OENO: Will it be more than we initially thought?</key>
@@ -8768,15 +8761,14 @@
 	</entry>
 	<entry>
 		<key>
-			281,042 YEARS AGO: No user commands received for 10 minutes. All systems entering sleep.
+		    281,042 YEARS AGO: No user commands received for 10 minutes. All systems entering sleep.
 		</key>
 		<value>
 			281,042 NĂM TRƯỚC: Đã 10 phút không nhận được lệnh điều khiển. Toàn bộ hệ thống vào chế độ ngủ.
 		</value>
 	</entry>
 	<entry>
-		<key>
-			&lt;TimeMinutes&gt; MINUTES, &lt;TimeSeconds&gt; SECONDS AGO: Increased solar activity detected. &lt;color=orange&gt;Sun Station&lt;/color&gt; hull integrity approaching critical levels. Closing emergency doors.
+		<key>&lt;TimeMinutes&gt; MINUTES, &lt;TimeSeconds&gt; SECONDS AGO: Increased solar activity detected. &lt;color=orange&gt;Sun Station&lt;/color&gt; hull integrity approaching critical levels. Closing emergency doors.
 		</key>
 		<value>
 			&lt;TimeMinutes&gt; PHÚT, &lt;TimeSeconds&gt; GIÂY TRƯỚC: Phát hiện hoạt động bức xạ mặt trời tăng cường. Độ bền lớp vỏ &lt;color=orange&gt;Trạm Mặt Trời&lt;/color&gt; sắp chạm ngưỡng báo báo động. Đang đóng cửa khẩn cấp.
@@ -8900,7 +8892,7 @@
 	</entry>
 	<entry>
 		<key>Chert2Have you seen the old shipwreck site on Ember Twin’s southern hemisphere, the one shooting a bright beam of light into the sky? It’s not one of our own crashes, surprisingly enough - this one’s a Nomai ship.</key>
-		<value>Cậu đã nhìn thấy phi thuyền đâm xuống bán cầu nam của Song Tinh Than Hồng chưa, có cái cột sáng chiếu lên trời ấy? Không phải phi thuyền của chúng ta đâu, mà là phi thuyền của người Nomai.</value>
+		<value>Cậu đã nhìn thấy phi thuyền đâm xuống bán cầu nam của Tử Tinh Than Hồng chưa, có cái cột sáng chiếu lên trời ấy? Không phải phi thuyền của chúng ta đâu, mà là phi thuyền của người Nomai.</value>
 	</entry>
 	<entry>
 		<key>Chert2You’ll find Nomai ruins across the Twins, but, strangely, not a single settlement! Believe me, if there was one to see, I’d have seen it with my Little Scout.</key>
@@ -8908,7 +8900,7 @@
 	</entry>
 	<entry>
 		<key>Chert2So where did they live? Not on the surface, clearly. Ember Twin is full of cave systems, though - maybe the answer lies underground?</key>
-		<value>Vậy thì họ sống ở đây? Hiển nhiên không phải trên mặt đất rồi. Song Tinh Than Hồng có hệ thống hang động chằng chịt, có khi câu trả lời lại nằm ở dưới đó?</value>
+		<value>Vậy thì họ sống ở đây? Hiển nhiên không phải trên mặt đất rồi. Tử Tinh Than Hồng có hệ thống hang động chằng chịt, có khi câu trả lời lại nằm ở dưới đó?</value>
 	</entry>
 	<entry>
 		<key>Chert3On a scale of one to dead, I’d give it a seven or eight. Awfully pretty, though.</key>
@@ -8916,7 +8908,7 @@
 	</entry>
 	<entry>
 		<key>Chert3Right now sand is flowing from Ash Twin to Ember Twin, but did you know the process eventually reverses? We're not completely sure why the sand flows back and forth between the Twins, but it seems to be a natural phenomena.</key>
-		<value>Ngay lúc này dòng cát đang chảy từ Song Tinh Tro Tàn sang bên Song Tinh Than Hồng, nhưng cậu có biết dòng cát sẽ có lúc đảo chiều không? Chúng ta vẫn chưa lý giải được tại sao cát chảy qua chảy lại giữa Song Tinh, nhưng có vẻ đây là hiện tượng tự nhiên.</value>
+		<value>Ngay lúc này dòng cát đang chảy từ Tử Tinh Tro Tàn sang bên Tử Tinh Than Hồng, nhưng cậu có biết dòng cát sẽ có lúc đảo chiều không? Chúng ta vẫn chưa lý giải được tại sao cát chảy qua chảy lại giữa Song Tinh, nhưng có vẻ đây là hiện tượng tự nhiên.</value>
 	</entry>
 	<entry>
 		<key>Chert3Oh, if you’d like to see something interesting, check out the other Twin once a little more of its sand drains off. I promise you won’t be disappointed.</key>
@@ -9120,7 +9112,7 @@
 	</entry>
 	<entry>
 		<key>Chert2bHave you seen the old shipwreck site on Ember Twin’s southern hemisphere, the one shooting a bright beam of light into the sky? It’s not one of our own crashes, surprisingly enough - this one’s a Nomai ship.</key>
-		<value>Cậu đã nhìn thấy phi thuyền đâm xuống bán cầu nam của Song Tinh Than Hồng chưa, có cái cột sáng chiếu lên trời ấy? Không phải phi thuyền của chúng ta đâu, mà là phi thuyền của người Nomai.</value>
+		<value>Cậu đã nhìn thấy phi thuyền đâm xuống bán cầu nam của Tử Tinh Than Hồng chưa, có cái cột sáng chiếu lên trời ấy? Không phải phi thuyền của chúng ta đâu, mà là phi thuyền của người Nomai.</value>
 	</entry>
 	<entry>
 		<key>Chert2bYou’ll find Nomai ruins across the Twins, but, strangely, not a single settlement! Believe me, if there was one to see, I’d have seen it with my Little Scout.</key>
@@ -9128,7 +9120,7 @@
 	</entry>
 	<entry>
 		<key>Chert2bSo where did they live? Not on the surface, clearly. Ember Twin is full of cave systems, though - maybe the answer lies underground?</key>
-		<value>Vậy thì họ sống ở đây? Hiển nhiên không phải trên mặt đất rồi. Song Tinh Than Hồng có hệ thống hang động chằng chịt, có khi câu trả lời lại nằm ở dưới đó?</value>
+		<value>Vậy thì họ sống ở đây? Hiển nhiên không phải trên mặt đất rồi. Tử Tinh Than Hồng có hệ thống hang động chằng chịt, có khi câu trả lời lại nằm ở dưới đó?</value>
 	</entry>
 	<entry>
 		<key>Chert3bOn a scale of one to dead, I’d give it a seven or eight. Awfully pretty, though.</key>
@@ -9136,7 +9128,7 @@
 	</entry>
 	<entry>
 		<key>Chert3bRight now sand is flowing from Ash Twin to Ember Twin, but did you know the process eventually reverses? We're not completely sure why the sand flows back and forth between the Twins, but it seems to be a natural phenomena.</key>
-		<value>Ngay lúc này dòng cát đang chảy từ Song Tinh Tro Tàn sang bên Song Tinh Than Hồng, nhưng cậu có biết dòng cát sẽ có lúc đảo chiều không? Chúng ta vẫn chưa lý giải được tại sao cát chảy qua chảy lại giữa Song Tinh, nhưng có vẻ đây là hiện tượng tự nhiên.</value>
+		<value>Ngay lúc này dòng cát đang chảy từ Tử Tinh Tro Tàn sang bên Tử Tinh Than Hồng, nhưng cậu có biết dòng cát sẽ có lúc đảo chiều không? Chúng ta vẫn chưa lý giải được tại sao cát chảy qua chảy lại giữa Song Tinh, nhưng có vẻ đây là hiện tượng tự nhiên.</value>
 	</entry>
 	<entry>
 		<key>Chert3bOh, if you’d like to see something interesting, check out the other Twin once a little more of its sand drains off. I promise you won’t be disappointed.</key>
@@ -10276,15 +10268,15 @@
 	</entry>
 	<entry>
 		<key>CuratorMoreAboutFeldsparAs ground control and later the museum curator, I didn’t work with Feldspar as closely as Slate and Gossan did. I &lt;i&gt;can&lt;/i&gt; tell you Feldspar was absolutely fearless, though. Nothing scared them.</key>
-		<value>Là kiểm soát viên mặt đất và quản lý bảo tàng, ta không được làm việc trực tiếp với Feldspar nhiều như Slate và Gossan. Nhưng ta &lt;i&gt;cam đoan&lt;/i&gt; với cháu rằng lão Feldspar vô cùng gan dạ. Trên đời chẳng có thứ gì khiến lão sợ được cả.</value>
+		<value>Là kiểm soát viên mặt đất và quản lý bảo tàng, ta không được làm việc trực tiếp với Feldspar nhiều như Slate và Gossan. Nhưng ta &lt;i&gt;cam đoan&lt;/i&gt; với cháu rằng lão Feldspar vô cùng gan dạ. Trần đời chẳng có thứ gì khiến lão ấy sợ được cả.</value>
 	</entry>
 	<entry>
 		<key>CuratorMoreAboutFeldsparTest-piloted everything Slate ever built! It’s a wonder Feldspar lived to see space, frankly, but they did. Flew all sorts of dangerous stunts and explored everything they could find.</key>
-		<value>Lão ấy dám lái thử tất cả phi thuyền mà Slate chế tạo! Thật là kỳ tích khi Feldspar còn sống tới lúc lên được không gian, ta nói thật đấy. Toàn làm mấy trò mạo hiểm, và khám phá mọi nơi lão tìm thấy.</value>
+		<value>Lão ấy dám lái thử tất cả mẫu phi thuyền do Slate chế tạo ra! Thật là kỳ tích khi Feldspar vẫn còn sống tới lúc lên được không gian, ta nói thật đấy. Toàn làm mấy trò mạo hiểm, và khám phá mọi nơi lão tìm thấy.</value>
 	</entry>
 	<entry>
 		<key>CuratorMoreAboutFeldsparAnd then one day, they just... didn’t come back. We don’t know what happened, or where Feldspar went, or even whether they’re still alive.</key>
-		<value>Ấy thế mà có một ngày, lão ta... không quay lại nữa. Chúng ta chẳng biết chuyện gì đã xảy ra, Feldspar đã đi đâu, hoặc liệu lão còn sống hay không.</value>
+		<value>Ấy thế mà có một ngày, lão ta... không quay trở lại nữa. Chúng ta chẳng biết chuyện gì đã xảy ra, Feldspar đã đi đâu, hoặc liệu lão còn sống hay không.</value>
 	</entry>
 	<entry>
 		<key>CuratorMoreAboutFeldsparIt’s been a long time since they left.</key>
@@ -10443,7 +10435,7 @@
 			Retrieving stored coordinates from &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;.
 		</key>
 		<value>
-			Đang tiếp nhận dữ liệu được lưu trữ tại &lt;color=lightblue&gt;Song Tinh Tro Tàn&lt;/color&gt;.
+			Đang tiếp nhận dữ liệu được lưu trữ tại &lt;color=lightblue&gt;Tử Tinh Tro Tàn&lt;/color&gt;.
 		</value>
 	</entry>
 	<entry>
@@ -10882,7 +10874,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai MinesThe Nomai mined ore from this site to craft a protective shell designed to physically seal off the central chamber inside Ash Twin.</key>
-			<value>Người Nomai đã khai thác quặng từ khu vực này để chế tạo một lớp vỏ bảo vệ bọc kín căn buồng trung tâm ở lõi của Song Tinh Tro Tàn.</value>
+			<value>Người Nomai đã khai thác quặng từ khu vực này để chế tạo một lớp vỏ bảo vệ bọc kín căn buồng trung tâm ở lõi của Tử Tinh Tro Tàn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai MinesOnce the shell was finished, the Nomai checked to ensure there were no longer any physical entrances or cracks.</key>
@@ -10990,7 +10982,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum KnowledgeAfter the two groups of Nomai stranded on Ember Twin and Brittle Hollow were reunited, it became their united goal to find and visit the Quantum Moon.</key>
-			<value>Sau khi hai nhóm người Nomai lưu lạc trên Song Tinh Than Hồng và Vỏ Rỗng Rạn Nứt đoàn tụ với nhau, việc tìm kiếm và đi tới Mặt Trăng Lượng Tử đã trở thành sứ mệnh chung của họ.</value>
+			<value>Sau khi hai nhóm người Nomai lưu lạc trên Tử Tinh Than Hồng và Vỏ Rỗng Rạn Nứt đoàn tụ với nhau, việc tìm kiếm và đi tới Mặt Trăng Lượng Tử đã trở thành sứ mệnh chung của họ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum Shard</key>
@@ -11118,7 +11110,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Hanging CityThe Nomai debated how to obtain the powerful, highly advanced warp core required for the Ash Twin Project.</key>
-			<value>Người Nomai đã tranh luận về cách thức làm sao để có được một lõi dịch chuyển tân tiến mà Dự Án Song Tinh Tro Tàn yêu cầu.</value>
+			<value>Người Nomai đã tranh luận về cách thức làm sao để có được một lõi dịch chuyển tân tiến mà Dự Án Tử Tinh Tro Tàn yêu cầu.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Hanging CityThe Nomai traveled to this solar system in pursuit of a signal from something older than the universe itself. They named the source of this signal the "Eye of the universe."</key>
@@ -11142,7 +11134,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeThe Nomai crafted warp cores at the Black Hole Forge before delivering them to Ash Twin.</key>
-			<value>Người Nomai đã chế tạo lõi dịch chuyển tại Lò Luyện Hố Đen rồi vận chuyển tới Song Tinh Tro Tàn.</value>
+			<value>Người Nomai đã chế tạo lõi dịch chuyển tại Lò Luyện Hố Đen rồi vận chuyển tới Tử Tinh Tro Tàn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeA warp tower's alignment point is not its warp receiver. Rather, a warp tower always aligns with the center of its corresponding astral body.</key>
@@ -11158,11 +11150,11 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeAll of the warp towers were being constructed on Ash Twin, while the six warp receivers were being constructed at different locations.</key>
-			<value>Tất cả tháp dịch chuyển đều được xây dựng trên Song Tinh Tro Tàn, trong khi sáu cổng dịch chuyển đích được xây dựng ở các địa điểm khác nhau.</value>
+			<value>Tất cả tháp dịch chuyển đều được xây dựng trên Tử Tinh Tro Tàn, trong khi sáu cổng dịch chuyển đích được xây dựng ở các địa điểm khác nhau.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeA Nomai named Poke successfully forged an advanced warp core for the Ash Twin Project.</key>
-			<value>Một người Nomai mang tên Poke đã chế tạo thành công chiếc lõi dịch chuyển cao cấp được sử dụng cho Dự Án Song Tinh Tro Tàn.</value>
+			<value>Một người Nomai mang tên Poke đã chế tạo thành công chiếc lõi dịch chuyển cao cấp được sử dụng cho Dự Án Tử Tinh Tro Tàn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Alignment Angle Diagram</key>
@@ -11462,7 +11454,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleThe statue in the Probe Tracking Module automatically records each probe's trajectory and transmits the data to the Ash Twin Project.</key>
-			<value>Bức tượng đặt trong Bộ Phận Định Vị tự động ghi lại đường bay của từng vệ tinh và truyền dữ liệu tới Dự Án Song Tinh Tro Tàn.</value>
+			<value>Bức tượng đặt trong Bộ Phận Định Vị tự động ghi lại đường bay của từng vệ tinh và truyền dữ liệu tới Dự Án Tử Tinh Tro Tàn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleI found Nomai coordinates marking the location of the Eye of the universe.</key>
@@ -11506,7 +11498,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Control ModuleThe Control Module (recently) received a request from the Ash Twin Project to launch the probe. The cannon was aligned with a randomly selected probe trajectory.</key>
-			<value>Bộ Phận Điều Khiển vừa mới nhận lệnh phóng vệ tinh từ Dự Án Song Tinh Tro Tàn. Đại pháo được ngắm về một hướng ngẫu nhiên.</value>
+			<value>Bộ Phận Điều Khiển vừa mới nhận lệnh phóng vệ tinh từ Dự Án Tử Tinh Tro Tàn. Đại pháo được ngắm về một hướng ngẫu nhiên.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Control ModuleThe probe was successfully launched, but the cannon's structural integrity was compromised in the process. Damage is detected in multiple modules.</key>
@@ -12014,7 +12006,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Chert’s CampChert has set up their astronomy gear on the north pole of Ember Twin.</key>
-			<value>Anh Chert đã lắp đặt thiết bị thiên văn của mình tại cực bắc của Song Tinh Than Hồng.</value>
+			<value>Anh Chert đã lắp đặt thiết bị thiên văn của mình tại cực bắc của Tử Tinh Than Hồng.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Chert’s CampChert has spotted an unusually high number of supernovae recently.</key>
@@ -12050,7 +12042,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gravity CannonThe Nomai shuttle that's frozen on the Interloper can be called home to the gravity cannon on Ember Twin.</key>
-			<value>Phi thuyền của người Nomai bị đóng băng trên Sao Chổi Tọc Mạch có thể được triệu hồi tại bệ pháo trọng lực trên Song Tinh Than Hồng.</value>
+			<value>Phi thuyền của người Nomai bị đóng băng trên Sao Chổi Tọc Mạch có thể được triệu hồi tại bệ pháo trọng lực trên Tử Tinh Than Hồng.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gravity CannonI recalled a Nomai shuttle from the Interloper.</key>
@@ -12074,7 +12066,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 2Chert saw a Nomai shipwreck shooting a beam of light into the sky somewhere on Ember Twin's southern hemisphere.</key>
-			<value>Anh Chert đã nhìn thấy một xác phi thuyền Nomai đang chiếu một tia sáng lên trời đâu đó trên bán cầu nam của Song Tinh Than Hồng.</value>
+			<value>Anh Chert đã nhìn thấy một xác phi thuyền Nomai đang chiếu một tia sáng lên trời đâu đó trên bán cầu nam của Tử Tinh Than Hồng.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 2One of three Nomai escape pods that crashed in our solar system.</key>
@@ -12090,11 +12082,11 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>High Energy LabThe negative time interval measured at the White Hole Station was further investigated at the High Energy Lab (in the canyon at Ember Twin’s equator).</key>
-			<value>Khoảng thời gian di chuyển âm đo được tại Trạm Hố Trắng đã được kiểm nghiệm thêm tại Phòng Thí Nghiệm Năng Lượng Cao (trong hẻm núi trên xích đạo của Song Tinh Than Hồng).</value>
+			<value>Khoảng thời gian di chuyển âm đo được tại Trạm Hố Trắng đã được kiểm nghiệm thêm tại Phòng Thí Nghiệm Năng Lượng Cao (trong hẻm núi trên xích đạo của Tử Tinh Than Hồng).</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>High Energy LabThe Ash Twin Project was planned at the High Energy Lab, a building with large solar panels on Ember Twin’s equator.</key>
-			<value>Dự Án Song Tinh Tro Tàn được lên kế hoạch tại Phòng Thí Nghiệm Năng Lượng Cao, một công trình với những tấm pin năng lượng mặt trời lớn trên xích đạo của Song Tinh Than Hồng.</value>
+			<value>Dự Án Tử Tinh Tro Tàn được lên kế hoạch tại Phòng Thí Nghiệm Năng Lượng Cao, một công trình với những tấm pin năng lượng mặt trời lớn trên xích đạo của Tử Tinh Than Hồng.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>High Energy LabThe High Energy Lab can only be accessed by a path from the Sunless City.</key>
@@ -12110,11 +12102,11 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>High Energy LabThe Nomai wanted to know if a 22-minute negative time interval was possible. They concluded it would require new technology to produce the necessary energy as well an advanced warp core to handle those energies. Ash Twin was proposed as a location for the project.</key>
-			<value>Người Nomai muốn xác định rằng liệu một khoảng thời gian dài âm 22 phút có khả thi hay không. Họ đã kết luận rằng sẽ cần phải có một công nghệ mới để sản sinh ra đủ năng lượng, cùng với một lõi dịch chuyển tân tiến để xử lý được nguồn năng lượng khổng lồ ấy. Song Tinh Tro Tàn đã được đề xuất làm địa điểm tiến hành dự án.</value>
+			<value>Người Nomai muốn xác định rằng liệu một khoảng thời gian dài âm 22 phút có khả thi hay không. Họ đã kết luận rằng sẽ cần phải có một công nghệ mới để sản sinh ra đủ năng lượng, cùng với một lõi dịch chuyển tân tiến để xử lý được nguồn năng lượng khổng lồ ấy. Tử Tinh Tro Tàn đã được đề xuất làm địa điểm tiến hành dự án.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin Tower Designs</key>
-			<value>Bản Vẽ Tháp Trên Song Tinh Tro Tàn</value>
+			<value>Bản Vẽ Tháp Trên Tử Tinh Tro Tàn</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin Tower DesignsThere are tower designs in the High Energy Lab that reveal each warp receiver's location.</key>
@@ -12122,7 +12114,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin Tower DesignsDesigns for each of the towers on Ash Twin's equator.</key>
-			<value>Các bản vẽ thiết kế ứng với mỗi tòa tháp trên xích đạo của Song Tinh Tro Tàn.</value>
+			<value>Các bản vẽ thiết kế ứng với mỗi tòa tháp trên xích đạo của Tử Tinh Tro Tàn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin Tower DesignsEach tower warps to a different planet (although many Nomai were quick to note that the sun is not actually a planet).</key>
@@ -12134,7 +12126,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin Tower DesignsThe towers allowed the Nomai to quickly travel between Ash Twin and all other locations crucial to the Ash Twin Project.</key>
-			<value>Những tòa tháp cho phép người Nomai di chuyển nhanh chóng từ Song Tinh Tro Tàn tới các địa điểm quan trọng khác thuộc Dự Án Song Tinh Tro Tàn.</value>
+			<value>Những tòa tháp cho phép người Nomai di chuyển nhanh chóng từ Tử Tinh Tro Tàn tới các địa điểm quan trọng khác thuộc Dự Án Tử Tinh Tro Tàn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Sunless City</key>
@@ -12142,7 +12134,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Sunless CityThe Nomai survivors who crashed on Ember Twin decided to seek shelter in the caves beneath their crashed escape pod.</key>
-			<value>Những người Nomai sống sót sau khi rơi xuống Song Tinh Than Hồng đã quyết định tìm nơi trú ẩn tại hệ thống hang động ngay phía dưới xác kén thoát hiểm.</value>
+			<value>Những người Nomai sống sót sau khi rơi xuống Tử Tinh Than Hồng đã quyết định tìm nơi trú ẩn tại hệ thống hang động ngay phía dưới xác kén thoát hiểm.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Sunless CityThe Nomai discovered a promising long-term shelter site at the end of one of the passages beneath the escape pod.</key>
@@ -12170,7 +12162,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Sunless CityThe Nomai debated building a Sun Station in order to power the Ash Twin Project. Several Nomai opposed its construction, arguing that failure could result in the destruction of the solar system.</key>
-			<value>Người Nomai đã tranh luận về việc xây dựng Trạm Mặt Trời để cấp nguồn cho Dự Án Song Tinh Tro Tàn. Một vài người Nomai đã phản đối phương án này, vì nếu thất bại họ sẽ khiến cả hệ mặt trời bị hủy diệt.</value>
+			<value>Người Nomai đã tranh luận về việc xây dựng Trạm Mặt Trời để cấp nguồn cho Dự Án Tử Tinh Tro Tàn. Một vài người Nomai đã phản đối phương án này, vì nếu thất bại họ sẽ khiến cả hệ mặt trời bị hủy diệt.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Sunless CityThe Nomai traveled to this solar system in pursuit of a signal from something older than the universe itself. They named the source of this signal the "Eye of the universe."</key>
@@ -12186,7 +12178,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Anglerfish FossilThe Nomai learned how to evade anglerfish (theoretically, at least) by studying an anglerfish fossil they found on Ember Twin.</key>
-			<value>Người Nomai đã phát hiện ra cách để tránh được loài cá cần câu (ít nhất là trên lý thuyết) thông qua nghiên cứu về bộ hóa thạch mà họ tìm thấy trên Song Tinh Than Hồng.</value>
+			<value>Người Nomai đã phát hiện ra cách để tránh được loài cá cần câu (ít nhất là trên lý thuyết) thông qua nghiên cứu về bộ hóa thạch mà họ tìm thấy trên Tử Tinh Than Hồng.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Fossil Fish Cave</key>
@@ -12222,7 +12214,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum CavesThe Nomai noticed a strange wandering rock that appeared in multiple caves on Ember Twin’s northern hemisphere.</key>
-			<value>Người Nomai đã để ý thấy một tảng đá kỳ lạ xuất hiện ở nhiều hang động khác nhau trên bán cầu bắc của Song Tinh Than Hồng.</value>
+			<value>Người Nomai đã để ý thấy một tảng đá kỳ lạ xuất hiện ở nhiều hang động khác nhau trên bán cầu bắc của Tử Tinh Than Hồng.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum CavesI found a strange rock shard that moves when I’m not watching. It emits a signal on the Quantum Fluctuations frequency.</key>
@@ -12234,11 +12226,11 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Lakebed CaveThe wandering rock was first spotted in a cave at the bottom of the dry lakebed at Ember Twin’s north pole.</key>
-			<value>Tảng đá lang thang được phát hiện lần đầu trong một hang động nằm dưới đáy của hồ cạn tại cực bắc của Song Tinh Than Hồng.</value>
+			<value>Tảng đá lang thang được phát hiện lần đầu trong một hang động nằm dưới đáy của hồ cạn tại cực bắc của Tử Tinh Than Hồng.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Lakebed CaveA Nomai named Coleus mysteriously vanished from a cave at the bottom of the dry lakebed at Ember Twin’s north pole.</key>
-			<value>Một người Nomai tên Coleus đã biến mất một cách bí ẩn khỏi hang động dưới đáy hồ cạn tại cực bắc của Song Tinh Than Hồng.</value>
+			<value>Một người Nomai tên Coleus đã biến mất một cách bí ẩn khỏi hang động dưới đáy hồ cạn tại cực bắc của Tử Tinh Than Hồng.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Lakebed CaveA Nomai named Coleus was standing on the wandering rock when another Nomai's lantern died. When they relit the lantern, Coleus and the rock were both gone.</key>
@@ -12426,15 +12418,15 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue WorkshopNomai statues were designed to pair with a single user, record their memories, and send those memories to a storage unit within the Ash Twin Project.</key>
-			<value>Những bức tượng Nomai được thiết kế để kết nối với một người dùng, ghi lại ký ức của họ, và gửi ký ức đó về một thiết bị lưu trữ bên trong Dự Án Song Tinh Tro Tàn.</value>
+			<value>Những bức tượng Nomai được thiết kế để kết nối với một người dùng, ghi lại ký ức của họ, và gửi ký ức đó về một thiết bị lưu trữ bên trong Dự Án Tử Tinh Tro Tàn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue WorkshopEach storage unit inside the Ash Twin Project was equipped with a mask (the statue’s counterpart), which could then send those stored memories back to the corresponding user.</key>
-			<value>Mỗi thiết bị lưu trữ bên trong Dự Án Song Tinh Tro Tàn được trang bị kèm một chiếc mặt nạ (mảnh còn lại của bức tượng), để gửi lại ký ức đã lưu trữ tới người dùng tương ứng.</value>
+			<value>Mỗi thiết bị lưu trữ bên trong Dự Án Tử Tinh Tro Tàn được trang bị kèm một chiếc mặt nạ (mảnh còn lại của bức tượng), để gửi lại ký ức đã lưu trữ tới người dùng tương ứng.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue WorkshopThe statues were designed to only activate once the Ash Twin Project succeeded, or in the event that it failed.</key>
-			<value>Những bức tượng được thiết kế để chỉ kích hoạt khi Dự Án Song Tinh Tro Tàn đã trả về kết quả thành công, hoặc thất bại.</value>
+			<value>Những bức tượng được thiết kế để chỉ kích hoạt khi Dự Án Tử Tinh Tro Tàn đã trả về kết quả thành công, hoặc thất bại.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum Trials</key>
@@ -12470,7 +12462,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum MoonThe Nomai on Ember Twin observed a moon that would disappear when no one was watching.</key>
-			<value>Người Nomai trên Song Tinh Than Hồng đã quan sát được một mặt trăng hễ cứ không ai để ý là sẽ biến mất.</value>
+			<value>Người Nomai trên Tử Tinh Than Hồng đã quan sát được một mặt trăng hễ cứ không ai để ý là sẽ biến mất.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum MoonA Nomai named Solanum landed a shuttle on the Quantum Moon.</key>
@@ -12570,11 +12562,11 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sun StationThere is a way to safely travel to the Sun Station from Ash Twin.</key>
-			<value>Có một cách an toàn để tới Trạm Mặt Trời từ Song Tinh Tro Tàn.</value>
+			<value>Có một cách an toàn để tới Trạm Mặt Trời từ Tử Tinh Tro Tàn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sun StationThe Nomai debated building a Sun Station in order to power the Ash Twin Project.</key>
-			<value>Người Nomai đã tranh luận về phương án xây dựng Trạm Mặt Trời để cấp nguồn cho Dự Án Song Tinh Tro Tàn.</value>
+			<value>Người Nomai đã tranh luận về phương án xây dựng Trạm Mặt Trời để cấp nguồn cho Dự Án Tử Tinh Tro Tàn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sun StationThe Nomai built something called the Sun Station, but not everyone supported its construction.</key>
@@ -12646,39 +12638,39 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin Towers</key>
-			<value>Những Tòa Tháp Trên Song Tinh Tro Tàn</value>
+			<value>Những Tòa Tháp Trên Tử Tinh Tro Tàn</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin TowersSeveral large Nomai towers form a ring around Ash Twin's equator.</key>
-			<value>Nhiều tòa tháp cao của người Nomai được xây dựng thành một vòng tròn quanh xích đạo của Song Tinh Tro Tàn.</value>
+			<value>Nhiều tòa tháp cao của người Nomai được xây dựng thành một vòng tròn quanh xích đạo của Tử Tinh Tro Tàn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin TowersThe White Hole Station was used as a model for these towers, which were built for the Ash Twin Project.</key>
-			<value>Trạm Hố Trắng đã được sử dụng như mẫu thử của các tòa tháp này, vốn được xây dựng để phục vụ cho Dự Án Song Tinh Tro Tàn.</value>
+			<value>Trạm Hố Trắng đã được sử dụng như mẫu thử của các tòa tháp này, vốn được xây dựng để phục vụ cho Dự Án Tử Tinh Tro Tàn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin Project</key>
-			<value>Dự Án Song Tinh Tro Tàn</value>
+			<value>Dự Án Tử Tinh Tro Tàn</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin ProjectThe central chamber inside Ash Twin was physically sealed off by an immensely thick protective shell.</key>
-			<value>Buồng trung tâm bên trong Song Tinh Tro Tàn đã được bọc kín bởi một lớp vỏ bảo vệ siêu dày.</value>
+			<value>Buồng trung tâm bên trong Tử Tinh Tro Tàn đã được bọc kín bởi một lớp vỏ bảo vệ siêu dày.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin ProjectThe Nomai planned to construct technology capable of producing a 22-minute negative time interval on Ash Twin.</key>
-			<value>Người Nomai đã lên kế hoạch để xây dựng nên một công nghệ có thể tạo ra khoảng thời gian âm 22 phút tại Song Tinh Tro Tàn.</value>
+			<value>Người Nomai đã lên kế hoạch để xây dựng nên một công nghệ có thể tạo ra khoảng thời gian âm 22 phút tại Tử Tinh Tro Tàn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin ProjectEvery memory recorded by a Nomai statue is transmitted to a corresponding storage unit within Ash Twin.</key>
-			<value>Ký ức được ghi lại bởi tượng Nomai sẽ được truyền tới một thiết bị lưu trữ tương ứng bên trong Song Tinh Tro Tàn.</value>
+			<value>Ký ức được ghi lại bởi tượng Nomai sẽ được truyền tới một thiết bị lưu trữ tương ứng bên trong Tử Tinh Tro Tàn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin ProjectAn advanced warp core was approved for installation in the central chamber of Ash Twin.</key>
-			<value>Một lõi dịch chuyển tân tiến đã được thông qua để lắp đặt tại buồng trung tâm của Song Tinh Tro Tàn.</value>
+			<value>Một lõi dịch chuyển tân tiến đã được thông qua để lắp đặt tại buồng trung tâm của Tử Tinh Tro Tàn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin ProjectA hollowed-out chamber inside Ash Twin. The energy cables from the surface are plugged into a protective casing at the center of the planet.</key>
-			<value>Một căn buồng được khoét rỗng bên trong Song Tinh Tro Tàn. Các sợi cáp truyền năng lượng từ bề mặt được cắm vào một lớp vỏ bảo vệ ở trung tâm hành tinh.</value>
+			<value>Một căn buồng được khoét rỗng bên trong Tử Tinh Tro Tàn. Các sợi cáp truyền năng lượng từ bề mặt được cắm vào một lớp vỏ bảo vệ ở trung tâm hành tinh.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin ProjectThere are eight monoliths with Nomai masks attached. Three of the masks are actively receiving data from the Probe Tracking Module, Giant's Deep, and Timber Hearth respectively.</key>
@@ -12686,15 +12678,15 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin ProjectThe Ash Twin Project was designed to use the energy from a supernova (triggered by the Sun Station) to send probe data from the Orbital Probe Cannon 22 minutes into the past.</key>
-			<value>Dự Án Song Tinh Tro Tàn được thiết kế để sử dụng năng lượng từ một vụ nổ siêu tân tinh (kích hoạt bởi Trạm Mặt Trời) để gửi dữ liệu vệ tinh nhận được từ Đại Pháo Vệ Tinh Do Thám về thời điểm 22 phút trước trong quá khứ.</value>
+			<value>Dự Án Tử Tinh Tro Tàn được thiết kế để sử dụng năng lượng từ một vụ nổ siêu tân tinh (kích hoạt bởi Trạm Mặt Trời) để gửi dữ liệu vệ tinh nhận được từ Đại Pháo Vệ Tinh Do Thám về thời điểm 22 phút trước trong quá khứ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin ProjectThe Sun Station did not work. Although the Ash Twin Project was theoretically sound, the Nomai were unable to power it.</key>
-			<value>Trạm Mặt Trời đã thất bại. Mặc dù Dự Án Song Tinh Tro Tàn đã khả thi về mặt lý thuyết, người Nomai lại không thể cấp nguồn cho nó.</value>
+			<value>Trạm Mặt Trời đã thất bại. Mặc dù Dự Án Tử Tinh Tro Tàn đã khả thi về mặt lý thuyết, người Nomai lại không thể cấp nguồn cho nó.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin ProjectThere is an advanced warp core inside the protective casing at the center of the planet. Removing the core will disable the Ash Twin Project.</key>
-			<value>Có một lõi dịch chuyển tân tiến bên trong lớp vỏ bảo vệ tại trung tâm hành tinh. Loại bỏ chiếc lõi đó sẽ vô hiệu hóa Dự Án Song Tinh Tro Tàn.</value>
+			<value>Có một lõi dịch chuyển tân tiến bên trong lớp vỏ bảo vệ tại trung tâm hành tinh. Loại bỏ chiếc lõi đó sẽ vô hiệu hóa Dự Án Tử Tinh Tro Tàn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Volcanic Testing Site</key>
@@ -12706,7 +12698,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Volcanic Testing SiteThe Nomai were trying to craft a (briefly) supernova-proof shell to encase the Ash Twin Project.</key>
-			<value>Người Nomai đang cố tạo ra một lớp vỏ có khả năng kháng được một vụ nổ siêu tân tinh (dù chỉ thoáng chốc) để bảo vệ Dự Án Song Tinh Tro Tàn.</value>
+			<value>Người Nomai đang cố tạo ra một lớp vỏ có khả năng kháng được một vụ nổ siêu tân tinh (dù chỉ thoáng chốc) để bảo vệ Dự Án Tử Tinh Tro Tàn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Volcanic Testing SiteEven the smallest crack or opening in the protective shell would destroy everything.</key>
@@ -12730,7 +12722,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>White Hole StationThe towers on Ash Twin were modeled after the White Hole Station.</key>
-			<value>Những tòa tháp trên Song Tinh Tro Tàn được xây dựng dựa trên nguyên mẫu của Trạm Hố Trắng.</value>
+			<value>Những tòa tháp trên Tử Tinh Tro Tàn được xây dựng dựa trên nguyên mẫu của Trạm Hố Trắng.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>White Hole StationEvery Nomai warp tower is tuned to a specific astral body.</key>
@@ -14132,11 +14124,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>601</key>
-			<value>Song Tinh Tro Tàn</value>
+			<value>Tử Tinh Tro Tàn</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>602</key>
-			<value>Song Tinh Than Hồng</value>
+			<value>Tử Tinh Than Hồng</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>603</key>
@@ -14288,7 +14280,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>681</key>
-			<value>Dự Án Outer Wilds</value>
+			<value>DỰ ÁN OUTER WILDS</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>682</key>
@@ -14312,11 +14304,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>701</key>
-			<value>SONG TINH TRO TÀN</value>
+			<value>TỬ TINH TRO TÀN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>702</key>
-			<value>SONG TINH THAN HỒNG</value>
+			<value>TỬ TINH THAN HỒNG</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>703</key>
@@ -14764,7 +14756,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>973</key>
-			<value>&lt;color=orange&amp;gt;Vẫn còn điều chưa khám phá ở đây.&lt;/color&amp;gt;</value>
+			<value>&lt;color=orange&gt;Vẫn còn điều chưa khám phá ở đây.&lt;/color&gt;</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>974</key>

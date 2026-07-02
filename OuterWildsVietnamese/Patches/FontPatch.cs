@@ -26,27 +26,22 @@ namespace OuterWildsVietnamese
                 OuterWildsVietnamese.Log("Hearthian Font null");
                 return true;
             }
-            int customFontSize = 20;
-            float customLineSpacing = 2.5f;
 
-            //__instance._dynamicFontInUse = __instance._defaultDialogueFontDynamic;
             //Luminescence291123: Somehow _defaultFontSpacing got yeeted in the new update, so I won't be using it, but the old line is kept just in case
-            //__instance._fontSpacingInUse = __instance._defaultFontSpacing;
-
-
             __instance._mainTextField.font = __instance._fontInUse;
-            __instance._mainTextField.lineSpacing = __instance._fontSpacingInUse * customLineSpacing;
-            __instance._mainTextField.fontSize = customFontSize;
             __instance._nameTextField.font = __instance._fontInUse;
-            __instance._nameTextField.lineSpacing = __instance._fontSpacingInUse * customLineSpacing;
-            __instance._nameTextField.fontSize = customFontSize;
 
-            DialogueOptionUI requiredComponent =
-                __instance._optionBox.GetRequiredComponent<DialogueOptionUI>();
+            DialogueOptionUI requiredComponent = __instance._optionBox.GetRequiredComponent<DialogueOptionUI>();
             requiredComponent.textElement.font = __instance._fontInUse;
-            requiredComponent.textElement.lineSpacing = __instance._fontSpacingInUse * customLineSpacing;
-            requiredComponent.textElement.fontSize = customFontSize;
+
             return false;
+        }
+
+        [HarmonyPostfix]
+        [HarmonyPatch(typeof(DialogueBoxVer2), "SetMainFieldDialogueText")]
+        public static void SetMainFieldDialogueTextPostfix(DialogueBoxVer2 __instance)
+        {
+            __instance._mainTextField.lineSpacing = .95f;
         }
 
         //Input Prompt Font patch
@@ -86,7 +81,23 @@ namespace OuterWildsVietnamese
                 {
                     __instance._textContainerList[i].textElement.font = OuterWildsVietnamese.shipDisplayFont;
                     __instance._textContainerList[i].textElement.fontSize = 2;
-                    __instance._textContainerList[i].textElement.rectTransform.localScale = __instance._textContainerList[i].originalScale * 25;
+
+                    //Luminescence010726: Somehow the position indicator that appears when you are in near orbit around a planet (and only in near orbit!), also uses the same font VCR_OSD_MONO (the other time it uses SpaceMono)
+                    //Luminescence010726: Luckily, the text alignment is uniquely LowerCenter, so I can use that to specifically rule out the indicator text
+                    //Luminescence010726: Also the text when using the ship's signal scope needs to be ruled out too
+                    if (__instance._textContainerList[i].textElement.alignment.ToString() != "LowerCenter")
+                    {
+                        __instance._textContainerList[i].textElement.rectTransform.localScale = __instance._textContainerList[i].originalScale * 25;
+                    }
+                    if(__instance._textContainerList[i].textElement.rectTransform.name == "DistanceLabel")
+                    {
+                        __instance._textContainerList[i].textElement.rectTransform.localScale = __instance._textContainerList[i].originalScale * 5;
+                        __instance._textContainerList[i].textElement.alignment = TextAnchor.LowerCenter;
+                    }
+                    if (__instance._textContainerList[i].textElement.rectTransform.name == "FrequencyLabel")
+                    {
+                        __instance._textContainerList[i].textElement.rectTransform.localScale = __instance._textContainerList[i].originalScale * 4f;
+                    }
                 }
                 else if (__instance._textContainerList[i].originalFont.ToString() != "SpaceMono-Bold (UnityEngine.Font)"
                         && __instance._textContainerList[i].originalFont.ToString() != "SpaceMono-Regular (UnityEngine.Font)")
