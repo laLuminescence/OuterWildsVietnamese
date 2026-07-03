@@ -1,10 +1,9 @@
-# Outer Wilds Vietnamese
+![Thumbnail](Screenshots/Thumbnail.png)
+# Outer Wilds Việt Hóa
 
 Bản mod Việt Hóa dành cho **Outer Wilds**.
 - Dịch 100% bằng máy chạy cơm và nước St*ng dâu
 - Bao gồm cả DLC **Echoes of the Eye**
-
-![Thumbnail](Screenshots/Thumbnail.png)
 
 ## Gameplay Trailer
 [**Xem trên Youtube**](https://youtu.be/dMwvYhIGTQ8?si=EDO42emAa6I1FYCh)
