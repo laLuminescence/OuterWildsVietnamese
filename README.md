@@ -25,8 +25,8 @@ Mình sẽ sắp xếp thời gian để xem xét và cải thiện bản dịch
 
 | Thành phần | Font |
 |------------|------|
-| Hội thoại | [Prompt](https://fonts.google.com/specimen/Prompt) |
-| Màn hình điều khiển phi thuyền | [ChakraPetch](https://fonts.google.com/specimen/Chakra+Petch) |
+| Hội thoại | [Signika Negative](https://fonts.google.com/specimen/Signika+Negative) |
+| Màn hình điều khiển phi thuyền | [Chakra Petch](https://fonts.google.com/specimen/Chakra+Petch) |
 | Menu & Biển báo | [Rowdies](https://fonts.google.com/specimen/Rowdies) |
 | Hướng dẫn điều khiển | [Dosis](https://fonts.google.com/specimen/Dosis) |
 
