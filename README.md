@@ -1,10 +1,12 @@
-# Outer Wilds Vietnamese
+![Thumbnail](Screenshots/Thumbnail.png)
+# Outer Wilds Việt Hóa
 
 Bản mod Việt Hóa dành cho **Outer Wilds**.
 - Dịch 100% bằng máy chạy cơm và nước St*ng dâu
 - Bao gồm cả DLC **Echoes of the Eye**
 
-(Thumbnail sẽ được bổ sung sau)
+## Gameplay Trailer
+[**Xem trên Youtube**](https://youtu.be/dMwvYhIGTQ8?si=EDO42emAa6I1FYCh)
 
 ## Cài đặt
 
@@ -12,6 +14,7 @@ Bản mod Việt Hóa dành cho **Outer Wilds**.
 2. Cài đặt và chạy [**Outer Wilds Mod Manager (OWML)**](https://outerwildsmods.com/mod-manager/).
 3. Trong **OWML → Get Mods**, tìm và cài đặt **Outer Wilds Vietnamese**.
 4. Kích hoạt bản mod Việt Hóa và bấm **Run Game**.
+5. Chuyển ngôn ngữ thành Tiếng Việt trong Cài đặt (Options → Audio & Language → Language → Tiếng Việt)
 
 ## Phát hiện lỗi / Đóng góp bản dịch
 
@@ -35,5 +38,10 @@ Mình sẽ sắp xếp thời gian để xem xét và cải thiện bản dịch
 Trân trọng cảm ơn [**xen42**](https://github.com/xen-42) và **Cộng đồng Outer Wilds Modding** đã xây dựng nền tảng để thực hiện bản dịch này.
 
 ## Screenshots
+![Screenshot](Screenshots/Menu.png)
+![Screenshot](Screenshots/Labels.png)
+![Screenshot](Screenshots/NomaiText%20Translation.png)
+![Screenshot](Screenshots/Ship%20Cockpit.png)
+![Screenshot](Screenshots/Ship%20Log.png)
+![Screenshot](Screenshots/Settings.png)
 
-(Sẽ được bổ sung sau)
